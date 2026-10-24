@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Relation helper class
+// summary: Serializable relation model used to track resource relationships during tests.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

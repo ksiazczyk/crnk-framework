@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Generic relation holder for mock repositories
+// summary: A generic comparable holder describing a relation between a source object and a target identifier.
+// ---
+
 package io.crnk.validation.mock.repository;
 
 import java.io.Serializable;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UIModuleConfig configuration for the UI module
+// summary: Configuration class controlling whether the browser and presentation model are enabled, along with service and factory registration.
+// ---
+
 package io.crnk.ui;
 
 import java.util.ArrayList;

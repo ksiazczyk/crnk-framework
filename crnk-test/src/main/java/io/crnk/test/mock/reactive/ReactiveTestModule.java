@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReactiveTestModule
+// summary: A test module that registers reactive and non-reactive repositories plus naming and exception strategies for the CRNK framework.
+// ---
+
 package io.crnk.test.mock.reactive;
 
 import io.crnk.core.module.Module;

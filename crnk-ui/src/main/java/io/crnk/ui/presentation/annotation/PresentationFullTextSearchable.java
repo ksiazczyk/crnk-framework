@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PresentationFullTextSearchable annotation
+// summary: A Java runtime annotation that marks fields as full-text searchable in the presentation layer, exposing a metadata nature constant.
+// ---
+
 package io.crnk.ui.presentation.annotation;
 
 import java.lang.annotation.Documented;

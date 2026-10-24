@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ConstraintViolationExceptionMapper source code
+// summary: Maps javax ConstraintViolationException to a JSON:API error response, resolving resource and path metadata via reflection on the Hibernate validator path nodes.
+// ---
+
 package io.crnk.validation.internal;
 
 import io.crnk.core.engine.document.ErrorData;

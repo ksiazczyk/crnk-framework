@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReactiveProjectRepository
+// summary: A reactive project repository extending the in-memory base that adds meta and link information to query results.
+// ---
+
 package io.crnk.test.mock.reactive;
 
 import io.crnk.core.queryspec.QuerySpec;

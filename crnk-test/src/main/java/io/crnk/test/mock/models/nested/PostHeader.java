@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PostHeader
+// summary: A nested JSON:API header resource model with relations to a post and a related resource.
+// ---
+
 package io.crnk.test.mock.models.nested;
 
 import io.crnk.core.resource.annotations.JsonApiId;

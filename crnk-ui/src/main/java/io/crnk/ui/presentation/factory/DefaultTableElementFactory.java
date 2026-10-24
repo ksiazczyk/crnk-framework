@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WrapperElement
+// summary: Presentation element wrapping a nested component within a singular value element.
+// ---
+
 package io.crnk.ui.presentation.factory;
 
 import java.util.ArrayDeque;

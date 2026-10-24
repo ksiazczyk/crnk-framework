@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ActionElement
+// summary: Represents a UI action with a label and an associated action object, extending a disableable element.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 

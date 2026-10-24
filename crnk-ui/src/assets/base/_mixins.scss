@@ -1,3 +1,9 @@
+/*docerion
+type: source
+title: base mixins
+summary: Provides reusable SCSS mixins for border radius, gradients, transitions, shadows, opacity and icon overrides.
+*/
+
 @mixin border-radius($val) {
 	-moz-border-radius: $val;
 	-webkit-border-radius: $val;

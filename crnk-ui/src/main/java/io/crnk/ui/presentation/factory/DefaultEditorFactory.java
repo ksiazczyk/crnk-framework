@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryPrameterElement
+// summary: Empty presentation element class extending PresentationElement, intended for query parameters but currently without members.
+// ---
+
 package io.crnk.ui.presentation.factory;
 
 import java.util.Collections;

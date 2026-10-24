@@ -1,0 +1,6 @@
+# Docerion header of index.html.
+type: source
+title: Crnk UI HTML entry point
+summary: HTML entry point that loads the Angular application and renders the app-root component with a splash screen.
+relations:
+  - references /crnk-ui/src/favicon.ico

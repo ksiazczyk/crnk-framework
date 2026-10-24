@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Post
+// summary: A JSON:API post resource model with comment and header relations for nested inclusion tests.
+// ---
+
 package io.crnk.test.mock.models.nested;
 
 import java.util.List;

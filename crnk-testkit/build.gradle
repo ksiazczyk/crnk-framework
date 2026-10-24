@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration for the crnk-testkit module, declaring compile and test dependencies on crnk-core, crnk-client, crnk-test, and crnk-home projects.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

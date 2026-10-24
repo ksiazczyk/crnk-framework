@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: crnk-validation build configuration
+// summary: Gradle build configuration declaring compile and test dependencies for the crnk-validation module.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import io.crnk.core.engine.http.HttpHeaders;

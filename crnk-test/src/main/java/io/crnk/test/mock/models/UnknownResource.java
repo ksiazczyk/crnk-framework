@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UnknownResource
+// summary: JSON:API resource model with an unknown type used for testing unknown resource handling.
+// ---
+
 package io.crnk.test.mock.models;
 
 

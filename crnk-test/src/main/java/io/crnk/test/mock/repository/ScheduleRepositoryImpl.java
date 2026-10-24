@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ScheduleRepository mock implementation
+// summary: Mock implementation of the ScheduleRepository providing endpoints that exercise JSON-API and text/html response headers.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import io.crnk.core.engine.http.HttpHeaders;

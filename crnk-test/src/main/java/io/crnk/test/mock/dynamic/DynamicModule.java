@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DynamicModule
+// summary: Registers dynamic resource and relationship repositories with generated resource types to exercise the crnk framework's dynamic capabilities.
+// ---
+
 package io.crnk.test.mock.dynamic;
 
 

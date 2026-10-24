@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Application module
+// summary: Angular module that declares components, imports libraries, and configures providers and routing.
+// ---
+
 import {BrowserModule} from "@angular/platform-browser";
 import {NgModule} from "@angular/core";
 import {FormsModule} from "@angular/forms";

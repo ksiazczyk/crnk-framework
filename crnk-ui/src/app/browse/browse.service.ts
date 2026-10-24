@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Browse service
+// summary: Angular services for browsing API data, persisting user preferences, and suggesting query parameters.
+// ---
+
 import * as _ from 'lodash';
 import {Inject, Injectable} from '@angular/core';
 import {Http} from '@angular/http';

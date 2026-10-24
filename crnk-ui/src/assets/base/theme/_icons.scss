@@ -1,3 +1,9 @@
+/*docerion
+type: test
+title: Inheritance access test base
+summary: Abstract base class for tests that verify inheritance-based access control.
+*/
+
 .fa-sort {
 	@include icon-override("sort");
 }

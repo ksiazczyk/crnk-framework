@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DisableableElement
+// summary: Adds a disabled state to a presentation element.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 

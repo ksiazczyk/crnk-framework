@@ -1,6 +1,12 @@
 // Protractor configuration file, see link for more information
 // https://github.com/angular/protractor/blob/master/lib/config.ts
 
+// ---docerion
+// type: config
+// title: Protractor end-to-end test configuration
+// summary: Protractor configuration driving end-to-end tests against the running application on Chrome.
+// ---
+
 /*global jasmine */
 var SpecReporter = require('jasmine-spec-reporter');
 

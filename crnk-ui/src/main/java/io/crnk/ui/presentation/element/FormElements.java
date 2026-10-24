@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FormElements
+// summary: A collection of form elements keyed by id with an ordered list of element ids.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 import java.util.ArrayList;

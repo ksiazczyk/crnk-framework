@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NestedRelatedResource
+// summary: A JSON:API resource model with an id field, used as a related resource in nested test models.
+// ---
+
 package io.crnk.test.mock.models.nested;
 
 import io.crnk.core.resource.annotations.JsonApiId;

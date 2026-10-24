@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PresentationTask
+// summary: Test resource model for a presentation task linked to a project.
+// ---
+
 package io.crnk.ui;
 
 import io.crnk.core.queryspec.pagingspec.OffsetLimitPagingSpec;

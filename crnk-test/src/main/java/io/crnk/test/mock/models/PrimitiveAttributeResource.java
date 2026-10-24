@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestExceptionMapper
+// summary: Maps TestException to and from JSON API error responses using a custom HTTP status.
+// ---
+
 package io.crnk.test.mock.models;
 
 import java.util.Date;

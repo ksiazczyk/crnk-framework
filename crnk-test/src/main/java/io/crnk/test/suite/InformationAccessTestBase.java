@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ScheduleStatusRepositoryImpl mock repository
+// summary: In-memory mock repository implementation for the ScheduleStatus resource type.
+// ---
+
 package io.crnk.test.suite;
 
 import io.crnk.core.queryspec.QuerySpec;

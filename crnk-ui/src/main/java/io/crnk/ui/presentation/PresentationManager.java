@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PresentationManager class
+// summary: Registers presentation element factories and resolves resources to build explorer and editor viewers for a given service and resource.
+// ---
+
 package io.crnk.ui.presentation;
 
 

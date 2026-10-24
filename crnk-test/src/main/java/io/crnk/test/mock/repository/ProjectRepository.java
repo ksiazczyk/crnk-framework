@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Primitive attribute repository
+// summary: In-memory repository for primitive attribute resources.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import com.fasterxml.jackson.annotation.JsonInclude;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: LabelElement
+// summary: A plain text label element carrying label attributes and a viewer id.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 import java.util.ArrayList;

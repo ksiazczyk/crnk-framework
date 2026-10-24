@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Task
+// summary: JSON:API resource model for tasks with project and schedule relations plus custom meta and links information.
+// ---
+
 package io.crnk.test.mock.models;
 
 import java.util.ArrayList;

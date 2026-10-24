@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExplorerRepository
+// summary: CRNK resource repository that exposes ExplorerElement resources by delegating lookups to the PresentationManager.
+// ---
+
 package io.crnk.ui.presentation.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

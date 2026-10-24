@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ValidationMetaProviderTest
+// summary: JUnit test verifying that a @NotNull constraint disables nullability on a meta attribute, both with and without the validation provider registered.
+// ---
+
 package io.crnk.validation.meta;
 
 import io.crnk.core.boot.CrnkBoot;

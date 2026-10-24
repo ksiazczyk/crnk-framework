@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestContainer
+// summary: Test container that boots Crnk, wires up request and query contexts, and exposes registry and mapper accessors for tests.
+// ---
+
 package io.crnk.test;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

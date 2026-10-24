@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestException
+// summary: A runtime exception used as a fixture in tests.
+// ---
+
 package io.crnk.test.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiId;

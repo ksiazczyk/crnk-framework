@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Project JsonApi resource model
+// summary: Java class defining a JsonApi resource model for a project, exposing task relations, self links, and meta information.
+// ---
+
 package io.crnk.test.mock.models;
 
 import java.util.ArrayList;

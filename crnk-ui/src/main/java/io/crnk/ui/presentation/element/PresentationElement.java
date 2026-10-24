@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PresentationElement
+// summary: The base presentation element providing an id and a component id.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 import io.crnk.core.resource.annotations.JsonApiId;

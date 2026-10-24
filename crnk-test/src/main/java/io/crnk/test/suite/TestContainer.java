@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestContainer interface
+// summary: Interface defining the test container contract for starting, stopping and resolving repositories in test suites.
+// ---
+
 package io.crnk.test.suite;
 
 import io.crnk.core.boot.CrnkBoot;

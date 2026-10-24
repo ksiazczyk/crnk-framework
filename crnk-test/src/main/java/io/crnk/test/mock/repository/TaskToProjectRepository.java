@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskToProjectRepository mock implementation
+// summary: Mock relationship repository linking Tasks to Projects using thread-local storage.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

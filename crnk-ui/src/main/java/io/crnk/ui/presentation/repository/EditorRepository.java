@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: EditorRepository
+// summary: CRNK resource repository that exposes EditorElement resources by delegating lookups to the PresentationManager.
+// ---
+
 package io.crnk.ui.presentation.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

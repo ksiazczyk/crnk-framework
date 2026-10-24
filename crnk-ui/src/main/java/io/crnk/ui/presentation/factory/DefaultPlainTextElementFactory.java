@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ViewHeaderElement
+// summary: Empty presentation element class extending PresentationElement, intended for a view header.
+// ---
+
 package io.crnk.ui.presentation.factory;
 
 import io.crnk.meta.model.MetaPrimitiveType;

@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.json.
+type: config
+title: TypeScript configuration for e2e tests
+summary: TypeScript compiler options for building the end-to-end tests.

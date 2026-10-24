@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SingularValueElement source class
+// summary: A presentation element holding a single value with a PathSpec attribute path and its accessors.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 import io.crnk.core.queryspec.PathSpec;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ScheduleRepositoryImpl mock repository
+// summary: Java implementation of the ScheduleRepository mock, providing repository actions and resource handling for testing.
+// ---
+
 package io.crnk.test.suite;
 
 import io.crnk.core.exception.InternalServerErrorException;

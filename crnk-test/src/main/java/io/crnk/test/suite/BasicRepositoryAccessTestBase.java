@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Gradle build configuration for the crnk-validation module
+// summary: Gradle build configuration for the crnk-validation module, declaring compile and test dependencies on crnk-core, crnk-meta, crnk-client and validation libraries.
+// ---
+
 package io.crnk.test.suite;
 
 import java.io.IOException;

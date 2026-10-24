@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskSubtypeRepository mock implementation
+// summary: Mock repository that filters TaskSubType entities from an underlying TaskRepository.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

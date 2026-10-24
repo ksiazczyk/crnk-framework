@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DataTableElement
+// summary: A data table presentation element combining columns, pagination, editing options, and an editable flag.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 

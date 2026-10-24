@@ -1,0 +1,4 @@
+# Docerion header of tslint.json.
+type: config
+title: TypeScript linter rules configuration
+summary: TypeScript linter rules enforcing code style, quality, and Angular conventions for the project.

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: EditorElement
+// summary: Defines a UI editor resource with a service, header, base query, actions, form, and new resource template.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 import com.fasterxml.jackson.databind.node.ObjectNode;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClassTestUtils
+// summary: Helper methods that assert whether a class exposes a private or protected constructor and instantiate it to ensure coverage.
+// ---
+
 package io.crnk.test.mock;
 
 import org.junit.Assert;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NestedOneRelationshipRepository
+// summary: Relationship repository implementing one-target nested relationships between OneNestedRepository and NestedRelatedResource.
+// ---
+
 package io.crnk.test.mock.repository.nested;
 
 import io.crnk.core.queryspec.QuerySpec;

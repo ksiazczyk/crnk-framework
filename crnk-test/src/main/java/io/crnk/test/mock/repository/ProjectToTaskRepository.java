@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Project repository
+// summary: Resource, meta and links repository for project resources backed by a thread-local store.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

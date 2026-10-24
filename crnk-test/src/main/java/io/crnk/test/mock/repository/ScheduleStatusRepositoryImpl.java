@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ScheduleStatusRepository mock implementation
+// summary: In-memory mock repository for ScheduleStatus entities used in crnk tests.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import io.crnk.core.repository.InMemoryResourceRepository;

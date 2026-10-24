@@ -1,0 +1,4 @@
+# Docerion header of gradle-wrapper.properties.
+type: config
+title: Gradle wrapper properties
+summary: Configures the Gradle wrapper by specifying the distribution version, download URL, and storage locations for downloaded distributions.

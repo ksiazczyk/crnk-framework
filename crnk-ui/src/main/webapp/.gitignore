@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: .gitignore
+# summary: Ignores generated and static assets such as JavaScript, HTML, CSS, images and fonts from version control.
+# ---
+
 *.js
 *.html
 *.ico

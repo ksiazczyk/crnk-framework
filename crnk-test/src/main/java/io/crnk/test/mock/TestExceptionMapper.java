@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestExceptionMapper
+// summary: Maps TestException to and from JSON error responses using a custom HTTP error code.
+// ---
+
 package io.crnk.test.mock;
 
 import io.crnk.core.engine.document.ErrorData;

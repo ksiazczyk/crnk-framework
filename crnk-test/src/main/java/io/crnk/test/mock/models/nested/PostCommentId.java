@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PostCommentId
+// summary: A serializable composite identifier for comments that splits into post and comment ids.
+// ---
+
 package io.crnk.test.mock.models.nested;
 
 import java.io.Serializable;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PresentationService class
+// summary: Represents a service the crnk-ui connects to, either a local MetaModule or a remote repository, and builds query specs for meta resources.
+// ---
+
 package io.crnk.ui.presentation;
 
 import java.util.List;

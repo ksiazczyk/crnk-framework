@@ -1,0 +1,4 @@
+# Docerion header of package.json.
+type: config
+title: npm package manifest for crnk-ui
+summary: npm package manifest listing dependencies and scripts for building, testing, and serving the Angular UI.

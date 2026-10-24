@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ValidationEndToEndTest end-to-end validation test
+// summary: End-to-end test that verifies constraint violations for not-null, list, nested and list-element attributes.
+// ---
+
 package io.crnk.validation;
 
 import io.crnk.core.repository.ResourceRepository;

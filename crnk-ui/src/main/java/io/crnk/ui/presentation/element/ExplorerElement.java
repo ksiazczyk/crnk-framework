@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExplorerElement
+// summary: Defines a UI explorer resource with a data table, base query, actions, and full-text search paths.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 import java.util.ArrayList;

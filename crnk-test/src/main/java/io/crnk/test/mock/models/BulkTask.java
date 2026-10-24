@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClassTestUtils
+// summary: Test helper providing methods to assert that a class has a private or protected constructor.
+// ---
+
 package io.crnk.test.mock.models;
 
 import io.crnk.core.queryspec.pagingspec.OffsetLimitPagingSpec;

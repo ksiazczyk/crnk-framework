@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClientTestModule
+// summary: A test module wiring an exception mapper and naming strategy for client tests.
+// ---
+
 package io.crnk.test.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiId;

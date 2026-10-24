@@ -1,0 +1,8 @@
+# Docerion header of angular-cli.json.
+type: config
+title: Angular CLI build configuration
+summary: Angular CLI configuration defining the app build, assets, styles, and environment setup for the crnk-ui project.
+relations:
+  - references /crnk-ui/src/favicon.ico
+  - configures /crnk-ui/src/main.ts
+  - configures /crnk-ui/src/test.ts

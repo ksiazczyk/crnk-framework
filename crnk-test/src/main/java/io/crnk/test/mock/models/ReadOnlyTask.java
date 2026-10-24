@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReadOnlyTask
+// summary: A non-writable JSON API resource marked as non-postable, patchable and deletable.
+// ---
+
 package io.crnk.test.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiId;

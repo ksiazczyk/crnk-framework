@@ -1,3 +1,9 @@
+/*docerion
+type: test
+title: Nested repository access test base
+summary: Abstract base class for tests that verify nested repository access control.
+*/
+
 body {
 	.ui-breadcrumb {
 		padding: $inputHeaderPadding;

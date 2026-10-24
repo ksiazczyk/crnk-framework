@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelocatedTask
+// summary: A JSON API resource whose path is remapped by the test naming strategy.
+// ---
+
 package io.crnk.test.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiId;

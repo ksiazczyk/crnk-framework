@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: web.xml
+// summary: Web application deployment descriptor configuring the crnk-ui servlet module for the Java EE container.
+// ---
+
 package io.crnk.ui;
 
 

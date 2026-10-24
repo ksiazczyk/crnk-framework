@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TableColumnsElement source class
+// summary: A presentation element that manages a resizable collection of TableColumnElement instances.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 

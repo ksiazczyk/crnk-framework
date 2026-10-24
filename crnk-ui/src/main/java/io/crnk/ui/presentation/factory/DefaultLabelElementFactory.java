@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TableColumnsElement
+// summary: Container managing a collection of table columns with add, remove, id lookup and resize support.
+// ---
+
 package io.crnk.ui.presentation.factory;
 
 import java.util.ArrayDeque;

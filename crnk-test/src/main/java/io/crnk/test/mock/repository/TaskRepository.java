@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskRepository mock implementation
+// summary: Mock Task repository with in-memory storage and header-testing logic in findAll.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import io.crnk.core.engine.http.HttpRequestContext;

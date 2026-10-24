@@ -1,3 +1,11 @@
+// ---docerion
+// type: test
+// title: Angular test environment setup
+// summary: Initializes the Angular testing environment and loads all spec files for Karma to run.
+// relations:
+//   - references /crnk-ui/src/polyfills.ts
+// ---
+
 import "./polyfills.ts";
 import "zone.js/dist/long-stack-trace-zone";
 import "zone.js/dist/proxy.js";
