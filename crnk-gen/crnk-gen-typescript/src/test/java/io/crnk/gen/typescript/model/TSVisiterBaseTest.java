@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TSVisitorBaseTest
+// summary: JUnit tests covering TSVisitorBase visitation of declared type members.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import org.junit.Test;

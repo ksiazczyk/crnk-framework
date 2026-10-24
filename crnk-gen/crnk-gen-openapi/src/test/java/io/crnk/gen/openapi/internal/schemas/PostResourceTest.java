@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PostResourceTest schema test
+// summary: JUnit test verifying that the PostResource schema is an ObjectSchema with a data property referencing the post resource data schema.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

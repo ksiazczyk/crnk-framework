@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JsonHomeFormatTest
+// summary: Verifies that the home module returns JSON Home format responses and handles content negotiation correctly.
+// ---
+
 package io.crnk.home;
 
 import com.fasterxml.jackson.databind.JsonNode;

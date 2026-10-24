@@ -1,3 +1,11 @@
+// ---docerion
+// type: test
+// title: AsciidocGeneratorTest
+// summary: JUnit test that boots a Crnk server with a MetaModule and runs the AsciidocGeneratorModule to generate documentation.
+// relations:
+//   - references /crnk-gen/crnk-gen-asciidoc/src/test/resources/javadoc.xml
+// ---
+
 package io.crnk.gen.asciidoc;
 
 import io.crnk.core.boot.CrnkBoot;

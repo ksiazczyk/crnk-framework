@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Page number query parameter generator
+// summary: Generates the page[number] query parameter for the requested page index.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.swagger.v3.oas.models.media.IntegerSchema;

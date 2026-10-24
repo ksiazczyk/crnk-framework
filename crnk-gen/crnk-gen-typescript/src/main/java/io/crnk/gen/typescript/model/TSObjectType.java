@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSObjectType class
+// summary: Abstract class modeling a TypeScript object type with declared members, implemented interfaces and index signatures.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import java.util.ArrayList;

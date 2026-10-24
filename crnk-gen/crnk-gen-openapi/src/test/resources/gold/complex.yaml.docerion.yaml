@@ -1,0 +1,4 @@
+# Docerion header of complex.yaml.
+type: test
+title: Complex golden OpenAPI specification
+summary: Expected OpenAPI output for the complex test case, serving as a golden fixture in the crnk-gen test suite.

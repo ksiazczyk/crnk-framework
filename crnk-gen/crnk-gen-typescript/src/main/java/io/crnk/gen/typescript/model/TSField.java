@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSField model class
+// summary: Represents a TypeScript field member with an optional initializer and visitor support.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 public class TSField extends TSMember {

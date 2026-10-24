@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TypeScript Writer
+// summary: Visits TypeScript model elements and emits formatted TypeScript source code for interfaces, classes, and types.
+// ---
+
 package io.crnk.gen.typescript.model.writer;
 
 import io.crnk.gen.typescript.model.TSAny;

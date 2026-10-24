@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CdiMetaResolverTest verifies missing MetaModule handling
+// summary: JUnit test that verifies CdiMetaResolver fails with a helpful message when no MetaModule is registered in the CDI setup.
+// ---
+
 package io.crnk.gen.runtime;
 
 import io.crnk.gen.base.GeneratorConfig;

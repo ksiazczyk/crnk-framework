@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSParameterizedType class
+// summary: Class modeling a parameterized TypeScript type with a base type and type arguments.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import java.util.Arrays;

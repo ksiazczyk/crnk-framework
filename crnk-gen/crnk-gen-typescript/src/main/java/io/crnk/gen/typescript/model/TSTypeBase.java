@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSTypeBase class
+// summary: Abstract base class for TypeScript types providing name handling and type conversions.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 public abstract class TSTypeBase extends TSElementBase implements TSType {

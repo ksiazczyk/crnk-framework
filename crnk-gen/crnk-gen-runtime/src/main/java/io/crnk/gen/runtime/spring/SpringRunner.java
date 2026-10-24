@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SpringRunner
+// summary: Java class that boots a Spring application context and triggers TypeScript metadata generation from the Crnk module registry.
+// ---
+
 package io.crnk.gen.runtime.spring;
 
 import io.crnk.core.boot.CrnkBoot;

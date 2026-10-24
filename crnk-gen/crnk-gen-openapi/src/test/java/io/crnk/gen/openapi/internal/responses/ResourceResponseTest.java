@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceResponseTest for the resource response
+// summary: Tests that the ResourceResponse returns an OK response referencing the resource schema.
+// ---
+
 package io.crnk.gen.openapi.internal.responses;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

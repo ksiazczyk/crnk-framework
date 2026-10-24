@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSMetaPrimitiveTypeTransformation
+// summary: Maps Java primitive and wrapper classes to their corresponding TypeScript primitive types.
+// ---
+
 package io.crnk.gen.typescript.transform;
 
 import com.fasterxml.jackson.databind.JsonNode;

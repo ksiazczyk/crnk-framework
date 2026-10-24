@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSImportProcessor
+// summary: Computes and sorts TypeScript import statements for the given source model.
+// ---
+
 package io.crnk.gen.typescript.processor;
 
 import io.crnk.gen.typescript.model.TSExport;

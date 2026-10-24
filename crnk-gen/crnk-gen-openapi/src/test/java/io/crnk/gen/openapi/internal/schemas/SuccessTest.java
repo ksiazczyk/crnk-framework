@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Success schema test
+// summary: Tests that the Success schema is an ObjectSchema exposing jsonapi, links, meta and included properties.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.swagger.v3.oas.models.media.ObjectSchema;

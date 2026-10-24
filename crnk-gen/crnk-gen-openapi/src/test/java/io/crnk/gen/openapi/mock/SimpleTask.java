@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SimpleTask
+// summary: JsonApi resource model for SimpleTask carrying id, name, meta and links information for mock API responses.
+// ---
+
 package io.crnk.gen.openapi.mock;
 
 import io.crnk.core.queryspec.pagingspec.OffsetLimitPagingSpec;

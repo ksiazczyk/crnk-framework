@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NestedGet
+// summary: Nested get operation that retrieves a related resource or collection and documents the OpenAPI path.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

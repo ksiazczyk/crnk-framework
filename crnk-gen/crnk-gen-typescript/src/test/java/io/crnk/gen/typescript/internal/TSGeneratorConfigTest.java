@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TSGeneratorConfigTest
+// summary: JUnit test that verifies the setters and getters of TSGeneratorConfig, including npm package metadata and directory name handling.
+// ---
+
 package io.crnk.gen.typescript.internal;
 
 import io.crnk.gen.typescript.TSGeneratorConfig;

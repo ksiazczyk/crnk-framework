@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationshipPatchTest
+// summary: Tests the RelationshipPatch operation type, enablement, description, path and responses.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OperationType;

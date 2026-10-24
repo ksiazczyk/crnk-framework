@@ -1,0 +1,4 @@
+# Docerion header of test_settings.gradle.
+type: config
+title: Gradle settings for test runs
+summary: A Gradle settings file that always shows stack traces during test execution.

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NestedPost
+// summary: Nested post operation that creates a relationship to a related resource and documents the OpenAPI path.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PostResourcesTest
+// summary: Verifies that the PostResources schema wraps resource data in an array under the data property.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSEnumLiteral enum literal model
+// summary: Class holding a single enum literal value in the TypeScript model.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 public class TSEnumLiteral {

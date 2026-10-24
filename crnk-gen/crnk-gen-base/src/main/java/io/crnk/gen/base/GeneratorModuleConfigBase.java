@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: GeneratorModuleConfigBase
+// summary: Abstract base class for module configuration with an enabled flag and generation directory.
+// ---
+
 package io.crnk.gen.base;
 
 import java.io.File;

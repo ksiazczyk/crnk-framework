@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Configures the crnk-gen-base module's Java build and its dependencies on the crnk-meta and crnk-test projects.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OperationType;

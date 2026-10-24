@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: GraphBuilder
+// summary: Builds a Graphviz graph of crnk resources and their associations and renders it to a file.
+// ---
+
 package io.crnk.gen.asciidoc.internal;
 
 import static guru.nidi.graphviz.model.Factory.graph;

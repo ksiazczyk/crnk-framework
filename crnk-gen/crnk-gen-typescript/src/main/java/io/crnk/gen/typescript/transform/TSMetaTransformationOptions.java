@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSMetaTransformationOptions
+// summary: Holds optional parent placement information for generated TypeScript elements during transformation.
+// ---
+
 package io.crnk.gen.typescript.transform;
 
 import io.crnk.gen.typescript.model.TSContainerElement;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OpenAPIGeneratorModule
+// summary: Generator module that wires the OASGenerator to the meta lookup and runs OpenAPI specification generation.
+// ---
+
 package io.crnk.gen.openapi.internal;
 
 import com.fasterxml.jackson.core.JsonProcessingException;

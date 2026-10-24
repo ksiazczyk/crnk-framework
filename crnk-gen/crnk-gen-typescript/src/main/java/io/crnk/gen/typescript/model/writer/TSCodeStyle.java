@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TS Code Style
+// summary: Holds configuration for TypeScript code generation, including indentation, line separator, and string enum settings.
+// ---
+
 package io.crnk.gen.typescript.model.writer;
 
 public class TSCodeStyle {

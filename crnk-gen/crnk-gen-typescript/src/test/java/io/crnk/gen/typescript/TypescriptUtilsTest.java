@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TypescriptUtilsTest
+// summary: Tests the getNestedInterface helper methods of TypescriptUtils, including null and error handling.
+// ---
+
 package io.crnk.gen.typescript;
 
 import io.crnk.gen.typescript.internal.TypescriptUtils;

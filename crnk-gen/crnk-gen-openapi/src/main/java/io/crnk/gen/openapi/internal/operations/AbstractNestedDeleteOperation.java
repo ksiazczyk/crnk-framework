@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Abstract Nested Delete Operation
+// summary: Abstract class that builds the OpenAPI operation for deleting a nested resource relationship, adding the primary key parameter and default response mappings.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OperationType;

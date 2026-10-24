@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSArrayType TypeScript array type model
+// summary: Class representing a TypeScript array type parameterized by its element type.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 public class TSArrayType extends TSTypeBase {

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Abstract Nested Mutate Operation
+// summary: Abstract class that builds the OpenAPI operation for mutating a nested resource relationship, setting a request body schema for one-to-many or one-to-one relationships.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

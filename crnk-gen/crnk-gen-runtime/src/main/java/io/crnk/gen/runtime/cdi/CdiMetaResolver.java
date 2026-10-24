@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CDI meta resolver that triggers code generation
+// summary: Implements RuntimeMetaResolver by loading and reflecting on the CDI runner class to trigger code generation.
+// ---
+
 package io.crnk.gen.runtime.cdi;
 
 import io.crnk.gen.runtime.RuntimeContext;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Fields query parameter generator
+// summary: Generates the fields query parameter selecting which resource attributes to include.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.crnk.gen.openapi.internal.OASUtils;

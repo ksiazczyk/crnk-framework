@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSIndexFileProcessor
+// summary: Generates index files that export all source files within each directory.
+// ---
+
 package io.crnk.gen.typescript.processor;
 
 import io.crnk.gen.typescript.model.TSSource;

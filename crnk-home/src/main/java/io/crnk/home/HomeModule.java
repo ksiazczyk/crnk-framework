@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HomeModule listing available resources in the root directory
+// summary: Implements the Crnk home module that displays a list of available resources in the root directory and registers its request processor and document filter.
+// ---
+
 package io.crnk.home;
 
 import java.util.ArrayList;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FieldFilterTest
+// summary: JUnit test verifying that the FieldFilter parameter is generated with the expected name, location, description, and schema.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

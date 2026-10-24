@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SpringMetaResolver
+// summary: Java class that loads and invokes the SpringRunner to execute the runtime generation within a Spring context.
+// ---
+
 package io.crnk.gen.runtime.spring;
 
 import io.crnk.gen.runtime.RuntimeContext;

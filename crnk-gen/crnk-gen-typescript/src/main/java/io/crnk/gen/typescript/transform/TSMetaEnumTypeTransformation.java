@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSMetaEnumTypeTransformation
+// summary: Transforms a MetaEnumType into a TypeScript enum type, wiring up its source, npm package, directory and literals during code generation.
+// ---
+
 package io.crnk.gen.typescript.transform;
 
 import io.crnk.gen.typescript.internal.TypescriptUtils;

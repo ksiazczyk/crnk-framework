@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcePostAttributes schema generator
+// summary: Generates the attributes section of a JSON:API POST request schema by filtering out association attributes.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.meta.model.MetaElement;

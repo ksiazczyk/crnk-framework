@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OASMergeUtilTest
+// summary: Checks that OASMergeUtil.mergeOperations preserves operation id, summary, description and extensions from the source operation.
+// ---
+
 package io.crnk.gen.openapi.internal;
 
 import io.swagger.v3.oas.models.Operation;

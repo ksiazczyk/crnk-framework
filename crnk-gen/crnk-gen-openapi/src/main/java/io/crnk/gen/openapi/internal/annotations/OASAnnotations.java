@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OASAnnotations applies model annotations to OpenAPI schemas
+// summary: Singleton that applies Swagger model annotations onto OpenAPI schemas, caching parsed models and merging derived schema properties.
+// ---
+
 package io.crnk.gen.openapi.internal.annotations;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;

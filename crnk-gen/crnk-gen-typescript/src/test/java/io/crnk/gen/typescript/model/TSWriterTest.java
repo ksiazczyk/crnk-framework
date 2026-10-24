@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TSWriterTest
+// summary: JUnit tests verifying TypeScript code generation for arrays, classes, enums and index signatures.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import io.crnk.gen.typescript.model.writer.TSCodeStyle;

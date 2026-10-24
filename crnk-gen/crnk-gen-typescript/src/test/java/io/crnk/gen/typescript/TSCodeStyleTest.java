@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TSCodeStyleTest
+// summary: Verifies the TSCodeStyle indentation and line separator defaults and setters.
+// ---
+
 package io.crnk.gen.typescript;
 
 import io.crnk.gen.typescript.model.writer.TSCodeStyle;

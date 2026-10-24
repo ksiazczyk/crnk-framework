@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TSGeneratorTest
+// summary: JUnit test that exercises TSGenerator, covering default exclusions, error cases, and directory-to-npm-package mapping of meta elements.
+// ---
+
 package io.crnk.gen.typescript.internal;
 
 import io.crnk.core.boot.CrnkBoot;

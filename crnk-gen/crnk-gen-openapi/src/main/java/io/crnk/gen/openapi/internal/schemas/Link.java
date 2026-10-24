@@ -1,3 +1,8 @@
+// ---docerion
+// type: source
+// title: Link.java
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.swagger.v3.oas.models.media.ComposedSchema;

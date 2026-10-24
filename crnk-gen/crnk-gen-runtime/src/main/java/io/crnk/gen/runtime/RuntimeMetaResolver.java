@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RuntimeMetaResolver
+// summary: Interface that supplies a MetaLookup holding application metadata and calls the runtime context to trigger code generation.
+// ---
+
 package io.crnk.gen.runtime;
 
 

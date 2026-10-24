@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSMetaTransformation interface
+// summary: Defines the contract for transforming meta elements into TypeScript model elements.
+// ---
+
 package io.crnk.gen.typescript.transform;
 
 import io.crnk.gen.typescript.model.TSElement;

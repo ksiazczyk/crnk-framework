@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AsciidocUtils
+// summary: Helper methods converting HTML to Asciidoc syntax and building document anchors.
+// ---
+
 package io.crnk.gen.asciidoc.internal;
 
 import io.crnk.meta.model.MetaType;

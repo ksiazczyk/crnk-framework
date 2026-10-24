@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OpenAPIGeneratorConfigTest
+// summary: JUnit test verifying default and custom configuration values of the OpenAPIGeneratorConfig class.
+// ---
+
 package io.crnk.gen.openapi;
 
 import io.swagger.v3.oas.models.OpenAPI;

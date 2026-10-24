@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PatchResource schema generator
+// summary: Generates the OpenAPI schema for a JSON:API PATCH resource payload, composing reference, patch attributes and patch relationships.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.OASUtils;

@@ -1,0 +1,4 @@
+# Docerion header of TestModuleProducer.template.
+type: config
+title: Logback logging configuration
+summary: Configures the Logback logging framework with a console appender, a formatted logging pattern, and DEBUG-level logging for the io.crnk package.

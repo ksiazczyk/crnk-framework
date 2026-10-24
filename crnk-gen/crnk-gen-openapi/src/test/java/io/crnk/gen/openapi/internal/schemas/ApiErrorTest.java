@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ApiError schema test
+// summary: Verifies that the ApiError schema is an object schema exposing the id, links, status, code, title, detail, source and meta properties.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.swagger.v3.oas.models.media.ObjectSchema;

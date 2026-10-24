@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Static API responses
+// summary: Produces a map of standard success and error OpenAPI responses.
+// ---
+
 package io.crnk.gen.openapi.internal.responses;
 
 import io.crnk.gen.openapi.internal.OASErrors;

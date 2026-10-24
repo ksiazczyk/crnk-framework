@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PostResourceReference schema generator
+// summary: Generates the OpenAPI schema for a POST resource reference containing type and id fields.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.meta.model.MetaAttribute;

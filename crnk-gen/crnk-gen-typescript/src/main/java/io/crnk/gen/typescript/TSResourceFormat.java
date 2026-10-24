@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSResourceFormat
+// summary: Enum describing the available JSON:API data formats the generator can produce, including the deprecated ngrx-crnk option.
+// ---
+
 package io.crnk.gen.typescript;
 
 public enum TSResourceFormat {

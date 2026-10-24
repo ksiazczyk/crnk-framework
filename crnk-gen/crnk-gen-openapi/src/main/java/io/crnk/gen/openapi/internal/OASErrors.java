@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OpenAPIGeneratorConfig
+// summary: Configuration class holding settings for the OpenAPI generator such as output directories, template name, project metadata, and output format.
+// ---
+
 package io.crnk.gen.openapi.internal;
 
 import io.crnk.core.engine.http.HttpStatus;

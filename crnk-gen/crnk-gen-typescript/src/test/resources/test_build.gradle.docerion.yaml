@@ -1,0 +1,4 @@
+# Docerion header of test_build.gradle.
+type: config
+title: Gradle build configuration for integration tests
+summary: A Gradle build script configuring the integration test set, Node setup, and the CRNK TypeScript generator plugin.

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSMember abstract class
+// summary: Abstract base for TypeScript members carrying name, type, nullability and visibility.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 public abstract class TSMember extends TSElementBase {

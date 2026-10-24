@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Failure schema test
+// summary: Verifies that the Failure schema is an object schema exposing the jsonapi, errors, links and meta properties.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.swagger.v3.oas.models.media.ObjectSchema;

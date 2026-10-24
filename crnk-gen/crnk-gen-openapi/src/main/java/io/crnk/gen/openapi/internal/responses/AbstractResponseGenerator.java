@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Abstract response generator
+// summary: Abstract base class providing common naming and $ref logic for OpenAPI response generators.
+// ---
+
 package io.crnk.gen.openapi.internal.responses;
 
 import io.crnk.meta.model.resource.MetaResource;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceSchema schema test
+// summary: Tests that ResourceSchema composes reference, attributes, relationships and links schemas and requires attributes.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

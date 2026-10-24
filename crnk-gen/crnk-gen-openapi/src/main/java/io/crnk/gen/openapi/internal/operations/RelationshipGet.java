@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Abstract nested delete operation
+// summary: Abstract base class for nested delete operations in the crnk-gen-openapi generator.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

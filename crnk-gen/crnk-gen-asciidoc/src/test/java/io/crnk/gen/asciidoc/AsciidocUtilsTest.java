@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AsciidocUtilsTest
+// summary: JUnit test that verifies AsciidocUtils converts HTML anchor tags into AsciiDoc link syntax.
+// ---
+
 package io.crnk.gen.asciidoc;
 
 import io.crnk.gen.asciidoc.internal.AsciidocUtils;

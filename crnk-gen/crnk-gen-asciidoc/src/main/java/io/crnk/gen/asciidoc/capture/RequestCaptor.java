@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RequestCaptor
+// summary: Captures HTTP request and response objects within a thread-local scope for later AsciiDoc generation.
+// ---
+
 package io.crnk.gen.asciidoc.capture;
 
 import io.crnk.client.http.HttpAdapterRequest;

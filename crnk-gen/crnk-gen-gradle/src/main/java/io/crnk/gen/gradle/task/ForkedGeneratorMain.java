@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ForkedGeneratorMain generation entry point
+// summary: The main entry point executed by ForkedGenerateTask, which loads configuration, builds a runtime context and runs the meta resolver to generate stubs.
+// ---
+
 package io.crnk.gen.gradle.task;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

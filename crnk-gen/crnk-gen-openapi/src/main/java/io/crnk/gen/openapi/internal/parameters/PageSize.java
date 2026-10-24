@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Page size query parameter generator
+// summary: Generates the page[size] query parameter for the page size.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.swagger.v3.oas.models.media.IntegerSchema;

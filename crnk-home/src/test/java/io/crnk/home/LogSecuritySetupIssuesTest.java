@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: LogSecuritySetupIssuesTest
+// summary: Checks that the home module detects potential filter security issues after processing a request.
+// ---
+
 package io.crnk.home;
 
 import io.crnk.core.boot.CrnkBoot;

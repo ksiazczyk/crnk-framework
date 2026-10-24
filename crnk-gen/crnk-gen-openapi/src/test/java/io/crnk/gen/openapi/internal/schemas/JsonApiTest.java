@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JsonApi schema test
+// summary: Verifies that the JsonApi schema is an object schema exposing only the version property.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.swagger.v3.oas.models.media.ObjectSchema;

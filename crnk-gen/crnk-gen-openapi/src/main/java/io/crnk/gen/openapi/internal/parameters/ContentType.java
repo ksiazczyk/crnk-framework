@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Content-Type header parameter generator
+// summary: Generates the Content-Type header parameter with the CRnk JSON API media type enum.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.swagger.v3.oas.models.media.StringSchema;

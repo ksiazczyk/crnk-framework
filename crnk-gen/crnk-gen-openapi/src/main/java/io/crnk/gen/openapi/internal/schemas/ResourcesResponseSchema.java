@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcesResponseSchema generator
+// summary: Composes a multi-resource JSON:API response combining the success envelope and an array of resource schemas.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.meta.model.resource.MetaResource;

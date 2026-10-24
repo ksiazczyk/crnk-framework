@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourcePostRelationshipsTest
+// summary: Tests that ResourcePostRelationships exposes relationships only when the field is insertable.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

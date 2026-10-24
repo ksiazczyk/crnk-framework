@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcePatchAttributes schema generator
+// summary: Generates the OpenAPI schema for the attributes object of a PATCH request, mapping patchable attributes.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.meta.model.MetaElement;

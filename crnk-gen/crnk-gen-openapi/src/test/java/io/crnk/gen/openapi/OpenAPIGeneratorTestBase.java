@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OpenAPIGeneratorTestBase
+// summary: Base test class providing helper methods for asserting JSON:API compliance and comparing generated OpenAPI output.
+// ---
+
 package io.crnk.gen.openapi;
 
 import java.io.File;

@@ -1,0 +1,4 @@
+# Docerion header of expected_schedule_with_expressions.ts.
+type: test
+title: Expected schedule test fixture with expressions
+summary: A TypeScript test fixture with query classes and relationships for testing TypeScript generation with expressions.

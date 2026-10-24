@@ -1,0 +1,4 @@
+# Docerion header of UserEntity.java.
+type: test
+title: UserEntity test fixture
+summary: A JSON:API resource and JPA entity fixture that relates to an address and a set of projects.

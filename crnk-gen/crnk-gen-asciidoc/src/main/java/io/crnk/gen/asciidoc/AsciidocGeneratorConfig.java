@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: AsciidocGeneratorConfig
+// summary: Configuration class holding settings for the AsciiDoc generator, including output directories, section base depth, document title, and excluded prefixes.
+// ---
+
 package io.crnk.gen.asciidoc;
 
 import java.io.File;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Fields parameter test
+// summary: JUnit test verifying that the Fields parameter exposes the fields query parameter with a default value listing resource fields.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSMetaResourceRepositoryTransformation
+// summary: Transforms resource repositories into type-safe one and many query result interfaces for JSON API access.
+// ---
+
 package io.crnk.gen.typescript.transform;
 
 

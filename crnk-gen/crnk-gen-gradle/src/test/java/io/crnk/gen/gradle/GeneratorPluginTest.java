@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: GeneratorPlugin Gradle test
+// summary: JUnit test that applies the GeneratorPlugin to a Gradle project and verifies it generates TypeScript source files.
+// ---
+
 package io.crnk.gen.gradle;
 
 import java.io.File;

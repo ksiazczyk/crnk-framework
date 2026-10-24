@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: NestedFilter parameter test
+// summary: JUnit test verifying that the NestedFilter parameter exposes a customizable filter query parameter with AND, OR and NOT properties.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.swagger.v3.oas.models.media.ObjectSchema;

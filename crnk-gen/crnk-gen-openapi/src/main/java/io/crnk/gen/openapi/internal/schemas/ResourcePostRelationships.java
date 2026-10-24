@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcePostRelationships schema generator
+// summary: Generates the relationships section of a JSON:API POST request schema for association attributes.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.OASUtils;

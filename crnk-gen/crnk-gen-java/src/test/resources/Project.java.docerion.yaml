@@ -1,0 +1,4 @@
+# Docerion header of Project.java.
+type: test
+title: Project test fixture
+summary: A JSON:API resource model with an id and name field, serving as a test fixture for the crnk generator.

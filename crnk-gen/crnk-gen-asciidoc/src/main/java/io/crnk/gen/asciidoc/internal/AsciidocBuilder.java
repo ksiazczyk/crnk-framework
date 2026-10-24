@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: javadoc.xml test resource
+// summary: Test resource containing Javadoc XML metadata describing example crnk classes used by asciidoc generator tests.
+// ---
+
 package io.crnk.gen.asciidoc.internal;
 
 import java.io.File;

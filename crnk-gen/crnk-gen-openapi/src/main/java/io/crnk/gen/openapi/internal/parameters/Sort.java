@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Sort parameter generator
+// summary: Generates the query parameter for sorting resources by their attributes in the generated OpenAPI specification.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.crnk.gen.openapi.internal.OASUtils;

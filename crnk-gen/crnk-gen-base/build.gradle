@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration that applies the Java plugin and declares project dependencies on crnk-meta and crnk-test.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

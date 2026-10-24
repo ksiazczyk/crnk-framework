@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OASGeneratorTest
+// summary: Compares generated OpenAPI YAML and JSON output against gold reference files in both sorted and unsorted forms.
+// ---
+
 package io.crnk.gen.openapi.internal;
 
 import java.io.IOException;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSNpmConfiguration
+// summary: Holds npm package metadata, package and directory mappings, and peer and development dependencies for the generated TypeScript package.
+// ---
+
 package io.crnk.gen.typescript;
 
 import java.io.File;

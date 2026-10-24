@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Pagination schema test
+// summary: Verifies that the Pagination schema is an object schema with nullable uri links for first, last, prev and next.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.swagger.v3.oas.models.media.ObjectSchema;

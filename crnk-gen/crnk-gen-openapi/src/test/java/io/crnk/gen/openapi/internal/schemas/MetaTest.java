@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Meta schema test
+// summary: Verifies that the Meta schema is an object schema allowing additional properties with no defined properties.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.swagger.v3.oas.models.media.ObjectSchema;

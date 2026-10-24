@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSAny TypeScript any type
+// summary: Represents the TypeScript 'any' primitive type as a singleton instance within the code generation model.
+// ---
+
 package io.crnk.gen.typescript.transform;
 
 import java.util.List;

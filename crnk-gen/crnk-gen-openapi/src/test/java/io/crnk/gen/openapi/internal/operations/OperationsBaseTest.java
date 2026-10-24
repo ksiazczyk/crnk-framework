@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OperationsBaseTest
+// summary: Test base class that sets up a meta resource, repository and primary key.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.meta.model.MetaAttribute;

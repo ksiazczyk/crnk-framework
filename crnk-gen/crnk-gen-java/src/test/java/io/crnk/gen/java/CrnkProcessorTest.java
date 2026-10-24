@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CrnkProcessorTest
+// summary: A JUnit test that verifies the CrnkProcessor annotation processor compiles source files and generates the expected query spec, filter, and sort code.
+// ---
+
 package io.crnk.gen.java;
 
 import com.google.common.collect.ImmutableList;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourcePostAttributesTest
+// summary: Tests that ResourcePostAttributes includes only insertable attributes in the generated schema.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

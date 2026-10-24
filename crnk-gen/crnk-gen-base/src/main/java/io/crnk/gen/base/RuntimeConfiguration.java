@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RuntimeConfiguration
+// summary: Holds runtime configuration including the active configuration profile and Spring runtime settings.
+// ---
+
 package io.crnk.gen.base;
 
 

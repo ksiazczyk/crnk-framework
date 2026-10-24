@@ -1,0 +1,4 @@
+# Docerion header of expected_project_data.ts.
+type: test
+title: Expected ProjectData test resource
+summary: Test resource defining the ProjectData interface and the QProjectData bean path used to assert generated TypeScript project data models.

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AbstractNestedDeleteOperation
+// summary: Generates the DELETE operation for removing a relationship to a related resource.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.meta.model.MetaAttribute;

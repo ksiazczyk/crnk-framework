@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: GenerateTypescriptTaskTest
+// summary: Tests the TypeScript generator by producing output for several resource formats and asserting the generated files exist and match expectations.
+// ---
+
 package io.crnk.gen.typescript;
 
 import java.io.File;

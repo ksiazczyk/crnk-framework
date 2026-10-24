@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: StaticResponsesTest for standard API responses
+// summary: Tests that StaticResponses generates the standard set of 16 API responses.
+// ---
+
 package io.crnk.gen.openapi.internal.responses;
 
 import io.swagger.v3.oas.models.responses.ApiResponse;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSIndexSignatureType model class
+// summary: Models a TypeScript index signature type with a key type and a value type.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 public class TSIndexSignatureType extends TSTypeBase {

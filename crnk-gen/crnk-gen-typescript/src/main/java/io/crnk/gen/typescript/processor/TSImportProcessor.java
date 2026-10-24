@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSExpressionObjectProcessor
+// summary: Generates type-safe query classes similar to QueryDSL for store resource interfaces.
+// ---
+
 package io.crnk.gen.typescript.processor;
 
 import java.util.Collections;

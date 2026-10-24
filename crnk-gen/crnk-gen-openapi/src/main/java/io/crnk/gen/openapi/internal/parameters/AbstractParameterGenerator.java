@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Abstract parameter generator base class
+// summary: Abstract base class for OpenAPI parameter generators, holding the resource and field context and building parameter names.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.crnk.meta.model.resource.MetaResource;

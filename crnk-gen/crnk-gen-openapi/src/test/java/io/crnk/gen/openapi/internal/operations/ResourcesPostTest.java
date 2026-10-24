@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourcesPost operation tests
+// summary: JUnit tests verifying the ResourcesPost OpenAPI operation type, enablement, bulk description, response codes and path.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OperationType;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: GeneratorPlugin wires generator modules into Gradle tasks
+// summary: A Gradle plugin that discovers generator modules via ServiceLoader and registers their generate and clean tasks.
+// ---
+
 package io.crnk.gen.gradle;
 
 import java.util.ArrayList;

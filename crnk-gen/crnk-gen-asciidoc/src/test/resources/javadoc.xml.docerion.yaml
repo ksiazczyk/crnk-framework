@@ -1,0 +1,4 @@
+# Docerion header of javadoc.xml.
+type: test
+title: javadoc.xml
+summary: A Javadoc XML export of example crnk service classes, used as test fixture data for the asciidoc generator.

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DocletPlugin creates an XML doclet task from JavaDoc
+// summary: A Gradle plugin that creates a task generating an XML doclet from JavaDoc so Asciidoc can access Java documentation.
+// ---
+
 package io.crnk.gen.gradle;
 
 import java.io.File;

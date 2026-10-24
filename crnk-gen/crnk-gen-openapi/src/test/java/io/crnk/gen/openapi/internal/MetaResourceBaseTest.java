@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaResourceBaseTest
+// summary: Base test class that builds a sample MetaResource with a primary key, fields and a relationship for use by other tests.
+// ---
+
 package io.crnk.gen.openapi.internal;
 
 import io.crnk.meta.model.MetaPrimaryKey;

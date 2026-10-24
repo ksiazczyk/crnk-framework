@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Page offset query parameter generator
+// summary: Generates the page[offset] query parameter for offset-based pagination.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.swagger.v3.oas.models.media.IntegerSchema;

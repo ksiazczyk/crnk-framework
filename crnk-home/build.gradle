@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration that applies the Java plugin and declares compile and test dependencies for the crnk-home module.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

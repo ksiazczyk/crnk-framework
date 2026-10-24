@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: InMemoryGeneratorTask Gradle generation task
+// summary: A Gradle DefaultTask that runs generation in the same JVM using a classloader created by RuntimeClassLoaderFactory.
+// ---
+
 package io.crnk.gen.gradle.task;
 
 import io.crnk.gen.base.GeneratorModule;

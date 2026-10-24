@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SimpleTestModule
+// summary: CRNK module that registers the SimpleTask repository and an exception mapper for the mock test setup.
+// ---
+
 package io.crnk.gen.openapi.mock;
 
 import io.crnk.core.module.Module;
