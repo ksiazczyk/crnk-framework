@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkBindingService for Angular bindings
+// summary: Angular service that creates table, form and selector bindings against the NGRX JSON API store.
+// ---
+
 import {Observable} from "rxjs/Observable";
 import {Subject} from "rxjs/Subject";
 import {Subscription} from "rxjs/Subscription";

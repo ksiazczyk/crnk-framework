@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ClientFormat
+// summary: Enum specifying the formats in which requests and responses are sent, such as JSON:API and plain JSON.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.core.engine.document.Document;

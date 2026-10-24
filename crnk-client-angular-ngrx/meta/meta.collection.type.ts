@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta collection type model and query path
+// summary: Meta model and query path for a collection type resource in the CRNK meta schema.
+// ---
+
 import {
 	BeanPath,
 	StringPath

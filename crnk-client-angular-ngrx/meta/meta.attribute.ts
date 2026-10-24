@@ -1,3 +1,9 @@
+// ---docerion
+// type: script
+// title: crnk-client-angular-ngrx Gradle build script
+// summary: Gradle build script defining npm-based build, unit test, lint and coverage tasks for the crnk-client-angular-ngrx module.
+// ---
+
 import {
 	BeanPath,
 	BooleanPath,

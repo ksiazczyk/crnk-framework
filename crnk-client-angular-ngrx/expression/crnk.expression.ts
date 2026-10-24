@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Expression interfaces and base classes
+// summary: Defines TypeScript interfaces and base classes for constructing query expressions, including path, comparison, and boolean operations.
+// ---
+
 /**
  * Base class that allows the construction of expressions.
  * The type parameter is a reference to the type the expression is bound to.

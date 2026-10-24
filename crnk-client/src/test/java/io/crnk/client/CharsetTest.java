@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: index
+// summary: Re-exports the binding, expression, stub, meta, operations and query modules of the Angular-ngrx client.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.client.http.apache.HttpClientAdapter;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpAdapterProvider
+// summary: Provides an OkHttpAdapter and detects whether the OkHttp library is on the classpath.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.client.http.HttpAdapterRequest;

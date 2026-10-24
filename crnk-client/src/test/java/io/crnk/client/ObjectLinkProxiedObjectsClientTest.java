@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpAdapterListener
+// summary: Interface for listeners that receive a callback when the OkHttp client is being built.
+// ---
+
 package io.crnk.client;
 
 import java.util.concurrent.TimeUnit;

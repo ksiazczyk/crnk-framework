@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta resource field definition
+// summary: Defines the MetaResourceField interface with boolean attribute flags, its path class and a factory for empty resource field resources.
+// ---
+
 import {
 	BeanPath,
 	StringPath

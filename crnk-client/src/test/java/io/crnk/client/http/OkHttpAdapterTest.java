@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OkHttp adapter initialization test
+// summary: Checks that listeners and receive timeouts cannot be configured on the OkHttp adapter after initialization.
+// ---
+
 package io.crnk.client.http;
 
 import io.crnk.client.http.okhttp.OkHttpAdapter;

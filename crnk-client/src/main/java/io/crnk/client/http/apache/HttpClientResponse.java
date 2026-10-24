@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpClientResponse response implementation
+// summary: Wraps an Apache HTTP response, exposing status, body and headers through the HttpAdapterResponse interface.
+// ---
+
 package io.crnk.client.http.apache;
 
 import io.crnk.client.http.HttpAdapterResponse;

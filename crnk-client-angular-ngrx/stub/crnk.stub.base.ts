@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CRNK stub base types and query paths
+// summary: TypeScript interfaces and classes that stub out CRNK ngrx-json-api types so the compiler picks them up in the application project.
+// ---
+
 import {OperationType, Resource, ResourceError, ResourceState, ManyResourceRelationship, OneResourceRelationship, ResourceIdentifier, StoreResource} from 'ngrx-json-api';
 import { BeanPath, StringPath } from '../expression';
 

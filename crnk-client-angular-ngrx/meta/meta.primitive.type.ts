@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta primary key definition
+// summary: Defines the MetaPrimaryKey interface, its result types, QMetaPrimaryKey path class and a factory for empty primary key resources.
+// ---
+
 import {
 	BeanPath,
 	StringPath

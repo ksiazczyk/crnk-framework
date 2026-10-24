@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta JSON object model and query path
+// summary: Meta model and query path for a JSON object resource extending a data object in the CRNK meta schema.
+// ---
+
 import {
 	BeanPath,
 	StringPath

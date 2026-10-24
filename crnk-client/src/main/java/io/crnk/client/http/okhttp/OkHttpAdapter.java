@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpAdapter HTTP adapter implementation
+// summary: Implements the HttpAdapter interface to perform HTTP requests through an OkHttp client, managing listeners and network timeout configuration.
+// ---
+
 package io.crnk.client.http.okhttp;
 
 import io.crnk.client.http.HttpAdapter;

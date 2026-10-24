@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BasicProxyFactory implementation
+// summary: Basic implementation of ClientProxyFactory that creates resource stubs and fully proxied, lazily loaded collections.
+// ---
+
 package io.crnk.client.internal.proxy;
 
 import com.fasterxml.jackson.databind.node.ObjectNode;

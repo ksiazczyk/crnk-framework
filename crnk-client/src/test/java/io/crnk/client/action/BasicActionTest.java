@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: BasicActionTest
+// summary: JUnit test covering basic action handling in the CRNK client, including repository actions, stub factory initialization, and CRUD operations.
+// ---
+
 package io.crnk.client.action;
 
 import io.crnk.client.AbstractClientTest;

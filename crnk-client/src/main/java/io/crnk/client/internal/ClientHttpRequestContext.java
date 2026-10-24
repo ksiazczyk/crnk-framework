@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpAdapterListener interface
+// summary: Interface for listeners that can hook into the builder of the OkHttp client before it is initialized.
+// ---
+
 package io.crnk.client.internal;
 
 import java.net.URI;

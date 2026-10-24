@@ -1,0 +1,6 @@
+# Docerion header of package.json.
+type: config
+title: npm package definition and scripts
+summary: Declares the @crnk/angular-ngrx package, its dependencies, and build, lint, and test scripts.
+relations:
+  - references /crnk-client-angular-ngrx/tsconfig.dist.json

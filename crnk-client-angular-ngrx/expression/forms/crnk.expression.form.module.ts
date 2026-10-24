@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Expression form module
+// summary: Angular module that declares and exports the directives binding expressions to form controls.
+// ---
+
 import {NgModule} from '@angular/core';
 import {FormsModule} from '@angular/forms';
 import {ExpressionDirective} from './crnk.expression.form.model.default';

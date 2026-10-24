@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaSetType interface and query path
+// summary: TypeScript source defining the MetaSetType interface extending MetaCollectionType, its result types, and the QMetaSetType query path class.
+// ---
+
 import {
 	BeanPath,
 	StringPath

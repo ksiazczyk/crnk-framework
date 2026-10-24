@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SingletonResultFactory for immediate results
+// summary: Java factory that produces immediate results and manages thread-local context for singleton responses.
+// ---
+
 package io.crnk.client.internal;
 
 import io.crnk.core.engine.result.ImmediateResult;

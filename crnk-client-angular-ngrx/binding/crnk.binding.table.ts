@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DataTableBinding
+// summary: A TypeScript data table binding that applies query parameters and integrates with the ngrx JSON API store.
+// ---
+
 import { Subject } from 'rxjs/Subject';
 import { Observable } from 'rxjs/Observable';
 import * as _ from 'lodash';

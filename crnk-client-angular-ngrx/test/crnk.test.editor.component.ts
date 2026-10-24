@@ -1,3 +1,11 @@
+// ---docerion
+// type: source
+// title: Meta resource field
+// summary: Defines the MetaResourceField model with boolean attribute flags describing field behavior.
+// relations:
+//   - references /crnk-client-angular-ngrx/test/crnk.test.editor.component.html
+// ---
+
 import {Component, OnDestroy, OnInit, ViewChild} from "@angular/core";
 import {FormBinding} from "../binding/crnk.binding.form";
 import {QMetaAttribute} from "../meta/meta.attribute";

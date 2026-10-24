@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClientTestContainer test container
+// summary: A test container that boots the CRNK client, configures the test application, and exposes repositories and test data to the suite.
+// ---
+
 package io.crnk.client.suite;
 
 import io.crnk.client.AbstractClientTest;

@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.json.
+type: config
+title: TypeScript compiler configuration
+summary: Configures TypeScript compiler options such as decorators, strict null checks, and module resolution for the module.

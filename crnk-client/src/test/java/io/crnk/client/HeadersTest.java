@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CrnkClientTest
+// summary: Test verifying object mapper configuration and repository access on the CrnkClient.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.core.engine.http.HttpHeaders;

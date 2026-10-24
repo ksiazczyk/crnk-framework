@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: InMemoryHttpAdapter
+// summary: An in-memory HTTP adapter that connects a CRNK client to a server without HTTP communication, useful for writing performant unit tests.
+// ---
+
 package io.crnk.client.http.inmemory;
 
 import java.io.IOException;

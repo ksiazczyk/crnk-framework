@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta map type
+// summary: Defines the MetaMapType resource model and its query result types for the CRNK meta API.
+// ---
+
 ///<reference path="../binding/crnk.binding.utils.ts"/>
 import 'rxjs/add/operator/merge';
 import { Query, QueryParams } from 'ngrx-json-api';

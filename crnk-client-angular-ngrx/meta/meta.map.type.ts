@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Karma test runner configuration
+// summary: Karma configuration that runs Jasmine and karma-typescript tests over the TypeScript source and spec files.
+// ---
+
 import {
 	BeanPath,
 	StringPath

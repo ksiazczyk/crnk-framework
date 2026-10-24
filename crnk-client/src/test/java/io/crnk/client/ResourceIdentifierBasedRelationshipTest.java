@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceIdentifierBasedRelationshipTest
+// summary: JUnit test verifying that ResourceIdentifier with @JsonRelationId carries both type information and id for one and many relationships.
+// ---
+
 package io.crnk.client;
 
 import java.util.Arrays;

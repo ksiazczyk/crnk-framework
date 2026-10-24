@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: In-memory HTTP adapter test
+// summary: Runs the repository access client test suite against the in-memory HTTP adapter.
+// ---
+
 package io.crnk.client.http;
 
 import io.crnk.client.CrnkClient;

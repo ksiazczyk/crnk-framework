@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProxiedObjectsClientTest
+// summary: Delegates to AbstractProxiedObjectsClientTest since its tests were moved there.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.core.boot.CrnkBoot;

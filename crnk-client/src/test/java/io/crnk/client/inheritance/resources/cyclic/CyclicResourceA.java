@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Cyclic resource A base class
+// summary: Abstract JSON:API resource base class defining a cyclic relation to CyclicResourceC, serving as a test fixture.
+// ---
+
 package io.crnk.client.inheritance.resources.cyclic;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;

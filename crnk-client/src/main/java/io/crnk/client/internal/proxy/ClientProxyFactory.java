@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ClientProxyFactory interface
+// summary: Interface used to create stubs for resources, collections and interfaces in the CRNK client proxy layer.
+// ---
+
 package io.crnk.client.internal.proxy;
 
 import com.fasterxml.jackson.databind.node.ObjectNode;

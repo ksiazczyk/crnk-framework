@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JsonMetaInformationTest
+// summary: JUnit test covering JsonMetaInformation, verifying node conversion, parsing into model classes, interface proxies, and parse error handling.
+// ---
+
 package io.crnk.client.response;
 
 import java.io.IOException;

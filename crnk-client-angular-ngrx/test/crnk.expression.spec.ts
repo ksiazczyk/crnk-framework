@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta primary key
+// summary: Defines the MetaPrimaryKey resource model and its query result types.
+// ---
+
 import 'rxjs/add/operator/merge';
 
 

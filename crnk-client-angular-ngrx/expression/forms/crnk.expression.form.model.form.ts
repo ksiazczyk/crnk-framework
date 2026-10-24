@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Angular-ngrx client package manifest
+// summary: npm package manifest declaring the @crnk/angular-ngrx package metadata, dependencies and build scripts.
+// ---
+
 import {Directive, EventEmitter, forwardRef, Inject, Input, OnChanges, OnDestroy, Optional, Output, Self} from '@angular/core';
 import {
 	AbstractFormGroupDirective,

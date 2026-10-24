@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Cyclic resource C
+// summary: JSON:API resource class with relations to CyclicResourceA and CyclicResourceB.
+// ---
+
 package io.crnk.client.inheritance.resources.cyclic;
 
 import io.crnk.core.resource.annotations.JsonApiId;

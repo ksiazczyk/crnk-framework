@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ClientModule
+// summary: A Crnk module that registers default resource and relationship repository information providers for the client.
+// ---
+
 package io.crnk.client.module;
 
 import io.crnk.core.module.Module;

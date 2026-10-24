@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Karma test runner configuration
+// summary: Karma configuration that sets up the jasmine and karma-typescript frameworks and lists the test files to run.
+// ---
+
 import { async, ComponentFixture, fakeAsync, getTestBed, TestBed, tick } from '@angular/core/testing';
 
 import 'rxjs/add/operator/merge';

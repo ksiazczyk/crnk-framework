@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClientExceptionTest
+// summary: Test verifying ClientException error data status and message handling.
+// ---
+
 package io.crnk.client;
 
 import java.util.Arrays;

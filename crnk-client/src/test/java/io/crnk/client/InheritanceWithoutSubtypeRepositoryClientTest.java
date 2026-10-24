@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpAdapter
+// summary: Implements the HttpAdapter interface using an OkHttp client to build and send HTTP requests.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.core.exception.ResourceNotFoundException;

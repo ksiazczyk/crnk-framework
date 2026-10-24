@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkProperties
+// summary: Holds configuration property constants controlling Crnk behavior such as resource domain, include behavior, and paging.
+// ---
+
 package io.crnk.core.boot;
 
 

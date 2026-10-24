@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClientModuleTest
+// summary: JUnit test asserting the ClientModule reports the expected module name.
+// ---
+
 package io.crnk.client.internal;
 
 import io.crnk.client.module.ClientModule;

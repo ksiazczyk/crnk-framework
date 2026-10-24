@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CRNK query parameter builder
+// summary: Generates CRNK query parameters for include and fields options, used to build API request URLs.
+// ---
+
 import * as _ from 'lodash';
 
 

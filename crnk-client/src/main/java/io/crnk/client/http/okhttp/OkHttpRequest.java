@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpRequest HTTP request wrapper
+// summary: Builds and executes an OkHttp request, exposing headers, body and method while notifying listeners before and after execution.
+// ---
+
 package io.crnk.client.http.okhttp;
 
 import io.crnk.client.http.HttpAdapterListener;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: package.json
+// summary: npm package definition and scripts for building, linting and testing the Angular-ngrx client.
+// ---
+
 package io.crnk.client;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

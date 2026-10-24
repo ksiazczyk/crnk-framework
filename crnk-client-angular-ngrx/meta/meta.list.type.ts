@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: crnk-client-angular-ngrx module exports
+// summary: Re-exports the binding, expression, stub, meta, operations and query modules of the CRNK Angular ngrx client.
+// ---
+
 import {
 	BeanPath,
 	StringPath

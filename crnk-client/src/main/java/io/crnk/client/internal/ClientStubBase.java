@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpAdapterProvider for CRNK HttpAdapter
+// summary: Provides the OkHttp adapter and reports availability by detecting the presence of the okhttp3.OkHttpClient class.
+// ---
+
 package io.crnk.client.internal;
 
 import java.io.IOException;

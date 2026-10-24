@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpAdapterAware
+// summary: Interface that modules can implement to gain access to the HttpAdapter implementation.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.core.queryspec.QuerySpec;

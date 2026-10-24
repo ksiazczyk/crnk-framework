@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ParameterPropagationClientTest
+// summary: Tests that query parameters are propagated through repository calls.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

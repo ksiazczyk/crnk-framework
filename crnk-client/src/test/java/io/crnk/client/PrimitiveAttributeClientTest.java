@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpRequest
+// summary: Builds and executes an OkHttp request while exposing its headers, body and HTTP method.
+// ---
+
 package io.crnk.client;
 
 import java.util.Optional;

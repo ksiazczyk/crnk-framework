@@ -1,3 +1,9 @@
+// ---docerion
+// type: data
+// title: RepositoryData test fixture
+// summary: A data holder class providing static lists of related resources used as fixtures in tests.
+// ---
+
 package io.crnk.client.inheritance.repositories;
 
 import java.util.Collections;

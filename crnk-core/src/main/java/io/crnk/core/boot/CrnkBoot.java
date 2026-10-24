@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkBoot
+// summary: Bootstraps the Crnk framework by wiring together controllers, registries, filters, and modules to process JSON API requests.
+// ---
+
 package io.crnk.core.boot;
 
 import java.util.ArrayList;

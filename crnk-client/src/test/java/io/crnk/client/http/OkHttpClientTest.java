@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OkHttp client adapter test
+// summary: Tests the OkHttp adapter by verifying that its listener receives the build callback during a repository query.
+// ---
+
 package io.crnk.client.http;
 
 import io.crnk.client.CrnkClient;

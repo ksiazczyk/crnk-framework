@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelatedResourceBRepository
+// summary: A CRNK repository that serves a list of RelatedResourceB entities in response to query specifications for inheritance testing.
+// ---
+
 package io.crnk.client.inheritance.repositories.related;
 
 import io.crnk.client.inheritance.repositories.RepositoryData;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelatedResourceB resource with a relation to RelatedResourceAsub1
+// summary: JSON:API resource class holding a single relation back to a RelatedResourceAsub1 instance.
+// ---
+
 package io.crnk.client.inheritance.resources.related;
 
 import io.crnk.core.resource.annotations.JsonApiId;

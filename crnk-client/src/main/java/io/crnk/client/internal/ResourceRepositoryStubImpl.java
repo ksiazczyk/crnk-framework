@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceRepositoryStubImpl repository stub
+// summary: Java implementation of a CRNK resource repository stub that handles bulk create, delete and modify operations against a JSON:API transport.
+// ---
+
 package io.crnk.client.internal;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta repository action type enum
+// summary: Declares the MetaRepositoryActionType enum with repository and resource action kinds.
+// ---
+
 import {
 	BeanPath,
 	StringPath

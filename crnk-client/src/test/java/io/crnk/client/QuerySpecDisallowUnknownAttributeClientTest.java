@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PrimitiveAttributeClientTest
+// summary: Tests creating resources with optional primitive attributes.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.core.exception.BadRequestException;

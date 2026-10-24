@@ -1,3 +1,9 @@
+// ---docerion
+// type: ci
+// title: Build workflow
+// summary: A GitHub Actions workflow that builds the project on push and pull request events using Ubuntu with AdoptOpenJDK 8.
+// ---
+
 import {Directive, ElementRef, forwardRef, Renderer2} from "@angular/core";
 import {DefaultValueAccessor, NG_VALUE_ACCESSOR} from "@angular/forms";
 

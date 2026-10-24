@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpAdapterResponse interface
+// summary: Declares the HttpAdapterResponse interface that exposes response status, body, and header information.
+// ---
+
 package io.crnk.client.http;
 
 import java.io.IOException;

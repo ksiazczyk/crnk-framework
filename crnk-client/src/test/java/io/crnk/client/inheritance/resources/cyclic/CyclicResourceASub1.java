@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Cyclic resource A sub type 1
+// summary: Subclass of CyclicResourceA declaring a JSON:API sub type with a relation to CyclicResourceB.
+// ---
+
 package io.crnk.client.inheritance.resources.cyclic;
 
 import io.crnk.core.resource.annotations.JsonApiRelation;

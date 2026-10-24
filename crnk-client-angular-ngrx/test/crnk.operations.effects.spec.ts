@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta primitive type
+// summary: Defines the MetaPrimitiveType resource model and its query result types.
+// ---
+
 import {getTestBed, TestBed} from '@angular/core/testing';
 
 import 'rxjs/add/operator/merge';

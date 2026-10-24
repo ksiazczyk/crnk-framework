@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DataTableBinding
+// summary: A JavaScript implementation of the data table binding that subscribes to queries and handles lazy loading events.
+// ---
+
 "use strict";
 var Subject_1 = require('rxjs/Subject');
 var _ = require('lodash');

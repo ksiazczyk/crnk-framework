@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CyclicResourceARepository
+// summary: A repository implementation for CyclicResourceA that extends ResourceRepositoryBase and returns an empty list for findAll queries.
+// ---
+
 package io.crnk.client.inheritance.repositories.cyclic;
 
 import java.util.Collections;

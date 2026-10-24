@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: NestedRepositoryClientTest for nested repositories
+// summary: JUnit tests that check URL computation for single and many nested repositories.
+// ---
+
 package io.crnk.client.suite;
 
 import io.crnk.client.internal.ResourceRepositoryStubImpl;

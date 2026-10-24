@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestRequestFilter
+// summary: JAX-RS pre-matching request filter that captures the last received request headers for test assertions.
+// ---
+
 package io.crnk.client;
 
 import javax.ws.rs.container.ContainerRequestContext;

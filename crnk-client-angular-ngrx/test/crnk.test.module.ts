@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta resource repository
+// summary: Defines the MetaResourceRepository model with typed relationships to resource and list types.
+// ---
+
 import {initialNgrxJsonApiState, initialNgrxJsonApiZone} from "ngrx-json-api/src/reducers";
 import {testPayload} from "./crnk.operations.spec.utils";
 import {ActionReducerMap, StoreModule} from "@ngrx/store";

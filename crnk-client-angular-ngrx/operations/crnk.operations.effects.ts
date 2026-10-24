@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Operations effects for applying pending changes
+// summary: NgRx effects class that turns pending store changes into JSON Patch HTTP requests and dispatches success or fail actions.
+// ---
+
 import * as _ from 'lodash';
 
 import {Injectable, Injector} from '@angular/core';

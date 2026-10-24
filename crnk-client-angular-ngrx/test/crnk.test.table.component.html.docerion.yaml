@@ -1,0 +1,4 @@
+# Docerion header of crnk.test.table.component.html.
+type: test
+title: Test table component template
+summary: HTML template for the test table component, rendering a PrimeNG data table bound to a test binding result to verify table binding behavior.

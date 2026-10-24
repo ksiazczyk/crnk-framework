@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NgrxPrimengBindingService
+// summary: Angular service that exposes methods to bind data tables, forms and selectors to the NGRX JSON API service.
+// ---
+
 "use strict";
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
 		var c = arguments.length, r = c < 3 ? target :

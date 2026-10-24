@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelatedResourceAsub1 subtype with a related-resource relation
+// summary: Subtype of RelatedResourceA that adds a many-to-one relation to a list of RelatedResourceB instances.
+// ---
+
 package io.crnk.client.inheritance.resources.related;
 
 import java.util.List;

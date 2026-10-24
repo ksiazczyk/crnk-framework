@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpAdapterListenerBase default listener
+// summary: Base class providing a default no-op implementation of the OkHttpAdapterListener interface.
+// ---
+
 package io.crnk.client.http.okhttp;
 
 import okhttp3.OkHttpClient.Builder;

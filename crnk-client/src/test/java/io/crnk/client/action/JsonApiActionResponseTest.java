@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JsonApiActionResponseTest
+// summary: JUnit test verifying JSON API action responses, including repository actions and resource results returned in JSON API format.
+// ---
+
 package io.crnk.client.action;
 
 import io.crnk.client.AbstractClientTest;

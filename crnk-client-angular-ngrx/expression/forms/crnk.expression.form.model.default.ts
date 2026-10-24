@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Karma test runner configuration
+// summary: Karma test runner configuration that compiles TypeScript specs with karma-typescript and runs them in Chrome.
+// ---
+
 import {Directive, EventEmitter, forwardRef, Inject, Input, OnChanges, OnDestroy, Optional, Output, Self} from '@angular/core';
 import {
 	AsyncValidatorFn,

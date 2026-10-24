@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClientDocumentMapperTest
+// summary: JUnit test verifying ClientDocumentMapper behavior for null data, empty data and error-only documents.
+// ---
+
 package io.crnk.client.internal;
 
 import io.crnk.core.boot.CrnkBoot;

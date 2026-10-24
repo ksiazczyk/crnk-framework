@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpAdapterListenerBase default implementation
+// summary: Base implementation of OkHttpAdapterListener with a no-op onBuild method for subclasses to extend.
+// ---
+
 package io.crnk.client.internal;
 
 import java.io.IOException;

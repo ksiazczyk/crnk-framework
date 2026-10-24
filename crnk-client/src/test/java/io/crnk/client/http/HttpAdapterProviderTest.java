@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: HTTP adapter provider test
+// summary: Verifies HTTP adapter provider selection, priority handling, and that an exception is raised when no provider is installed.
+// ---
+
 package io.crnk.client.http;
 
 import io.crnk.client.AbstractClientTest;
