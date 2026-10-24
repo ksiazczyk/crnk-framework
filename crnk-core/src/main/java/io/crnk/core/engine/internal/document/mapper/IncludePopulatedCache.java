@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: IncludePopulatedCache to avoid include loops
+// summary: Caches resource and field pairs that have already been populated to prevent infinite loops during include processing.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import io.crnk.core.engine.document.Resource;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DocumentFilterContext
+// summary: Interface providing request information to DocumentFilter implementations.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.engine.document.Document;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultRepositoryInformationProviderContext
+// summary: Implements RepositoryInformationProviderContext by delegating resource, type and information builders to a ModuleRegistry.
+// ---
+
 package io.crnk.core.module.internal;
 
 import io.crnk.core.engine.information.InformationBuilder;

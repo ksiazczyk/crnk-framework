@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceRegistry
+// summary: A ResourceRegistryPart exposing convenience methods for finding entries and resolving resource URLs through the Module API.
+// ---
+
 package io.crnk.core.engine.registry;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

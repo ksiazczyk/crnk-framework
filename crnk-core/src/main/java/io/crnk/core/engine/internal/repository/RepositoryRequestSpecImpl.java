@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryRequestSpecImpl implementation
+// summary: Implementation of the repository request spec with factory methods for find, save, delete and related operations.
+// ---
+
 package io.crnk.core.engine.internal.repository;
 
 import io.crnk.core.engine.dispatcher.RepositoryRequestSpec;

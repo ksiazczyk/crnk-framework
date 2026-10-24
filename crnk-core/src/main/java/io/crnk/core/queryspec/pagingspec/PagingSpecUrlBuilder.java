@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PagingSpecUrlBuilder paging URL builder
+// summary: Java class building paging URLs from a query adapter using the module registry URL builder.
+// ---
+
 package io.crnk.core.queryspec.pagingspec;
 
 import io.crnk.core.engine.dispatcher.RepositoryRequestSpec;

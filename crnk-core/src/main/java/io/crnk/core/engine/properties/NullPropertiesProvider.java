@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NullPropertiesProvider
+// summary: An empty properties provider implementation that always returns null for any key.
+// ---
+
 package io.crnk.core.engine.properties;
 
 /**

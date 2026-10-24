@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerySpecVisitor traversal interface
+// summary: Java interface defining visitor methods to traverse a QuerySpec and its nested filtering, sorting, path, field, include and paging components.
+// ---
+
 package io.crnk.core.queryspec.pagingspec;
 
 /**

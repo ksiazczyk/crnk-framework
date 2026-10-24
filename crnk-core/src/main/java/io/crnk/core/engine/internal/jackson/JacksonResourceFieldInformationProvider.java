@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JacksonResourceFieldInformationProvider
+// summary: Jackson-backed provider that inspects bean attributes for access, naming and include annotations to drive resource field serialization.
+// ---
+
 package io.crnk.core.engine.internal.jackson;
 
 import static com.fasterxml.jackson.annotation.JsonInclude.Include.NON_NULL;

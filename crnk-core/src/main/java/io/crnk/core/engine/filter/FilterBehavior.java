@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FilterBehavior
+// summary: Enum describing filter behavior levels and how they merge with each other.
+// ---
+
 package io.crnk.core.engine.filter;
 
 public enum FilterBehavior {

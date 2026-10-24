@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MethodBasedMapper
+// summary: Parses strings by invoking a static method via reflection.
+// ---
+
 package io.crnk.core.engine.parser;
 
 import io.crnk.core.engine.internal.utils.ExceptionUtil;

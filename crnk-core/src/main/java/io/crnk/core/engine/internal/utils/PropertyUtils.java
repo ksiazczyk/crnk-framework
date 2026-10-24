@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PropertyUtils bean property access helper
+// summary: Provides reflection-based access to bean property values, classes and types, including support for navigating nested property paths.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import io.crnk.core.exception.RepositoryMethodException;

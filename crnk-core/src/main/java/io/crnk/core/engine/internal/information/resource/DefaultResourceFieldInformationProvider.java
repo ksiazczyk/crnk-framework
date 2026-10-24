@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExceptionMapperRegistryBuilder constructs the registry
+// summary: Builds an ExceptionMapperRegistry by registering mappers from a lookup, prioritizing them and adding the default mappers.
+// ---
+
 package io.crnk.core.engine.internal.information.resource;
 
 import io.crnk.core.engine.information.bean.BeanAttributeInformation;

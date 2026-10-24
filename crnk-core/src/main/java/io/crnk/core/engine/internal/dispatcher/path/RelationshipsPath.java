@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelationshipsPath for relationship parts of a path
+// summary: Represents a part of a JSON API path that relates to a relationship field via the relationships segment, extending JsonPath.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.path;
 
 import java.io.Serializable;

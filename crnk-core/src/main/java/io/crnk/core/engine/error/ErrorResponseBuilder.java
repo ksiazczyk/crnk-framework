@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ErrorResponseBuilder for constructing error responses
+// summary: Builder that assembles an ErrorResponse from a collection or single error data and a status code.
+// ---
+
 package io.crnk.core.engine.error;
 
 import io.crnk.core.engine.document.ErrorData;

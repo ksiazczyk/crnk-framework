@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcePathSpec abstract resource path spec
+// summary: Abstract base class for typed resource path specs extending PathSpecBase.
+// ---
+
 package io.crnk.core.queryspec.internal.typed;
 
 import io.crnk.core.queryspec.AbstractPathSpec;

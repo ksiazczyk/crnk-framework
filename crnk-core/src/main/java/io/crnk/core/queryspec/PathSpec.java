@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PathSpec
+// summary: Represents a path of elements used for sorting, filtering and including resources in queries.
+// ---
+
 package io.crnk.core.queryspec;
 
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Resource registry implementation
+// summary: Implements the resource registry to store, cache and look up registry entries by resource class or JSON API type.
+// ---
+
 package io.crnk.core.engine.internal.registry;
 
 import io.crnk.core.engine.information.resource.ResourceField;

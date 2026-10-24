@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpHeaders
+// summary: Holds string constants for HTTP header names, content types and the default charset used by crnk.
+// ---
+
 package io.crnk.core.engine.http;
 
 public class HttpHeaders {

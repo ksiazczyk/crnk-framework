@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExceptionMapperRegistry for locating exception mappers
+// summary: Finds the closest exception mapper for a given exception class or error response by distance and super type count.
+// ---
+
 package io.crnk.core.engine.internal.repository;
 
 import io.crnk.core.engine.dispatcher.RepositoryRequestSpec;

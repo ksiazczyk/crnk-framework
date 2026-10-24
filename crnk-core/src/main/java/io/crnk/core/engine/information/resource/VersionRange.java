@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: VersionRange defines an integer version range
+// summary: Defines an integer-based version range with a minimum and maximum and a check for whether a version is contained.
+// ---
+
 package io.crnk.core.engine.information.resource;
 
 import io.crnk.core.engine.internal.utils.PreconditionUtil;

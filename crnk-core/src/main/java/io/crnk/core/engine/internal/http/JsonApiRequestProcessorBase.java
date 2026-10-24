@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiRequestProcessorBase
+// summary: Base class for JSON-API request processors, providing request document parsing and error response construction.
+// ---
+
 package io.crnk.core.engine.internal.http;
 
 import java.io.IOException;

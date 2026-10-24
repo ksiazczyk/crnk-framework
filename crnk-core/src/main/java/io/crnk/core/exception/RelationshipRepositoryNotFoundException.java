@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelationshipRepositoryNotFoundException
+// summary: Exception thrown when a relationship repository for a resource type and field cannot be found in the configured package.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.information.resource.ResourceField;

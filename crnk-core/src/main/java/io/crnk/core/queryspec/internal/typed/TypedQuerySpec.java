@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TypedQuerySpec typed query spec builder
+// summary: Typed query spec builder offering fluent sort, filter, include and field methods that bind results back to the base path.
+// ---
+
 package io.crnk.core.queryspec.internal.typed;
 
 import io.crnk.core.queryspec.Direction;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PrimitivePathSpec typed primitive path spec
+// summary: Concrete typed path spec for primitive values exposing fluent asc, desc and comparison filter helpers.
+// ---
+
 package io.crnk.core.queryspec.internal.typed;
 
 import io.crnk.core.queryspec.AbstractPathSpec;

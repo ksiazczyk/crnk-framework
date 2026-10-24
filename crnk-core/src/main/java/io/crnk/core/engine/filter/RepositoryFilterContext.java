@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryFilterContext
+// summary: Interface providing context information about Crnk and the current request for RepositoryFilter.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.engine.dispatcher.RepositoryRequestSpec;

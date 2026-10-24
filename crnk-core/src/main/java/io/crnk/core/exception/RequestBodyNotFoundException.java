@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RequestBodyNotFoundException
+// summary: Exception thrown when a request body is not found for a given HTTP method and resource name.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

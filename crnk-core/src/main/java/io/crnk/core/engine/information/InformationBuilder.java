@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: InformationBuilder
+// summary: Builder interface that assembles repository, resource, embeddable, and field information for the crnk engine's metadata model.
+// ---
+
 package io.crnk.core.engine.information;
 
 import io.crnk.core.engine.information.repository.RelationshipRepositoryInformation;

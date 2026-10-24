@@ -1,3 +1,8 @@
+// ---docerion
+// type: source
+// title: ExceptionMapperRegistry.java
+// ---
+
 package io.crnk.core.engine.internal.exception;
 
 import io.crnk.core.engine.dispatcher.Response;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkMappableException
+// summary: CrnkMappableException holds error data and HTTP status to be returned to the end user.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

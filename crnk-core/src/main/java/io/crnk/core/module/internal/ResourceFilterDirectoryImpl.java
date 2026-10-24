@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceFilterDirectoryImpl
+// summary: Implements ResourceFilterDirectory to compute and cache filter behavior for resources and their fields.
+// ---
+
 package io.crnk.core.module.internal;
 
 import java.util.List;

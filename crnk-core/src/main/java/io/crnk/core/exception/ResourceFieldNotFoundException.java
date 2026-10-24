@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceFieldNotFoundException
+// summary: Exception thrown when a field within a resource was not found.
+// ---
+
 package io.crnk.core.exception;
 
 /**

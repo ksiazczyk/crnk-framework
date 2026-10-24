@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceInformationProviderModule registers providers
+// summary: Module that registers the default and Jackson resource field information providers with the resource information provider context.
+// ---
+
 package io.crnk.core.engine.information.resource;
 
 import io.crnk.core.engine.internal.information.resource.DefaultResourceFieldInformationProvider;

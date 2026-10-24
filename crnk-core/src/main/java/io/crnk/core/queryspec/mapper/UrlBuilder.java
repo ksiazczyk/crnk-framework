@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UrlBuilder
+// summary: Interface building URLs from query contexts and specifications, with support for propagated parameters.
+// ---
+
 package io.crnk.core.queryspec.mapper;
 
 import java.util.Set;

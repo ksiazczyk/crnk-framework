@@ -1,3 +1,11 @@
+// ---docerion
+// type: source
+// title: Module interface
+// summary: Core interface for Crnk extensions, exposing a ModuleContext used to register filters, processors, registries and other functionality.
+// relations:
+//   - references /crnk-core/src/main/java/io/crnk/core/module/ModuleExtension.java
+// ---
+
 package io.crnk.core.module;
 
 import java.util.List;

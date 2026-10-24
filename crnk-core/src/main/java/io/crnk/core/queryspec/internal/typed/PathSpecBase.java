@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PathSpecBase abstract typed path spec
+// summary: Abstract base class for typed path specs that provides sorting, filtering and path appending operations backed by a bound spec.
+// ---
+
 package io.crnk.core.queryspec.internal.typed;
 
 import io.crnk.core.queryspec.AbstractPathSpec;

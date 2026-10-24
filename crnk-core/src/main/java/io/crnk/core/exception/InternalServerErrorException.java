@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: InternalServerErrorException
+// summary: InternalServerErrorException maps HTTP 500 responses to end users with an INTERNAL_SERVER_ERROR title.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

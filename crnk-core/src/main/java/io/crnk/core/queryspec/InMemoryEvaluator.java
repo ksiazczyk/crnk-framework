@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: InMemoryEvaluator
+// summary: Applies query specifications such as filter, sort and paging to a list of resources held in memory.
+// ---
+
 package io.crnk.core.queryspec;
 
 import io.crnk.core.engine.information.resource.ResourceField;

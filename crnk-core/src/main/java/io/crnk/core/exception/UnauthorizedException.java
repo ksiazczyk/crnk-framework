@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UnauthorizedException
+// summary: An exception mapped to HTTP 401 thrown when a client is not authenticated to access a resource.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

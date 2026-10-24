@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MultivaluedMap maps keys to lists of values
+// summary: A map that associates each key with a list of values and offers helpers to add, retrieve and enforce uniqueness.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import java.util.ArrayList;

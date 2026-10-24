@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceFieldInformationProvider interface
+// summary: Interface providing information needed to serialize or skip resource fields.
+// ---
+
 package io.crnk.core.engine.information.resource;
 
 import io.crnk.core.engine.information.bean.BeanAttributeInformation;

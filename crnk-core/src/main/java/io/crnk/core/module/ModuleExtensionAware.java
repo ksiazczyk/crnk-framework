@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ModuleExtensionAware interface
+// summary: Interface for modules that receive extensions from other modules before initialization completes.
+// ---
+
 package io.crnk.core.module;
 
 import java.util.List;

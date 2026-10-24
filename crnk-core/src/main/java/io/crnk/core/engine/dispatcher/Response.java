@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Response class
+// summary: Class holding an HTTP status code and document, converting them into an HttpResponse with a serialized body.
+// ---
+
 package io.crnk.core.engine.dispatcher;
 
 import java.util.Objects;

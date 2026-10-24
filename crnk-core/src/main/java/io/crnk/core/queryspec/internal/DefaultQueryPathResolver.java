@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultQueryPathResolver
+// summary: Resolves query attribute paths into typed query path specs by mapping JSON or underlying names onto resource fields and their subtypes.
+// ---
+
 package io.crnk.core.queryspec.internal;
 
 import io.crnk.core.engine.document.ErrorData;

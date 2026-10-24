@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SortSpec sort direction specification
+// summary: Java class representing a sort specification with a path and ascending or descending direction, including factory methods and reversal support.
+// ---
+
 package io.crnk.core.queryspec.pagingspec;
 
 import io.crnk.core.engine.internal.utils.CompareUtils;

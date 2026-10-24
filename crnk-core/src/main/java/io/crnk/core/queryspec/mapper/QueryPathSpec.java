@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryPathSpec
+// summary: Represents a resolved query path with its value type, attribute path and resource fields.
+// ---
+
 package io.crnk.core.queryspec.mapper;
 
 import io.crnk.core.engine.information.resource.ResourceField;

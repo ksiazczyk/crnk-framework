@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ParametersDeserializationException
+// summary: ParametersDeserializationException is thrown when request parameters cannot be read.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

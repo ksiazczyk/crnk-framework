@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MethodCache caches reflected methods by class, name and parameters
+// summary: Caches reflected methods keyed by class, name and parameter types using a concurrent map.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import java.lang.reflect.Method;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpResponse
+// summary: Class holding the HTTP response status code, headers and body with helpers for setting content type.
+// ---
+
 package io.crnk.core.engine.http;
 
 import java.nio.charset.Charset;

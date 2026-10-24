@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UrlUtils
+// summary: Manipulates URLs by adding or removing leading and trailing slashes and concatenating paths.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 public class UrlUtils {

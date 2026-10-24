@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerySpecVisitorBase default visitor
+// summary: Java base class implementing QuerySpecVisitor with default no-op traversal methods that subclasses can override.
+// ---
+
 package io.crnk.core.queryspec;
 
 import io.crnk.core.queryspec.pagingspec.PagingSpec;

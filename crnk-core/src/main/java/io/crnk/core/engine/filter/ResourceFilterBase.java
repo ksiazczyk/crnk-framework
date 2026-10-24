@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceFilterBase class
+// summary: Base class for ResourceFilter that grants full access to all resources and fields by default.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.engine.http.HttpMethod;

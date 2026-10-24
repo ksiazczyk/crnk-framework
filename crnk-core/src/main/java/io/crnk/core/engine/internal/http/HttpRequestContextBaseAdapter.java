@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpRequestContextBaseAdapter
+// summary: A Java adapter implementing HttpRequestContext by delegating to an HttpRequestContextBase and parsing the API version from the accept header or URL parameter.
+// ---
+
 package io.crnk.core.engine.internal.http;
 
 import java.net.URI;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceInformation holds resource type information
+// summary: Holds information about the type of a resource, including its id field, relationship fields, meta and links fields, and version range.
+// ---
+
 package io.crnk.core.engine.information.resource;
 
 import com.fasterxml.jackson.annotation.JsonAnyGetter;

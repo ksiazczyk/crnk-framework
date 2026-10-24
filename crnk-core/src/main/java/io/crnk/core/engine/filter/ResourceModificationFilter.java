@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceModificationFilter interface
+// summary: Interface to intercept and filter resource modifications such as attributes and relationships.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.engine.document.ResourceIdentifier;

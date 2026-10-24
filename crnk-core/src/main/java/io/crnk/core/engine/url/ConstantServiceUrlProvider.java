@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ConstantServiceUrlProvider
+// summary: A Java class implementing ServiceUrlProvider that returns a fixed URL string supplied through its constructor.
+// ---
+
 package io.crnk.core.engine.url;
 
 

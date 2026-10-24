@@ -1,3 +1,12 @@
+// ---docerion
+// type: source
+// title: SimpleModule class
+// summary: Simple vanilla Module implementation that collects and registers extensions, filters and providers during setup.
+// relations:
+//   - implements /crnk-core/src/main/java/io/crnk/core/module/Module.java
+//   - references /crnk-core/src/main/java/io/crnk/core/module/ModuleExtension.java
+// ---
+
 package io.crnk.core.module;
 
 import io.crnk.core.engine.error.ExceptionMapper;

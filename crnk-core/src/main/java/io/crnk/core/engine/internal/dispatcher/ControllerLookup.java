@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ControllerLookup
+// summary: Interface that returns the set of registered controller instances used by the dispatcher.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher;
 
 import io.crnk.core.engine.internal.dispatcher.controller.BaseController;

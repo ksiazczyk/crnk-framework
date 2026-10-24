@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkInitializationException
+// summary: CrnkInitializationException covers exceptions thrown during Crnk startup such as building the resource registry.
+// ---
+
 package io.crnk.core.exception;
 
 /**

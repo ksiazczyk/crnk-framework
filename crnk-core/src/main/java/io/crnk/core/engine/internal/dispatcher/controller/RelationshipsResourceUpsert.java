@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelationshipsResourceUpsert
+// summary: Abstract controller that processes To-Many and To-One relationship upsert operations for JSON:API resources.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import java.io.Serializable;

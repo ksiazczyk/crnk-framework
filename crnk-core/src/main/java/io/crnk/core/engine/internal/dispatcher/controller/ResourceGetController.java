@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceGetController
+// summary: Handles GET requests for a single resource by fetching it from the repository and converting the result to a response document.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import java.io.Serializable;

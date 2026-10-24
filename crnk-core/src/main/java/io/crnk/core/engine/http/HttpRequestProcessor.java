@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpRequestProcessor
+// summary: Interface for processing HTTP requests with default async and reactive support hooks.
+// ---
+
 package io.crnk.core.engine.http;
 
 import io.crnk.core.engine.result.Result;

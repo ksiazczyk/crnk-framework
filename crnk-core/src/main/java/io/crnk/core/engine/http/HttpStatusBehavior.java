@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpStatusBehavior interface
+// summary: Interface for computing HTTP status codes for responses, with implementations registered through a module context.
+// ---
+
 package io.crnk.core.engine.http;
 
 /**

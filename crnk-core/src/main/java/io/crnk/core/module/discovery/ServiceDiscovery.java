@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ServiceDiscovery
+// summary: Interface used to integrate Crnk into dependency management frameworks by discovering instances by type or annotation.
+// ---
+
 package io.crnk.core.module.discovery;
 
 import java.lang.annotation.Annotation;

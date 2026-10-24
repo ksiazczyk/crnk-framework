@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ErrorDataSerializer
+// summary: Serializes the top-level JSON API Errors object into its wire representation including links, status, code, title, detail, source and meta.
+// ---
+
 package io.crnk.core.engine.internal.jackson;
 
 import com.fasterxml.jackson.core.JsonParser;

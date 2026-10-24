@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpMethod
+// summary: Enum listing the HTTP methods supported by crnk since it has no RESTful dependency to store them.
+// ---
+
 package io.crnk.core.engine.http;
 
 /**

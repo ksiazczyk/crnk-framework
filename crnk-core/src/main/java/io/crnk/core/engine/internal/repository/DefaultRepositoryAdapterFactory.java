@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkExceptionMapper for generic mappable exceptions
+// summary: Maps a generic CrnkMappableException to an error response and reconstructs specific exceptions from HTTP status codes.
+// ---
+
 package io.crnk.core.engine.internal.repository;
 
 import io.crnk.core.engine.information.repository.RelationshipRepositoryInformation;

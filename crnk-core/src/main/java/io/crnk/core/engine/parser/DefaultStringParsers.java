@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultStringParsers
+// summary: Registers string parsers for standard Java types such as numbers, booleans, characters and UUIDs.
+// ---
+
 package io.crnk.core.engine.parser;
 
 import java.math.BigDecimal;

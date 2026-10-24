@@ -1,3 +1,8 @@
+// ---docerion
+// type: source
+// title: ResourceFieldImpl.java
+// ---
+
 package io.crnk.core.engine.internal.information.resource;
 
 import io.crnk.core.engine.document.Resource;

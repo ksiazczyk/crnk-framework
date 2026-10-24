@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryLinksFilterChain
+// summary: Interface managing the chain of repository filters to resolve links information.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.resource.links.LinksInformation;

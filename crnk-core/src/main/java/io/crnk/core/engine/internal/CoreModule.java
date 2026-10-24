@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CoreModule
+// summary: CoreModule implements the Module interface to register the default HTTP status behavior, repository adapter factory, and repository information providers during module setup.
+// ---
+
 package io.crnk.core.engine.internal;
 
 import io.crnk.core.engine.http.DefaultHttpStatusBehavior;

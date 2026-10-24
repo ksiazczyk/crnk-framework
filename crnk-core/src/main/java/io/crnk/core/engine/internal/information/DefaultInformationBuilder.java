@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultInformationBuilder
+// summary: Builds information about JSON:API resources, relationships and repositories for the crnk engine by implementing the InformationBuilder interface.
+// ---
+
 package io.crnk.core.engine.internal.information;
 
 import io.crnk.core.engine.information.InformationBuilder;

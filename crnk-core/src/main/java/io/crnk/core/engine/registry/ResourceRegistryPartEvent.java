@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceRegistryPartEvent
+// summary: An event carrying the ResourceRegistryPart that triggered a registry change.
+// ---
+
 package io.crnk.core.engine.registry;
 
 public class ResourceRegistryPartEvent {

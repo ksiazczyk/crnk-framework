@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResponseRepositoryAdapter abstract adapter
+// summary: Abstract adapter providing a common layer between controllers and repositories with filtering and response handling.
+// ---
+
 package io.crnk.core.engine.internal.repository;
 
 import io.crnk.core.engine.dispatcher.RepositoryRequestSpec;

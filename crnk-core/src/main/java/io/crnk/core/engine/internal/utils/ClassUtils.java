@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExceptionMapperRegistry resolves the closest mapper for a throwable
+// summary: Holds a list of exception mapper types and finds the closest mapper for a given throwable class by inheritance distance.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import java.lang.annotation.Annotation;

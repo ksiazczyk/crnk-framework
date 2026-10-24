@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceIncludeField
+// summary: Abstract base controller that validates the presence of a request document before processing.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import io.crnk.core.engine.document.Document;

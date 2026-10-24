@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SecurityProvider interface
+// summary: Java interface defining methods to check whether a user is in a role and whether the user is authenticated within the security engine.
+// ---
+
 package io.crnk.core.engine.security;
 
 public interface SecurityProvider {

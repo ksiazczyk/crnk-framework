@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiRequestProcessorHelper
+// summary: Helper building JSON paths and query adapters from incoming HTTP request context for the request processor.
+// ---
+
 package io.crnk.core.engine.internal.http;
 
 import io.crnk.core.engine.http.HttpRequestContext;

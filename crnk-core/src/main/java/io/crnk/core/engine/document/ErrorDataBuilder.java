@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Response value object
+// summary: Holds an HTTP status code and a document, and converts them into an HttpResponse with a serialized JSON body.
+// ---
+
 package io.crnk.core.engine.document;
 
 import java.util.HashMap;

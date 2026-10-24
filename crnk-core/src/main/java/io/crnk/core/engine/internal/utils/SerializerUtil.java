@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SerializerUtil
+// summary: Serializes and deserializes resource links as either JSON attributes or JSON objects.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import java.io.IOException;

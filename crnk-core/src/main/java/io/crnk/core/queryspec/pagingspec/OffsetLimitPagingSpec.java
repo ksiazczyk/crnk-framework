@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryPathSpec mapper source
+// summary: Java source file in the queryspec mapper package, though the provided excerpt appears mismatched with the file path.
+// ---
+
 package io.crnk.core.queryspec.pagingspec;
 
 import io.crnk.core.engine.internal.utils.CompareUtils;

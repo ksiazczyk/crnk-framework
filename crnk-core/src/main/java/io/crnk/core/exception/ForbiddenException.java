@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ForbiddenException
+// summary: ForbiddenException maps HTTP 403 responses for access-denied situations.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

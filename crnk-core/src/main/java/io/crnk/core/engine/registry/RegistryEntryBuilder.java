@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RegistryEntryBuilder
+// summary: A builder interface for constructing RegistryEntry instances from repository implementations.
+// ---
+
 package io.crnk.core.engine.registry;
 
 import io.crnk.core.engine.information.InformationBuilder;

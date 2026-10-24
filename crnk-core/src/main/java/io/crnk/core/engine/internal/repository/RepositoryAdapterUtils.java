@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryAdapterUtils for enriching link information
+// summary: Utility methods that enrich link information, including paging links, for repository responses.
+// ---
+
 package io.crnk.core.engine.internal.repository;
 
 import io.crnk.core.engine.dispatcher.RepositoryRequestSpec;

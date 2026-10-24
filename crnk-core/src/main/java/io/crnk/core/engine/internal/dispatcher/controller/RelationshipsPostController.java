@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelationshipsPostController adds relationships
+// summary: Controller handling POST requests that add or set relationships, applying modification filters before persisting.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import java.io.Serializable;

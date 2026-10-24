@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelationshipRepositoryInformationImpl
+// summary: Implementation of the relationship repository information interface that stores the method access and relationship matcher.
+// ---
+
 package io.crnk.core.engine.internal.information.repository;
 
 import io.crnk.core.engine.information.repository.RelationshipRepositoryInformation;

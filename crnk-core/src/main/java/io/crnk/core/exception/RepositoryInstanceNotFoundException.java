@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryInstanceNotFoundException
+// summary: Exception thrown when the repository instance for a resource cannot be found.
+// ---
+
 package io.crnk.core.exception;
 
 /**

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: EmptyServiceDiscovery
+// summary: A no-op ServiceDiscovery that returns empty lists for all instance lookups.
+// ---
+
 package io.crnk.core.module.discovery;
 
 import java.lang.annotation.Annotation;

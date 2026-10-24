@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryAdapterFactory for building repository adapters
+// summary: Interface that accepts repositories and creates or decorates resource and relationship repository adapters.
+// ---
+
 package io.crnk.core.engine.internal.repository;
 
 import io.crnk.core.engine.information.repository.RelationshipRepositoryInformation;

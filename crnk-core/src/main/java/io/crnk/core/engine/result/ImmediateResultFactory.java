@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ImmediateResultFactory
+// summary: Factory that creates immediate results and executes all operators on the current thread, with thread-local context management.
+// ---
+
 package io.crnk.core.engine.result;
 
 import java.util.ArrayList;

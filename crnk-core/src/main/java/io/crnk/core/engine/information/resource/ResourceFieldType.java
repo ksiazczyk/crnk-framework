@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceFieldType enum
+// summary: Enum classifying resource fields as ID, attribute, relationship or information, with a filter helper.
+// ---
+
 package io.crnk.core.engine.information.resource;
 
 import java.util.ArrayList;

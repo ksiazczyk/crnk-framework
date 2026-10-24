@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceFilterDirectory interface
+// summary: Interface that checks all repository filters whether a given type or field is filtered and verifies field access.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.engine.http.HttpMethod;

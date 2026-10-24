@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceDuplicateIdException
+// summary: Exception thrown when a resource contains more than one field annotated with JsonApiId.
+// ---
+
 package io.crnk.core.exception;
 
 /**

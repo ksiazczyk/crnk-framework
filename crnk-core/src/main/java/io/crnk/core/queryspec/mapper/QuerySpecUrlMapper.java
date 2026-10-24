@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerySpecUrlMapper
+// summary: Interface converting a query spec into URL parameters and back.
+// ---
+
 package io.crnk.core.queryspec.mapper;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

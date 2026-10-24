@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceFieldImmutableWriteBehavior
+// summary: Enum controlling whether immutable fields are ignored or cause failures on PATCH and POST requests.
+// ---
+
 package io.crnk.core.engine.properties;
 
 import io.crnk.core.boot.CrnkProperties;

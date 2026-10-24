@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultRegistryEntryBuilder
+// summary: Builds registry entries for resources and their repositories using the information builder and module registry.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 public class PreconditionUtil {

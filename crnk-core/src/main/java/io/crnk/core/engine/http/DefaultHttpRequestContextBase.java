@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultHttpRequestContextBase
+// summary: Abstract base for HTTP request context that rewrites the request URI based on the X-Forwarded-Proto header when configured.
+// ---
+
 package io.crnk.core.engine.http;
 
 import java.net.URI;

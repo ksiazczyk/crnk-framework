@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RegistryEntry
+// summary: An interface representing a registered resource entry, exposing its repositories, information and parent relationships.
+// ---
+
 package io.crnk.core.engine.registry;
 
 import java.io.Serializable;

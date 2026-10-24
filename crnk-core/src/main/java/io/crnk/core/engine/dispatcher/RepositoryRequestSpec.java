@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryRequestSpec interface
+// summary: Interface describing information about the current request, including the HTTP method, query spec, relationship field, and involved entity.
+// ---
+
 package io.crnk.core.engine.dispatcher;
 
 import io.crnk.core.engine.http.HttpMethod;

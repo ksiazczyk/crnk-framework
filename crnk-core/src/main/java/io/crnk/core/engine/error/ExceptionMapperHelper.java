@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExceptionMapperHelper with static error mapping utilities
+// summary: Static helpers that build error responses from throwables, extract error messages, and decide whether a mapper accepts a given response.
+// ---
+
 package io.crnk.core.engine.error;
 
 import io.crnk.core.engine.document.ErrorData;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BeanInformation bean class metadata cache
+// summary: Caches and exposes reflection-based metadata about a bean class, its attributes, super type and implemented interfaces.
+// ---
+
 package io.crnk.core.engine.information.bean;
 
 import io.crnk.core.engine.internal.utils.ClassUtils;

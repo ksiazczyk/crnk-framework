@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultHttpStatusBehavior
+// summary: Default status code behavior returning 204, 201 or 200 depending on the response document and HTTP method.
+// ---
+
 package io.crnk.core.engine.http;
 
 import io.crnk.core.engine.document.Document;

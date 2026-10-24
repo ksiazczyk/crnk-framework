@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ErrorResponse holding error data and HTTP status
+// summary: Holds a collection of error data together with an HTTP status and can convert itself into a JSON API response or a server response document.
+// ---
+
 package io.crnk.core.engine.error;
 
 import io.crnk.core.engine.dispatcher.Response;

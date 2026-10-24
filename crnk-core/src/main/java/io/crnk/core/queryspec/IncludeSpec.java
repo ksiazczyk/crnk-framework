@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: IncludeSpec
+// summary: Abstract base class for include specifications describing paths to include in a query.
+// ---
+
 package io.crnk.core.queryspec;
 
 import java.io.Serializable;

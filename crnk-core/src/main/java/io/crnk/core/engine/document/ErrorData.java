@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RequestDispatcher interface
+// summary: Interface that processes an HTTP request context and dispatches actions, with deprecated methods superseded by JsonApiRequestProcessor.
+// ---
+
 package io.crnk.core.engine.document;
 
 import java.io.Serializable;

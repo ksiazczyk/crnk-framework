@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Repository information provider context
+// summary: Context interface providing the resource information builder, type parser and information builder used during repository information construction.
+// ---
+
 package io.crnk.core.engine.information.repository;
 
 import io.crnk.core.engine.information.InformationBuilder;

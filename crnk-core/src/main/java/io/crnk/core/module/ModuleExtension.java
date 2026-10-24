@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ModuleExtension interface
+// summary: Base interface for a model extending a target module, identifying the module it extends and whether it is optional.
+// ---
+
 package io.crnk.core.module;
 
 /**

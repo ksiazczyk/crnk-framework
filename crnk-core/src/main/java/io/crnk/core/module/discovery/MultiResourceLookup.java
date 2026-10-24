@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MultiResourceLookup
+// summary: Aggregates the resource classes reported by all registered ResourceLookup instances.
+// ---
+
 package io.crnk.core.module.discovery;
 
 import io.crnk.core.module.Module;

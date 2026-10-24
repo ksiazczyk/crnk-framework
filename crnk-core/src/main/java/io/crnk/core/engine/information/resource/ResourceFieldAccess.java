@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceFieldAccess
+// summary: Holds the access flags (readable, postable, patchable, deletable, sortable, filterable) that describe how a resource field can be used in HTTP requests.
+// ---
+
 package io.crnk.core.engine.information.resource;
 
 import io.crnk.core.engine.http.HttpMethod;

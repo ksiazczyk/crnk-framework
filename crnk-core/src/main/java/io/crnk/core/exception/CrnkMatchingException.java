@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkMatchingException
+// summary: CrnkMatchingException marks exceptions that are part of method matching and should be logged rather than returned.
+// ---
+
 package io.crnk.core.exception;
 
 /**

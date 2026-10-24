@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryRequestSpec interface
+// summary: Interface describing information about the current request, including HTTP method, query spec, relationship field, and involved entity or ids.
+// ---
+
 package io.crnk.core.engine.document;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;

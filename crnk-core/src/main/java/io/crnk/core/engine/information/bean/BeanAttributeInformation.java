@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BeanAttributeInformation bean attribute metadata
+// summary: Holds reflection-based metadata about a single bean attribute, including its field, getter, setter, JSON name and cached annotations.
+// ---
+
 package io.crnk.core.engine.information.bean;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceUtils typed id conversion helper
+// summary: Converts ResourceIdentifier values into typed identifiers so relationships can use proper types instead of raw identifiers.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import java.util.ArrayList;

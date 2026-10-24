@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceIdNotFoundException
+// summary: A resource exception thrown when a class does not contain a field annotated with JsonApiId.
+// ---
+
 package io.crnk.core.exception;
 
 /**

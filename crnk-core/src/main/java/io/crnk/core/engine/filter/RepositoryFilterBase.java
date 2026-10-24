@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryFilterBase
+// summary: Base class for RepositoryFilter implementations that forwards calls to the next filter.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.repository.response.JsonApiResponse;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceValidator validates entities (deprecated)
+// summary: Deprecated interface for validating an entity against a request document.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import io.crnk.core.engine.document.ResourceIdentifier;

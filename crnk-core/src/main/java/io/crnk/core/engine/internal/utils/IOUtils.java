@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: IOUtils reads input streams fully and writes files
+// summary: Reads an input stream completely into a byte array and writes text to a file, creating parent directories as needed.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import java.io.ByteArrayOutputStream;
