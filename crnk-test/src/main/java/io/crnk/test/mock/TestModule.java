@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestModule
+// summary: Registers a large set of in-memory repositories and relationships used to exercise the CRNK framework in tests.
+// ---
+
 package io.crnk.test.mock;
 
 import io.crnk.core.module.Module;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RandomWalkLinkCheckerTest
+// summary: A JUnit test that boots a Crnk application with in-memory repositories and asserts the RandomWalkLinkChecker visits the expected set of URLs.
+// ---
+
 package io.crnk.testkit;
 
 

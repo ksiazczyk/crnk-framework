@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectData mock model
+// summary: Simple model holding a NotNull value field, used as a test fixture for validation.
+// ---
+
 package io.crnk.validation.mock.models;
 
 import javax.validation.constraints.NotNull;

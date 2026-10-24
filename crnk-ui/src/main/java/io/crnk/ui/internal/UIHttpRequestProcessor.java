@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UI HTTP Request Processor
+// summary: An HTTP request processor that serves static UI resources such as CSS, HTML, and JavaScript from the classpath for GET requests matching the configured path prefix.
+// ---
+
 package io.crnk.ui.internal;
 
 import io.crnk.core.engine.http.HttpMethod;

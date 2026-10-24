@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationIdTestResource
+// summary: A JSON API resource exercising relation id and lookup include behaviors.
+// ---
+
 package io.crnk.test.mock.models;
 
 import io.crnk.core.engine.document.ResourceIdentifier;

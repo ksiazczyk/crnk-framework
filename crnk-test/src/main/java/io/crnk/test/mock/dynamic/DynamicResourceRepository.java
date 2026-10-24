@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DynamicResourceRepository
+// summary: Mock resource repository that keeps resources in a map and supports find, create, save and delete operations.
+// ---
+
 package io.crnk.test.mock.dynamic;
 
 import io.crnk.core.engine.document.Resource;

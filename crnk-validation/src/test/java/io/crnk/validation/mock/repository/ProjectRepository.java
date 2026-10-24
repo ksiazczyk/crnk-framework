@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Mock repository for Project entities
+// summary: A mock CRNK repository that stores Project entities in memory and runs Bean Validation on save.
+// ---
+
 package io.crnk.validation.mock.repository;
 
 import io.crnk.core.exception.ResourceNotFoundException;

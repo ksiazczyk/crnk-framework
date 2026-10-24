@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ActionContainerElement
+// summary: Holds a list of action IDs and a map of ActionElement instances for a container of UI actions.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 

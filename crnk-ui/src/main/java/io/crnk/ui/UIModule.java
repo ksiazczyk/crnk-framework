@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UIModule Crnk module for the UI presentation layer
+// summary: A Crnk module that wires up the UI, presentation services, repositories, and meta lookup for the browser-based presentation layer.
+// ---
+
 package io.crnk.ui;
 
 

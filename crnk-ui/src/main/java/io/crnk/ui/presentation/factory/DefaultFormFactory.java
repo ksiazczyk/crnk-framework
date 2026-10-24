@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TableColumnElement
+// summary: Defines a single table column with id, label, width, editability, sortability and optional edit component and filter.
+// ---
+
 package io.crnk.ui.presentation.factory;
 
 import java.util.ArrayDeque;

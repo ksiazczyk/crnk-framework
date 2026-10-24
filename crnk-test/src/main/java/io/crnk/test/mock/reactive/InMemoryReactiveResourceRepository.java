@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: InMemoryReactiveResourceRepository
+// summary: An in-memory reactive resource repository base class that stores resources in a concurrent map and simulates errors for specific IDs.
+// ---
+
 package io.crnk.test.mock.reactive;
 
 import io.crnk.core.engine.information.resource.ResourceField;

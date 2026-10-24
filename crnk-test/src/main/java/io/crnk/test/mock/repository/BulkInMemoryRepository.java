@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: crnk-validation build configuration
+// summary: Gradle build configuration for the crnk-validation module, declaring compile and test dependencies on crnk-core, hibernate-validator and Spring.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import io.crnk.core.repository.BulkResourceRepository;

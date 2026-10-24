@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DataTableEditElement
+// summary: Configures data table editing with a new resource template, relationships, and deletion or insertion permissions.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 import com.fasterxml.jackson.databind.node.ObjectNode;

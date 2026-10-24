@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FilterElement
+// summary: Represents a filter with a path, a filter operator, and an input presentation element.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ScheduleStatus
+// summary: JSON:API resource model representing a schedule status with an id and description.
+// ---
+
 package io.crnk.test.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiId;

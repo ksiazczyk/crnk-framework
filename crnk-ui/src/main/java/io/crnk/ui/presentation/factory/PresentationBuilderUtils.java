@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DataTableElement
+// summary: Presentation element building a data table with pagination, columns and editability, excerpt truncated.
+// ---
+
 package io.crnk.ui.presentation.factory;
 
 import io.crnk.core.queryspec.PathSpec;

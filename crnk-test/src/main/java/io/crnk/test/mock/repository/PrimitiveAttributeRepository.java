@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Historic task repository
+// summary: In-memory repository for historic task resources.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import io.crnk.core.repository.InMemoryResourceRepository;

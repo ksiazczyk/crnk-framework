@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MenuElement
+// summary: A menu element holding a label.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 public class MenuElement extends PresentationElement {

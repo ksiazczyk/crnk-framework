@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FormContainerElement
+// summary: A container element that groups form elements and exposes their children and an optional maximum width.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 

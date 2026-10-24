@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NestedManyRelationshipRepository
+// summary: Relationship repository implementing many-target nested relationships between PostComment and NestedRelatedResource.
+// ---
+
 package io.crnk.test.mock.repository.nested;
 
 import io.crnk.core.queryspec.QuerySpec;

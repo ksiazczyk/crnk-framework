@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FormElement
+// summary: A wrapper element representing a form with a label and an editable flag.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 

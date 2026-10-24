@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PresentationLabel annotation
+// summary: A Java runtime annotation that labels presentation fields with a metadata nature value.
+// ---
+
 package io.crnk.ui.presentation.annotation;
 
 import java.lang.annotation.Documented;

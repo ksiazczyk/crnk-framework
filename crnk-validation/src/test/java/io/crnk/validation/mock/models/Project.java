@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Project mock model
+// summary: JsonApiResource model with relations to Task and ProjectData, serving as a test fixture for validation.
+// ---
+
 package io.crnk.validation.mock.models;
 
 import java.util.ArrayList;

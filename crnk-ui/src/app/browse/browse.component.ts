@@ -1,3 +1,12 @@
+// ---docerion
+// type: source
+// title: Browse component
+// summary: Angular component that renders a document browser with tree and JSON views, handling preferences, queries and HTTP responses.
+// relations:
+//   - part_of /crnk-ui/src/app/browse/browse.component.html
+//   - depends_on /crnk-ui/src/app/browse/browse.service.ts
+// ---
+
 import * as _ from "lodash";
 import {TreeNode} from "primeng/primeng";
 import {Http, Response, RequestOptions, Headers} from "@angular/http";

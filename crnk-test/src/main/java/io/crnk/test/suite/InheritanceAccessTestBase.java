@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: InheritanceAccessTestBase test base class
+// summary: Abstract JUnit test base class that sets up task, project and relationship repositories to verify inheritance-based access control behavior.
+// ---
+
 package io.crnk.test.suite;
 
 import io.crnk.core.queryspec.Direction;

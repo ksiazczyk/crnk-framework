@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: NestedRepositoryAccessTestBase abstract test
+// summary: Abstract test base class covering create, update, find and delete operations on nested resources.
+// ---
+
 package io.crnk.test.suite;
 
 import io.crnk.core.exception.ResourceNotFoundException;

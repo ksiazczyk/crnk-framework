@@ -2,6 +2,15 @@
 
 //apply plugin: 'com.moowork.node'
 
+// ---docerion
+// type: config
+// title: Gradle build configuration for crnk-ui
+// summary: Gradle build script wiring Java project dependencies and the npm build task for the Angular UI.
+// relations:
+//   - references /crnk-ui/angular-cli.json
+//   - references /crnk-ui/package.json
+// ---
+
 apply plugin: 'java'
 
 dependencies {

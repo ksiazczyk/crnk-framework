@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ParentRepository
+// summary: In-memory mock repository that supplies Post parent resources for nested relationship testing.
+// ---
+
 package io.crnk.test.mock.repository.nested;
 
 import io.crnk.core.repository.InMemoryResourceRepository;

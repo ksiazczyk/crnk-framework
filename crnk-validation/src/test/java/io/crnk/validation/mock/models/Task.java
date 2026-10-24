@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Task mock model
+// summary: JsonApiResource model with multiple Project relations and meta and links information, used for validation.
+// ---
+
 package io.crnk.validation.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiId;

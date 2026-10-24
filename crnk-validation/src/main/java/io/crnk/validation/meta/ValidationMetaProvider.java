@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ValidationMetaProvider
+// summary: Integrates into crnk-meta to disable nullability for attributes annotated with javax.validation.constraints.NotNull.
+// ---
+
 package io.crnk.validation.meta;
 
 import io.crnk.meta.model.MetaAttribute;

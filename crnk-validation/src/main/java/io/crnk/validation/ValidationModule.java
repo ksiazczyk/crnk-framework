@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ValidationModule
+// summary: A CRNK module that configures bean validation by registering exception mappers and an optional repository filter for resource validation.
+// ---
+
 package io.crnk.validation;
 
 import io.crnk.core.module.Module;

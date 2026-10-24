@@ -1,0 +1,4 @@
+# Docerion header of app.component.html.
+type: source
+title: Root component HTML template
+summary: HTML template defining the layout structure of the root component, including the topbar and router outlet.

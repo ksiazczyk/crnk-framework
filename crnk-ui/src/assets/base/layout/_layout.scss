@@ -1,3 +1,13 @@
+/*docerion
+type: source
+title: Browse component
+summary: Angular component that renders a document browser with tree and JSON views, handling preferences, queries and HTTP responses.
+relations:
+  - depends_on /crnk-ui/src/assets/base/layout/_utils.scss
+  - depends_on /crnk-ui/src/assets/base/layout/_splash.scss
+  - depends_on /crnk-ui/src/assets/base/layout/_main.scss
+*/
+
 @import '../_variables';
 @import '../_mixins';
 @import '../_fonts';

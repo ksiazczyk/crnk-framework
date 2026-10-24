@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryElement
+// summary: A query element describing resource type, pagination, filtering, sorting and inclusions.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 import io.crnk.core.queryspec.FilterSpec;

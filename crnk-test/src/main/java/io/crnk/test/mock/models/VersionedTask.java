@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: VersionedTask
+// summary: JSON:API resource model with versioned fields controlling serialization across API versions.
+// ---
+
 package io.crnk.test.mock.models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

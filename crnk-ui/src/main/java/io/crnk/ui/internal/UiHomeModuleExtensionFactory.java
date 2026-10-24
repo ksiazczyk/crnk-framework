@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UI Home Module Extension Factory
+// summary: A factory that builds a HomeModuleExtension configured with the UI module path.
+// ---
+
 package io.crnk.ui.internal;
 
 import io.crnk.home.HomeModuleExtension;

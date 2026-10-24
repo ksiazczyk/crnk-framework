@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ConstraintViolationImplTest
+// summary: JUnit test verifying ConstraintViolationImpl behavior, including property path mapping, root bean class, and unsupported operations.
+// ---
+
 package io.crnk.validation.internal;
 
 import io.crnk.core.boot.CrnkBoot;

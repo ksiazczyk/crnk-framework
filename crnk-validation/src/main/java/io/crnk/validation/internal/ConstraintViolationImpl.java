@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ConstraintViolationImpl source code
+// summary: Implements the javax ConstraintViolation interface by reconstructing resource information, id and validation path from a JSON:API error payload.
+// ---
+
 package io.crnk.validation.internal;
 
 import io.crnk.core.engine.document.ErrorData;

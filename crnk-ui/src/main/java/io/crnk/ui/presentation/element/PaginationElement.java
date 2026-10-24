@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PaginationElement
+// summary: A pagination element controlling enabled state, offset and limit.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 public class PaginationElement extends PresentationElement {

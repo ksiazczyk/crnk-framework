@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ComplexValidator for the ComplexValid constraint
+// summary: Implements the ConstraintValidator for ComplexValid, rejecting Project and Task objects named invalid.
+// ---
+
 package io.crnk.validation.mock;
 
 import io.crnk.validation.mock.models.Project;

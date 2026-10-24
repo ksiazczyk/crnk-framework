@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Read-only task repository
+// summary: Resource repository that only supports reads and fails on any write operation.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import java.io.Serializable;

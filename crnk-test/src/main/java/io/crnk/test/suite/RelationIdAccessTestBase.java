@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationIdAccessTestBase abstract test
+// summary: Abstract test base class checking support for @JsonApiRelationId and relationship handling.
+// ---
+
 package io.crnk.test.suite;
 
 import io.crnk.core.engine.document.ResourceIdentifier;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReactiveReadOnlyTaskRepository
+// summary: A read-only reactive task repository that returns fixed tasks and rejects create, save and delete operations.
+// ---
+
 package io.crnk.test.mock.reactive;
 
 import io.crnk.core.queryspec.QuerySpec;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Schedule
+// summary: JSON:API resource model for a schedule exposing tasks, project relations, status, and custom data fields.
+// ---
+
 package io.crnk.test.mock.models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

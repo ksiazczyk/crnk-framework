@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RxJS operator imports
+// summary: Imports RxJS operators used throughout the application.
+// ---
+
 import "rxjs/add/operator/filter";
 import "rxjs/add/operator/map";
 import "rxjs/add/operator/combineAll";

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Project to task relationship repository
+// summary: Relationship repository managing project-to-task relationships in a thread-local map.
+// ---
+
 package io.crnk.test.mock.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

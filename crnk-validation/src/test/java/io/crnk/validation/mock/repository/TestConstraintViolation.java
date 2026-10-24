@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Stub ConstraintViolation for tests
+// summary: A stub ConstraintViolation implementation used to simulate validation failures in tests.
+// ---
+
 package io.crnk.validation.mock.repository;
 
 import javax.validation.ConstraintViolation;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceIdentifierBasedRelationshipResource
+// summary: A JSON API resource modeling relationships through resource identifiers.
+// ---
+
 package io.crnk.test.mock.models;
 
 import java.util.Collection;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FilterOperatorElement
+// summary: Holds a default filter operator and the list of operators available for a filter.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 

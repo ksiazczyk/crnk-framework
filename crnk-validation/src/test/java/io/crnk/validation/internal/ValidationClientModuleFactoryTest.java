@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ValidationClientModuleFactoryTest
+// summary: JUnit test asserting that the ServiceLoader discovers the ValidationModule and MetaModule client module factories.
+// ---
+
 package io.crnk.validation.internal;
 
 import io.crnk.client.module.ClientModuleFactory;

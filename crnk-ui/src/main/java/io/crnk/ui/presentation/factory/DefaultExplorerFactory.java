@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SingularValueElement
+// summary: Presentation element holding a single value with a configurable attribute path backed by a PathSpec.
+// ---
+
 package io.crnk.ui.presentation.factory;
 
 import java.util.ArrayDeque;

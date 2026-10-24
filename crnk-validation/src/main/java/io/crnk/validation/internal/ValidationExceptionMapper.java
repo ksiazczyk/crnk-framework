@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ValidationExceptionMapper source code
+// summary: Maps javax ValidationException to and from JSON:API error responses with a 422 status and a ValidationException type value.
+// ---
+
 package io.crnk.validation.internal;
 
 import io.crnk.core.engine.error.ErrorResponse;

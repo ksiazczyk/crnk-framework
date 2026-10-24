@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: UIModuleTest
+// summary: JUnit test for the UIModule covering setup, HTTP processing, and home module extension, currently ignored.
+// ---
+
 package io.crnk.ui;
 
 

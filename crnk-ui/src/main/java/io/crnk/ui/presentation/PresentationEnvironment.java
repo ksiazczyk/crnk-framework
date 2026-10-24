@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PresentationEnvironment class
+// summary: Holds mutable state for a presentation context, including the meta element, type, attribute path, editability, and references to the manager and service.
+// ---
+
 package io.crnk.ui.presentation;
 
 import java.util.ArrayDeque;

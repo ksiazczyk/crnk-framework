@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ExplorerRepositoryTest
+// summary: JUnit test verifying the ExplorerRepository find-all, find-one, full-text search, and table element configuration.
+// ---
+
 package io.crnk.ui;
 
 

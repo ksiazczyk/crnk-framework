@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskNonResourceSubtype
+// summary: Subtype of Task without a JsonApiResource annotation, used to verify reflection-based discovery ignores it.
+// ---
+
 package io.crnk.test.mock.models;
 
 /**

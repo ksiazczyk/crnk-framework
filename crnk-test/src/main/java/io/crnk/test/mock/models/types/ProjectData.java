@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ProjectData model class
+// summary: A Java data model class defining a project entity with fields for data, keywords, custom data, due date, and an image, along with their accessors.
+// ---
+
 package io.crnk.test.mock.models.types;
 
 import java.time.OffsetDateTime;

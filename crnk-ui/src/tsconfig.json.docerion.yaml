@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.json.
+type: config
+title: TypeScript compiler configuration
+summary: Configures the TypeScript compiler options for the Crnk UI project.

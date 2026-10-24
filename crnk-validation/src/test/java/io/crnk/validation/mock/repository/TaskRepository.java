@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Mock repository for Task entities
+// summary: A mock CRNK repository that stores Task entities in memory and assigns ids on save.
+// ---
+
 package io.crnk.validation.mock.repository;
 
 import io.crnk.core.exception.ResourceNotFoundException;

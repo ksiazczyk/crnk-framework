@@ -1,3 +1,9 @@
+/*docerion
+type: source
+title: Theme entry point
+summary: SCSS entry point that imports the individual theme partials in order.
+*/
+
 @import '../_variables';
 @import '../_mixins';
 @import '_icons';

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ValidationRepositoryFilter
+// summary: A CRNK repository filter that validates entities on POST and PATCH requests using a javax.validation Validator and throws on constraint violations.
+// ---
+
 package io.crnk.validation.filter;
 
 import io.crnk.core.engine.filter.RepositoryFilterBase;

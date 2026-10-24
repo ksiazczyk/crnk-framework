@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RandomWalkLinkChecker
+// summary: Performs a bounded random walk across an API endpoint by following JSON:API links to test endpoint connectivity.
+// ---
+
 package io.crnk.testkit;
 
 import java.io.IOException;

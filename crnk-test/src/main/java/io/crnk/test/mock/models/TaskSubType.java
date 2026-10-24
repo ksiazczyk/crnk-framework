@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskSubType
+// summary: Subtype of Task annotated as a JSON:API resource with an additional subtype value.
+// ---
+
 package io.crnk.test.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TableColumnElement source class
+// summary: A wrapper element describing a table column with id, label, editability, sortability and an optional filter.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 public class TableColumnElement extends WrapperElement {

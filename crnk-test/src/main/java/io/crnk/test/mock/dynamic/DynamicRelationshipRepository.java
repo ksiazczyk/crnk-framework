@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DynamicRelationshipRepository
+// summary: Mock relationship repository that stores resources in a map, returns fixed targets, and asserts target IDs during tests.
+// ---
+
 package io.crnk.test.mock.dynamic;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

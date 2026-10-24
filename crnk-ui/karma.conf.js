@@ -1,6 +1,15 @@
 // Karma configuration file, see link for more information
 // https://karma-runner.github.io/0.13/config/configuration-file.html
 
+// ---docerion
+// type: config
+// title: Karma unit test runner configuration
+// summary: Karma configuration running unit tests with Jasmine and the Angular CLI against a Chrome browser.
+// relations:
+//   - references /crnk-ui/src/test.ts
+//   - references /crnk-ui/angular-cli.json
+// ---
+
 module.exports = function (config) {
 	config.set({
 		basePath: '',

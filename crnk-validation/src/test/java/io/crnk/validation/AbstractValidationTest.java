@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AbstractValidationTest base test class
+// summary: Abstract base class that configures a Crnk Jersey test application and exposes client and repository fields for validation tests.
+// ---
+
 package io.crnk.validation;
 
 import io.crnk.client.CrnkClient;

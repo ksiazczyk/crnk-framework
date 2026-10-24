@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Schedule mock model
+// summary: JsonApiResource model linking to a Project, used as a test fixture for validation.
+// ---
+
 package io.crnk.validation.mock.models;
 
 import javax.validation.constraints.NotNull;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ValidationModuleTest module unit test
+// summary: Unit test that checks the ValidationModule has a protected constructor and the expected module name.
+// ---
+
 package io.crnk.validation;
 
 import io.crnk.test.mock.ClassTestUtils;

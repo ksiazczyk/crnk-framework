@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ComplexValid constraint annotation
+// summary: Defines a Bean Validation constraint annotation that delegates validation to ComplexValidator.
+// ---
+
 package io.crnk.validation.mock;
 
 import javax.validation.Constraint;

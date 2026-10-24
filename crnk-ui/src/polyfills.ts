@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Browser polyfills
+// summary: Imports core-js and zone.js polyfills so the app runs on older browsers.
+// ---
+
 import "core-js/es6/symbol";
 import "core-js/es6/object";
 import "core-js/es6/function";

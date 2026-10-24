@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PresentationProject
+// summary: Test resource model for a presentation project with a searchable name and related tasks.
+// ---
+
 package io.crnk.ui;
 
 import java.util.List;

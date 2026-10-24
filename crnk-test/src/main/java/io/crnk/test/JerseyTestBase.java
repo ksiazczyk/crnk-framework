@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JerseyTestBase
+// summary: Base class for Jersey tests that selects a free server port and stores it in a system property for the test container.
+// ---
+
 package io.crnk.test;
 
 import org.glassfish.jersey.test.JerseyTest;

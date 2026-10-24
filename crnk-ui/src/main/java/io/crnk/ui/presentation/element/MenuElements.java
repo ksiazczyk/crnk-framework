@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MenuElements
+// summary: A collection of menu elements keyed by id with an ordered list of element ids.
+// ---
+
 package io.crnk.ui.presentation.element;
 
 import java.util.ArrayList;
