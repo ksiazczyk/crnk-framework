@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceRepositoryBase
+// summary: Base class implementing most resource repository methods, read-only by default.
+// ---
+
 package io.crnk.core.repository;
 
 import java.util.Collection;

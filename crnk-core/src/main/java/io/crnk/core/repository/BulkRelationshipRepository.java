@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerySpecVisitor interface
+// summary: Interface that allows traversing a QuerySpec and its nested filtering, sorting, include, and paging structures.
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.engine.internal.utils.MultivaluedMap;

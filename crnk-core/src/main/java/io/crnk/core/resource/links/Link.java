@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Link interface
+// summary: Interface describing a link with href, rel, anchor, params, describedby and meta, deserialized to DefaultLink.
+// ---
+
 package io.crnk.core.resource.links;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;

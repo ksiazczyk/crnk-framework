@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultResourceRepositoryInformationProvider
+// summary: A provider that builds repository information for resource repositories, computing path, exposed status, actions, and method access.
+// ---
+
 package io.crnk.legacy.repository.information;
 
 import io.crnk.core.engine.information.repository.*;

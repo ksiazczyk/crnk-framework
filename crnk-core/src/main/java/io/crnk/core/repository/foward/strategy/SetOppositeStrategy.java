@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SetOppositeStrategy
+// summary: Forwarding strategy that sets relations by updating the opposite relationship on the target resources.
+// ---
+
 package io.crnk.core.repository.foward.strategy;
 
 import io.crnk.core.engine.information.resource.ResourceField;

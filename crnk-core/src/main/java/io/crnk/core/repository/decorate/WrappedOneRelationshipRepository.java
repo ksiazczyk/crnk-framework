@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WrappedOneRelationshipRepository decorator
+// summary: Decorator wrapping a OneRelationshipRepository while delegating single-relationship operations to the wrapped instance.
+// ---
+
 package io.crnk.core.repository.decorate;
 
 import io.crnk.core.queryspec.QuerySpec;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultResourceInformationProviderContext
+// summary: Default implementation of ResourceInformationProviderContext that delegates resource type resolution, type parsing and object mapping to injected collaborators.
+// ---
+
 package io.crnk.legacy.registry;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

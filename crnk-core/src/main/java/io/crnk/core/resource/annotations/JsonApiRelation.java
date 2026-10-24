@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiRelation
+// summary: Java annotation that indicates a relationship to a single value or collection handled by a separate relationship resource.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 import io.crnk.core.boot.CrnkProperties;

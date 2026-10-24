@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultResourceList implementation
+// summary: Default implementation of the ResourceList interface that carries links and meta information alongside the resource list.
+// ---
+
 package io.crnk.core.resource.list;
 
 import io.crnk.core.engine.internal.utils.CastableInformation;

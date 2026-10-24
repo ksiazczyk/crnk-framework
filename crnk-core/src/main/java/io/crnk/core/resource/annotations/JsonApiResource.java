@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiResource
+// summary: Java annotation that defines a resource with a type and configurable features such as sorting, filtering, and CRUD operations.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 import io.crnk.core.queryspec.pagingspec.PagingBehavior;

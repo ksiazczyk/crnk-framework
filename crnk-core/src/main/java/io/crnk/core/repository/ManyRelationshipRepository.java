@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ManyRelationshipRepository interface
+// summary: Interface responsible for operations on multi-valued relationships.
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

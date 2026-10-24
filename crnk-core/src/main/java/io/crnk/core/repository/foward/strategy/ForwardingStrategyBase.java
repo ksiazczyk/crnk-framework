@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ForwardingStrategyBase
+// summary: Base class providing context initialization and collection creation helpers for forwarding strategies.
+// ---
+
 package io.crnk.core.repository.foward.strategy;
 
 import io.crnk.core.engine.information.resource.ResourceField;

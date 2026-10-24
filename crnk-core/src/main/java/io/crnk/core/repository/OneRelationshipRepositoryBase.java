@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OneRelationshipRepositoryBase
+// summary: Read-only base implementation that rejects relation updates.
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.exception.MethodNotAllowedException;

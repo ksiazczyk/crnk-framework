@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceTypeHolder interface
+// summary: Java interface that resources can implement to carry their resource type, typically identifying a RegistryEntry.
+// ---
+
 package io.crnk.core.resource;
 
 /**

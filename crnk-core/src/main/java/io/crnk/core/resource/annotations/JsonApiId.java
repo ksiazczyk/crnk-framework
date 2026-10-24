@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiId
+// summary: Java annotation that marks a field as the identifier of a resource, requiring a Serializable and parseable value.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 import io.crnk.core.engine.parser.TypeParser;

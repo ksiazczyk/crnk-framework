@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiEmbeddable annotation
+// summary: Java annotation that marks a structured type usable as a resource attribute, similar to JPA @Embeddable, supporting sorting, filtering and field sets.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 import java.lang.annotation.Documented;

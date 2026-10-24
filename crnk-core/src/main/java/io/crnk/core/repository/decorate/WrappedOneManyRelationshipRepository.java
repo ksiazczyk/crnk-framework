@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WrappedOneManyRelationshipRepository decorator
+// summary: Decorator combining one and many relationship repositories to decorate a repository implementing both interfaces.
+// ---
+
 package io.crnk.core.repository.decorate;
 
 import io.crnk.core.queryspec.QuerySpec;

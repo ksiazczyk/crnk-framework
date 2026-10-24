@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiExposed
+// summary: Java annotation that decides whether a repository is exposed on the JSON API endpoint, enabled by default but optionally disabled for remote or nested repositories.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 import java.lang.annotation.Documented;

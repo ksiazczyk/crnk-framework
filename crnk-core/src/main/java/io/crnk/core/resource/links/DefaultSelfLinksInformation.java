@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultSelfLinksInformation self link
+// summary: Default implementation of SelfLinksInformation holding the self link of a resource.
+// ---
+
 package io.crnk.core.resource.links;
 
 import com.fasterxml.jackson.annotation.JsonInclude;

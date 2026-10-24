@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultRelationshipRepositoryInformationProvider
+// summary: A provider that builds repository information for relationship repositories, resolving source and target resource types and method access.
+// ---
+
 package io.crnk.legacy.repository.information;
 
 import io.crnk.core.engine.information.repository.RepositoryInformation;

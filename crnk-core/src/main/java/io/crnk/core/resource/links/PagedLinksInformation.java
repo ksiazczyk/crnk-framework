@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PagedLinksInformation paging interface
+// summary: Interface for LinksInformation objects holding first, last, next and prev paging links, with convenience string setters.
+// ---
+
 package io.crnk.core.resource.links;
 
 

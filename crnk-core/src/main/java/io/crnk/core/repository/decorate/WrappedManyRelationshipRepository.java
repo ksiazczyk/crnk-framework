@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WrappedManyRelationshipRepository decorator
+// summary: Decorator wrapping a ManyRelationshipRepository while delegating all relationship operations to the wrapped instance.
+// ---
+
 package io.crnk.core.repository.decorate;
 
 import io.crnk.core.queryspec.QuerySpec;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HasMoreResourcesMetaInformation interface
+// summary: Interface to indicate whether a next page is available, triggering computation of first, previous and next pagination links.
+// ---
+
 package io.crnk.core.resource.meta;
 
 /**

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ReadOnlyResourceRepositoryBase
+// summary: Abstract base class that forbids mutating operations by throwing MethodNotAllowedException for save, create and delete.
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.exception.MethodNotAllowedException;

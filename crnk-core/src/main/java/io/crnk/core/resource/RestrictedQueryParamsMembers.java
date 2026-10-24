@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RestrictedQueryParamsMembers enum
+// summary: Enum listing the restricted query parameter members such as filter, sort, pagination and include for collections.
+// ---
+
 package io.crnk.core.resource;
 
 public enum RestrictedQueryParamsMembers {

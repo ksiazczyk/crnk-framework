@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryDecoratorFactory interface
+// summary: Interface that lets modules intercept repository calls and apply decoration to any repository type.
+// ---
+
 package io.crnk.core.repository.decorate;
 
 /**

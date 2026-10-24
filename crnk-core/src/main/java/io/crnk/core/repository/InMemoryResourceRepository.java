@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: InMemoryResourceRepository
+// summary: Repository implementation backed by a ConcurrentHashMap, suited for testing and mocking.
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.boot.CrnkBoot;

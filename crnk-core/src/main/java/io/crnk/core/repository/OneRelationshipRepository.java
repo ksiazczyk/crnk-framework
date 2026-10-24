@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OneRelationshipRepository interface
+// summary: Interface responsible for operations on single-valued relationships.
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultPagedLinksInformation paging links
+// summary: Default implementation of PagedLinksInformation and SelfLinksInformation, holding first, last, next, prev and self links for paging.
+// ---
+
 package io.crnk.core.resource.links;
 
 import com.fasterxml.jackson.annotation.JsonInclude;

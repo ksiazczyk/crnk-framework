@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiResponse
+// summary: A Java class representing a JSON API response that holds the entity, meta information, links, and error data.
+// ---
+
 package io.crnk.core.repository.response;
 
 import io.crnk.core.engine.document.ErrorData;
