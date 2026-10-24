@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceFieldInformationProviderBase class
+// summary: Base implementation of ResourceFieldInformationProvider returning empty defaults for every query.
+// ---
+
 package io.crnk.core.engine.information.resource;
 
 import io.crnk.core.engine.information.bean.BeanAttributeInformation;

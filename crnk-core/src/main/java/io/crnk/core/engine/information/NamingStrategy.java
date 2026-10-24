@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NamingStrategy
+// summary: Experimental interface for customizing resource paths and other namings in the engine.
+// ---
+
 package io.crnk.core.engine.information;
 
 /**

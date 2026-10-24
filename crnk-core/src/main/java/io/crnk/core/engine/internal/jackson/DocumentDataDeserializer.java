@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpRequestContextBaseAdapter
+// summary: Adapts an HttpRequestContextBase to the HttpRequestContext interface, deriving the request version from the accept header or URL parameter and wiring up the query context.
+// ---
+
 package io.crnk.core.engine.internal.jackson;
 
 import com.fasterxml.jackson.core.JsonParser;

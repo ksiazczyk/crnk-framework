@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceRepositoryFacade
+// summary: Facades a resource repository, handling query adaptation, result processing and error mapping.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import io.crnk.core.exception.CrnkException;

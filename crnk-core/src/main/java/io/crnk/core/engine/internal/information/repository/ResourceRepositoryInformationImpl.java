@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceRepositoryInformationImpl
+// summary: Implementation of the resource repository information interface that stores resource details, path, actions, access and exposure.
+// ---
+
 package io.crnk.core.engine.internal.information.repository;
 
 import java.util.Map;

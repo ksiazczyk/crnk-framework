@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryBulkRequestFilterChain
+// summary: Interface managing the chain of repository filters to perform a bulk request.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.repository.response.JsonApiResponse;

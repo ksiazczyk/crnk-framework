@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: IncludeRequest for resolving included resources
+// summary: Holds the data and inclusion requests needed to resolve included resources during document mapping.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

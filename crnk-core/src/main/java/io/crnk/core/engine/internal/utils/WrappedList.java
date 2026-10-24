@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WrappedList
+// summary: Wraps an existing list and implements the List interface by delegating to it.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import java.util.Collection;

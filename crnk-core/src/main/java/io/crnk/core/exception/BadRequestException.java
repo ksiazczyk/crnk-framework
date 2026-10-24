@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BadRequestException
+// summary: BadRequestException maps HTTP 400 responses to end users with a BAD_REQUEST title.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

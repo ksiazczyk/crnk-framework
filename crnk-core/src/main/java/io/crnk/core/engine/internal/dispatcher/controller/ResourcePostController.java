@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcePostController
+// summary: Handles POST requests by building new entities from request bodies and persisting them through the repository.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import java.util.ArrayList;

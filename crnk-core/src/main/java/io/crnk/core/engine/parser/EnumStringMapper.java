@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: EnumStringMapper
+// summary: Parses enum constants from their trimmed string names.
+// ---
+
 package io.crnk.core.engine.parser;
 
 public class EnumStringMapper<T> extends ToStringStringMapper<T> {

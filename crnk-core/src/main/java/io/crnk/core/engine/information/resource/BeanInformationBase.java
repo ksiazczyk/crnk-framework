@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryAction interface
+// summary: Interface describing a repository or resource action and its type.
+// ---
+
 package io.crnk.core.engine.information.resource;
 
 import io.crnk.core.engine.internal.utils.ClassUtils;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HierarchicalResourceRegistryPart
+// summary: A hierarchical ResourceRegistryPart that organizes child parts by path prefix and delegates lookups accordingly.
+// ---
+
 package io.crnk.core.engine.registry;
 
 import java.lang.reflect.Type;

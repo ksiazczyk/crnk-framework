@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceModificationFilterBase class
+// summary: Base class for ResourceModificationFilter that passes through attribute and relationship values unchanged.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.engine.document.ResourceIdentifier;

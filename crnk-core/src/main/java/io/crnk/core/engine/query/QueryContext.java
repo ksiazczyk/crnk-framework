@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryContext
+// summary: Class holding context information about the current request such as base URL, request path, version, and attributes.
+// ---
+
 package io.crnk.core.engine.query;
 
 import java.util.Map;

@@ -1,3 +1,8 @@
+// ---docerion
+// type: source
+// title: ReflectionFieldAccessor.java
+// ---
+
 package io.crnk.core.engine.internal.information.resource;
 
 import java.lang.reflect.Field;

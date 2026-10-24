@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceNotFoundException
+// summary: An exception mapped to HTTP 404 thrown when a resource for a type cannot be found.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

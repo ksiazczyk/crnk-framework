@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TimeoutExceptionMapper for timeout errors
+// summary: Maps a Java TimeoutException to a 504 Gateway Timeout error response and back.
+// ---
+
 package io.crnk.core.engine.internal.information.resource;
 
 import io.crnk.core.engine.document.Resource;

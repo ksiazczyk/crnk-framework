@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceDeleteController
+// summary: Controller that handles DELETE requests for removing a single resource from the repository.
+// ---
+
 package io.crnk.core.engine.internal.http;
 
 import io.crnk.core.engine.document.Document;

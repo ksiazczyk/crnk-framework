@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiRequestProcessor
+// summary: Processes JSON-API HTTP requests, matching content-type and accept headers and delegating to the appropriate controller.
+// ---
+
 package io.crnk.core.engine.internal.http;
 
 import java.util.Map;

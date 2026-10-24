@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpRequestDispatcherImpl
+// summary: Implements the request dispatcher to integrate Crnk with external frameworks like Jersey or Spring, routing requests through HTTP processors.
+// ---
+
 package io.crnk.core.engine.internal.http;
 
 import java.io.IOException;

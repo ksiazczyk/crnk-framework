@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ErrorDataBuilder
+// summary: Builder that assembles ErrorData with id, links, status, code, title, detail, source pointer, source parameter and meta information.
+// ---
+
 package io.crnk.core.engine.document;
 
 import java.util.Collection;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceFilter interface
+// summary: Interface to limit access to resource types and fields for a given user, operating at the model or type level.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.engine.http.HttpMethod;

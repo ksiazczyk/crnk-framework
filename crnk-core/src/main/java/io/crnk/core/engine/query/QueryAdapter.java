@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryAdapter
+// summary: Interface defining the contract for query adapters that expose included relations, fields, resource information, and query context.
+// ---
+
 package io.crnk.core.engine.query;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

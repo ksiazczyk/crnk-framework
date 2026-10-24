@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DocumentFilterChain
+// summary: Interface managing the chain of filters and their application to a request.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.engine.dispatcher.Response;

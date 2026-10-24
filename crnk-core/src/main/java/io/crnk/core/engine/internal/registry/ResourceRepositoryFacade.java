@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Resource repository facade
+// summary: Facades a resource repository adapter to translate queries and JSON API responses into resource lists.
+// ---
+
 package io.crnk.core.engine.internal.registry;
 
 import io.crnk.core.engine.document.ErrorData;

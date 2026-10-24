@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Resource repository information interface
+// summary: Interface holding information about the type of a resource repository, exposing its resources, path and available actions.
+// ---
+
 package io.crnk.core.engine.information.repository;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

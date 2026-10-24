@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryInformationProviderContext interface
+// summary: Context passed to repository information builders, exposing resource and type builders.
+// ---
+
 package io.crnk.core.engine.information.resource;
 
 import io.crnk.core.resource.annotations.JsonApiRelation;

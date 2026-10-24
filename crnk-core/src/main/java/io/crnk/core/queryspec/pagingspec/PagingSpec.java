@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PagingSpec paging spec interface
+// summary: Java interface describing paging query specs with default conversion and clone methods.
+// ---
+
 package io.crnk.core.queryspec.pagingspec;
 
 /**

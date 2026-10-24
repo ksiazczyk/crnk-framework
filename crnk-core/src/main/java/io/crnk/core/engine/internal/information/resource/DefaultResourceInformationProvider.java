@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExceptionMapperType pairs class and mapper
+// summary: Pairs an exception class with its mapper and implements prioritization and equality for entries in the registry.
+// ---
+
 package io.crnk.core.engine.internal.information.resource;
 
 import io.crnk.core.engine.information.resource.ResourceField;

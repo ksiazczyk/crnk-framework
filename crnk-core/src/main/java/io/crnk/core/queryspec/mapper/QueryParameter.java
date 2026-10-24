@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryParameter
+// summary: Holds a parsed query parameter including its name, type, operator, attribute path and values.
+// ---
+
 package io.crnk.core.queryspec.mapper;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

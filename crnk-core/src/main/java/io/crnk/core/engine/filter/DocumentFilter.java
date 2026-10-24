@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DocumentFilter
+// summary: Interface to intercept and modify incoming requests and responses at a low level.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.engine.dispatcher.Response;

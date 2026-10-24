@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Default registry entry builder
+// summary: Implements the RegistryEntryBuilder to construct registry entries from resource information, repositories and relationship repositories.
+// ---
+
 package io.crnk.core.engine.internal.registry;
 
 import java.util.ArrayList;

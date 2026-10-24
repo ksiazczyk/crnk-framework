@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceRegistryPart
+// summary: An interface describing the operations of a registry part for adding, looking up and listing registry entries.
+// ---
+
 package io.crnk.core.engine.registry;
 
 import java.lang.reflect.Type;

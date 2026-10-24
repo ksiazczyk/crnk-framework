@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryMetaFilterChain interface
+// summary: Interface managing the chain of repository filters used to resolve meta information for a collection of resources.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.resource.meta.MetaInformation;

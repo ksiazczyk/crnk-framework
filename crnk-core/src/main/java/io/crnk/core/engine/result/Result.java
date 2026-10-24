@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Result
+// summary: Interface defining the result abstraction that lets the core avoid third-party reactive dependencies.
+// ---
+
 package io.crnk.core.engine.result;
 
 import java.time.Duration;

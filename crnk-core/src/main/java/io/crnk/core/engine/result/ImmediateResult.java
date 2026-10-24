@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ImmediateResult
+// summary: Synchronous implementation of the Result interface that wraps an object and applies operators immediately on the current thread.
+// ---
+
 package io.crnk.core.engine.result;
 
 import java.time.Duration;

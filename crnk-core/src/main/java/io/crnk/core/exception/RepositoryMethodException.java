@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryMethodException
+// summary: Exception representing a resource method error, mapping to an HTTP 500 status with a standard error body.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

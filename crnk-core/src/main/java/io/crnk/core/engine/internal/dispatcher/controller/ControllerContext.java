@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceInformationProviderContext supplies provider context
+// summary: Interface providing context such as type parser, information builder and object mapper to a ResourceInformationProvider.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import java.util.List;

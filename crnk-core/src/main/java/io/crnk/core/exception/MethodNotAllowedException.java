@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MethodNotAllowedException
+// summary: MethodNotAllowedException maps HTTP 405 responses for disallowed HTTP methods.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

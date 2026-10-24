@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AbstractDocumentFilter
+// summary: Empty DocumentFilter implementation serving as a starting point for writing new filters.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.engine.dispatcher.Response;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JacksonModule
+// summary: A Jackson module that registers Crnk serializers and deserializers such as ErrorDataSerializer and LinksInformationSerializer onto an ObjectMapper.
+// ---
+
 package io.crnk.core.engine.internal.jackson;
 
 import com.fasterxml.jackson.core.Version;

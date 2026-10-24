@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FilterSpec
+// summary: Represents a filter condition with an operator, value and optional expressions for query specification.
+// ---
+
 package io.crnk.core.queryspec;
 
 import java.util.ArrayList;

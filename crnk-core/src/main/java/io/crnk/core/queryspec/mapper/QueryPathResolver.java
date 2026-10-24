@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryPathResolver
+// summary: Interface translating parameter paths between JSON and Java naming for query spec operations.
+// ---
+
 package io.crnk.core.queryspec.mapper;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

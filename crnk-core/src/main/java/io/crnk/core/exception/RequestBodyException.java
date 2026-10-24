@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RequestBodyException
+// summary: Exception indicating a request body does not meet requirements, mapping to an HTTP 400 status.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

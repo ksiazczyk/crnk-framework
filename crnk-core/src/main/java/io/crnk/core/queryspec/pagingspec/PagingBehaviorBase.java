@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PagingBehaviorBase paging base class
+// summary: Java abstract base class implementing limit-bounded paging behavior with helpers for totals, page links and value parsing.
+// ---
+
 package io.crnk.core.queryspec.pagingspec;
 
 import io.crnk.core.exception.ParametersDeserializationException;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: IncludeFieldSpec
+// summary: Represents a path of fields to include in a query response.
+// ---
+
 package io.crnk.core.queryspec;
 
 import java.util.List;

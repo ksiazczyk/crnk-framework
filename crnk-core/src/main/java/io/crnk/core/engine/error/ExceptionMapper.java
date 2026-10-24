@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExceptionMapper interface for exception and response conversion
+// summary: Interface that converts exceptions to error responses on the server side and error responses back to exceptions on the client side.
+// ---
+
 package io.crnk.core.engine.error;
 
 /**

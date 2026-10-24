@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceUpsert
+// summary: Abstract base for upsert controllers that parses request bodies, builds entities and sets their id, type and attributes.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import com.fasterxml.jackson.databind.JavaType;

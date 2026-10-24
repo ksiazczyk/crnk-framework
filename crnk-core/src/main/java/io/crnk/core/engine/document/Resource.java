@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Relationship document object
+// summary: Represents a relationship in a JSON API document, holding nullable resource identifier data plus links and meta containers.
+// ---
+
 package io.crnk.core.engine.document;
 
 import java.util.HashMap;

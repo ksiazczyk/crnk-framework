@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryResultFilterChain interface
+// summary: Generic interface managing the chain of repository filters used to perform result filtering.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import java.util.Collection;

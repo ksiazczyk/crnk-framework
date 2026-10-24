@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Repository method access information
+// summary: Class describing whether a field can be posted, patched, read or deleted via the corresponding HTTP request.
+// ---
+
 package io.crnk.core.engine.information.repository;
 
 /**

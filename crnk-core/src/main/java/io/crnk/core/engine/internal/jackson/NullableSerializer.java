@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NullableSerializer
+// summary: Serializes Nullable wrapper values, emitting a JSON null when empty or the contained object when present.
+// ---
+
 package io.crnk.core.engine.internal.jackson;
 
 import com.fasterxml.jackson.core.JsonGenerator;

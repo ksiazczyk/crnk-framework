@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExceptionMapperRegistry resolves exception mappers
+// summary: Finds the closest exception mapper for a thrown exception or error response and converts exceptions into HTTP responses.
+// ---
+
 package io.crnk.core.engine.internal.information.resource;
 
 import com.fasterxml.jackson.databind.introspect.AnnotatedClass;

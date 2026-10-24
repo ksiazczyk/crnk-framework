@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceMappingConfig
+// summary: A configuration class holding flags that control link serialization, default handling, and self-relationship links during resource mapping.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 public class ResourceMappingConfig {

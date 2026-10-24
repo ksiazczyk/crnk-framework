@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpRequestContextProvider
+// summary: Provides and manages the thread-local HTTP request context and its lifecycle across traditional and reactive settings.
+// ---
+
 package io.crnk.core.engine.http;
 
 import io.crnk.core.engine.query.QueryContext;

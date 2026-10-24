@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceFieldContributor
+// summary: An interface that relationship repositories implement to contribute additional relationship fields to a resource without modifying its source.
+// ---
+
 package io.crnk.core.engine.information.contributor;
 
 import io.crnk.core.engine.information.resource.ResourceField;

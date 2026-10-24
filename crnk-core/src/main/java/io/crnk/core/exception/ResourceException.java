@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceException
+// summary: General exception regarding resource building, mapping to an HTTP 500 status with a standard error body.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

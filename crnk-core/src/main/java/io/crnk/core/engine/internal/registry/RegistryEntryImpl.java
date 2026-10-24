@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Registry entry implementation
+// summary: Holds information about a resource and its repositories, including relationship repositories and an optional parent registry entry.
+// ---
+
 package io.crnk.core.engine.internal.registry;
 
 import java.util.Map;

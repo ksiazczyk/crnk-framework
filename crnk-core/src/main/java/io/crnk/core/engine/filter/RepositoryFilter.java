@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryFilter
+// summary: Interface to intercept calls to repositories and modify requests, results and meta information.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.repository.response.JsonApiResponse;

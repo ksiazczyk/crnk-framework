@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: IncludeRelationshipLoader for loading related resources
+// summary: Loads related resources for given resources and a relationship field, updating relationship data and returning included resources.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import io.crnk.core.boot.CrnkProperties;

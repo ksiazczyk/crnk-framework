@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceRegistryPartBase
+// summary: An abstract base for ResourceRegistryPart that manages listeners and notifies them of changes.
+// ---
+
 package io.crnk.core.engine.registry;
 
 import java.util.concurrent.CopyOnWriteArrayList;

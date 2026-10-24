@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerySpecAdapterBuilder
+// summary: Builds a QuerySpecAdapter from URL parameters by deserializing the query spec and applying compact mode from request headers.
+// ---
+
 package io.crnk.core.queryspec.internal;
 
 import io.crnk.core.engine.http.HttpHeaders;

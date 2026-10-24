@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpStatus constants and message mapping
+// summary: Holds HTTP status code constants and a helper that maps a numeric status code to its canonical message.
+// ---
+
 package io.crnk.core.engine.http;
 
 public class HttpStatus {

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: VersionModule
+// summary: A Crnk module that enables JsonApiVersion support by registering a resource filter which enforces version ranges on resources and fields.
+// ---
+
 package io.crnk.core.engine.version;
 
 import io.crnk.core.engine.filter.FilterBehavior;

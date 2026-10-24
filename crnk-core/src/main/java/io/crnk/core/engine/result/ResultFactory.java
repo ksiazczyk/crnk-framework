@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResultFactory
+// summary: Interface for creating results and managing thread context for the result engine.
+// ---
+
 package io.crnk.core.engine.result;
 
 import java.util.List;

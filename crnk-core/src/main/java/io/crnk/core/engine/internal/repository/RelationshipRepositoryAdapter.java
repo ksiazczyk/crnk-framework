@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExceptionMapperLookup interface
+// summary: Interface exposing the list of registered exception mappers used during request processing.
+// ---
+
 package io.crnk.core.engine.internal.repository;
 
 import io.crnk.core.engine.information.resource.ResourceField;

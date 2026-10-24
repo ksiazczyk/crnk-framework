@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceRepositoryAdapterImpl implementation
+// summary: Implementation of the resource repository adapter that applies access checks and runs the filter chain.
+// ---
+
 package io.crnk.core.engine.internal.repository;
 
 import io.crnk.core.boot.CrnkProperties;

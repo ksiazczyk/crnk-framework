@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: IncludeRelationSpec
+// summary: Represents a path of relations to include in a query response.
+// ---
+
 package io.crnk.core.queryspec;
 
 import java.util.List;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FieldOrderedComparator orders resource fields by JSON property order
+// summary: Orders resource fields according to a declared JSON property order or alphabetically when no order is specified.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceRepositoryAdapter interface
+// summary: Interface defining operations for a resource repository adapter such as find, save, update and delete.
+// ---
+
 package io.crnk.core.engine.internal.repository;
 
 import io.crnk.core.engine.information.repository.ResourceRepositoryInformation;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceInformationProvider builds resource information
+// summary: Interface that builds ResourceInformation instances for a specific resource class and reports whether it can process a given class.
+// ---
+
 package io.crnk.core.engine.information.resource;
 
 /**

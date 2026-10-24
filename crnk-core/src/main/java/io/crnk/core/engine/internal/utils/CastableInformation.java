@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExceptionMapperLookup exposes registered exception mappers
+// summary: Interface that exposes the list of registered exception mappers used to resolve exceptions during request processing.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 /**

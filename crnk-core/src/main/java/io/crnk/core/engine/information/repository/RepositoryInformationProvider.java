@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Repository information provider builder
+// summary: Builder interface that creates RepositoryInformation instances from repository objects or their classes.
+// ---
+
 package io.crnk.core.engine.information.repository;
 
 /**

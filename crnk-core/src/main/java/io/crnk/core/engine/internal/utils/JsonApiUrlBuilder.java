@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiUrlBuilder builds JSON API URLs for resources
+// summary: Implements the JSON API URL builder contract to construct URLs for resources, queries and relationships.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import java.net.URLEncoder;

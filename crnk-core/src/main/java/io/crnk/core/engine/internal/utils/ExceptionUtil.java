@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExceptionUtil wraps callable execution and rethrows exceptions
+// summary: Wraps execution of a callable, rethrowing runtime exceptions and converting checked exceptions into IllegalStateException.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import java.util.concurrent.Callable;

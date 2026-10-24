@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryRequestFilterChain interface
+// summary: Interface managing the chain of filters and their application to a repository request, returning a JSON API response.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.repository.response.JsonApiResponse;

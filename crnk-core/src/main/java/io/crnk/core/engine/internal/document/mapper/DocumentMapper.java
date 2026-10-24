@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ActionPath for action parts of a resource path
+// summary: Represents a part of a JSON API path that relates to an action on a resource, extending JsonPath with an action name.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import java.net.URI;

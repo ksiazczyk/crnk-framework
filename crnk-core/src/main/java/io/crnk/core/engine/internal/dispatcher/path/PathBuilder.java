@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PathBuilder for parsing URL paths
+// summary: Builder responsible for parsing URL paths into a doubly-linked list of path objects using the resource registry and type parser.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.path;
 
 import io.crnk.core.engine.information.repository.RepositoryAction;

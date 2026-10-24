@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PagingBehavior paging behavior interface
+// summary: Java interface describing serialization, deserialization and paging link building behavior for paging specs.
+// ---
+
 package io.crnk.core.queryspec.pagingspec;
 
 import io.crnk.core.engine.query.QueryAdapter;

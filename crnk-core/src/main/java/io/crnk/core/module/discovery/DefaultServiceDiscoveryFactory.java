@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultServiceDiscoveryFactory
+// summary: Finds a single ServiceDiscovery implementation via java.util.ServiceLoader, falling back to EmptyServiceDiscovery when none is present.
+// ---
+
 package io.crnk.core.module.discovery;
 
 import io.crnk.core.engine.internal.utils.PreconditionUtil;

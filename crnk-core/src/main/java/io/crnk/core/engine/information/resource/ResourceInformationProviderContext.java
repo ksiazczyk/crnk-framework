@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceInformationProviderContext supplies provider context
+// summary: Interface providing context such as type parser, information builder and object mapper to a ResourceInformationProvider.
+// ---
+
 package io.crnk.core.engine.information.resource;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

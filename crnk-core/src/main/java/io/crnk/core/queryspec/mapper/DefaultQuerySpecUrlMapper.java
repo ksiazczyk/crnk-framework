@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PathSpecBase
+// summary: Base class for typed path specifications, extending abstract path specs with direction and filter operator support.
+// ---
+
 package io.crnk.core.queryspec.mapper;
 
 import com.fasterxml.jackson.core.JsonProcessingException;

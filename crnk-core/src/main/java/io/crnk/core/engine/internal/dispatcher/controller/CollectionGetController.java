@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ControllerRegistry manages the controller list
+// summary: Stores a list of controllers used to process incoming requests and finds the first suitable one for a given path and HTTP method.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import java.util.Collection;

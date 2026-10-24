@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpRequestContext
+// summary: Interface extending the request context base with methods for content negotiation, unwrapping and request attributes.
+// ---
+
 package io.crnk.core.engine.http;
 
 import io.crnk.core.engine.internal.http.HttpRequestContextBaseAdapter;

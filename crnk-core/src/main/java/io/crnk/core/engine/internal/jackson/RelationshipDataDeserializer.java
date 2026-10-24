@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelationshipDataDeserializer
+// summary: Deserializes relationship data from JSON arrays or single objects into ResourceIdentifier structures wrapped in a Nullable.
+// ---
+
 package io.crnk.core.engine.internal.jackson;
 
 import com.fasterxml.jackson.core.JsonParser;

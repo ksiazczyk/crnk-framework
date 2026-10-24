@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExceptionMapperLookup interface
+// summary: Interface that provides the list of registered exception mappers used to build the exception handling registry.
+// ---
+
 package io.crnk.core.engine.internal.information.resource;
 
 import com.fasterxml.jackson.databind.introspect.AnnotatedClass;

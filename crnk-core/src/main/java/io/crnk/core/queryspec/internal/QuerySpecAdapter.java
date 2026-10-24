@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerySpecAdapter
+// summary: Implements QueryAdapter to expose included relations and fields of a QuerySpec for a given resource registry and query context.
+// ---
+
 package io.crnk.core.queryspec.internal;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

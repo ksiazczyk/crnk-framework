@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JacksonStringMapper
+// summary: Parses and serializes values using the Jackson library.
+// ---
+
 package io.crnk.core.engine.parser;
 
 import com.fasterxml.jackson.databind.JsonNode;

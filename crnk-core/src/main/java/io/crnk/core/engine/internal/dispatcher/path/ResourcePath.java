@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcePath for resource parts of a path
+// summary: Represents the resource segment of a JSON API path, such as /resource/1, extending JsonPath.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.path;
 
 import java.io.Serializable;

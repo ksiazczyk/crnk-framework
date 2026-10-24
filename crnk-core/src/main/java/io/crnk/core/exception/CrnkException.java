@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkException base type
+// summary: CrnkException is the general base type for exceptions thrown during Crnk request processing.
+// ---
+
 package io.crnk.core.exception;
 
 /**

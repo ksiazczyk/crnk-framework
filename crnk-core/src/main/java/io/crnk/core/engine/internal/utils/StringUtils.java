@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: StringUtils
+// summary: Provides string helpers for joining, blank checks, empty-to-null conversion and name capitalization.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import java.util.Iterator;

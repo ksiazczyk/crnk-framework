@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelationshipsResourceGetController reads relationships
+// summary: Controller handling GET requests that read one-to-many or one-to-one relationships and map them to resource identifiers.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import java.io.Serializable;

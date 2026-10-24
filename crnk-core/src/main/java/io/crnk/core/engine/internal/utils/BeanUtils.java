@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkExceptionMapper converts CrnkMappableException to error responses
+// summary: Maps CrnkMappableException instances to JSON API error responses and reconstructs specific exceptions from error responses by HTTP status.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 /**

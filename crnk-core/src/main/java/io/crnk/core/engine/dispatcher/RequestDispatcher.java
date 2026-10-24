@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RequestDispatcher interface
+// summary: Interface that processes an HTTP request context and dispatches requests, with deprecated methods retained for backward compatibility.
+// ---
+
 package io.crnk.core.engine.dispatcher;
 
 import io.crnk.core.engine.document.Document;

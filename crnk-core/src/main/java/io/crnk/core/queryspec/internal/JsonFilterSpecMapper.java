@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonFilterSpecMapper
+// summary: Deserializes JSON filter specifications into FilterSpec lists, supporting both the crnk-specific format and a compact user-friendly format.
+// ---
+
 package io.crnk.core.queryspec.internal;
 
 import com.fasterxml.jackson.core.JsonProcessingException;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Resource document object
+// summary: Represents a resource object in a JSON API document with attributes, relationships, links and meta, extending ResourceIdentifier.
+// ---
+
 package io.crnk.core.engine.document;
 
 import java.util.Objects;

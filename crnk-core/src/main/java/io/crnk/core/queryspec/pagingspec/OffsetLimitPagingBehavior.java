@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryPathResolver path resolution interface
+// summary: Java interface translating parameter paths to and from JSON for QuerySpec sorting, filtering, include and field operations.
+// ---
+
 package io.crnk.core.queryspec.pagingspec;
 
 import io.crnk.core.engine.query.QueryAdapter;

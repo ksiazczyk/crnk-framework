@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceFieldAccessor interface
+// summary: Declares the interface for accessing a resource field's value and implementation class, with a default reflection-based implementation.
+// ---
+
 package io.crnk.core.engine.information.resource;
 
 import io.crnk.core.engine.internal.information.resource.ReflectionFieldAccessor;

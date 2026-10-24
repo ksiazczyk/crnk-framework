@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FieldPath for relationship field parts of a path
+// summary: Represents a part of a JSON API path that relates to a relationship field of a resource, extending JsonPath.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import java.util.ArrayList;

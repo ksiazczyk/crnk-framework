@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ErrorDataDeserializer
+// summary: Deserializes JSON API error payloads into ErrorData objects using a builder and helper utilities.
+// ---
+
 package io.crnk.core.engine.internal.jackson;
 
 import com.fasterxml.jackson.core.JsonGenerator;

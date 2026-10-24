@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RepositoryNotFoundException
+// summary: Exception thrown when a repository definition for a resource cannot be found in the specified package.
+// ---
+
 package io.crnk.core.exception;
 
 import java.util.Set;

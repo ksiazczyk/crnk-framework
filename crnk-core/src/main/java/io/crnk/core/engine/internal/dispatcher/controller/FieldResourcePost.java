@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceInstanceBuilder constructs resource instances
+// summary: Interface used to construct an object instance for a requested resource, with a default implementation creating empty instances.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import java.io.Serializable;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcePath for resource parts of a path
+// summary: Represents the resource portion of a JSON API path, forming the starting element of a path chain.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import io.crnk.core.boot.CrnkProperties;

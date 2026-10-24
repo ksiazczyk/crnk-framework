@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceMapper for mapping entities to resources
+// summary: Maps entity objects to JSON API Resource documents, setting ids, attributes, links, meta and relationships.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import java.util.Arrays;

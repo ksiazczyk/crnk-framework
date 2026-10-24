@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceRegistryAware
+// summary: An interface allowing repositories to obtain a ResourceRegistry instance via a setter.
+// ---
+
 package io.crnk.core.engine.registry;
 
 /**

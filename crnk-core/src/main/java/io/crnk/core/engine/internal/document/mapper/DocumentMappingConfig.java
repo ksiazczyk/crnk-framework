@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonPath abstract base for JSON API paths
+// summary: Abstract base class representing a JSON API path as a doubly-linked list of ResourcePath, FieldPath or LinksPath instances.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import java.util.HashSet;

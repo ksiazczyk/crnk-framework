@@ -1,3 +1,11 @@
+// ---docerion
+// type: source
+// title: ModuleRegistry class
+// summary: Large internal class that wires modules into the Crnk engine, registering registries, filters, providers and processors.
+// relations:
+//   - references /crnk-core/src/main/java/io/crnk/core/module/Module.java
+// ---
+
 package io.crnk.core.module;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

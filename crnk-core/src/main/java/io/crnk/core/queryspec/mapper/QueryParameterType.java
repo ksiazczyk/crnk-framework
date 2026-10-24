@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryParameterType
+// summary: Enum categorizing query parameters into filter, sort, page, version, fields, include and unknown.
+// ---
+
 package io.crnk.core.queryspec.mapper;
 
 public enum QueryParameterType {

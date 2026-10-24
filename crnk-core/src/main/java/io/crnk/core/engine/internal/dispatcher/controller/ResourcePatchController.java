@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcePatchController
+// summary: Handles PATCH requests by loading an existing resource, applying changes and returning the updated document.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import java.io.IOException;

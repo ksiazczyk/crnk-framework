@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryAdapterBuilder
+// summary: Interface that builds query adapters from parameters, producing either a queryParams or querySpec adapter.
+// ---
+
 package io.crnk.core.engine.query;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

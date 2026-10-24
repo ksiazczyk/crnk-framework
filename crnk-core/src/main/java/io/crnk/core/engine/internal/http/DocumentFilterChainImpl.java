@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelationshipsResourceUpsert controller
+// summary: Abstract controller handling upsert operations for resource relationships, dispatching to-to-many and to-one relationship processing.
+// ---
+
 package io.crnk.core.engine.internal.http;
 
 import io.crnk.core.engine.dispatcher.Response;

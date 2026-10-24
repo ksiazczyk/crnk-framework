@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ParserException
+// summary: Exception raised when a string cannot be parsed.
+// ---
+
 package io.crnk.core.engine.parser;
 
 import io.crnk.core.exception.CrnkException;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkExceptionMapper for CrnkMappableException
+// summary: Maps a generic CrnkMappableException to an error response and reconstructs specific exceptions from an error response by HTTP status.
+// ---
+
 package io.crnk.core.engine.internal.information.resource;
 
 import com.fasterxml.jackson.databind.AnnotationIntrospector;

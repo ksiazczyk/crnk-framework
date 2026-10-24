@@ -1,3 +1,8 @@
+// ---docerion
+// type: source
+// title: TimeoutExceptionMapper.java
+// ---
+
 package io.crnk.core.engine.internal.exception;
 
 import io.crnk.core.engine.error.ErrorResponse;

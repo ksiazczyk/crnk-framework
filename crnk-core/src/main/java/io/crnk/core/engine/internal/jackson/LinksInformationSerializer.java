@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: LinksInformationSerializer
+// summary: Serializes LinksInformation objects either as JSON objects or as simple string links depending on the serializeLinksAsObjects flag.
+// ---
+
 package io.crnk.core.engine.internal.jackson;
 
 import com.fasterxml.jackson.core.JsonGenerator;

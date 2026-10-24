@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TypeParser
+// summary: Parses strings into instances of supported classes and maps values back to strings.
+// ---
+
 package io.crnk.core.engine.parser;
 
 import java.io.Serializable;

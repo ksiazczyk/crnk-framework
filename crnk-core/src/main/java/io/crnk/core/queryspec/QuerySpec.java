@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerySpec
+// summary: Represents a full query specification with filters, sort, include and paging options.
+// ---
+
 package io.crnk.core.queryspec;
 
 import io.crnk.core.engine.document.Resource;

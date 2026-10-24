@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpRequestContextBase
+// summary: Base interface describing the operations available on an HTTP request context such as headers, parameters and body.
+// ---
+
 package io.crnk.core.engine.http;
 
 import java.net.URI;

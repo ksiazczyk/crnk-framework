@@ -1,3 +1,8 @@
+// ---docerion
+// type: source
+// title: CrnkExceptionMapper.java
+// ---
+
 package io.crnk.core.engine.internal.exception;
 
 import io.crnk.core.engine.document.ErrorData;
