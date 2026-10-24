@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaCollectionType
+// summary: Abstract meta type representing collection types such as Set, List or ResourceList and their instances.
+// ---
+
 package io.crnk.meta.model;
 
 import java.util.ArrayList;

@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: config
+title: web.xml deployment descriptor
+summary: Web application deployment descriptor declaring the Crnk example application display name.
+-->
 
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/j2ee"
 		 version="2.4"

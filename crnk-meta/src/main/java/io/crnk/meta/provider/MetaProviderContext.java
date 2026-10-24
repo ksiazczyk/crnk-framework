@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaProviderContext interface
+// summary: Interface providing context for a meta provider, including module context and discovery execution.
+// ---
+
 package io.crnk.meta.provider;
 
 import io.crnk.core.module.Module;

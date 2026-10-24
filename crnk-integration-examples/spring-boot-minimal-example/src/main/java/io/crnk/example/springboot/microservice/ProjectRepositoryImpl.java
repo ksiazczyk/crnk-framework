@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Project repository implementation
+// summary: CRNK repository that stores Project resources in memory and applies query specifications to them.
+// ---
+
 package io.crnk.example.springboot.microservice;
 
 import io.crnk.core.queryspec.QuerySpec;

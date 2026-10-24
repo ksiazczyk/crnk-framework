@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ProjectRepository
+// summary: A CRNK resource repository for Project entities backed by an in-memory map, implementing save, delete and find-all operations.
+// ---
+
 package io.crnk.example.dropwizard.simple.domain.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

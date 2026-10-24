@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle for the crnk-reactive module
+// summary: Gradle build configuration for the crnk-reactive module, applying the Java plugin and declaring compile and test dependencies.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

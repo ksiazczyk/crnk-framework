@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ReactiveModule
+// summary: A CRnK module that wires up the reactive result factory, repository information providers, and adapter factory for the reactive extension.
+// ---
+
 package io.crnk.reactive;
 
 import io.crnk.core.module.Module;

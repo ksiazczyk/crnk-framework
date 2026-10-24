@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MonoResultFactory creates Result instances from Reactor Mono
+// summary: A ResultFactory implementation based on Reactor that wraps objects in Mono and forwards request context through the subscriber context.
+// ---
+
 package io.crnk.reactive.internal;
 
 import java.util.ArrayList;

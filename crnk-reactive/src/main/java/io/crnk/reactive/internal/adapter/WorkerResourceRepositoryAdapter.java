@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WorkerResourceRepositoryAdapter runs resource ops on a worker
+// summary: A ResourceRepositoryAdapter that runs all resource operations on a worker thread with the request context.
+// ---
+
 package io.crnk.reactive.internal.adapter;
 
 import io.crnk.core.engine.http.HttpRequestContextProvider;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ReactiveRepositoryAdapterFactory creates and decorates adapters
+// summary: A RepositoryAdapterFactory that creates reactive repository adapters and wraps non-reactive repositories with a worker scheduler.
+// ---
+
 package io.crnk.reactive.internal.adapter;
 
 import io.crnk.core.engine.information.repository.RelationshipRepositoryInformation;

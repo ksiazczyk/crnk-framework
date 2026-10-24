@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Task project linker Crnk module
+// summary: Crnk module that registers a remote project repository so tasks can link to projects across microservices.
+// ---
+
 package io.crnk.example.springboot.microservice.task;
 
 import io.crnk.client.CrnkClient;

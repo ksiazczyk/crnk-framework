@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Operation order strategy interface
+// summary: Defines the interface that orders a list of operations into an ordered sequence.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.operations.server.OperationFilter;

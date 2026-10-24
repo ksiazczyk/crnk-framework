@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Project
+// summary: Java model class defining a JSON:API project resource with an id and name field for the Vert.x CRNK integration example.
+// ---
+
 package io.crnk.example.vertx.model;
 
 import io.crnk.core.resource.annotations.JsonApiId;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReactiveTestBase
+// summary: Abstract JUnit base class that boots a CRNK reactive module with in-memory repositories for shared test setup.
+// ---
+
 package io.crnk.reactive;
 
 import io.crnk.core.boot.CrnkBoot;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaPartitionBase class
+// summary: Abstract base class implementing MetaPartition with type mapping, discovery and allocation of meta elements.
+// ---
+
 package io.crnk.meta.provider;
 
 import java.lang.reflect.ParameterizedType;

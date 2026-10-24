@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Tests for post operations
+// summary: Tests posting operations, verifying atomicity on failure and bulk post behavior.
+// ---
+
 package io.crnk.operations;
 
 import java.util.Arrays;

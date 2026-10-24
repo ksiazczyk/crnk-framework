@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: History domain model class
+// summary: A CRNK JSON:API domain model class representing a history record with an UUID id and a name.
+// ---
+
 package io.crnk.example.springboot.domain.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaRelationshipRepositoryImpl
+// summary: Read-only relationship repository handling lookups and adjustments for CRNK meta elements.
+// ---
+
 package io.crnk.meta.internal;
 
 import io.crnk.core.engine.http.HttpRequestContext;

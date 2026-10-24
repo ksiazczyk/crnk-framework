@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ScheduleEntity domain model class
+// summary: A JPA and CRNK domain model class for a schedule linked to a creator and a set of verifiers.
+// ---
+
 package io.crnk.example.springboot.domain.model;
 
 import io.crnk.core.resource.annotations.JsonApiRelation;

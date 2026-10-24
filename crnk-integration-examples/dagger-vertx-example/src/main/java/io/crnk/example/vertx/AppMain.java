@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AppMain application entry point
+// summary: Main entry point that builds the Dagger component, starts the server and logs the base URL for access.
+// ---
+
 package io.crnk.example.vertx;
 
 import org.slf4j.Logger;

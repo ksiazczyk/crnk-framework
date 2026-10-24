@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Build configuration for the microservice example
+// summary: Declares the Gradle plugins, main class, and dependencies for the Spring Boot microservice example.
+// ---
+
 apply plugin: 'java'
 
 apply plugin: 'application'

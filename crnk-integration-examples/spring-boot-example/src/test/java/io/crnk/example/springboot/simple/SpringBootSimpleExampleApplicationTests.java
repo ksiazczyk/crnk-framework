@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SpringBootSimpleExampleApplicationTests
+// summary: Demonstrates RestAssured and CrnkClient test cases covering repository access, relationships and UI endpoints for the example.
+// ---
+
 package io.crnk.example.springboot.simple;
 
 import static com.jayway.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchema;

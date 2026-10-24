@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: InMemoryReactiveResourceRepository
+// summary: An in-memory reactive resource repository used as a test fixture for create, save, delete and find operations.
+// ---
+
 package io.crnk.reactive.model;
 
 import io.crnk.core.engine.information.resource.ResourceField;

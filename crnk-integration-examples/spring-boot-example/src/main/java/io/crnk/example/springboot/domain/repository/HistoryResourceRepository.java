@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HistoryResourceRepository serves History resources
+// summary: A resource repository for the History model that returns fixed test data for lookups.
+// ---
+
 package io.crnk.example.springboot.domain.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

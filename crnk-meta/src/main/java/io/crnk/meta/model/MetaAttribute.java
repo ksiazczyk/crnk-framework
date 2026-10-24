@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaDataObjectProviderBase
+// summary: Base class that builds meta attributes from bean information and configures read, write, sort and filter capabilities.
+// ---
+
 package io.crnk.meta.model;
 
 import java.lang.annotation.Annotation;

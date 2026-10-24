@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ProjectRepositoryImpl
+// summary: In-memory implementation of ProjectRepository that stores projects in a map and seeds sample data.
+// ---
+
 package io.crnk.example.jersey.domain.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

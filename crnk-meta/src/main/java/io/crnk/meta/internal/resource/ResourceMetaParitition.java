@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceMetaParitition
+// summary: Partition that constructs resource metadata, computes stable IDs for types, and registers metadata elements into the model.
+// ---
+
 package io.crnk.meta.internal.resource;
 
 import io.crnk.core.engine.information.repository.RepositoryAction;

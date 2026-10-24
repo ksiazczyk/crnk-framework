@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ReactiveRepositoryFilter
+// summary: Java interface declaring a filterAccess method that transforms a repository API response within the CRNK reactive framework.
+// ---
+
 package io.crnk.reactive.repository.filter;
 
 import io.crnk.core.engine.filter.RepositoryFilterContext;

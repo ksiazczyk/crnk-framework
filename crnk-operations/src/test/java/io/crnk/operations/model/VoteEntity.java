@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: VoteEntity JPA entity
+// summary: A JPA entity representing a vote, storing a generated id and a number of stars.
+// ---
+
 package io.crnk.operations.model;
 
 import javax.persistence.Entity;

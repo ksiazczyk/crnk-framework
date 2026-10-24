@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BeanProducer
+// summary: Produces CDI beans that supply the EntityManager and the CRNK JPA and Home modules for the Open Liberty example.
+// ---
+
 package io.crnk.example.openliberty.microprofile;
 
 import io.crnk.core.engine.transaction.TransactionRunner;

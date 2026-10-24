@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaJsonObject resource class
+// summary: A JSON:API meta resource class representing a JSON object, extending MetaDataObject.
+// ---
+
 package io.crnk.meta.model.resource;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

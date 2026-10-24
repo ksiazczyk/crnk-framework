@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaModule class
+// summary: Java module class that registers information builders, filters and resource lookups for the meta module.
+// ---
+
 package io.crnk.meta;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

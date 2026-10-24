@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Project JSON:API resource model
+// summary: A JSON:API resource model representing a project with an id, a name, and self-links for the original microservice.
+// ---
+
 package io.crnk.example.springboot.microservice.project;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

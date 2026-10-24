@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReactiveRequestProcessingTest
+// summary: JUnit test exercising asynchronous JSON API request processing against a reactive task repository.
+// ---
+
 package io.crnk.reactive;
 
 import java.io.IOException;

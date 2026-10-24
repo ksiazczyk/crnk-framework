@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Task test data loader
+// summary: Spring configuration that seeds the task repository with sample task entries on startup.
+// ---
+
 package io.crnk.example.springboot.microservice.task;
 
 import org.springframework.beans.factory.annotation.Autowired;

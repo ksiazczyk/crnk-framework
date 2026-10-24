@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MyFeature
+// summary: JAX-RS feature that registers the CRNK REST feature with the application.
+// ---
+
 package io.crnk.example.openliberty.microprofile;
 
 import io.crnk.rs.CrnkFeature;

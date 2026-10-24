@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BraveClientModule traces crnk-client requests with brave HTTP tracing
+// summary: A crnk module that traces all client requests by wiring brave HTTP tracing into OkHttp and Apache HttpClient adapters.
+// ---
+
 package io.crnk.monitor.brave;
 
 import brave.Tracing;

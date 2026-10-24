@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaResourceRepository meta resource
+// summary: A JSON:API meta resource describing a repository backing a resource, including bulk and exposed flags.
+// ---
+
 package io.crnk.meta.model.resource;
 
 import io.crnk.core.resource.annotations.JsonApiRelation;

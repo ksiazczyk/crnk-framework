@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaMapType map type meta model
+// summary: Declares the MetaMapType meta model class holding a lazily serialized key type reference.
+// ---
+
 package io.crnk.meta.model;
 
 import io.crnk.core.resource.annotations.JsonApiRelation;

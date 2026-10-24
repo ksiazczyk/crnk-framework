@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Operation order strategy interface
+// summary: Interface defining the contract for ordering a list of operations into an ordered sequence.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.core.engine.document.Relationship;

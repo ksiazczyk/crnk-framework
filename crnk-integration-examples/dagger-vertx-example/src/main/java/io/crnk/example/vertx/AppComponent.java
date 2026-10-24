@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AppComponent Dagger component interface
+// summary: Dagger component interface that wires together the application module and exposes the AppServer for dependency injection.
+// ---
+
 package io.crnk.example.vertx;
 
 

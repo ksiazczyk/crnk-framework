@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaLookupImpl implementation
+// summary: Java implementation of MetaLookup that manages meta partitions, providers, filters and element discovery.
+// ---
+
 package io.crnk.meta;
 
 import io.crnk.core.engine.internal.utils.PreconditionUtil;

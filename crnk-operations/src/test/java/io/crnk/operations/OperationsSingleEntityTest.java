@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Tests single entity CRUD operations
+// summary: Tests create, read, update and delete operations on single entities.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.core.engine.http.HttpMethod;

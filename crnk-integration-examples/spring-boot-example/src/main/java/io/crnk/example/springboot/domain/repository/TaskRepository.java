@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskRepository interface for Task resources
+// summary: An interface for the Task repository extending the CRNK ResourceRepository.
+// ---
+
 package io.crnk.example.springboot.domain.repository;
 
 import io.crnk.core.repository.ResourceRepository;

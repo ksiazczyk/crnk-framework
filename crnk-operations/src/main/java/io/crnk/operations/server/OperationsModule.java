@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OperationsModule
+// summary: CRnK module that applies a set of operations, manages filters, ordering strategies, and request processing.
+// ---
+
 package io.crnk.operations.server;
 
 import io.crnk.core.engine.dispatcher.RequestDispatcher;

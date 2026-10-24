@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: config
+title: beans.xml CDI configuration
+summary: CDI beans descriptor that enables bean discovery for the Crnk example web application.
+-->
+
 <beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee"
 	   xsi:schemaLocation="
         http://xmlns.jcp.org/xml/ns/javaee

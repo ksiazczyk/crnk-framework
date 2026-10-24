@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ProjectRepository interface
+// summary: Interface defining the CRnK repository for Project resources, declaring pagination meta and link contracts.
+// ---
+
 package io.crnk.example.jersey.domain.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

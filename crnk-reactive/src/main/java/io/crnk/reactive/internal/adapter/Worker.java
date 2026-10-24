@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Worker executes a callable with the request context on a worker thread
+// summary: Runs a callable on a worker scheduler while assigning the HTTP request context to the worker thread.
+// ---
+
 package io.crnk.reactive.internal.adapter;
 
 import io.crnk.core.engine.http.HttpRequestContextProvider;

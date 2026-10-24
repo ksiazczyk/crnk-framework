@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration for the crnk-monitor-opentracing module, declaring compile and test dependencies on crnk-core, opentracing, and Spring.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

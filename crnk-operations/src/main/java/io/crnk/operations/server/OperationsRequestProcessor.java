@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OperationsRequestProcessor
+// summary: HTTP request processor that handles JSON Patch operations and returns their responses.
+// ---
+
 package io.crnk.operations.server;
 
 import java.io.IOException;

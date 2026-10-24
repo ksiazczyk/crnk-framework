@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WildflyApplication JAX-RS application
+// summary: A JAX-RS Application registering the CrnkFeature under the api path to enable Crnk integration.
+// ---
+
 package io.crnk.example.wildfly;
 
 import io.crnk.rs.CrnkFeature;

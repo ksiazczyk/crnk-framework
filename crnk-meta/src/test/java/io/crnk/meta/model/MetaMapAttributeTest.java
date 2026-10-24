@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaMapAttributeTest for map attribute behavior
+// summary: Test using Mockito to verify MetaMapAttribute getters, lazy forwarding and unsupported operations.
+// ---
+
 package io.crnk.meta.model;
 
 import org.junit.Assert;

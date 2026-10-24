@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AbstractBraveModuleTest base test class
+// summary: Abstract base test that wires up a CrnkClient with Brave tracing and verifies client and server spans are reported for repository calls.
+// ---
+
 package io.crnk.monitor.brave;
 
 import brave.Tracing;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaResourceAction meta resource
+// summary: A JSON:API meta resource describing a resource action and whether it applies to a repository or resource.
+// ---
+
 package io.crnk.meta.model.resource;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

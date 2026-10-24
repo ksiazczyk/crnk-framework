@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ProjectRepository interface with paged list support
+// summary: An interface for the Project repository that defines a custom paged resource list with meta and pagination links.
+// ---
+
 package io.crnk.example.springboot.domain.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

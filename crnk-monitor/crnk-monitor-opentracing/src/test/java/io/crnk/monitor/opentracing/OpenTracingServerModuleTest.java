@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OpenTracingServerModuleTest
+// summary: JUnit test that verifies the OpenTracing server module records spans with correct operation names for requests with and without an active span.
+// ---
+
 package io.crnk.monitor.opentracing;
 
 import java.io.IOException;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HelloController
+// summary: A JAX-RS singleton endpoint that answers GET requests at /hello with a greeting.
+// ---
+
 package io.crnk.example.openliberty.microprofile;
 
 import javax.inject.Singleton;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaMapAttribute map-valued attribute
+// summary: Implements MetaMapAttribute, a map-valued attribute backed by a MetaMapType and key string.
+// ---
+
 package io.crnk.meta.model;
 
 import io.crnk.core.engine.parser.TypeParser;

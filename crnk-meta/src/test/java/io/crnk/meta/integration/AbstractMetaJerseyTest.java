@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AbstractMetaJerseyTest
+// summary: Abstract base class that configures a CrnkJersey test application and provides client setup for the meta integration tests.
+// ---
+
 package io.crnk.meta.integration;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

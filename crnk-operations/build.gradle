@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration declaring compile and test dependencies for the crnk-operations module.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

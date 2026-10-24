@@ -1,0 +1,6 @@
+# Docerion header of proguard.txt.
+type: config
+title: ProGuard rules for the minimized example
+summary: ProGuard configuration rules that keep Vert.x, Netty and crnk classes while shrinking the minimized application.
+relations:
+  - references /crnk-integration-examples/dagger-vertx-example/proguard.map

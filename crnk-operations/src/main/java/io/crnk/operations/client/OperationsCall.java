@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OperationsCall queues and executes crnk operations
+// summary: Queues HTTP operations and executes them as a batch against the crnk operations endpoint, converting objects to resources and back.
+// ---
+
 package io.crnk.operations.client;
 
 import java.io.IOException;

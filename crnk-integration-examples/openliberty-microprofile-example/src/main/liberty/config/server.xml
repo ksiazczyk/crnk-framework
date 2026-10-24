@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: config
+title: Open Liberty server configuration
+summary: Open Liberty server configuration defining MicroProfile features, HTTP endpoints, web application, metrics, keystore, and JWT settings.
+-->
+
 <server description="${project.name}">
 
     <featureManager>

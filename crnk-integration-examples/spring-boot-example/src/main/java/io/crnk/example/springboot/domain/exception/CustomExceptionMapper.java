@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CustomExceptionMapper
+// summary: Maps the custom exception to a CRNK error response using a custom HTTP status code of 599.
+// ---
+
 package io.crnk.example.springboot.domain.exception;
 
 import io.crnk.core.engine.document.ErrorData;

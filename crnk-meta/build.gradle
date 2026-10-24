@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration that declares the compile and test dependencies for the crnk-meta module.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

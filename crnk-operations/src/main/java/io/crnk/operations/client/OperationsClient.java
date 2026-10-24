@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OperationsClient wraps CrnkClient for operations
+// summary: Wraps a CrnkClient and creates OperationsCall instances to queue and execute operations.
+// ---
+
 package io.crnk.operations.client;
 
 

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: VertxSecurityProvider CRNK security integration
+// summary: Security provider that authenticates requests against the Vert.x AuthProvider and marks the authenticated user in the query context.
+// ---
+
 package io.crnk.example.vertx;
 
 import io.crnk.core.engine.http.HttpRequestContext;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OperationsService
+// summary: JAX-RS interface exposing an operations endpoint that executes multiple requests via JSON Patch.
+// ---
+
 package io.crnk.operations.server;
 
 import io.crnk.operations.internal.PATCH;

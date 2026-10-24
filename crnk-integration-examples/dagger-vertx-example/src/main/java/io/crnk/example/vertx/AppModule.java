@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AppModule Dagger dependency module
+// summary: Dagger module that provides the project repository, home and security modules, and the Vert.x authentication and security providers.
+// ---
+
 package io.crnk.example.vertx;
 
 import dagger.Module;

@@ -1,0 +1,4 @@
+# Docerion header of logback.xml.
+type: config
+title: Logback logging configuration
+summary: Configures Logback logging output to the console at WARN level for the test suite.

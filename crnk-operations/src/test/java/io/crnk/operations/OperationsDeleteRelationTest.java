@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Delete relation test
+// summary: Verifies deleting a related entity updates the relationship collection in the response.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.core.engine.document.Relationship;

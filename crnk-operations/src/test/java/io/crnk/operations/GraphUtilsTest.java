@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Operations module
+// summary: CRnK module that applies a set of operations, manages filters, ordering strategies and response handling.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.operations.internal.GraphUtils;

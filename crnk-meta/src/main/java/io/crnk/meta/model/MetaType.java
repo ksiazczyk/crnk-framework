@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaType meta model class
+// summary: Declares the MetaType meta model class resolving implementation classes and element types as a JSON:API resource.
+// ---
+
 package io.crnk.meta.model;
 
 import java.lang.reflect.Type;

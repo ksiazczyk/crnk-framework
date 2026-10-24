@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: BaseTest
+// summary: Abstract base class that configures RestAssured and CrnkClient and provides shared helpers for the Spring Boot example tests.
+// ---
+
 package io.crnk.example.springboot.simple;
 
 import com.jayway.restassured.RestAssured;

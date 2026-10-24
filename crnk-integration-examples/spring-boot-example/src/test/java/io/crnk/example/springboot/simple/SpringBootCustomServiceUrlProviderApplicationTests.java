@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SpringBootCustomServiceUrlProviderApplicationTests
+// summary: Verifies that API links are generated from a custom ServiceUrlProvider implementation by asserting self links point to a custom host.
+// ---
+
 package io.crnk.example.springboot.simple;
 
 import com.jayway.restassured.RestAssured;

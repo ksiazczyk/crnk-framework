@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReactiveResourceRepositoryAdapterTest
+// summary: JUnit test covering the ReactiveResourceRepositoryAdapter for create, save, find and delete operations.
+// ---
+
 package io.crnk.reactive;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

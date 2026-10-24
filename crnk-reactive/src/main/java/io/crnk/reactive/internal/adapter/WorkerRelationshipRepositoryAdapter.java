@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WorkerRelationshipRepositoryAdapter runs relationship ops on a worker
+// summary: A RelationshipRepositoryAdapter that runs all relationship operations on a worker thread with the request context.
+// ---
+
 package io.crnk.reactive.internal.adapter;
 
 import io.crnk.core.engine.http.HttpRequestContextProvider;

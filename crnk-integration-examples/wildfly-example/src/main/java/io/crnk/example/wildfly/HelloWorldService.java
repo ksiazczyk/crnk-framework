@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HelloWorldService JAX-RS resource
+// summary: A JAX-RS resource exposing a GET endpoint at /hello that returns a simple HTML greeting.
+// ---
+
 package io.crnk.example.wildfly;
 
 import javax.ws.rs.GET;

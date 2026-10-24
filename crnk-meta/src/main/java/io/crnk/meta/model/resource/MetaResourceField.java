@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaResourceField meta resource
+// summary: A JSON:API meta resource describing a field of a resource with its type and version range.
+// ---
+
 package io.crnk.meta.model.resource;
 
 import io.crnk.core.engine.information.resource.ResourceFieldType;

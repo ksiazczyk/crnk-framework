@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Dependency order strategy for operations
+// summary: Orders operations by building a dependency graph from resource relationships and moving delete operations to the end.
+// ---
+
 package io.crnk.operations.server.order;
 
 import io.crnk.core.engine.document.Relationship;

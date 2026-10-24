@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Graph utility for topological sorting
+// summary: Implements a topological sort over a graph of nodes and edges, including Node and Edge helper classes for building the graph.
+// ---
+
 package io.crnk.operations.internal;
 
 import io.crnk.core.engine.internal.utils.CompareUtils;

@@ -1,3 +1,9 @@
+---
+type: readme
+title: wildfly-example
+summary: Explains how to build and run the CRNK integration example on Wildfly, including the endpoint URL and the required Accept header.
+---
+
 In order to run this example do:
 * ```mvn clean package```
 * ```mvn wildfly:run```

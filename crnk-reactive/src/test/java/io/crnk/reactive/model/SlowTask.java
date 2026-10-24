@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SlowTask
+// summary: A JSON:API resource model representing a slow task used by the slow resource repository test.
+// ---
+
 package io.crnk.reactive.model;
 
 import io.crnk.core.resource.annotations.JsonApiId;

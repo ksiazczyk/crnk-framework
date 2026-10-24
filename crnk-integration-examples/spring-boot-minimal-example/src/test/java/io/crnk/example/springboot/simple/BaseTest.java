@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: BaseTest abstract test class for CRNK integration
+// summary: Abstract base class that boots the Spring Boot application on a random port and provides shared helpers for CRNK integration tests using RestAssured and CrnkClient.
+// ---
+
 package io.crnk.example.springboot.simple;
 
 import com.jayway.restassured.RestAssured;

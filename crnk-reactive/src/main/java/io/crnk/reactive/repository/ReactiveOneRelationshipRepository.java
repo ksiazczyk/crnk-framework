@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ReactiveOneRelationshipRepository interface
+// summary: Interface for reactive repositories managing single-valued relationships, including finding and setting one relation.
+// ---
+
 package io.crnk.reactive.repository;
 
 import io.crnk.core.engine.information.resource.ResourceField;

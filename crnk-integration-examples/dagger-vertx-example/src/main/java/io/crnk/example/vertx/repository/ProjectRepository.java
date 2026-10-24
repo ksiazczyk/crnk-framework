@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ProjectRepository for CRNK in Vert.x example
+// summary: A CRNK repository implementation that stores Project resources in a concurrent map and manages their IDs, CRUD operations and query-based retrieval.
+// ---
+
 package io.crnk.example.vertx.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

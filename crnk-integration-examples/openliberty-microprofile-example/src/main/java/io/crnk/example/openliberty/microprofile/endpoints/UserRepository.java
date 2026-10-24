@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UserRepository
+// summary: CRNK repository that stores and manages User records in an in-memory map, generating UUIDs for new users.
+// ---
+
 package io.crnk.example.openliberty.microprofile.endpoints;
 
 import io.crnk.core.queryspec.QuerySpec;

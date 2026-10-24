@@ -1,3 +1,9 @@
+---
+type: readme
+title: Open Liberty MicroProfile example
+summary: Explains how to build and run this MicroProfile 4 example on Open Liberty, including the commands and the API endpoints exposed.
+---
+
 Adapted from wildfly-example.
 
 This is a MicroProfile 4 example using Open Liberty as the runtime 'engine'.

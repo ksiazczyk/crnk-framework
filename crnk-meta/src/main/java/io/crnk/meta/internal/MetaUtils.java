@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaUtils
+// summary: Helper methods for lowercasing names and adjusting meta elements for the current request.
+// ---
+
 package io.crnk.meta.internal;
 
 import io.crnk.core.engine.query.QueryContext;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaIdProvider
+// summary: Computes resource ID prefixes from package names and stores package to ID mappings.
+// ---
+
 package io.crnk.meta.internal;
 
 import io.crnk.core.engine.internal.utils.PreconditionUtil;

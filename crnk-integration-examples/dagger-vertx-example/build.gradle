@@ -1,3 +1,11 @@
+// ---docerion
+// type: config
+// title: Gradle build for the dagger-vertx-example
+// summary: Gradle build configuration for the dagger-vertx-example, wiring dependencies, ProGuard shrinking and Docker container tasks.
+// relations:
+//   - references /crnk-integration-examples/dagger-vertx-example/proguard.txt
+// ---
+
 import com.bmuschko.gradle.docker.tasks.container.DockerCreateContainer
 import com.bmuschko.gradle.docker.tasks.container.DockerRemoveContainer
 import com.bmuschko.gradle.docker.tasks.container.DockerStartContainer

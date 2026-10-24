@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AppServer Vert.x server lifecycle
+// summary: Server wrapper that configures Vert.x options, deploys the CRNK verticle and manages starting and stopping the server.
+// ---
+
 package io.crnk.example.vertx;
 
 import io.reactivex.subjects.SingleSubject;

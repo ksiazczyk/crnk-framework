@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JerseyApplicationTest
+// summary: A JUnit test that verifies the Jersey REST application returns JSON:API formatted responses for the project endpoints.
+// ---
+
 package io.crnk.example.jersey;
 
 import com.fasterxml.jackson.core.JsonProcessingException;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Project domain model class
+// summary: A CRNK JSON:API domain model class for a project that holds a name and a list of tasks.
+// ---
+
 package io.crnk.example.springboot.domain.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

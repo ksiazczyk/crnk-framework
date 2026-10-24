@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Task to Project relationship repository
+// summary: Relationship repository declaring the Task to Project association for CRNK mock data handling.
+// ---
+
 package io.crnk.monitor.brave.mock.repository;
 
 import io.crnk.core.repository.RelationshipRepositoryBase;

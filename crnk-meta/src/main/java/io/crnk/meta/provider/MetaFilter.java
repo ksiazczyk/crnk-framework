@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaFilter interface
+// summary: Interface defining a meta filter that can customize MetaElement per request, such as applying security rules.
+// ---
+
 package io.crnk.meta.provider;
 
 import io.crnk.core.engine.query.QueryContext;

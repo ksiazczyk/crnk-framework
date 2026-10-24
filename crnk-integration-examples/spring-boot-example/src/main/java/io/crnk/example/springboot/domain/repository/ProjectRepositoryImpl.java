@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ProjectRepositoryImpl stores projects in memory
+// summary: An in-memory implementation of ProjectRepository that stores projects in a map and applies query specs.
+// ---
+
 package io.crnk.example.springboot.domain.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

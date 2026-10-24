@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: config
+title: Logback logging configuration
+summary: Logback logging configuration that routes WARN-level messages to the console using a formatted timestamp, level, thread and logger pattern.
+-->
 
 <configuration>
 	<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">

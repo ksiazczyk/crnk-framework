@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ReactiveResourceRepository interface
+// summary: Interface defining reactive repository operations for a single resource type using Mono return types.
+// ---
+
 package io.crnk.reactive.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

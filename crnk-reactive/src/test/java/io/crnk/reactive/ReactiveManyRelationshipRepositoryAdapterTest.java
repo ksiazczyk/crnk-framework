@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ReactiveRelationshipRepository interface
+// summary: Marker interface extending MatchedRelationshipRepository for reactive relationship repositories.
+// ---
+
 package io.crnk.reactive;
 
 import io.crnk.core.engine.internal.utils.MultivaluedMap;

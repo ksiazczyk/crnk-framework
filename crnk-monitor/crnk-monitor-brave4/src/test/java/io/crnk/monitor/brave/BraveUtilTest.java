@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: BraveUtilTest
+// summary: Verifies that BraveUtil has a private constructor and cannot be instantiated.
+// ---
+
 package io.crnk.monitor.brave;
 
 import io.crnk.monitor.brave.internal.BraveUtil;

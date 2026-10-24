@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration that declares compile and test dependencies for the crnk-monitor-brave4 module, including Zipkin Brave instrumentation libraries.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

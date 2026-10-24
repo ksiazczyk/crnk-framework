@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Operations exception test
+// summary: Verifies validation errors cancel a batch and unknown errors trigger an internal server error.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.core.engine.http.HttpMethod;

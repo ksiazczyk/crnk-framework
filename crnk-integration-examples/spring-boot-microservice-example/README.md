@@ -1,3 +1,9 @@
+---
+type: readme
+title: spring-boot-microservice-example
+summary: Documents a Spring Boot microservice example that demonstrates a JSON:API relationship spanning two services and explains how to run it with Gradle.
+---
+
 # spring-boot-microservice-example
 
 Showcases two minimal Spring Boot micro services. One service serves

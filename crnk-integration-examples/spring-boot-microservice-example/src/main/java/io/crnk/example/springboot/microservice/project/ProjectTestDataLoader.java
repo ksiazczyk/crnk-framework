@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Project test data loader
+// summary: A configuration class that seeds the repository with sample project data on startup.
+// ---
+
 package io.crnk.example.springboot.microservice.project;
 
 import org.springframework.beans.factory.annotation.Autowired;

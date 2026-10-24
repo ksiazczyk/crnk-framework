@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TypedMetaElementFactoryContext
+// summary: Source file whose excerpt actually contains the MetaAttributePath class rather than the named factory context.
+// ---
+
 package io.crnk.meta.model;
 
 import java.util.ArrayList;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaRelationshipRepositoryImplTest
+// summary: Tests the relationship repository implementation for finding targets and rejecting read-only operations.
+// ---
+
 package io.crnk.meta;
 
 
