@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaRepositoryConfigSupplier
+// summary: Interface contract towards JpaModule to access repository configuration, avoiding proxy issues from CDI/Weld.
+// ---
+
 package io.crnk.data.jpa.internal.query;
 
 import io.crnk.meta.model.MetaAttributePath;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Tuple interface for query tuple access
+// summary: Interface for a query tuple supporting indexed and named access with optional entry reduction.
+// ---
+
 package io.crnk.data.jpa.query;
 
 public interface Tuple {

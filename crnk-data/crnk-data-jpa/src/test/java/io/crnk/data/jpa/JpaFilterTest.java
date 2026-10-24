@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JPA filter test
+// summary: Verifies that the JPA criteria repository filter builds a criteria query for a repository call.
+// ---
+
 package io.crnk.data.jpa;
 
 import io.crnk.core.queryspec.QuerySpec;

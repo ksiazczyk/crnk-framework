@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FacetResource
+// summary: JSON:API resource representing a facet with its resource type, name, labels, grouped values and groups.
+// ---
+
 package io.crnk.data.facet;
 
 import java.util.HashMap;

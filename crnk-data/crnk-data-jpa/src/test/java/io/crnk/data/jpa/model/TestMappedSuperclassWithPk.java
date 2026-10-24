@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestMappedSuperclassWithPk
+// summary: Mapped superclass with an id column and a related entity for primary key testing.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerydslUtils querydsl query helpers
+// summary: Provides helper methods for accessing Querydsl Q classes, entity paths and join type conversion.
+// ---
+
 package io.crnk.data.jpa.internal.query.backend.querydsl;
 
 import com.querydsl.core.JoinExpression;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JSON:API model class for scheduled approval process history
+// summary: Model class annotated as a JSON:API resource representing the history of a scheduled approval process instance.
+// ---
+
 package io.crnk.data.activiti.example.model;
 
 import io.crnk.data.activiti.example.approval.ApprovalValues;

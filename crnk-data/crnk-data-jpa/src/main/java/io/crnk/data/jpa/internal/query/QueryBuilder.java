@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JoinRegistry
+// summary: Tracks and creates joins needed to resolve entity attribute paths during JPA query construction.
+// ---
+
 package io.crnk.data.jpa.internal.query;
 
 import io.crnk.core.queryspec.FilterSpec;

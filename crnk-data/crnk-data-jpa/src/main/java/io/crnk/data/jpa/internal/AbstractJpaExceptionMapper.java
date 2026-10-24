@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration declaring compile and test dependencies for the crnk-data-jpa module.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import io.crnk.core.engine.document.ErrorData;

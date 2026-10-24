@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: StandaloneJpaEntityRepositoryTest for repository without module
+// summary: Exercises a standalone JpaEntityRepository configured without the JpaModule using a criteria query factory.
+// ---
+
 package io.crnk.data.jpa.repository;
 
 import io.crnk.core.queryspec.FilterOperator;

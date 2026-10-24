@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Method-annotated JPA test entity
+// summary: A JPA test entity that maps its ID and column attributes using method-level annotations.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

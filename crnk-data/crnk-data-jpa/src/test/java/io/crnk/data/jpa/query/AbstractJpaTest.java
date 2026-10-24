@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Asciidoc generator module
+// summary: Generator module that produces AsciiDoc documentation from crnk meta information.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import io.crnk.core.boot.CrnkBoot;

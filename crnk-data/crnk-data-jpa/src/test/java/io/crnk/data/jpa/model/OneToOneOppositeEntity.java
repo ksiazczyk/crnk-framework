@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: One-to-one opposite relationship entity
+// summary: A JPA test entity representing the opposite side of a lazy one-to-one relationship.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Entity;

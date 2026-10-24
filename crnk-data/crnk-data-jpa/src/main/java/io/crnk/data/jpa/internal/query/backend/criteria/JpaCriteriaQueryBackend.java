@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaCriteriaQueryBackend query builder
+// summary: Builds JPA criteria queries from metadata, handling joins, predicates, ordering and distinct selection.
+// ---
+
 package io.crnk.data.jpa.internal.query.backend.criteria;
 
 import java.util.ArrayList;

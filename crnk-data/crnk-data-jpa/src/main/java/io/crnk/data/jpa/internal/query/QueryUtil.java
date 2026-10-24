@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryUtil
+// summary: Provides utility methods for JPA query operations such as checking for a total order and detecting relations in criteria queries.
+// ---
+
 package io.crnk.data.jpa.internal.query;
 
 import io.crnk.core.queryspec.SortSpec;

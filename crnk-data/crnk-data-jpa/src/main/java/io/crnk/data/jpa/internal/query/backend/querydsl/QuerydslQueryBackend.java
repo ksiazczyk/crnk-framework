@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerydslQueryBackend querydsl query backend
+// summary: Translates crnk query specs into Querydsl expressions, joins, ordering and predicates for JPA queries.
+// ---
+
 package io.crnk.data.jpa.internal.query.backend.querydsl;
 
 import java.util.ArrayList;

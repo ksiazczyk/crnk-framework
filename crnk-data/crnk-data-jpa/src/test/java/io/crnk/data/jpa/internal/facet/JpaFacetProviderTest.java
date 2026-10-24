@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaFacetProviderTest
+// summary: JUnit test that verifies the JPA facet provider returns correct facet values and counts, and rejects unknown facets.
+// ---
+
 package io.crnk.data.jpa.internal.facet;
 
 import java.io.Serializable;

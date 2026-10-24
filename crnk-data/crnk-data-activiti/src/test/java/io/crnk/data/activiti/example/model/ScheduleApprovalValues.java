@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JSON:API model class for schedule approval values
+// summary: Model class implementing the ApprovalValues interface for schedule approval values.
+// ---
+
 package io.crnk.data.activiti.example.model;
 
 

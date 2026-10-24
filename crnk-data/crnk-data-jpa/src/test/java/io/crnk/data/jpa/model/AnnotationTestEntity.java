@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AnnotationTestEntity
+// summary: JPA entity combining lob, column, embeddable and many-to-one relationships to exercise annotation-based mapping in tests.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import io.crnk.core.resource.annotations.JsonApiField;

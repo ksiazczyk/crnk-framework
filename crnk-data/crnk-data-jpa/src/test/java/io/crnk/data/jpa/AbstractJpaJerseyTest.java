@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Abstract JPA Jersey test base class
+// summary: Abstract base test class that configures a Crnk client, JPA module and Spring context for Jersey-based JPA repository tests.
+// ---
+
 package io.crnk.data.jpa;
 
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;

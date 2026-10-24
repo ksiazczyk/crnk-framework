@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ApprovalRepositoryDecorator enforces approval on mutations
+// summary: Decorates resource repositories to route save, create and delete operations through the approval manager.
+// ---
+
 package io.crnk.data.activiti.example.approval;
 
 import io.crnk.core.engine.http.HttpMethod;

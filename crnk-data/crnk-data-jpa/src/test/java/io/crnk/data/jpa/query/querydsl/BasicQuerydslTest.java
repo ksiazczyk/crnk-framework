@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: BasicQuerydslTest wires the Querydsl query factory
+// summary: Test that wires the Querydsl query factory into the basic query test base to exercise default JPA query behavior.
+// ---
+
 package io.crnk.data.jpa.query.querydsl;
 
 import io.crnk.data.jpa.query.BasicQueryTestBase;

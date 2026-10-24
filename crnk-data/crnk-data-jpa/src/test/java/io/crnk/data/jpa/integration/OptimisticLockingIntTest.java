@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerydslTranslationInterceptor interface
+// summary: Interface for intercepting QueryDSL query translation, invoked with the query and its translation context.
+// ---
+
 package io.crnk.data.jpa.integration;
 
 import io.crnk.core.queryspec.QuerySpec;

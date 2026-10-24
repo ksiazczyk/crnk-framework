@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaEntityRepositoryQuerydslTest
+// summary: Test that configures the Querydsl query factory for JPA entity repositories by overriding the factory in the base test class.
+// ---
+
 package io.crnk.data.jpa.repository.querydsl;
 
 import io.crnk.data.jpa.query.JpaQueryFactory;

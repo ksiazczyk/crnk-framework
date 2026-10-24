@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: One-to-one relationship test entity
+// summary: A JPA test entity modeling both uni- and bi-directional lazy one-to-one relationships.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Entity;

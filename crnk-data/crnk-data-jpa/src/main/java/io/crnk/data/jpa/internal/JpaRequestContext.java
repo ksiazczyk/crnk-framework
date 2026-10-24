@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaRepositoryConfigSupplier
+// summary: Interface for accessing repository configuration from proxies.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import io.crnk.core.queryspec.QuerySpec;

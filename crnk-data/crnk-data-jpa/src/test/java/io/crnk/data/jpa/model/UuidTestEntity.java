@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: UuidTestEntity
+// summary: Entity using a UUID as its primary key for identifier type testing.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Entity;

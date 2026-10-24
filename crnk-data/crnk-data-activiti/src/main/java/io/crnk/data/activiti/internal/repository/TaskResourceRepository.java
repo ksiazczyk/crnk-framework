@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskResourceRepository
+// summary: A repository managing Activiti runtime tasks, creating, saving and deleting them through the task service.
+// ---
+
 package io.crnk.data.activiti.internal.repository;
 
 

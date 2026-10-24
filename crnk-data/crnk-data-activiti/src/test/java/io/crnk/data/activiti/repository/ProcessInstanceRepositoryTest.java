@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProcessInstanceRepositoryTest
+// summary: JUnit test covering process instance repository mapping, querying, and post-processing of schedule approval process instances.
+// ---
+
 package io.crnk.data.activiti.repository;
 
 import java.time.OffsetDateTime;

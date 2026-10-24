@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TablePerClassInheritanceQuerydslTest for table per class inheritance
+// summary: Test that exercises table per class inheritance queries through the Querydsl query factory.
+// ---
+
 package io.crnk.data.jpa.query.querydsl;
 
 import io.crnk.data.jpa.query.JpaQueryFactory;

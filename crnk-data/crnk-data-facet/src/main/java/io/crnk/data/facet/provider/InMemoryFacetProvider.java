@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: InMemoryFacetProvider implementation
+// summary: Concrete facet provider that reads resource fields from a repository, counts value occurrences and returns facet values.
+// ---
+
 package io.crnk.data.facet.provider;
 
 import java.util.HashMap;

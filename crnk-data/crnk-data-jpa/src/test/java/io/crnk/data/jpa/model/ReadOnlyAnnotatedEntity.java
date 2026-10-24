@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Read-only annotated test entity
+// summary: A JPA test entity marked read-only through JsonApiResource annotations.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

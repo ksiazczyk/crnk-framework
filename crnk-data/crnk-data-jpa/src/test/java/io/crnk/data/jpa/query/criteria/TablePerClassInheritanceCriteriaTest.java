@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TablePerClassInheritanceCriteriaTest for table-per-class inheritance
+// summary: Tests JPA criteria queries against entities mapped with table-per-class inheritance.
+// ---
+
 package io.crnk.data.jpa.query.criteria;
 
 import io.crnk.data.jpa.query.JpaQueryFactory;

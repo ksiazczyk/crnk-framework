@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaKeyImplTest
+// summary: JUnit test checking primary key uniqueness, naming and element count discovered by the JPA meta provider.
+// ---
+
 package io.crnk.data.jpa.meta;
 
 import io.crnk.data.jpa.model.TestEntity;

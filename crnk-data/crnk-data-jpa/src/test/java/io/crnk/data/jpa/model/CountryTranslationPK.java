@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CountryTranslationPK
+// summary: Embeddable composite primary key linking a country and a language for country translation entities.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import com.google.common.base.Objects;

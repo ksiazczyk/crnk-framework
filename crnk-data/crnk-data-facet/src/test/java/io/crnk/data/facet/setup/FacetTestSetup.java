@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FacetTestSetup
+// summary: Test setup that boots CRNK with the facet and test modules and seeds sample project data for facet tests.
+// ---
+
 package io.crnk.data.facet.setup;
 
 import io.crnk.core.boot.CrnkBoot;

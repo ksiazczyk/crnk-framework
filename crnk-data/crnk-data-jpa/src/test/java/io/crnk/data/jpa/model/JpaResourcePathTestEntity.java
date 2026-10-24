@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaResourcePathTestEntity test entity
+// summary: A JPA test entity overriding the JSON:API resource type and path via annotation.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

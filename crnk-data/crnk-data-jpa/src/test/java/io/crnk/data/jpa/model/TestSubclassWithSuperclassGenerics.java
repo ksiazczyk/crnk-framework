@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestSubclassWithSuperclassGenerics
+// summary: Entity subclass extending a generic mapped superclass with a long primary key.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Entity;

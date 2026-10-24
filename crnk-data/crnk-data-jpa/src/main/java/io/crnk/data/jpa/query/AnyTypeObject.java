@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AnyTypeObject interface for anytype attributes
+// summary: Interface representing an anytype attribute, exposing its type name, value, and typed value retrieval.
+// ---
+
 package io.crnk.data.jpa.query;
 
 public interface AnyTypeObject {

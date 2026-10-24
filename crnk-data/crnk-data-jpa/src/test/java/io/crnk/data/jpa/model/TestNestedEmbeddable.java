@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestNestedEmbeddable
+// summary: Embeddable class with a boolean attribute used in nested embeddable scenarios.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

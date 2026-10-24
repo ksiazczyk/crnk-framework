@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FacetResourceInformation
+// summary: FacetResourceInformation holds a resource type, provider and the map of facets registered to it.
+// ---
+
 package io.crnk.data.facet.config;
 
 import java.util.Collections;

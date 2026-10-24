@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JSON:API model class for an immediately terminated process instance
+// summary: Model class annotated as a JSON:API resource representing an immediately terminated process instance.
+// ---
+
 package io.crnk.data.activiti.example.model;
 
 import io.crnk.data.activiti.resource.ProcessInstanceResource;

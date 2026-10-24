@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerydslTupleImpl querydsl tuple implementation
+// summary: Wraps a Querydsl Tuple, resolving selected columns by index, expression or alias.
+// ---
+
 package io.crnk.data.jpa.internal.query.backend.querydsl;
 
 import com.querydsl.core.Tuple;

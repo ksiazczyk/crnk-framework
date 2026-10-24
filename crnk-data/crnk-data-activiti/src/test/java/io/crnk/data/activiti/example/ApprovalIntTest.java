@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ApprovalIntTest integration test for the approval workflow
+// summary: Integration test that drives the full approval workflow through a CRNK client and Jersey test, verifying that a schedule change triggers and completes an approval process.
+// ---
+
 package io.crnk.data.activiti.example;
 
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;

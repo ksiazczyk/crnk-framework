@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SequenceDTO JSON:API resource
+// summary: A JSON:API resource DTO defining a sequence data model with an id and a string value for the JPA test suite.
+// ---
+
 package io.crnk.data.jpa.model.dto;
 
 import io.crnk.core.resource.annotations.JsonApiId;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaQueryFactory interface for building queries
+// summary: Interface for the JPA module to build queries for entity classes and their relations, exposing the entity manager.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import javax.persistence.EntityManager;

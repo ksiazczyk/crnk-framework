@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Related DTO mapper
+// summary: Maps the RelatedEntity to and from the RelatedDTO as a helper for DTO mapping tests.
+// ---
+
 package io.crnk.data.jpa.mapping;
 
 import io.crnk.data.jpa.model.RelatedEntity;

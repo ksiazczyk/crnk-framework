@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: QuerydslRepositoryFilterTest
+// summary: Verifies that a Querydsl repository filter intercepts query translation when findAll is invoked on a JPA entity repository.
+// ---
+
 package io.crnk.data.jpa.repository.querydsl;
 
 import io.crnk.core.queryspec.QuerySpec;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ApproveForm model class
+// summary: Java model class representing an approval form resource for the Activiti example test suite.
+// ---
+
 package io.crnk.data.activiti.repository;
 
 import io.crnk.data.activiti.ActivitiModule;

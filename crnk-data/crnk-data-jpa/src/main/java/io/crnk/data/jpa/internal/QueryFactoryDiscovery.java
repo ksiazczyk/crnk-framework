@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QueryFactoryDiscovery
+// summary: Discovers the default query factory, preferring QueryDSL when available and otherwise falling back to the Criteria API.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import io.crnk.core.engine.internal.utils.ClassUtils;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaMetaUtils
+// summary: Utility methods for detecting JPA types, extracting element types, and finding unique primary keys.
+// ---
+
 package io.crnk.data.jpa.meta.internal;
 
 import io.crnk.core.engine.information.bean.BeanAttributeInformation;

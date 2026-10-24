@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaRepositoryUtils
+// summary: Utility methods for preparing and filtering JPA queries.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import io.crnk.core.engine.information.bean.BeanAttributeInformation;

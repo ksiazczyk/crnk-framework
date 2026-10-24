@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Custom resource field test
+// summary: A JUnit test demonstrating how to add a custom ResourceField to change the resource derived from an entity.
+// ---
+
 package io.crnk.data.jpa.mapping;
 
 import io.crnk.core.engine.information.resource.ResourceField;

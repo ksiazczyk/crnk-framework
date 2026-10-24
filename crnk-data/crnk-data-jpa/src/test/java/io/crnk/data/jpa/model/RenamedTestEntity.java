@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Renamed resource test entity
+// summary: A JPA test entity with a renamed resource type and a renamed JSON property.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

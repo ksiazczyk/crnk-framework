@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaRepositoryFilterBase
+// summary: Default no-op implementation of the JpaRepositoryFilter interface.
+// ---
+
 package io.crnk.data.jpa;
 
 import io.crnk.core.queryspec.QuerySpec;

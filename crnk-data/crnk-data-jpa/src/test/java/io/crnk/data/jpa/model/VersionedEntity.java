@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: VersionedEntity JPA test model with optimistic locking
+// summary: A JPA entity with an optimistic-locking version field, used as a test model for the CRNK JPA module.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

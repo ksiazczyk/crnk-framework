@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaEntityRepositoryBase
+// summary: Base class that exposes a JPA entity as a ResourceRepository and can be inherited to set up repositories.
+// ---
+
 package io.crnk.data.jpa;
 
 import java.util.Arrays;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaMetaPartition
+// summary: Partition that registers meta factories and discovers JPA meta elements from a set of JPA types.
+// ---
+
 package io.crnk.data.jpa.meta.internal;
 
 import io.crnk.meta.internal.MetaIdProvider;

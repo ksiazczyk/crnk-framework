@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaQueryExecutor interface for executing queries
+// summary: Interface for executing a JPA query, handling paging, limits, offsets, fetching, and tuple results.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import java.util.List;

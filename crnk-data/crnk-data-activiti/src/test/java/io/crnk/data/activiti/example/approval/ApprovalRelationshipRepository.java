@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ApprovalRelationshipRepository models approval relationships
+// summary: Generic relationship repository that models the approval relationship between resources and process instances.
+// ---
+
 package io.crnk.data.activiti.example.approval;
 
 

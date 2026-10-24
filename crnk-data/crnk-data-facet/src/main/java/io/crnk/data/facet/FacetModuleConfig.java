@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FacetModuleConfig
+// summary: Holds a map of facet resource information keyed by resource type, used to configure the facet module.
+// ---
+
 package io.crnk.data.facet;
 
 import java.util.HashMap;

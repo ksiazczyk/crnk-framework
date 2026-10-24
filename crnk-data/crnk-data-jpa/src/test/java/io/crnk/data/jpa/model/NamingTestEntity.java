@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Naming convention test entity
+// summary: A JPA test entity exercising property naming conventions with mixed-case fields.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Entity;

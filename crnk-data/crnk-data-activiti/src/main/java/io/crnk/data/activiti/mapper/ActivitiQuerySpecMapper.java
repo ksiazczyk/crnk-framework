@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ActivitiQuerySpecMapper
+// summary: Maps CRnK query specifications such as filters and sorting onto Activiti query objects using reflection.
+// ---
+
 package io.crnk.data.activiti.mapper;
 
 import java.lang.reflect.InvocationTargetException;

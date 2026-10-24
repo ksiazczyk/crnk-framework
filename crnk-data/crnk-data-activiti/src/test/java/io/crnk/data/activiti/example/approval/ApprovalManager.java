@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ApprovalManager coordinates Activiti approval workflows
+// summary: Coordinates Activiti approval workflows by starting process instances and completing approval tasks for scheduled changes.
+// ---
+
 package io.crnk.data.activiti.example.approval;
 
 import java.util.Map;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ApproveTask model class
+// summary: Java model class for an approval task with relations to a form and a schedule approval process instance.
+// ---
+
 package io.crnk.data.activiti.repository;
 
 import io.crnk.data.activiti.mapper.ActivitiResourceMapper;

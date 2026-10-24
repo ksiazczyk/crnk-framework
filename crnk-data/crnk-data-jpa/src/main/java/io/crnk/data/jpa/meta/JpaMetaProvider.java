@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaMetaProvider for JPA metamodel metadata
+// summary: JPA metadata provider that builds a partition from JPA metamodel types and exposes filters, partitions and meta element discovery.
+// ---
+
 package io.crnk.data.jpa.meta;
 
 import io.crnk.data.jpa.meta.internal.JpaMetaFilter;

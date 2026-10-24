@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ProcessInstanceConfig
+// summary: Configuration for a process instance resource, defining its history class, task relationships, and base filters.
+// ---
+
 package io.crnk.data.activiti;
 
 import io.crnk.data.activiti.resource.HistoricProcessInstanceResource;

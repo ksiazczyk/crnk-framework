@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: BasicAttributesTestEntity
+// summary: JPA entity holding basic attribute types such as long, boolean, enum and offset datetime for test coverage.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

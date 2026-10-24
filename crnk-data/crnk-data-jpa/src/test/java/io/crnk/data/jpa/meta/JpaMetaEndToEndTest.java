@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: QuerydslUtilsTest
+// summary: JUnit test covering QuerydslUtils, verifying the private constructor and exception handling for invalid entity paths and query classes.
+// ---
+
 package io.crnk.data.jpa.meta;
 
 import io.crnk.core.queryspec.FilterOperator;

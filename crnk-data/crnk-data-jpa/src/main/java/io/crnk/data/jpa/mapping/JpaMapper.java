@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaMapper
+// summary: Interface mapping a JPA tuple to a DTO and a DTO back to a managed entity, including QuerySpec translation.
+// ---
+
 package io.crnk.data.jpa.mapping;
 
 import io.crnk.core.queryspec.QuerySpec;

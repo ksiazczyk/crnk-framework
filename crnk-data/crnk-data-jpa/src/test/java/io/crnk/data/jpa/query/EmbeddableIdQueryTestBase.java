@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Embeddable id query test base
+// summary: Abstract base class testing queries against embeddable id entities.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import io.crnk.data.jpa.model.TestEmbeddedIdEntity;

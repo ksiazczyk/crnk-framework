@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FacetProviderContext interface
+// summary: Interface exposing context access to repositories, resource information, the type parser and registry entries.
+// ---
+
 package io.crnk.data.facet.provider;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

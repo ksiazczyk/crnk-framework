@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TestAnyType embeddable for any-type values
+// summary: Embeddable implementing AnyTypeObject to store polymorphic string or integer values.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import io.crnk.data.jpa.query.AnyTypeObject;

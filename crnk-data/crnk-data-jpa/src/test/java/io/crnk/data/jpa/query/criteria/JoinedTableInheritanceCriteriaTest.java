@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JoinedTableInheritanceCriteriaTest for joined-table inheritance
+// summary: Tests JPA criteria queries against entities mapped with joined-table inheritance.
+// ---
+
 package io.crnk.data.jpa.query.criteria;
 
 import io.crnk.data.jpa.query.JoinedTableInheritanceQueryTestBase;

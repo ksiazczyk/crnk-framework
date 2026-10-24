@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CountryEntity
+// summary: JPA country entity with a one-to-many relationship to translations, used as a test fixture.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;

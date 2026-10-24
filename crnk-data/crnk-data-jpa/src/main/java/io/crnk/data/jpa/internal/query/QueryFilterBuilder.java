@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaComputedAttribute
+// summary: Meta model class representing a computed attribute that cannot be read or written on a data object.
+// ---
+
 package io.crnk.data.jpa.internal.query;
 
 import io.crnk.core.queryspec.FilterOperator;

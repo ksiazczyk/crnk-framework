@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaMappedSuperTypeTest
+// summary: JUnit test verifying discovery of mapped superclass meta elements.
+// ---
+
 package io.crnk.data.jpa.meta;
 
 import io.crnk.data.jpa.model.TestMappedSuperclass;

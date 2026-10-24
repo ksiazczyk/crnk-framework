@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestSubclassWithSuperclassPk
+// summary: Entity subclass extending a mapped superclass with a primary key and a long value.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

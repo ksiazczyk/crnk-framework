@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ExecutionResource JSON:API model
+// summary: Defines a JSON:API resource model for Activiti execution entities with fields for activity, tenant, and lifecycle state.
+// ---
+
 package io.crnk.data.activiti.resource;
 
 import io.crnk.core.resource.annotations.JsonApiField;

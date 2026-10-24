@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaQueryFactoryImpl
+// summary: Implements the JpaQueryFactory that creates JPA criteria query instances for entity classes.
+// ---
+
 package io.crnk.data.jpa.internal.query;
 
 import io.crnk.data.jpa.query.AnyTypeObject;

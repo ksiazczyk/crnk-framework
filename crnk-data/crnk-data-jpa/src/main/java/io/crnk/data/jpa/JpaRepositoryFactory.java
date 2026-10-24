@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaRepositoryFactory
+// summary: Interface that creates document and relationship repositories for the given JPA classes.
+// ---
+
 package io.crnk.data.jpa;
 
 /**

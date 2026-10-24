@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaRepositoryConfig
+// summary: Builder-based configuration mapping a JPA entity to a JSON:API repository document.
+// ---
+
 package io.crnk.data.jpa;
 
 import java.lang.reflect.Method;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: BasicCriteriaTest for basic JPA criteria queries
+// summary: Tests basic JPA criteria query behavior, including collection filters, auto-distinct on many relations, caching hints, and many-join filters.
+// ---
+
 package io.crnk.data.jpa.query.criteria;
 
 import io.crnk.core.queryspec.FilterOperator;

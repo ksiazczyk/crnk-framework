@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaTransientTestEntity test entity
+// summary: A JPA test entity holding a transient JSON:API relation to a Task resource.
+// ---
+
 package io.crnk.data.jpa.model;
 
 

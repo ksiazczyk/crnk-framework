@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FacetProviderBase abstract class
+// summary: Abstract base class implementing FacetProvider that stores the provider context and sorts facet values into a list.
+// ---
+
 package io.crnk.data.facet.provider;
 
 import io.crnk.data.facet.FacetValue;

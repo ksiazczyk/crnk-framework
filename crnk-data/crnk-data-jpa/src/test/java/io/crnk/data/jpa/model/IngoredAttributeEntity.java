@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: IngoredAttributeEntity test entity
+// summary: A JPA test entity exposing attributes through getters and setters with private backing fields.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

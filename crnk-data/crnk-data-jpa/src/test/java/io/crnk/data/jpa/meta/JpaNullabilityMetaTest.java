@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaNullabilityMetaTest
+// summary: JUnit test verifying nullability detection for primary keys, primitives, object values, annotations and related values.
+// ---
+
 package io.crnk.data.jpa.meta;
 
 import io.crnk.data.jpa.model.AnnotationTestEntity;

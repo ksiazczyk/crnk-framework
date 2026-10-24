@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ComputedAttributeRegistry for registered computed attributes
+// summary: Interface holding the computed attributes registered to a JpaQueryFactory per entity type.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import java.util.Set;

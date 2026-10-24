@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaRepositoryBase
+// summary: Base class for resource repositories backed by a JPA entity, providing access to the EntityManager and query helpers.
+// ---
+
 package io.crnk.data.jpa.internal.query;
 
 import io.crnk.data.jpa.query.ComputedAttributeRegistry;

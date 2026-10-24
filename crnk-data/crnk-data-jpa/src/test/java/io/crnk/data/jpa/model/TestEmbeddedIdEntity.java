@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TestEmbeddedIdEntity with embedded id
+// summary: Entity using an embedded composite id and a lazy many-to-one relation.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

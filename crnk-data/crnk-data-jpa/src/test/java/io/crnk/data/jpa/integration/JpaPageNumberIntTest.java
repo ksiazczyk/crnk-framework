@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerydslRepositoryFilter interface
+// summary: Interface allowing hooks into the translation of a generic query spec into a QueryDSL query.
+// ---
+
 package io.crnk.data.jpa.integration;
 
 import io.crnk.core.resource.meta.JsonLinksInformation;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Basic query test base for JPA
+// summary: Abstract base class providing JPA query test helpers for crnk-data-jpa.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import static org.junit.Assert.assertEquals;

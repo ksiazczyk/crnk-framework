@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FacetModuleExtension
+// summary: Module extension that collects facet providers and targets the FacetModule.
+// ---
+
 package io.crnk.data.facet;
 
 import io.crnk.core.module.Module;

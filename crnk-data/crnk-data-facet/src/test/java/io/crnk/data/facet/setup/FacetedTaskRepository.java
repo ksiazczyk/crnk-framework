@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FacetedTaskRepository
+// summary: In-memory repository for FacetedTask that is marked not exposed to test unexposed repositories.
+// ---
+
 package io.crnk.data.facet.setup;
 
 import io.crnk.core.repository.InMemoryResourceRepository;

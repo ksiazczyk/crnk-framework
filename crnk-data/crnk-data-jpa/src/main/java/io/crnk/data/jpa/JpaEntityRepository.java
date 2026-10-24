@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaEntityRepository
+// summary: Exposes a JPA entity as a ResourceRepository by extending the JPA entity repository base class.
+// ---
+
 package io.crnk.data.jpa;
 
 /**

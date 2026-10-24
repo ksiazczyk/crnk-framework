@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaCriteriaQueryExecutor interface
+// summary: Interface for executing a JPA criteria query, exposing result tuples and the underlying criteria query.
+// ---
+
 package io.crnk.data.jpa.query.criteria;
 
 import io.crnk.data.jpa.query.JpaQueryExecutor;

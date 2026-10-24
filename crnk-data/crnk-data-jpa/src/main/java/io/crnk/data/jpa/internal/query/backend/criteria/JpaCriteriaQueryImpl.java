@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaCriteriaQueryImpl query coordinator
+// summary: Coordinates the criteria query backend and executor to assemble and run JPA queries.
+// ---
+
 package io.crnk.data.jpa.internal.query.backend.criteria;
 
 import io.crnk.data.jpa.internal.query.AbstractJpaQueryImpl;

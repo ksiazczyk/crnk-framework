@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaCriteriaQueryBackend criteria query backend
+// summary: Builds and executes JPA criteria queries for the crnk data JPA module.
+// ---
+
 package io.crnk.data.jpa.internal.query.backend.querydsl;
 
 import com.querydsl.core.Tuple;

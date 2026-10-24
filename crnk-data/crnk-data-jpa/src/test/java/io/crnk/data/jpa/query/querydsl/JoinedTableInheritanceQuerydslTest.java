@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JoinedTableInheritanceQuerydslTest for joined table inheritance
+// summary: Test that exercises joined table inheritance queries through the Querydsl query factory.
+// ---
+
 package io.crnk.data.jpa.query.querydsl;
 
 import io.crnk.data.jpa.query.JoinedTableInheritanceQueryTestBase;

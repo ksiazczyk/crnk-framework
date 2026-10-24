@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProcessInstanceImmediateTerminatationTest
+// summary: JUnit test verifying that an immediate termination process instance is created, ended, not suspended, and populated with expected values.
+// ---
+
 package io.crnk.data.activiti.repository;
 
 import io.crnk.data.activiti.example.model.ImmediateTerminatationProcessInstance;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaModuleTest for module configuration and constructor
+// summary: Verifies that the JpaModule has a protected constructor and that resource classes can be removed from the module.
+// ---
+
 package io.crnk.data.jpa.repository;
 
 import io.crnk.data.jpa.JpaModule;

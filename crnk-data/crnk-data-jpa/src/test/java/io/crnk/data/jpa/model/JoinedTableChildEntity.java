@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JoinedTableChildEntity test entity
+// summary: A child JPA entity extending JoinedTableBaseEntity for testing joined inheritance.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

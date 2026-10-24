@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaResourceInformationProvider test
+// summary: JUnit test that verifies how the JPA resource information provider accepts entities and exposes their fields, access permissions, and identifiers.
+// ---
+
 package io.crnk.data.jpa.information;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

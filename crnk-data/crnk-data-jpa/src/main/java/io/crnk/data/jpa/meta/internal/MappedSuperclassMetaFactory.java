@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MappedSuperclassMetaFactory
+// summary: Factory that creates MetaMappedSuperclass elements from JPA mapped superclass types.
+// ---
+
 package io.crnk.data.jpa.meta.internal;
 
 import io.crnk.core.engine.internal.utils.ClassUtils;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CustomTypeTestEntity
+// summary: JPA entity storing a custom non-embeddable serializable type to test custom attribute handling.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

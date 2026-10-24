@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Test DTO mapper
+// summary: Maps the TestEntity to and from the TestDTO, handling computed attributes and related values.
+// ---
+
 package io.crnk.data.jpa.mapping;
 
 import io.crnk.core.queryspec.QuerySpec;

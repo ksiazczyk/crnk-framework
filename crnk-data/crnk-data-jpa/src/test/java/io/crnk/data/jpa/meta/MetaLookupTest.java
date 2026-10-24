@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaLookupTest
+// summary: JUnit test verifying meta type discovery for object and primitive arrays.
+// ---
+
 package io.crnk.data.jpa.meta;
 
 import io.crnk.data.jpa.model.TestEntity;

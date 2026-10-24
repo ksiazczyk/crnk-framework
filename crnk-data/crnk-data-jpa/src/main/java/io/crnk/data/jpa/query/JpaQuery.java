@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaQuery interface for building JPA queries
+// summary: Interface defining a JPA query builder with filters, sorting, joins, grouping, and executor construction.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import java.util.List;

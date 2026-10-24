@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CountryTranslationEntity
+// summary: JPA country translation entity holding an embedded id and text, used as a test fixture.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.EmbeddedId;

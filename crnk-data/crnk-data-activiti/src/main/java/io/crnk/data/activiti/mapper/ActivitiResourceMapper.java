@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ActivitiResourceMapper
+// summary: Converts between Activiti engine objects and CRnK resources, copying process variables and task local variables.
+// ---
+
 package io.crnk.data.activiti.mapper;
 
 import java.lang.reflect.InvocationTargetException;

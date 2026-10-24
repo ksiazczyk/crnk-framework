@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaMetaFilter
+// summary: Meta filter that resolves JPA relationships, mappedBy attributes, and attribute types from JPA annotations.
+// ---
+
 package io.crnk.data.jpa.meta.internal;
 
 import java.lang.reflect.Type;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: DtoMappingTest
+// summary: JUnit test demonstrating DTO mapping and computed attributes using QueryDSL expression factories against the JPA module.
+// ---
+
 package io.crnk.data.jpa.meta;
 
 import io.crnk.data.jpa.model.NamingTestEntity;

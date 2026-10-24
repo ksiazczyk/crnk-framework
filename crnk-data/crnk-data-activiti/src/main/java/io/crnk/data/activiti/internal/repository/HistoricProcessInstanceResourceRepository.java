@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HistoricProcessInstanceResourceRepository
+// summary: A read-only CRnK repository for Activiti historic process instances that maps query results to resources and rejects create, save and delete operations.
+// ---
+
 package io.crnk.data.activiti.internal.repository;
 
 

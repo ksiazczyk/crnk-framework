@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaRepositoryConfigTest for repository configuration builder
+// summary: Checks JpaRepositoryConfig builder behavior for typed and default result lists and invalid repository interfaces.
+// ---
+
 package io.crnk.data.jpa.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

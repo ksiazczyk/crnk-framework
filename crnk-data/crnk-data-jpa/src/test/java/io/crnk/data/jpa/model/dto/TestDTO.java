@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TestDTO JSON:API resource
+// summary: A JSON:API resource DTO defining a test data model with computed attributes and relations to RelatedDTO instances.
+// ---
+
 package io.crnk.data.jpa.model.dto;
 
 import io.crnk.core.resource.annotations.JsonApiId;

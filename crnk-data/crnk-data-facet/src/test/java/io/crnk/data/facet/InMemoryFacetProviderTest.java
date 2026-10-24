@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: InMemoryFacetProviderTest
+// summary: JUnit test exercising the in-memory facet provider, asserting facet values, counts, labels and sorting behavior.
+// ---
+
 package io.crnk.data.facet;
 
 import io.crnk.core.engine.registry.RegistryEntry;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaComputedAttributeTest
+// summary: JUnit test asserting that MetaComputedAttribute get and set operations are unsupported.
+// ---
+
 package io.crnk.data.jpa.meta;
 
 import io.crnk.data.jpa.internal.query.MetaComputedAttribute;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskRelationshipRepository
+// summary: A read-only relationship repository linking process instances to tasks by process instance id and task definition key.
+// ---
+
 package io.crnk.data.activiti.internal.repository;
 
 

@@ -1,3 +1,9 @@
+// ---docerion
+// type: data
+// title: Javadoc metadata resource for AsciiDoc generator tests
+// summary: XML resource holding Javadoc metadata about crnk example classes, used by the AsciiDoc generator test suite.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import io.crnk.core.queryspec.Direction;

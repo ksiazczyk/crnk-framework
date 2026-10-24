@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskResource JSON:API model
+// summary: Defines a JSON:API resource model for Activiti tasks with assignment, priority, timing, and form fields.
+// ---
+
 package io.crnk.data.activiti.resource;
 
 import io.crnk.core.resource.annotations.JsonApiId;

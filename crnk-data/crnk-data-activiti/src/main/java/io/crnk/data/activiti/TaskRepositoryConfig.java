@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskRepositoryConfig
+// summary: Configuration for a task repository, defining its form class, history class, and base filters.
+// ---
+
 package io.crnk.data.activiti;
 
 import io.crnk.data.activiti.resource.FormResource;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaCriteriaExpressionFactory interface
+// summary: Interface that produces a JPA Criteria expression for a parent entity within a criteria query.
+// ---
+
 package io.crnk.data.jpa.query.criteria;
 
 import javax.persistence.criteria.CriteriaQuery;
