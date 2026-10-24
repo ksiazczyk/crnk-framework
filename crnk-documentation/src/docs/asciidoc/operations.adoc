@@ -1,3 +1,11 @@
+// ---docerion
+// type: source
+// title: NestedDelete
+// summary: Implements the DELETE operation for a nested relationship to a related resource.
+// relations:
+//   - references /crnk-operations/src/test/java/io/crnk/operations/AbstractOperationsTest.java
+//   - references /crnk-operations/src/test/java/io/crnk/operations/OperationsPostTest.java
+// ---
 
 anchor:operations[]
 

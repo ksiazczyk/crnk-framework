@@ -1,3 +1,8 @@
+// ---docerion
+// type: source
+// title: CdiMetaResolver
+// summary: Implements RuntimeMetaResolver by loading and invoking the CDI runner class via reflection to trigger code generation.
+// ---
 
 anchor:moduledev[]
 

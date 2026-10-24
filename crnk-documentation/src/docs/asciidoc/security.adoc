@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NestedPut
+// summary: Implements the PUT operation to replace a nested relationship to a related resource.
+// ---
+
 :basedir: ../../../..
 
 anchor:security_module[]

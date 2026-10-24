@@ -1,3 +1,8 @@
+// ---docerion
+// type: reference
+// title: architecture
+// summary: AsciiDoc chapter describing the resource-oriented architecture and the merits of Crnk over traditional REST libraries.
+// ---
 
 anchor:architecture[]
 

@@ -1,0 +1,6 @@
+# Docerion header of info.html.
+type: reference
+title: Crnk 3.0 release information
+summary: Release information page describing the new features, simplifications and migration steps introduced in Crnk 3.0.
+relations:
+  - references /crnk-documentation/src/docs/releases/v3.0/demo_app.png

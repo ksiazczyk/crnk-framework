@@ -1,3 +1,8 @@
+// ---docerion
+// type: source
+// title: NestedPost
+// summary: Implements the POST operation to add a resource to a nested relationship.
+// ---
 
 anchor:resource[]
 

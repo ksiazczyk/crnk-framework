@@ -1,0 +1,4 @@
+# Docerion header of info.html.
+type: changelog
+title: crnk v3.3 release notes
+summary: Release notes for crnk v3.3 listing new features and changes such as JsonInclude support, HTTP method extensions, Optional handling, and JPA sorting updates.

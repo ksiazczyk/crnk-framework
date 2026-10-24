@@ -1,3 +1,9 @@
+// ---docerion
+// type: reference
+// title: generation
+// summary: AsciiDoc chapter describing the generation of TypeScript stubs and OpenAPI specifications.
+// ---
+
 anchor:format[]
 
 

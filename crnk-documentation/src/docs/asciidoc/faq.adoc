@@ -1,3 +1,8 @@
+// ---docerion
+// type: reference
+// title: format
+// summary: AsciiDoc chapter outlining the support for formats other than JSON:API.
+// ---
 
 # FAQ
 

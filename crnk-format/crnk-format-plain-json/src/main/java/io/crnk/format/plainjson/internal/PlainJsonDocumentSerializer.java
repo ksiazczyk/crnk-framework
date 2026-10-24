@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PlainJsonDocumentSerializer
+// summary: Jackson serializer that writes a PlainJsonDocument back to plain JSON, handling data, included resources, errors and jsonapi fields.
+// ---
+
 package io.crnk.format.plainjson.internal;
 
 import java.io.IOException;

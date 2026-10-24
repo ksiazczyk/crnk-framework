@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PlainJsonDocument
+// summary: A plain JSON document model extending the core Document class to carry data, included resources, links, meta and errors.
+// ---
+
 package io.crnk.data;
 
 import java.util.ArrayList;

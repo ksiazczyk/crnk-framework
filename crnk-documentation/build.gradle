@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration that sets up asciidoctor to generate HTML and PDF documentation and publishes them to the crnk-web GitHub repository.
+// ---
+
 apply plugin: 'org.asciidoctor.convert'
 
 

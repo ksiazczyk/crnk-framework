@@ -1,3 +1,9 @@
+// ---docerion
+// type: reference
+// title: cheatsheet
+// summary: AsciiDoc cheatsheet summarizing the key Crnk concepts and usage patterns.
+// ---
+
 :sectnums:
 
 # Crnk Cheatsheet

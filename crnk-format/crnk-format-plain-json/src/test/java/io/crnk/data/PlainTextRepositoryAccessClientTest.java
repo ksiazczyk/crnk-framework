@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PlainTextRepositoryAccessClientTest
+// summary: Client test for basic repository access that also inspects the HTTP methods and paths issued by the client.
+// ---
+
 package io.crnk.data;
 
 import java.io.IOException;

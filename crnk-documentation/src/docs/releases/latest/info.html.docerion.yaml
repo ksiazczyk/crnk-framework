@@ -1,0 +1,4 @@
+# Docerion header of info.html.
+type: note
+title: Latest crnk release information
+summary: Documents the features and changes included in the latest crnk release, such as JSON:API support, JDK bootstrap, and JPA sorting behavior.

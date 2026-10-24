@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration that applies the Java plugin and declares project dependencies for the module.
+// ---
+
 apply plugin: 'java'
 
 dependencies {
