@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Relationship post operation
+// summary: Generates the POST operation definition for creating a relationship to a related resource.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

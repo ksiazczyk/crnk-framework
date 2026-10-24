@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CDI runner that executes code generation
+// summary: Initializes a Weld CDI container and CrnkBoot, then runs code generation using the MetaModule lookup.
+// ---
+
 package io.crnk.gen.runtime.cdi;
 
 import io.crnk.core.boot.CrnkBoot;

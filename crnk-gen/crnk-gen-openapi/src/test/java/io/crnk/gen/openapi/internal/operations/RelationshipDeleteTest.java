@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationshipDeleteTest
+// summary: Tests the RelationshipDelete operation type, enablement, description, path and responses.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OperationType;

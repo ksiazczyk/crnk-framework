@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourcePatchAttributesTest
+// summary: Tests that ResourcePatchAttributes includes only updatable attributes in the generated schema.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

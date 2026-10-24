@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OASErrorsTest
+// summary: Verifies that OASErrors.generateStandardApiErrorResponses returns 4xx and 5xx responses with descriptions and a Failure schema reference.
+// ---
+
 package io.crnk.gen.openapi.internal;
 
 import io.crnk.gen.openapi.internal.schemas.Failure;

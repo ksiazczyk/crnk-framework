@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSTypeReferenceResolver
+// summary: Collects all TypeScript type references used across the generated source model during a visitor traversal.
+// ---
+
 package io.crnk.gen.typescript.processor;
 
 import io.crnk.gen.typescript.internal.TypescriptUtils;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: crnk-plain.ts
+// summary: TypeScript source defining plain resource, relationship, and error interfaces for JSON:API.
+// ---
+
 export interface OneResourceRelationship<T extends Resource> {
 	data?: T;
 	meta?: any;

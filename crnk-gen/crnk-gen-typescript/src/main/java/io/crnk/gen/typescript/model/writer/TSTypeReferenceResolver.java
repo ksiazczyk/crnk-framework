@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TypeScript Type Reference Resolver
+// summary: Walks TypeScript model elements to collect all type references used across interfaces, classes, and fields.
+// ---
+
 package io.crnk.gen.typescript.model.writer;
 
 import io.crnk.gen.typescript.model.TSArrayType;

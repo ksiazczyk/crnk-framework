@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HomeModuleExtension for customizing trigger paths
+// summary: Extension of HomeModule that lets callers customize which request paths the home module should trigger.
+// ---
+
 package io.crnk.home;
 
 import io.crnk.core.module.Module;

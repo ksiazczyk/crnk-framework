@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceReferencesResponseSchema test
+// summary: Tests that the ResourceReferencesResponseSchema wraps a data array referencing ResourceTypeResourceReference.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

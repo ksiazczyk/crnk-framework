@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SpringMetaResolverTest verifies Spring-based resource discovery
+// summary: JUnit test that verifies SpringMetaResolver discovers MetaResource elements using a Spring configuration with a CrnkCoreAutoConfiguration.
+// ---
+
 package io.crnk.gen.runtime;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

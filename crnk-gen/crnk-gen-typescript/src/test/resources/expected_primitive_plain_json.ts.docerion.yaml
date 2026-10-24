@@ -1,0 +1,4 @@
+# Docerion header of expected_primitive_plain_json.ts.
+type: source
+title: TypeScript transformation for CRNK meta types
+summary: A Java transformation that generates TypeScript interfaces and query classes from CRNK meta types, handling inheritance and implemented interfaces.

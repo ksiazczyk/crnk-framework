@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AsciidocCaptureModule
+// summary: Crnk module that decorates repositories and captures HTTP requests and responses to generate AsciiDoc documentation.
+// ---
+
 package io.crnk.gen.asciidoc.capture;
 
 import io.crnk.client.http.HttpAdapter;

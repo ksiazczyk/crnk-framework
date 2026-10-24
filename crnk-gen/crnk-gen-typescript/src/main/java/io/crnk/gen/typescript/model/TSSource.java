@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSSource class
+// summary: Class modeling a TypeScript source file with imports, exports and package metadata.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import java.util.ArrayList;

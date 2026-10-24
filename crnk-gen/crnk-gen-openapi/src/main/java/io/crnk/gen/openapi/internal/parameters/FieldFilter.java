@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Field filter query parameter generator
+// summary: Generates a per-field query filter parameter for a given resource field.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.crnk.meta.model.resource.MetaResource;

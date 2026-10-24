@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PatchResource schema test
+// summary: Verifies that the PatchResource schema wraps a resource reference and patch relationships under a data property.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

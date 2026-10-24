@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSModule model class
+// summary: Models a TypeScript module with a name and export flag, extending the container base.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 public class TSModule extends TSContainerElementBase implements TSNamedElement, TSExportedElement {

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourcePatchRelationshipsTest
+// summary: Tests that ResourcePatchRelationships exposes relationships only when the field is updatable.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OpenAPIGeneratorModule
+// summary: Generator module that wires the OpenAPI generator together and produces the OpenAPI document from metadata.
+// ---
+
 package io.crnk.gen.openapi;
 
 import io.crnk.gen.base.GeneratorModule;

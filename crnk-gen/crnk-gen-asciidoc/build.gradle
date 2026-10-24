@@ -1,3 +1,11 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration that declares project dependencies and wires up the asciidoctor plugin to generate HTML documentation.
+// relations:
+//   - depends_on /crnk-client/build.gradle
+// ---
+
 apply plugin: 'java'
 
 dependencies {

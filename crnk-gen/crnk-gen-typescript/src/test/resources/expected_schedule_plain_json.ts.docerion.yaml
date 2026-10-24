@@ -1,0 +1,4 @@
+# Docerion header of expected_schedule_plain_json.ts.
+type: test
+title: Expected plain JSON schedule test fixture
+summary: A TypeScript test fixture defining the Schedule resource interface and helper for plain JSON generation tests.

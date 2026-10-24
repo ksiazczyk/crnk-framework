@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OperationType
+// summary: Enum of HTTP operation types each able to merge an operation into a path item.
+// ---
+
 package io.crnk.gen.openapi.internal;
 
 import io.swagger.v3.oas.models.Operation;

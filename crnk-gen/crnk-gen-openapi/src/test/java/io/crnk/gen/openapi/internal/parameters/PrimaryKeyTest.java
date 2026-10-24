@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PrimaryKey parameter test
+// summary: JUnit test verifying that the PrimaryKey parameter exposes the id path parameter as a required reference to the resource type id.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

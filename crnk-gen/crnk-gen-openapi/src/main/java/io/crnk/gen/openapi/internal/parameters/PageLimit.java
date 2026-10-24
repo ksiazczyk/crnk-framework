@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Page limit query parameter generator
+// summary: Generates the page[limit] query parameter capping the number of returned items.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.swagger.v3.oas.models.media.IntegerSchema;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: NgrxJsonApiLibraryTest
+// summary: JUnit test asserting that NgrxJsonApiLibrary exposes a private constructor.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import io.crnk.gen.typescript.model.libraries.NgrxJsonApiLibrary;

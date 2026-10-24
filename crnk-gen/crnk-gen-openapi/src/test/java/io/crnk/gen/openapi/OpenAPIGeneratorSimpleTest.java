@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OpenAPIGeneratorSimpleTest
+// summary: JUnit test that generates an OpenAPI document from a simple module and compares templated and generated metadata.
+// ---
+
 package io.crnk.gen.openapi;
 
 import io.crnk.core.boot.CrnkBoot;

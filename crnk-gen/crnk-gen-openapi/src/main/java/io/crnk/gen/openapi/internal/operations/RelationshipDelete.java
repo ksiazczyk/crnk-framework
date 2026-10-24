@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OpenAPI nested operation source
+// summary: Java source file in the crnk-gen-openapi operations package that contributes to OpenAPI operation generation, though the excerpt does not match the file name.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

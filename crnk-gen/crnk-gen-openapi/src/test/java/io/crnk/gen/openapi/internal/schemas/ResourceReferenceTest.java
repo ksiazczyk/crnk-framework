@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceReference schema test
+// summary: Tests that the ResourceReference schema is an ObjectSchema exposing id and type properties marked as required.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

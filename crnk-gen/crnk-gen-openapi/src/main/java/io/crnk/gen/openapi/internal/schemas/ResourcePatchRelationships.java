@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcePatchRelationships schema generator
+// summary: Generates the OpenAPI schema for the relationships object of a PATCH request, mapping patchable associations.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.OASUtils;

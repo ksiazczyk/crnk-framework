@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JavaDocModel
+// summary: Parses Javadoc XML documents into ClassDocModel entries for later documentation generation.
+// ---
+
 package io.crnk.gen.asciidoc.internal;
 
 import org.w3c.dom.Document;

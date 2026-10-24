@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceRelationships schema generator
+// summary: Generates the relationships section of a JSON:API resource schema with self and related links plus data.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.OASUtils;

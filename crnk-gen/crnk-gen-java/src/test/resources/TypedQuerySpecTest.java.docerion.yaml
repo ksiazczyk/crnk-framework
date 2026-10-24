@@ -1,0 +1,4 @@
+# Docerion header of TypedQuerySpecTest.java.
+type: test
+title: TypedQuerySpecTest helper
+summary: A helper class that builds query, filter, and sort specs using the crnk queryspec API.

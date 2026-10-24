@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Success JSON:API document schema
+// summary: Defines the top-level success JSON:API document with jsonapi, included, meta and links sections.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.swagger.v3.oas.models.media.ArraySchema;

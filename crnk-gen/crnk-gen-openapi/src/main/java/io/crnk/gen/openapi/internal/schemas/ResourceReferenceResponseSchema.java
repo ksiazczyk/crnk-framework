@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceReferenceResponseSchema generator
+// summary: Wraps a single resource reference inside a JSON:API response data property.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.meta.model.resource.MetaResource;

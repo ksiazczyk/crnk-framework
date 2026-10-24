@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSContainerElementBase container element base
+// summary: Abstract base implementing container element storage and parent assignment.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import java.util.ArrayList;

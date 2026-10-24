@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SpringRuntimeConfig
+// summary: Configuration for the Spring runtime including profile, configuration class, and default properties.
+// ---
+
 package io.crnk.gen.base;
 
 import java.util.Properties;

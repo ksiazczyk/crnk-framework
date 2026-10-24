@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSMetaTransformationContext interface
+// summary: Provides context and utilities used while transforming meta elements into TypeScript model elements.
+// ---
+
 package io.crnk.gen.typescript.transform;
 
 import io.crnk.gen.typescript.TSResourceFormat;

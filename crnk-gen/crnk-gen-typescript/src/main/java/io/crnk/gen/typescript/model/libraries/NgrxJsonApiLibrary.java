@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NgrxJsonApiLibrary TypeScript type mappings
+// summary: Java class that maps ngrx-json-api TypeScript interfaces and classes, with initializers for ngrx and plain JSON configurations.
+// ---
+
 package io.crnk.gen.typescript.model.libraries;
 
 import io.crnk.gen.typescript.model.TSClassType;

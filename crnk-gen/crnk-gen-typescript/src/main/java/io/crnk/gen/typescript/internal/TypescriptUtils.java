@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TypescriptUtils
+// summary: Utility class providing helper methods for copying files, type checks and building nested TypeScript modules and interfaces.
+// ---
+
 package io.crnk.gen.typescript.internal;
 
 import io.crnk.core.engine.internal.utils.StringUtils;

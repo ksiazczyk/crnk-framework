@@ -1,3 +1,11 @@
+// ---docerion
+// type: test
+// title: JavaModelTest
+// summary: JUnit test that loads a Javadoc XML file into a JavaDocModel and checks attribute text extraction.
+// relations:
+//   - references /crnk-gen/crnk-gen-asciidoc/src/test/resources/javadoc.xml
+// ---
+
 package io.crnk.gen.asciidoc;
 
 import io.crnk.gen.asciidoc.internal.ClassDocModel;

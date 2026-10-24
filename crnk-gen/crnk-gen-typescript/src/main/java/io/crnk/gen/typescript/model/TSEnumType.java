@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSEnumType TypeScript enum type model
+// summary: Class modeling a TypeScript enum type with literals and an export flag.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import java.util.ArrayList;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Sort parameter test
+// summary: JUnit test verifying that the Sort parameter reflects the sortable attributes of a resource, including its example sort order.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

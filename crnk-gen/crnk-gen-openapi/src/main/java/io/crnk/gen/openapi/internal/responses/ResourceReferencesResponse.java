@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Resource references response generator
+// summary: Generates an OpenAPI response for a collection of JSON:API resource references.
+// ---
+
 package io.crnk.gen.openapi.internal.responses;
 
 

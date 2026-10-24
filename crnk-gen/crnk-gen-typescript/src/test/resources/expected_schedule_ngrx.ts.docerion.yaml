@@ -1,0 +1,4 @@
+# Docerion header of expected_schedule_ngrx.ts.
+type: test
+title: Expected Schedule ngrx test resource
+summary: Test resource containing the Schedule module, resource interfaces and QSchedule bean path used to assert generated ngrx TypeScript output.

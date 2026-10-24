@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: GeneratorConfig
+// summary: Configuration class holding runtime settings, resource packages, and module configurations for the CRaNK code generator.
+// ---
+
 package io.crnk.gen.base;
 
 

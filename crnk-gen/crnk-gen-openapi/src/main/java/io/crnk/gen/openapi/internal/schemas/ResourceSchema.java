@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceSchema generator
+// summary: Defines a JSON:API resource schema without the enclosing top-level document.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.OASUtils;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RuntimeClassLoaderFactory
+// summary: Constructs a classloader that runs code generation within the application classpath rather than the Gradle classpath, isolating shared types.
+// ---
+
 package io.crnk.gen.gradle.internal;
 
 import io.crnk.gen.base.GeneratorConfig;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ReflectionsMetaResolver
+// summary: Runtime meta resolver that uses reflection to discover @JsonApiResource-annotated classes and ResourceRepository subtypes to build metadata mappings.
+// ---
+
 package io.crnk.gen.runtime.reflections;
 
 import java.lang.reflect.InvocationHandler;

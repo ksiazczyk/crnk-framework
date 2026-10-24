@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSClassType TypeScript class type model
+// summary: Class modeling a TypeScript class type with a super type and interface implementation checks.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 public class TSClassType extends TSObjectType {

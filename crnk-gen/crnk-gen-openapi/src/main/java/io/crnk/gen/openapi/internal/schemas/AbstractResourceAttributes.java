@@ -1,3 +1,8 @@
+// ---docerion
+// type: source
+// title: AbstractResourceAttributes.java
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.meta.model.resource.MetaResource;

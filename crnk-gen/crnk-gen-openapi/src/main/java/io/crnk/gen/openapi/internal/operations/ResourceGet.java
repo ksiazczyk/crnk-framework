@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Resource get operation
+// summary: Generates the GET operation definition for retrieving a single resource.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

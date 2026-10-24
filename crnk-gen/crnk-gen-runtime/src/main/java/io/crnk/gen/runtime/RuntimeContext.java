@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RuntimeContext
+// summary: Holds the generator module, configuration, and class loader used to trigger code generation for an application.
+// ---
+
 package io.crnk.gen.runtime;
 
 import java.io.IOException;

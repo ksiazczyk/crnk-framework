@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSVisitor interface
+// summary: Visitor interface for traversing the TypeScript model element hierarchy.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 public interface TSVisitor {

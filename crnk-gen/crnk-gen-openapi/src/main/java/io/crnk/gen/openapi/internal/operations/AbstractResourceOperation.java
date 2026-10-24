@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AbstractResourceOperation
+// summary: Abstract base class for resource operations extending the abstract operation with resource-scoped responses.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.meta.model.resource.MetaResource;

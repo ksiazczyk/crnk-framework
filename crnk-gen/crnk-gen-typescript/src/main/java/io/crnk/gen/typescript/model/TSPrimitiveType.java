@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSPrimitiveType class
+// summary: Class representing TypeScript primitive types such as string, number and boolean.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 public class TSPrimitiveType extends TSTypeBase {

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Resource delete operation
+// summary: Generates the DELETE operation definition for removing a single resource.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

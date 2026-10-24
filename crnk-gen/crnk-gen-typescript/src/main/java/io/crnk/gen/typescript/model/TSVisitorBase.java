@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSVisitorBase class
+// summary: Base visitor implementation that recursively visits model elements with default no-op behavior.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import java.util.ArrayList;

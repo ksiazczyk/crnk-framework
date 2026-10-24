@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SimpleTaskRepositoryBase
+// summary: Abstract base class extending CRNK ResourceRepositoryBase to support the SimpleTask repository hierarchy.
+// ---
+
 package io.crnk.gen.openapi.mock;
 
 import io.crnk.core.repository.ResourceRepositoryBase;

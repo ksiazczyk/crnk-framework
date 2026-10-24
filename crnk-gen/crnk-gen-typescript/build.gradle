@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration that declares compile and test dependencies for the crnk-gen-typescript module.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

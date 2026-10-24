@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSElement element interface
+// summary: Interface for TypeScript elements supporting parent linkage and visitor pattern.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 public interface TSElement {

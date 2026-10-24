@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: NoContentTest for the No Content response
+// summary: Tests that the NoContent response returns a 'No Content' description with no content.
+// ---
+
 package io.crnk.gen.openapi.internal.responses;
 
 import io.swagger.v3.oas.models.responses.ApiResponse;

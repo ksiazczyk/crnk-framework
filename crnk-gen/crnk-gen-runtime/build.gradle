@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration that declares runtime and test dependencies for the crnk-gen-runtime module.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

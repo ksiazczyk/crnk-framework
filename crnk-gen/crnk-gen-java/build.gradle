@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration for the crnk-gen-java module, declaring Java dependencies and test dependencies.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

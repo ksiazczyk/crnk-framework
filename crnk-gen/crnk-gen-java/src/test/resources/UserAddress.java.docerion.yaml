@@ -1,0 +1,4 @@
+# Docerion header of UserAddress.java.
+type: test
+title: UserAddress embeddable fixture
+summary: An embeddable JSON:API resource fixture representing a user's street and city.

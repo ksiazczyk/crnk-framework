@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSGeneratorModule
+// summary: Generator module that wires the TypeScript generator together, resolves its class loader and registers the configuration classes.
+// ---
+
 package io.crnk.gen.typescript;
 
 import io.crnk.gen.base.GeneratorModule;

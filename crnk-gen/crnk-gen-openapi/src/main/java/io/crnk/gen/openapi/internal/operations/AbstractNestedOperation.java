@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AbstractNestedOperation
+// summary: Abstract base class holding references to the resource, field, and related resource for nested operations.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.meta.model.resource.MetaResource;

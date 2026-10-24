@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: ClientModuleFactory service loader registration
+// summary: Registers the MetaClientModuleFactory implementation for the ClientModuleFactory service through Java's ServiceLoader mechanism.
+// ---
+
 package io.crnk.home;
 
 import io.crnk.core.boot.CrnkBoot;

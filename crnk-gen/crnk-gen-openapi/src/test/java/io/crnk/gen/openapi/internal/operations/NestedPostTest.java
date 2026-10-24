@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: NestedPostTest
+// summary: JUnit tests for the NestedPost operation, verifying its operation type, enablement conditions, description, generated OpenAPI operation, and path.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OperationType;

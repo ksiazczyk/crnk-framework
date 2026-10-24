@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SimpleTaskRepository
+// summary: In-memory repository implementing CRUD and bulk operations for SimpleTask resources backed by a concurrent map.
+// ---
+
 package io.crnk.gen.openapi.mock;
 
 import io.crnk.core.exception.ResourceNotFoundException;

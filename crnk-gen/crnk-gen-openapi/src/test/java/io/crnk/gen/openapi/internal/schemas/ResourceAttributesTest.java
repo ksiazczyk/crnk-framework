@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceAttributesTest schema test
+// summary: JUnit test verifying that the ResourceAttributes schema is an ObjectSchema wrapping a name attribute referencing the resource type name schema.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

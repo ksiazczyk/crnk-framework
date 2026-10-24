@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TypeSchema schema test
+// summary: Tests that TypeSchema is a StringSchema with the ResourceType enum value.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

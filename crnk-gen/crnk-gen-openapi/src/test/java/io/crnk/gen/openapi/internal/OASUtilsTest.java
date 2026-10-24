@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OASUtilsTest
+// summary: Tests OASUtils.transformMetaResourceField conversions of meta types such as resources, collections, arrays and primitive types into Swagger schemas.
+// ---
+
 package io.crnk.gen.openapi.internal;
 
 import io.crnk.meta.model.MetaArrayType;

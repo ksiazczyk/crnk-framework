@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TypeSchema OpenAPI schema generator
+// summary: Generates the OpenAPI schema for the JSON:API resource type field, producing a string schema with the resource type as an enum value.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.meta.model.resource.MetaResource;

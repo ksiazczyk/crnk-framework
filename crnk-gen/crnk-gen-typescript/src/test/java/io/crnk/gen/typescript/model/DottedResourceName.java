@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: DottedResourceName test fixture
+// summary: A minimal JSON:API resource class used as a test fixture for TypeScript code generation.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import io.crnk.core.resource.annotations.JsonApiId;

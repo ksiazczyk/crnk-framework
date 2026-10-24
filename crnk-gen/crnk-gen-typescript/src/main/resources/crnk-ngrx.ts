@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: crnk-ngrx.ts
+// summary: TypeScript source defining expression interfaces, classes, and query path mapping for ngrx-json-api resources.
+// ---
+
 import {OperationType, Resource, ResourceError, ResourceState, ManyResourceRelationship, OneResourceRelationship, ResourceIdentifier, StoreResource} from 'ngrx-json-api';
 import * as _ from 'lodash';
 

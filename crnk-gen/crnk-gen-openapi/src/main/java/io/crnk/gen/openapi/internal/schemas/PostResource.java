@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PostResource schema generator
+// summary: Generates the OpenAPI schema for a JSON:API POST resource payload wrapping a PostResourceData object.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.meta.model.resource.MetaResource;

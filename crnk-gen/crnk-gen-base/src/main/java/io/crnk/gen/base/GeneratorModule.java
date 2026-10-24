@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: GeneratorModule
+// summary: Interface defining the contract for generator modules that produce code from metadata.
+// ---
+
 package io.crnk.gen.base;
 
 

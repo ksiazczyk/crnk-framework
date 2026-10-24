@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReflectionsMetaResolverTest verifies resource discovery
+// summary: JUnit test that verifies ReflectionsMetaResolver discovers MetaResource elements such as Task from the configured resource packages.
+// ---
+
 package io.crnk.gen.runtime;
 
 import io.crnk.gen.base.GeneratorConfig;

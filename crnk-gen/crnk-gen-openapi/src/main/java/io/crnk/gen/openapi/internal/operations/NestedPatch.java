@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NestedPatch
+// summary: Nested patch operation that updates a relationship to a related resource and documents the OpenAPI path.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

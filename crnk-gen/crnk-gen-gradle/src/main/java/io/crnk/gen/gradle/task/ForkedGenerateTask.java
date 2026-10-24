@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ForkedGenerateTask Gradle generation task
+// summary: A Gradle JavaExec task that writes generator configuration to JSON files and runs the generator in a forked JVM with an isolated classpath.
+// ---
+
 package io.crnk.gen.gradle.task;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

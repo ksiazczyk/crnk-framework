@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceReference schema generator
+// summary: Builds a JSON:API resource reference schema requiring id and type fields.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.meta.model.resource.MetaResource;

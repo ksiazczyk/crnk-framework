@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AbstractNestedMutateOperation
+// summary: Generates the request body schema for creating or updating a nested relationship.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OperationType;

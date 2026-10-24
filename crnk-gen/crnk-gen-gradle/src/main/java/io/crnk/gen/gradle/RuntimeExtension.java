@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RuntimeExtension provides runtime configuration
+// summary: A Gradle extension providing runtime configuration options such as Spring.
+// ---
+
 package io.crnk.gen.gradle;
 
 import groovy.lang.Closure;

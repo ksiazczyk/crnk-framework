@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Links schema test
+// summary: Verifies that the Links schema is a composed schema combining pagination with an object schema.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.swagger.v3.oas.models.media.ComposedSchema;

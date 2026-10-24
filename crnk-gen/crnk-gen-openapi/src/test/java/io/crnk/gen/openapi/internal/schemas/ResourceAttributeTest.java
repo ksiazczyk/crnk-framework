@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceAttributeTest
+// summary: Checks the schema produced by ResourceAttribute, including the primary key description and nullable handling.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

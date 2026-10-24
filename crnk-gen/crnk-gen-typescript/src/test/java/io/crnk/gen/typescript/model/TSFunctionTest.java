@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TSFunctionTest
+// summary: JUnit tests checking TSFunction field detection and casting behavior.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import org.junit.Assert;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AbstractOperation
+// summary: Abstract base class for operations providing default response maps, filter parameters, and content type handling.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASErrors;

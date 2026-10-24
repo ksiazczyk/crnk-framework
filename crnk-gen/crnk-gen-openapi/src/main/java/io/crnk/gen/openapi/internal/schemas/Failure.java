@@ -1,3 +1,8 @@
+// ---docerion
+// type: source
+// title: Failure.java
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.swagger.v3.oas.models.media.ArraySchema;

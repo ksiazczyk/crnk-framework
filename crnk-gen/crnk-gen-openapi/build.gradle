@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: crnk-gen-openapi build configuration
+// summary: Gradle build configuration for the crnk-gen-openapi module, declaring Java dependencies, Swagger parser libraries, and test setup.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

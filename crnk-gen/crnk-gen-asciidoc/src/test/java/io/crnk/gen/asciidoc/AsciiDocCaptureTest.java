@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AsciiDocCaptureTest
+// summary: JUnit test that exercises the AsciidocCaptureModule by performing create, read, update and delete operations through a Crnk client.
+// ---
+
 package io.crnk.gen.asciidoc;
 
 import io.crnk.client.CrnkClient;

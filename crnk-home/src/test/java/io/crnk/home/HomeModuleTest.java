@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaDataObjectProviderBase
+// summary: Abstract base class that creates attributes and manages the factory context for typed metadata object providers.
+// ---
+
 package io.crnk.home;
 
 import java.io.IOException;

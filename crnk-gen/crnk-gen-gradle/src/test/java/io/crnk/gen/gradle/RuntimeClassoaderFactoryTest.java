@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RuntimeClassLoaderFactory Gradle test
+// summary: JUnit test verifying the runtime class loader factory isolates the caller environment and exposes bootstrap and model classes.
+// ---
+
 package io.crnk.gen.gradle;
 
 import java.io.File;

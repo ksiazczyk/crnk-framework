@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: HomeResourceFilteringTest
+// summary: Tests whether resource filtering is applied to the home resource response depending on the configured filter behavior.
+// ---
+
 package io.crnk.home;
 
 import com.fasterxml.jackson.databind.JsonNode;

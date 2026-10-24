@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceGet operation tests
+// summary: JUnit tests verifying the ResourceGet OpenAPI operation type, enablement, description, response codes and path.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OperationType;

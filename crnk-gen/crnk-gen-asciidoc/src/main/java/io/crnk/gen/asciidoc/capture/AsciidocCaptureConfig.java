@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AsciidocCaptureConfig
+// summary: Configuration class holding settings for the AsciiDoc capture module, including the output directory, section base depth, and optional host and port overrides.
+// ---
+
 package io.crnk.gen.asciidoc.capture;
 
 import java.io.File;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ClassDocModel
+// summary: Simple model holding class documentation text and named attribute comments.
+// ---
+
 package io.crnk.gen.asciidoc.internal;
 
 import java.util.HashMap;

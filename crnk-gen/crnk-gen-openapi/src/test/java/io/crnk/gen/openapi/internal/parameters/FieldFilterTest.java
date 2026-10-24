@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FieldFilter parameter test
+// summary: JUnit test verifying that the FieldFilter parameter exposes the filter[id] query parameter with a string schema.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

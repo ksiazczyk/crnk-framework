@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AsciidocGeneratorConfigTest
+// summary: JUnit test that instantiates AsciidocGeneratorConfig to verify its default configuration.
+// ---
+
 package io.crnk.gen.asciidoc;
 
 import org.junit.Test;

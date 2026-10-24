@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PostResourceData schema test
+// summary: Verifies that the PostResourceData schema uses a post resource reference with an optional id plus post attributes.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

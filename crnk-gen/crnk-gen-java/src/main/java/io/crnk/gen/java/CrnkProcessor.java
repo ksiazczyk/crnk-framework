@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkProcessor annotation processor
+// summary: A Java annotation processor that generates type-safe QuerySpec and PathSpec classes by inspecting resource classes annotated with JsonApiResource and JsonApiEmbeddable.
+// ---
+
 package io.crnk.gen.java;
 
 import com.squareup.javapoet.AnnotationSpec;

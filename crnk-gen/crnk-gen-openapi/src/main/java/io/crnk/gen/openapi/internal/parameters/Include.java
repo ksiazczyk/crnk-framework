@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Include query parameter generator
+// summary: Generates the include query parameter selecting which relationships to include.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.crnk.meta.model.MetaAttribute;

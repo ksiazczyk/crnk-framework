@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceLinks schema generator
+// summary: Generates the OpenAPI schema for resource links, including a self link and additional named links.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.OASUtils;

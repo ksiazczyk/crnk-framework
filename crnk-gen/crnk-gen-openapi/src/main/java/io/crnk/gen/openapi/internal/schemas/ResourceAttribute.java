@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceAttribute schema generator
+// summary: Generates the OpenAPI schema for a single resource attribute, applying type, nullability and annotations.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.OASUtils;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ExpressionLibraryTest
+// summary: JUnit tests verifying CrnkLibrary primitive expression helpers and their error handling.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import io.crnk.gen.typescript.model.libraries.CrnkLibrary;

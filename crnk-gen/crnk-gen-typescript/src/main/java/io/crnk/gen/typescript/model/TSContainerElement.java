@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSContainerElement container element interface
+// summary: Interface defining container elements that hold a list of TypeScript elements.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import java.util.List;

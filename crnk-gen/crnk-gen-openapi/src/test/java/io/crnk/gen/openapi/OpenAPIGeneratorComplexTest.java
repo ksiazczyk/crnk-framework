@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OpenAPIGeneratorComplexTest
+// summary: JUnit test that generates an OpenAPI document from a complex Crnk module and compares the output against a gold reference file.
+// ---
+
 package io.crnk.gen.openapi;
 
 import io.crnk.client.CrnkClient;

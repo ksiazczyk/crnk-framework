@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSImportExportBase abstract class
+// summary: Abstract base for TypeScript import and export declarations holding type names and path.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import java.util.ArrayList;

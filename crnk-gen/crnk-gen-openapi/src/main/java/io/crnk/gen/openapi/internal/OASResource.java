@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OASResource
+// summary: Represents an OpenAPI resource by building its operations, parameters, schemas and responses from a meta resource.
+// ---
+
 package io.crnk.gen.openapi.internal;
 
 import io.crnk.gen.openapi.internal.operations.NestedDelete;

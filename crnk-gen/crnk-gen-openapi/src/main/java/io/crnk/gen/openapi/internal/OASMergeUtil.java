@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OASMergeUtil
+// summary: Utility class merging OpenAPI operations, tags, parameters, external documentation and other fields from two sources.
+// ---
+
 package io.crnk.gen.openapi.internal;
 
 import io.swagger.v3.oas.models.ExternalDocumentation;

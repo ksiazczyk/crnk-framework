@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Resource patch operation
+// summary: Generates the PATCH operation definition for updating a single resource.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

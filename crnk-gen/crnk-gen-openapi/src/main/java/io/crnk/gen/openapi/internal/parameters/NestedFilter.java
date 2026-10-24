@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Nested filter query parameter generator
+// summary: Generates a customizable nested filter query parameter using AND, OR and NOT objects.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.swagger.v3.oas.models.media.ObjectSchema;

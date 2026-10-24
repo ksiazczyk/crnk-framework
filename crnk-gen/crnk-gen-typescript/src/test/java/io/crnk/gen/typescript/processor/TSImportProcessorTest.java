@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TSImportProcessor test
+// summary: JUnit test that verifies how the TypeScript import processor generates import paths for sources in same, child, parent and sibling directories as well as for array and parameterized type references.
+// ---
+
 package io.crnk.gen.typescript.processor;
 
 import io.crnk.gen.typescript.model.TSArrayType;

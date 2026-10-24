@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourcesResponseSchema test
+// summary: Tests that ResourcesResponseSchema composes Success with a data array of ResourceTypeResourceSchema items.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

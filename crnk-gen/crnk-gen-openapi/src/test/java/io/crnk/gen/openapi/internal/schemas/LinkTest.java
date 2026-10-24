@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Link schema test
+// summary: Verifies that the Link schema is a composed schema with a uri string and an object with a required href property.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.swagger.v3.oas.models.media.ComposedSchema;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSParameter class
+// summary: Class representing a TypeScript function parameter with a name, type and nullability.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 public class TSParameter extends TSElementBase {

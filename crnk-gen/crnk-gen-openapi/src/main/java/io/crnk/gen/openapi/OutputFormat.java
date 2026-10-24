@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OutputFormat
+// summary: Enum defining the supported output formats JSON and YAML for the generated OpenAPI document.
+// ---
+
 package io.crnk.gen.openapi;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

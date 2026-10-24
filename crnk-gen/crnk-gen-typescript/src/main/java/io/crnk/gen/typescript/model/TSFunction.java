@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSFunction model class
+// summary: Models a TypeScript function with statements, parameters, export flag and function type.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import java.util.ArrayList;

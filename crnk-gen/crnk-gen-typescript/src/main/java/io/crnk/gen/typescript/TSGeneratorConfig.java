@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSGeneratorConfig
+// summary: Configuration class for the TypeScript generator, holding code style, includes, excludes, npm settings and the source processors used during generation.
+// ---
+
 package io.crnk.gen.typescript;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;

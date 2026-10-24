@@ -1,3 +1,13 @@
+// ---docerion
+// type: source
+// title: AsciidocGeneratorModule
+// summary: Generator module that produces Asciidoc documentation files from the crnk meta model.
+// relations:
+//   - references /crnk-gen/crnk-gen-asciidoc/src/main/java/io/crnk/gen/asciidoc/internal/AsciidocBuilder.java
+//   - references /crnk-gen/crnk-gen-asciidoc/src/main/java/io/crnk/gen/asciidoc/internal/AsciidocUtils.java
+//   - references /crnk-gen/crnk-gen-asciidoc/src/main/java/io/crnk/gen/asciidoc/internal/JavaDocModel.java
+// ---
+
 package io.crnk.gen.asciidoc.internal;
 
 import java.io.File;

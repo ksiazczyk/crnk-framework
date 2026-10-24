@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceRelationships schema test
+// summary: Tests that ResourceRelationships builds a relationships object with a composed data oneOf referencing related resource references.
+// ---
+
 package io.crnk.gen.openapi.internal.schemas;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

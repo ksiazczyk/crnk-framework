@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OASUtils
+// summary: Helper methods for inspecting meta resource fields and transforming them into OpenAPI schema types.
+// ---
+
 package io.crnk.gen.openapi.internal;
 
 import io.crnk.core.engine.information.resource.ResourceFieldType;

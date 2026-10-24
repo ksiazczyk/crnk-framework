@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSElementBase element base class
+// summary: Abstract base for elements providing parent handling and private data storage.
+// ---
+
 package io.crnk.gen.typescript.model;
 
 import java.util.HashMap;

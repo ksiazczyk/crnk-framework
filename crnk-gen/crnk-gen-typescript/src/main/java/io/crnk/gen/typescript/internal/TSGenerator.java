@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TSGenerator
+// summary: Generates TypeScript source files from CRnK meta data by running meta transformations, processors and writers according to the configured output format.
+// ---
+
 package io.crnk.gen.typescript.internal;
 
 import java.io.File;

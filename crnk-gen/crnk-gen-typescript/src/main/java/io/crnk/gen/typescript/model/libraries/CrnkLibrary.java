@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkLibrary TypeScript type mappings
+// summary: Java class that maps crnk TypeScript types and npm sources for expressions and stubs, with initializers for ngrx and deprecated crnk setups.
+// ---
+
 package io.crnk.gen.typescript.model.libraries;
 
 import io.crnk.gen.typescript.model.TSClassType;

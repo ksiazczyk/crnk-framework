@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Include parameter test
+// summary: JUnit test verifying that the Include parameter exposes the include query parameter for relationships, with a note to extend it.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.crnk.gen.openapi.internal.MetaResourceBaseTest;

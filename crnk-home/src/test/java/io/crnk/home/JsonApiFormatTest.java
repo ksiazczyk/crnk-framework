@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JsonApiFormatTest
+// summary: Verifies that the home module returns JSON API format responses and handles content negotiation and subdirectories correctly.
+// ---
+
 package io.crnk.home;
 
 import com.fasterxml.jackson.databind.JsonNode;

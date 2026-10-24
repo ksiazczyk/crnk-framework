@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Resources post operation
+// summary: Generates the POST operation definition for creating one or more resources.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

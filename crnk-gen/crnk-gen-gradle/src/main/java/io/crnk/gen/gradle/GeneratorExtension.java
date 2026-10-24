@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: GeneratorExtension exposes generator configuration
+// summary: A Gradle extension exposing generator configuration for TypeScript, Asciidoc, and OpenAPI modules.
+// ---
+
 package io.crnk.gen.gradle;
 
 import groovy.lang.Closure;

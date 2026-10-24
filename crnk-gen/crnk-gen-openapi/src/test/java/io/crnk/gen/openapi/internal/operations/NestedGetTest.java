@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AbstractNestedOperation
+// summary: Base class for operations on a nested relationship between a resource and a related resource.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OperationType;

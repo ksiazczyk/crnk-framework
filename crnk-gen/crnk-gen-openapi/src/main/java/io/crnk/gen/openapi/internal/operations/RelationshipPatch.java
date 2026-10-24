@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Relationship patch operation
+// summary: Generates the PATCH operation definition for updating a relationship to a related resource.
+// ---
+
 package io.crnk.gen.openapi.internal.operations;
 
 import io.crnk.gen.openapi.internal.OASUtils;

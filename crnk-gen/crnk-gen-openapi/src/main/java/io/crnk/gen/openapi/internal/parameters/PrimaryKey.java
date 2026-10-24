@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PrimaryKey parameter generator
+// summary: Generates the path parameter for a resource's primary key in the generated OpenAPI specification.
+// ---
+
 package io.crnk.gen.openapi.internal.parameters;
 
 import io.crnk.gen.openapi.internal.OASUtils;

@@ -1,0 +1,4 @@
+# Docerion header of expected_schedule_without_expressions.ts.
+type: test
+title: Expected schedule test fixture without expressions
+summary: A TypeScript test fixture defining the Schedule interface for testing generation without expressions.
