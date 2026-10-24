@@ -1,0 +1,6 @@
+# Docerion header of deploy.sh.
+type: script
+title: Deploy script
+summary: Shell script that publishes and promotes the Gradle build to Sonatype when executed on the stable branch via Travis CI.
+relations:
+  - depends_on /gradlew

@@ -1,6 +1,14 @@
 // handles loading of version properties
 // NOTE: needs to happen in buildscript section before setting up the gralde classpath
 
+// ---docerion
+// type: config
+// title: Gradle script loading version properties
+// summary: Loads global and local version properties so that all projects can share consistent dependency versions.
+// relations:
+//   - references /versions.properties
+// ---
+
 // load global properties
 Properties versionsProperties = new Properties()
 def versionsFile = project.file("versions.properties")

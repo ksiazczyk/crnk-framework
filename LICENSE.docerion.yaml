@@ -1,0 +1,4 @@
+# Docerion header of LICENSE.
+type: source
+title: CRNK Angular ngrx module exports
+summary: Re-exports the binding, expression, stub, meta, operations, and query modules of the package.

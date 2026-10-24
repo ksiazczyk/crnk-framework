@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: npm package configuration for @crnk/angular-ngrx
+// summary: Declares the @crnk/angular-ngrx package, its build and test scripts, and its Angular and ngrx dependencies.
+// ---
+
 // tag::versions[]
 buildscript {
 	dependencies {

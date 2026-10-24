@@ -2,6 +2,12 @@
 # MOAP-specific rules are configured below.
 
 
+# ---docerion
+# type: source
+# title: CRNK binding module exports
+# summary: Re-exports all CRNK Angular ngrx binding modules through a single barrel entry point.
+# ---
+
 # Do not look for deeper placed ".editorconfig" files.
 root = true
 
