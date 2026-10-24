@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpResponse HTTP response wrapper
+// summary: Wraps an OkHttp response and exposes its status, body, headers and message through the HttpAdapterResponse contract.
+// ---
+
 package io.crnk.client.http.okhttp;
 
 import io.crnk.client.http.HttpAdapterResponse;

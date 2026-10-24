@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: QuerySpecAllowUnknownAttributeClientTest
+// summary: Tests query spec handling when unknown attributes are allowed.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.client.internal.ResourceRepositoryStubImpl;

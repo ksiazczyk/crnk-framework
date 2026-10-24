@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpResponse implementing CRNK HttpAdapterResponse
+// summary: Wraps an OkHttp response and exposes status, body, headers and reason phrase through the CRNK HttpAdapterResponse interface.
+// ---
+
 package io.crnk.client.internal;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

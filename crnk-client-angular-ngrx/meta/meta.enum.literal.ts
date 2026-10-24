@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta enum literal model and query path
+// summary: Meta model and query path for an enum literal resource in the CRNK meta schema.
+// ---
+
 import {
 	BeanPath,
 	StringPath

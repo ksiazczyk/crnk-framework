@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta data object model and query path
+// summary: Meta model and query path for a data object resource with relationships, attributes and keys in the CRNK meta schema.
+// ---
+
 import {
 	BeanPath,
 	BooleanPath,

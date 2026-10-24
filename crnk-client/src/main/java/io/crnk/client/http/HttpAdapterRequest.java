@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpAdapterRequest interface
+// summary: Declares the HttpAdapterRequest interface that builds headers, executes requests, and exposes request details.
+// ---
+
 package io.crnk.client.http;
 
 import io.crnk.core.engine.http.HttpMethod;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta resource action definition
+// summary: Defines the MetaResourceAction interface, its result types, QMetaResourceAction path class and a factory for empty resource action resources.
+// ---
+
 import {
 	BeanPath,
 	StringPath

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: BasicProxyFactoryTest
+// summary: JUnit test covering BasicProxyFactory collection proxy creation, wrapped proxies and invalid list handling.
+// ---
+
 package io.crnk.client.internal;
 
 import io.crnk.client.internal.proxy.BasicProxyFactory;

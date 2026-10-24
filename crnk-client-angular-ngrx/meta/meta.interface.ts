@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta interface model and query path
+// summary: Meta model and query path for an interface resource extending a data object in the CRNK meta schema.
+// ---
+
 import {
 	BeanPath,
 	StringPath

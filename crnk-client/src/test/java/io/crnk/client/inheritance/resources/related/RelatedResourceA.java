@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelatedResourceA base JSON:API resource class
+// summary: Base JSON:API resource class defining type and id fields with a declared subType to support inheritance.
+// ---
+
 package io.crnk.client.inheritance.resources.related;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;

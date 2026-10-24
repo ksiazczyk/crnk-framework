@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClientResourceUpsertTest
+// summary: JUnit test exercising ClientResourceUpsert UID computation, unsupported operations and meta and links handling.
+// ---
+
 package io.crnk.client.internal;
 
 import com.fasterxml.jackson.databind.JsonNode;

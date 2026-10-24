@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClientModuleFactoryTest
+// summary: JUnit test verifying that CrnkClient discovers and orders the expected modules for both default and object-link client types.
+// ---
+
 package io.crnk.client.module;
 
 import io.crnk.client.CrnkClient;

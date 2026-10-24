@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpAdapterProvider adapter factory
+// summary: Provider that detects the presence of the OkHttp library and creates OkHttpAdapter instances.
+// ---
+
 package io.crnk.client.http.okhttp;
 
 import io.crnk.client.http.HttpAdapter;

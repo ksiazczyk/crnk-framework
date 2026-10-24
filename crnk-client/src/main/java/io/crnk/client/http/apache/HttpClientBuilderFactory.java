@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpClientBuilderFactory interface
+// summary: Deprecated interface allowing a module to contribute a custom HttpClientBuilder, kept for Brave compatibility.
+// ---
+
 package io.crnk.client.http.apache;
 
 import org.apache.http.impl.client.HttpClientBuilder;

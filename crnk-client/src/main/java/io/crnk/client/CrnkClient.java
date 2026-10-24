@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkClient
+// summary: Main client class that builds proxies, manages modules, and coordinates requests with the CRNK framework.
+// ---
+
 package io.crnk.client;
 
 import java.io.Serializable;

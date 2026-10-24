@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Gradle build script for the Angular ngrx client
+// summary: Configures the Gradle build for the crnk-client-angular-ngrx module, including code generation, npm build, and test tasks.
+// ---
+
 apply plugin: 'com.moowork.node'
 
 apply plugin: 'java'

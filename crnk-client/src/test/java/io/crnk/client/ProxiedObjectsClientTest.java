@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpResponse
+// summary: Wraps an OkHttp response and exposes its status code, body and headers.
+// ---
+
 package io.crnk.client;
 
 /**

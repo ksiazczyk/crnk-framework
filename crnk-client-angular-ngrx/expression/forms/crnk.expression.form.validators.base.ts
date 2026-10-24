@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Expression form base validator directives
+// summary: Angular directives providing required, email, length and pattern validators for expression-bound form controls.
+// ---
+
 import {Directive, forwardRef} from "@angular/core";
 import {
 	CheckboxRequiredValidator,

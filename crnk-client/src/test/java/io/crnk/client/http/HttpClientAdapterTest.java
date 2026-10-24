@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Apache HttpClient adapter initialization test
+// summary: Checks that listeners and receive timeouts cannot be configured on the Apache HttpClient adapter after initialization.
+// ---
+
 package io.crnk.client.http;
 
 import io.crnk.client.http.apache.HttpClientAdapter;

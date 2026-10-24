@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClientStubBaseTest
+// summary: JUnit test for ClientStubBase error handling across HTTP status codes, error bodies and content types.
+// ---
+
 package io.crnk.client.internal;
 
 import java.io.IOException;

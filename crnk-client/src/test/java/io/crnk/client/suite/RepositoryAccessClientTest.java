@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RepositoryAccessClientTest for repository access
+// summary: JUnit tests covering repository getters, interface access, resource creation, and HTTP adapter listener invocation.
+// ---
+
 package io.crnk.client.suite;
 
 import java.io.IOException;

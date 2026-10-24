@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: crnk-core Gradle build script
+// summary: Gradle build configuration that declares runtime and test dependencies for the crnk-core module.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

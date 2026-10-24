@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpRequest implementing CRNK HttpAdapterRequest
+// summary: Builds and executes an OkHttp request, applying headers and notifying listeners around the HTTP call.
+// ---
+
 package io.crnk.client.internal;
 
 import java.io.Serializable;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: InheritanceClientTest for inheritance access
+// summary: JUnit tests verifying how polymorphic task collections are loaded with and without relation inclusion.
+// ---
+
 package io.crnk.client.suite;
 
 import io.crnk.client.internal.proxy.ObjectProxy;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Karma test configuration
+// summary: Karma configuration that runs Jasmine unit tests with karma-typescript for the Angular client.
+// ---
+
 package io.crnk.client;
 
 import org.junit.Assert;

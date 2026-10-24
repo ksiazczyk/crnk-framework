@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaType interface and query path
+// summary: TypeScript source defining the MetaType interface with typed relationships, its result types, and the QMetaType query path class.
+// ---
+
 import {
 	BeanPath,
 	StringPath

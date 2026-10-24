@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Angular-ngrx client public API exports
+// summary: Barrel file that re-exports the public API of the Angular-ngrx client module from its submodules.
+// ---
+
 import {Input, SimpleChanges} from '@angular/core';
 import {
 	AsyncValidatorFn,

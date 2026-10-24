@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaResource interface and query path
+// summary: TypeScript source defining the MetaResource interface, its result types, and the QMetaResource query path class for the CRNK Angular ngrx client.
+// ---
+
 import {
 	BeanPath,
 	BooleanPath,

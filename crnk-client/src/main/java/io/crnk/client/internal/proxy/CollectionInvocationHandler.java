@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CollectionInvocationHandler
+// summary: Invocation handler that lazily loads a collection and exposes meta and links information on proxied collections.
+// ---
+
 package io.crnk.client.internal.proxy;
 
 import java.lang.reflect.InvocationHandler;

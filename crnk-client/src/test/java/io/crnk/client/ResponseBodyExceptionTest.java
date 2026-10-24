@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResponseBodyExceptionTest
+// summary: JUnit test checking that ResponseBodyException stores and returns its message.
+// ---
+
 package io.crnk.client;
 
 import org.junit.Assert;

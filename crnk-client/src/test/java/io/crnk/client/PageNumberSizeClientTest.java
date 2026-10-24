@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpAdapterListenerBase
+// summary: Base class providing a default no-op implementation of OkHttpAdapterListener.
+// ---
+
 package io.crnk.client;
 
 import com.fasterxml.jackson.databind.JsonNode;

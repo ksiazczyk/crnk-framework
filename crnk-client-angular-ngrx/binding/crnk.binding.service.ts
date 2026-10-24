@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkBindingService
+// summary: An Angular service that creates and wires up data table, form, and selector bindings using the ngrx JSON API service.
+// ---
+
 import {Injectable} from '@angular/core';
 import 'rxjs/add/operator/zip';
 import 'rxjs/add/operator/do';

@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Crnk extensions BOM build configuration
+// summary: Configures publishing of the Crnk extensions BOM as a Maven publication, adding all sibling subprojects as managed dependencies in the generated POM.
+// ---
+
 description = "Crnk extensions BOM"
 
 def bomGenerator = {

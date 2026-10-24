@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpClientRequest request implementation
+// summary: Wraps an Apache HTTP request, mapping HTTP methods to request classes and executing them through the client.
+// ---
+
 package io.crnk.client.http.apache;
 
 import io.crnk.client.http.HttpAdapterListener;

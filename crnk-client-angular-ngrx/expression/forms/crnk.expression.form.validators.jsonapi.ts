@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Expression form JSON-API resource validator
+// summary: Directive that validates expression-bound controls against errors from the underlying ngrx-json-api resource.
+// ---
+
 import {Directive, forwardRef} from '@angular/core';
 import {AbstractControl, NG_VALIDATORS, ValidationErrors, Validator} from '@angular/forms';
 import {Path} from '../crnk.expression';

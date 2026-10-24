@@ -1,0 +1,6 @@
+# Docerion header of tsconfig.dist.json.
+type: config
+title: TypeScript configuration for distribution build
+summary: Extends the base tsconfig to configure the compiled output for the npm distribution build.
+relations:
+  - references /crnk-client-angular-ngrx/tsconfig.json

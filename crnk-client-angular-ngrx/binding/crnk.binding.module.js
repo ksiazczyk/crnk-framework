@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DataTableBinding compiled output
+// summary: Compiled JavaScript DataTableBinding that translates PrimeNG lazy load events into JSON API queries.
+// ---
+
 "use strict";
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
 		var c = arguments.length, r = c < 3 ? target :

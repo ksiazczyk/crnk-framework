@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ServiceDiscoveryClientTest
+// summary: JUnit test verifying ServiceDiscovery is null by default in the constructor and can be overridden via setServiceDiscovery.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.core.module.discovery.ServiceDiscovery;

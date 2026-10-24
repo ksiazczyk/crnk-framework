@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ClientException
+// summary: General client exception thrown when no custom mapper is found, wrapping a CRNK response error with a status code.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.core.engine.document.ErrorData;

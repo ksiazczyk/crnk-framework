@@ -1,3 +1,9 @@
+// ---docerion
+// type: ci
+// title: Build workflow
+// summary: A GitHub Actions workflow that builds the project on push and pull request events using Ubuntu with AdoptOpenJDK 8.
+// ---
+
 import {async, ComponentFixture, fakeAsync, getTestBed, TestBed, tick} from '@angular/core/testing';
 
 import "rxjs/add/operator/merge";

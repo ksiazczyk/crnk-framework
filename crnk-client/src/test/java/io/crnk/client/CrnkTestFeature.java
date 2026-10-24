@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AbstractClientTest
+// summary: Base class for client tests providing test application setup and header assertion helpers.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.rs.CrnkFeature;

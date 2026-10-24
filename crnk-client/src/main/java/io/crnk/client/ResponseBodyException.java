@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResponseBodyException
+// summary: Exception raised when the response body cannot be processed, carrying an optional cause.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.core.exception.CrnkException;

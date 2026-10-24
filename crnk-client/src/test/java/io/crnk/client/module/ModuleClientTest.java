@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ModuleClientTest
+// summary: JUnit test exercising module setup, resource lookup, and HTTP adapter reconfiguration through a mock OkHttp test module.
+// ---
+
 package io.crnk.client.module;
 
 import io.crnk.client.AbstractClientTest;

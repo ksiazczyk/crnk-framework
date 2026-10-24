@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Karma test runner configuration
+// summary: Configures the Karma test runner with Jasmine and karma-typescript to run TypeScript tests in Chrome.
+// ---
+
 import "core-js"
 import "zone.js/dist/zone";
 import "zone.js/dist/long-stack-trace-zone";

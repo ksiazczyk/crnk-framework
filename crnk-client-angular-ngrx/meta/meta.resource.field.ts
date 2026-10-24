@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta resource base definition
+// summary: Defines the MetaResourceBase interface extending MetaJsonObject, its result types and a factory for empty resource base resources.
+// ---
+
 import {
 	BeanPath,
 	BooleanPath,

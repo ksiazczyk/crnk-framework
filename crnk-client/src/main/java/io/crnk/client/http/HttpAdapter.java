@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpAdapter interface
+// summary: Defines the HttpAdapter interface that manages listeners, creates requests, and configures receive timeouts for HTTP communication.
+// ---
+
 package io.crnk.client.http;
 
 import io.crnk.core.engine.http.HttpMethod;

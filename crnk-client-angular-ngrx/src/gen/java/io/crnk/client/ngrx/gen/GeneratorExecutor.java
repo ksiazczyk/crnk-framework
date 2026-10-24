@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: GeneratorExecutor
+// summary: Java entry point that configures and runs the crnk TypeScript generator to produce the Angular ngrx client code.
+// ---
+
 package io.crnk.client.ngrx.gen;
 
 

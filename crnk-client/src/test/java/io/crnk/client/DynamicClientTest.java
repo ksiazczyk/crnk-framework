@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CharsetTest
+// summary: Test verifying UTF-8 charset handling for the default content type on OkHttp and Apache HTTP clients.
+// ---
+
 package io.crnk.client;
 
 import java.io.IOException;

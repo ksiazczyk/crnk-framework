@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpClientAdapterProvider adapter provider
+// summary: Provides the Apache HttpClient adapter and detects its availability by checking for a client class.
+// ---
+
 package io.crnk.client.http.apache;
 
 import io.crnk.client.http.HttpAdapter;

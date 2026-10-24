@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ClientModuleFactory
+// summary: Interface used by CrnkClient.findModules and ServiceLoader to automatically detect client modules.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.client.internal.proxy.ObjectProxy;

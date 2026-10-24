@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkBindingUtils helpers
+// summary: Utility helpers for query parameter handling and resource identifier conversion in the binding layer.
+// ---
+
 import {Subject} from "rxjs/Subject";
 import {Observable} from "rxjs/Observable";
 import * as _ from "lodash";

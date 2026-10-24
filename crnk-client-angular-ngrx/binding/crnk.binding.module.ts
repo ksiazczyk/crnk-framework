@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DataTableBinding for data tables
+// summary: TypeScript DataTableBinding that connects a data table implementation to the NGRX JSON API store.
+// ---
+
 import {Injector, NgModule} from '@angular/core';
 import 'rxjs/add/operator/zip';
 import 'rxjs/add/operator/do';

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpAdapter wrapping OkHttpClient for CRNK
+// summary: Implements the CRNK HttpAdapter interface on top of the OkHttp client, managing the OkHttpClient instance, timeouts and listeners.
+// ---
+
 package io.crnk.client.internal;
 
 import java.util.ArrayList;

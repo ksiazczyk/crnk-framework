@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkBindingService compiled output
+// summary: Compiled JavaScript version of the binding service that wires the NGRX JSON API store to table, form and selector bindings.
+// ---
+
 import {
 	ChangeDetectionStrategy,
 	ChangeDetectorRef,

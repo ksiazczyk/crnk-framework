@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta attribute definition
+// summary: Defines the MetaAttribute interface, its QMetaAttribute path class and a factory for empty meta attribute resources.
+// ---
+
 import {
 	BeanPath,
 	BooleanPath,

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceRepositoryStubTest
+// summary: JUnit test asserting that invalid QuerySpecs targeting the wrong resource type raise BadRequestException.
+// ---
+
 package io.crnk.client;
 
 import io.crnk.core.exception.BadRequestException;

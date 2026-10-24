@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle for the crnk-client module
+// summary: Gradle build configuration for the crnk-client module, declaring compile and test dependencies on other projects and external libraries.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

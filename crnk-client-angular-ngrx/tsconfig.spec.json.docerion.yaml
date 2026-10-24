@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.spec.json.
+type: config
+title: TypeScript configuration for test compilation
+summary: Configures TypeScript compilation for test spec files, excluding node modules and build output.

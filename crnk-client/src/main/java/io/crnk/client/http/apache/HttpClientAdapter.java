@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpClientAdapter Apache HTTP client adapter
+// summary: Implements the HttpAdapter interface using the Apache HttpClient, managing listeners and building the underlying client.
+// ---
+
 package io.crnk.client.http.apache;
 
 import io.crnk.client.http.HttpAdapter;

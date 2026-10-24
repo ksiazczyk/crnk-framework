@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta repository action type
+// summary: Enumerates the repository and resource meta action types.
+// ---
+
 import {Response, ResponseOptions} from '@angular/http';
 
 import {Observable} from 'rxjs/Observable';

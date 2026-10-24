@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TransportException
+// summary: General exception thrown when the underlying connection causes an error.
+// ---
+
 package io.crnk.client;
 
 /**

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JerseyActionStubFactory Jersey implementation
+// summary: Jersey-based implementation of ActionStubFactory that builds stubs using a JAX-RS client and WebResourceFactory.
+// ---
+
 package io.crnk.client.action;
 
 import io.crnk.core.engine.url.ServiceUrlProvider;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta element model and query path
+// summary: Meta model and query path for a hierarchical element resource with parent and children relationships.
+// ---
+
 import {
 	BeanPath,
 	StringPath

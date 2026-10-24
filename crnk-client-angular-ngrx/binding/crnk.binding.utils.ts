@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkBindingUtils
+// summary: Utility functions and an Angular service for building query paths, resource identifiers, and applying query parameters.
+// ---
+
 import { Injectable } from '@angular/core';
 import 'rxjs/add/operator/zip';
 import 'rxjs/add/operator/do';

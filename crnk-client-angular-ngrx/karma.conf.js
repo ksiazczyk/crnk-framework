@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Karma test runner configuration
+// summary: Sets up Karma with Jasmine and karma-typescript to compile and run TypeScript tests in Chrome.
+// ---
+
 module.exports = function(config) {
 	config.set({
 

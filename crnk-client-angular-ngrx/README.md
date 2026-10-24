@@ -1,3 +1,9 @@
+---
+type: config
+title: Gradle settings for project modules
+summary: Declares the subprojects and modules included in the Gradle build for the crnk framework.
+---
+
 Angular helper library for ngrx-json-api and crnk:
 
 - Form bindings

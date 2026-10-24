@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Meta resource action
+// summary: Defines the MetaResourceAction resource model and its query result types.
+// ---
+
 import {Resource} from "ngrx-json-api";
 import {JsonApiMock} from "./crnk.operations.spec.mock";
 import {NgrxJsonApi} from "ngrx-json-api/src/api";

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: VersionedClientTest
+// summary: JUnit test covering version handling in the information model, Accept header versioning, and out-of-range field behavior.
+// ---
+
 package io.crnk.client;
 
 import java.io.IOException;

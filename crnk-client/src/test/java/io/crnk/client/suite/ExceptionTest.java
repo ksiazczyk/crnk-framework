@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ExceptionTest for exception handling
+// summary: JUnit tests covering transport exceptions on invalid URLs and repository access through proxy and interface.
+// ---
+
 package io.crnk.client.suite;
 
 import io.crnk.client.CrnkClient;

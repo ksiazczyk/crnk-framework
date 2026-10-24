@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: crnk-client-angular-ngrx public exports
+// summary: Barrel entry point that re-exports the public API of the crnk-client-angular-ngrx module from its submodules.
+// ---
+
 import {
 	BeanPath,
 	StringPath

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SamePathInheritanceClientTest
+// summary: A JUnit test verifying that the CRNK client correctly handles multiple resources sharing a common path and resolves fields on their subtypes.
+// ---
+
 package io.crnk.client.inheritance;
 
 import io.crnk.client.AbstractClientTest;
