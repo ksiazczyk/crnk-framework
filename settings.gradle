@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Gradle settings for the multi-module build
+// summary: Configures the Gradle multi-project build by declaring all included modules and setting up repositories and shared project properties.
+// ---
+
 include ':crnk-core'
 include ':crnk-reactive'
 include ':crnk-home'

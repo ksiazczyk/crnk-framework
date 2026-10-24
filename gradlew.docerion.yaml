@@ -1,0 +1,4 @@
+# Docerion header of gradlew.
+type: script
+title: Gradle wrapper startup script
+summary: Unix shell script that bootstraps the Gradle wrapper, downloads a JDK if needed, and runs Gradle.

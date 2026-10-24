@@ -1,3 +1,9 @@
+---
+type: config
+title: Gradle build configuration for the Angular ngrx client
+summary: Configures the Gradle build, Java code generation, npm build, and verification tasks for the Angular ngrx client module.
+---
+
 Contributing to the crnk project, and to any open-source project for that matter, can be a rewarding experience both in terms of the way you can help yourself and projects you are working on, as well as the countless number of others you may help with your contribution.
 
 Reporting Bugs & Requesting for Features

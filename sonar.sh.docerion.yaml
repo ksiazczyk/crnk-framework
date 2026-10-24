@@ -1,0 +1,4 @@
+# Docerion header of sonar.sh.
+type: script
+title: Shell script to run Sonar analysis
+summary: Runs SonarQube analysis via Maven, triggering a pull request preview analysis when a GitHub token is available.

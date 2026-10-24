@@ -1,0 +1,4 @@
+# Docerion header of gradlew.bat.
+type: script
+title: Gradle wrapper startup script for Windows
+summary: Windows batch script that launches the Gradle wrapper using the configured Java installation.

@@ -1,3 +1,9 @@
+---
+type: config
+title: Karma test runner configuration
+summary: Configures Karma with jasmine and karma-typescript to compile and run unit tests in Chrome.
+---
+
 # crnk.io - Crank up the development of RESTful applications!
 
 <!--

@@ -1,0 +1,4 @@
+# Docerion header of gradle.properties.
+type: config
+title: Gradle build properties
+summary: Gradle configuration holding group id, version prefix, deployment URLs, signing keys, and dependency versions.

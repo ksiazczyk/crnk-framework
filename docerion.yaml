@@ -1,0 +1,182 @@
+# ---docerion
+# type: config
+# title: Docerion graph configuration
+# summary: Scope, vocabulary and mapping rules of the documentation graph of this repository.
+# ---
+format: docerion/1
+vocab:
+  node_types:
+    readme: { label: README }
+    guide: { label: Guide, description: "How-to pages and tutorials." }
+    reference: { label: Reference, description: "Reference documentation, API descriptions and specifications." }
+    decision: { label: Decision, status: [proposed, accepted, rejected, superseded], style: { shape: diamond } }
+    note: { label: Note, description: "Notes, meeting notes and research." }
+    plan: { label: Plan }
+    changelog: { label: Changelog }
+    config: { label: Configuration }
+    source: { label: Source code }
+    test: { label: Test }
+    script: { label: Script }
+    data: { label: Data }
+    asset: { label: Asset, description: "Images, fonts, media and other binary files." }
+    ci: { label: CI and automation }
+  edge_types:
+    depends_on: { label: depends on, inverse: dependency_of, impact: backward, acyclic: warn }
+    implements: { label: implements, inverse: implemented_by, impact: backward }
+    documents: { label: documents, inverse: documented_by, impact: backward }
+    configures: { label: configures, inverse: configured_by, impact: forward }
+    tests: { label: tests, inverse: tested_by, impact: backward }
+    part_of: { label: part of, inverse: has_part, impact: forward, acyclic: error }
+    supersedes: { label: supersedes, inverse: superseded_by, impact: none, from: [decision], to: [decision], acyclic: error }
+    references: { label: references, inverse: referenced_by, impact: none }
+    relates_to: { label: relates to, symmetric: true, impact: none }
+nodes:
+  # Protected files in .github/workflows/: file bytes unchanged
+  .github/workflows/build.yml:
+    type: ci
+    title: Build workflow
+    summary: A GitHub Actions workflow that builds the project on push and pull request events using Ubuntu with AdoptOpenJDK 8.
+  # Protected files in crnk-client/src/test/resources/META-INF/services/: file bytes unchanged
+  crnk-client/src/test/resources/META-INF/services/io.crnk.client.module.ClientModuleFactory:
+    type: test
+    title: ClientModuleFactory service registration
+    summary: A Java ServiceLoader registration file that maps the ClientModuleFactory service to the test implementation for the crnk client module.
+  # Protected files in crnk-core/src/test/resources/META-INF/services/: file bytes unchanged
+  crnk-core/src/test/resources/META-INF/services/io.crnk.core.module.discovery.ServiceDiscovery:
+    type: test
+    title: ServiceDiscovery test service provider
+    summary: A Java ServiceLoader configuration file that registers the TestServiceDiscovery implementation for module discovery tests.
+  # Protected files in crnk-data/crnk-data-jpa/src/main/resources/META-INF/services/: file bytes unchanged
+  crnk-data/crnk-data-jpa/src/main/resources/META-INF/services/io.crnk.client.module.ClientModuleFactory:
+    type: config
+    title: ClientModuleFactory service provider registration
+    summary: Registers io.crnk.data.jpa.internal.JpaClientModuleFactory as the implementation of the ClientModuleFactory service for Java's ServiceLoader mechanism.
+  crnk-data/crnk-data-jpa/src/main/resources/META-INF/services/io.crnk.core.engine.information.resource.ResourceInformationProvider:
+    type: config
+    title: ResourceInformationProvider service provider registration
+    summary: Registers io.crnk.data.jpa.internal.JpaResourceInformationProvider as the implementation of the ResourceInformationProvider service via ServiceLoader.
+  # Protected files in crnk-data/crnk-data-jpa/src/test/resources/META-INF/: file bytes unchanged
+  crnk-data/crnk-data-jpa/src/test/resources/META-INF/beans.xml:
+    type: config
+    title: beans.xml CDI configuration
+    summary: CDI beans configuration enabling all bean discovery modes for the JPA test suite.
+  crnk-data/crnk-data-jpa/src/test/resources/META-INF/persistence.xml:
+    type: config
+    title: persistence.xml JPA test configuration
+    summary: JPA persistence unit configuration for tests, defining the Hibernate provider, H2 in-memory database, and mapped test entities.
+  # Protected files in crnk-gen/crnk-gen-asciidoc/src/main/resources/META-INF/services/: file bytes unchanged
+  crnk-gen/crnk-gen-asciidoc/src/main/resources/META-INF/services/io.crnk.gen.base.GeneratorModule:
+    type: config
+    title: io.crnk.gen.base.GeneratorModule service registration
+    summary: Java ServiceLoader file that registers AsciidocGeneratorModule as the implementation of the GeneratorModule service.
+  # Protected files in crnk-gen/crnk-gen-java/src/main/resources/META-INF/services/: file bytes unchanged
+  crnk-gen/crnk-gen-java/src/main/resources/META-INF/services/javax.annotation.processing.Processor:
+    type: config
+    title: javax.annotation.processing.Processor service registration
+    summary: A META-INF/services registration file that declares io.crnk.gen.java.CrnkProcessor as the implementation of the javax.annotation.processing.Processor service.
+  # Protected files in crnk-gen/crnk-gen-openapi/src/main/resources/META-INF/services/: file bytes unchanged
+  crnk-gen/crnk-gen-openapi/src/main/resources/META-INF/services/io.crnk.gen.base.GeneratorModule:
+    type: config
+    title: GeneratorModule service registration
+    summary: A Java ServiceLoader descriptor that registers OpenAPIGeneratorModule as the implementation of the GeneratorModule service.
+  # Protected files in crnk-gen/crnk-gen-typescript/src/main/resources/META-INF/services/: file bytes unchanged
+  crnk-gen/crnk-gen-typescript/src/main/resources/META-INF/services/io.crnk.gen.base.GeneratorModule:
+    type: config
+    title: io.crnk.gen.base.GeneratorModule service registration
+    summary: A Java ServiceLoader configuration file that maps the GeneratorModule service interface to the TypeScript generator implementation.
+  # Protected files in crnk-gen/crnk-gen-typescript/src/test/resources/META-INF/: file bytes unchanged
+  crnk-gen/crnk-gen-typescript/src/test/resources/META-INF/beans.xml:
+    type: config
+    title: CDI beans descriptor for annotated bean discovery
+    summary: A CDI beans descriptor that enables annotated bean discovery for the test classpath.
+  # Protected files in crnk-integration-examples/openliberty-microprofile-example/src/main/resources/META-INF/: file bytes unchanged
+  crnk-integration-examples/openliberty-microprofile-example/src/main/resources/META-INF/beans.xml:
+    type: config
+    title: CDI beans configuration
+    summary: CDI configuration file that enables bean discovery for the Java EE application.
+  crnk-integration-examples/openliberty-microprofile-example/src/main/resources/META-INF/microprofile-config.properties:
+    type: config
+    title: MicroProfile configuration properties
+    summary: Empty MicroProfile configuration properties file for application settings.
+  crnk-integration-examples/openliberty-microprofile-example/src/main/resources/META-INF/persistence.xml:
+    type: config
+    title: JPA persistence unit configuration
+    summary: Defines the TEST_LIBERTY JPA persistence unit backed by an in-memory H2 database.
+  # Protected files in crnk-integration-examples/wildfly-example/src/main/resources/META-INF/: file bytes unchanged
+  crnk-integration-examples/wildfly-example/src/main/resources/META-INF/beans.xml:
+    type: config
+    title: CDI beans.xml enabling bean discovery
+    summary: CDI configuration that enables bean discovery for the WildFly example application.
+  crnk-integration-examples/wildfly-example/src/main/resources/META-INF/persistence.xml:
+    type: config
+    title: JPA persistence.xml for the TEST_WILDFLY unit
+    summary: JPA persistence unit configuration wiring Hibernate to an in-memory H2 database for the TEST_WILDFLY unit.
+  # Protected files in crnk-meta/src/main/resources/META-INF/services/: file bytes unchanged
+  crnk-meta/src/main/resources/META-INF/services/io.crnk.client.module.ClientModuleFactory:
+    type: config
+    title: ClientModuleFactory service loader registration
+    summary: Registers the MetaClientModuleFactory implementation for the ClientModuleFactory service through Java's ServiceLoader mechanism.
+  # Protected files in crnk-monitor/crnk-monitor-brave4/src/main/resources/META-INF/services/: file bytes unchanged
+  crnk-monitor/crnk-monitor-brave4/src/main/resources/META-INF/services/io.crnk.client.module.ClientModuleFactory:
+    type: config
+    title: io.crnk.client.module.ClientModuleFactory
+    summary: A Java ServiceLoader configuration file that registers the JpaClientModuleFactory as the implementation of the CRnK ClientModuleFactory service.
+  # Protected files in crnk-operations/src/test/resources/META-INF/: file bytes unchanged
+  crnk-operations/src/test/resources/META-INF/beans.xml:
+    type: config
+    title: beans.xml
+    summary: CDI configuration file that enables bean discovery for the test classpath.
+  crnk-operations/src/test/resources/META-INF/persistence.xml:
+    type: config
+    title: persistence.xml
+    summary: JPA persistence unit configuration for tests, using Hibernate with an in-memory H2 database.
+  # Protected files in crnk-security/src/main/resources/META-INF/services/: file bytes unchanged
+  crnk-security/src/main/resources/META-INF/services/io.crnk.client.module.ClientModuleFactory:
+    type: config
+    title: ClientModuleFactory service registration
+    summary: A Java ServiceLoader configuration file that registers SecurityClientModuleFactory as the implementation of the ClientModuleFactory service.
+  # Protected files in crnk-setup/crnk-setup-cdi/src/main/resources/META-INF/: file bytes unchanged
+  crnk-setup/crnk-setup-cdi/src/main/resources/META-INF/beans.xml:
+    type: config
+    title: beans.xml CDI configuration
+    summary: CDI configuration file that enables annotated bean discovery for the Java EE application.
+  # Protected files in crnk-setup/crnk-setup-cdi/src/main/resources/META-INF/services/: file bytes unchanged
+  crnk-setup/crnk-setup-cdi/src/main/resources/META-INF/services/io.crnk.core.module.discovery.ServiceDiscovery:
+    type: config
+    title: ServiceDiscovery SPI registration
+    summary: Registers the CDI-based ServiceDiscovery implementation for CRNK module discovery via a Java SPI file.
+  # Protected files in crnk-setup/crnk-setup-cdi/src/test/resources/META-INF/: file bytes unchanged
+  crnk-setup/crnk-setup-cdi/src/test/resources/META-INF/beans.xml:
+    type: config
+    title: CDI beans.xml for test bean discovery
+    summary: CDI beans descriptor that enables annotated bean discovery for the test module of the crnk CDI setup.
+  # Protected files in crnk-setup/crnk-setup-spring-boot1/src/main/resources/META-INF/: file bytes unchanged
+  crnk-setup/crnk-setup-spring-boot1/src/main/resources/META-INF/spring.factories:
+    type: config
+    title: spring.factories
+    summary: Registers the CRNK Spring Boot auto-configuration classes so Spring Boot loads them automatically.
+  # Protected files in crnk-setup/crnk-setup-spring-boot1/src/test/resources/META-INF/: file bytes unchanged
+  crnk-setup/crnk-setup-spring-boot1/src/test/resources/META-INF/persistence.xml:
+    type: config
+    title: Test persistence unit configuration
+    summary: A JPA persistence unit configuration for tests, defining the H2 in-memory database and Hibernate settings for the PersonEntity model.
+  # Protected files in crnk-setup/crnk-setup-spring-boot2/src/main/resources/META-INF/: file bytes unchanged
+  crnk-setup/crnk-setup-spring-boot2/src/main/resources/META-INF/spring.factories:
+    type: config
+    title: spring.factories
+    summary: Registers the Spring Boot auto-configuration classes for the various CRNK setup modules.
+  # Protected files in crnk-setup/crnk-setup-spring-boot2/src/test/resources/META-INF/: file bytes unchanged
+  crnk-setup/crnk-setup-spring-boot2/src/test/resources/META-INF/persistence.xml:
+    type: config
+    title: Test persistence unit configuration
+    summary: Configures a JPA persistence unit named TEST_SPRING for tests, wiring Hibernate with an in-memory H2 database.
+  # Protected files in crnk-setup/crnk-setup-spring/src/test/resources/META-INF/: file bytes unchanged
+  crnk-setup/crnk-setup-spring/src/test/resources/META-INF/persistence.xml:
+    type: config
+    title: persistence.xml
+    summary: JPA persistence unit configuration for the TEST_SPRING unit, wiring Hibernate with an in-memory H2 database for tests.
+  # Protected files in crnk-validation/src/main/resources/META-INF/services/: file bytes unchanged
+  crnk-validation/src/main/resources/META-INF/services/io.crnk.client.module.ClientModuleFactory:
+    type: config
+    title: ClientModuleFactory service registration
+    summary: A Java ServiceLoader registration file that maps the ClientModuleFactory service interface to the ValidationClientModuleFactory implementation.
