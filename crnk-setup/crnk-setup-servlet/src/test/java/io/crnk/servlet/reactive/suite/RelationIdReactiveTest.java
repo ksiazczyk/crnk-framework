@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationIdReactiveTest
+// summary: Spring Boot test that verifies relation id access behavior for the reactive servlet by extending RelationIdAccessTestBase.
+// ---
+
 package io.crnk.servlet.reactive.suite;
 
 import io.crnk.servlet.resource.ReactiveServletTestApplication;

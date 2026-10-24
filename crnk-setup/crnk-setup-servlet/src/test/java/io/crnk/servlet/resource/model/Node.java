@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Node resource model
+// summary: JSON:API resource model for nodes with parent, children and comment relations.
+// ---
+
 package io.crnk.servlet.resource.model;
 
 import java.util.Set;

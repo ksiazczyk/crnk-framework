@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: BasicSpringBoot1Test
+// summary: Integration test that verifies CRNK Spring Boot auto-configuration, property defaults, and API endpoints using a random-port web environment.
+// ---
+
 package io.crnk.spring.boot;
 
 import static net.javacrumbs.jsonunit.fluent.JsonFluentAssert.assertThatJson;

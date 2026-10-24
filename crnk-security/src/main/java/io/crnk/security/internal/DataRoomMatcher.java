@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DataRoomMatcher
+// summary: Delegates to a DataRoomFilter to verify whether a resource matches the data room rules for a given HTTP method.
+// ---
+
 package io.crnk.security.internal;
 
 import java.util.Collections;

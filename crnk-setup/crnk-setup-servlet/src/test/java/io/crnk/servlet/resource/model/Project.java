@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Project resource model
+// summary: JSON:API resource model for a project with an ID and name field.
+// ---
+
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with

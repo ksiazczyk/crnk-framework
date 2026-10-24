@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: VertxRequestContext for Vert.x HTTP requests
+// summary: Wraps a Vert.x HTTP server request to expose headers, parameters, path and body to the CRnK request context.
+// ---
+
 package io.crnk.setup.vertx.internal;
 
 import java.net.URI;

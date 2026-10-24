@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkCoreAutoConfiguration
+// summary: Spring Boot auto-configuration that wires up the CrnkBoot context with JSON API, QuerySpec and module support.
+// ---
+
 package io.crnk.spring.setup.boot.core;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ServletSecurityProvider servlet security checks
+// summary: Implements crnk security by delegating role and authentication checks to the underlying servlet request.
+// ---
+
 package io.crnk.servlet.internal;
 
 import io.crnk.core.engine.http.HttpRequestContextProvider;

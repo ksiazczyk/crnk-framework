@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkSecurityAutoConfiguration for the security module
+// summary: Auto-configures the crnk security module and a Spring security module bean, applying any SecurityModuleConfigurer.
+// ---
+
 package io.crnk.spring.boot.autoconfigure;
 
 import io.crnk.operations.server.OperationsModule;

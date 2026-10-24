@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JAX-RS module building repository actions from annotations
+// summary: A JAX-RS module that registers an exception mapper and security provider and derives repository actions from annotated methods.
+// ---
+
 package io.crnk.rs.internal;
 
 import io.crnk.core.engine.information.repository.RepositoryAction;

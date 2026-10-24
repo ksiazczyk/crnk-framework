@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkValidationAutoConfiguration
+// summary: Spring Boot auto-configuration that activates Crnk's Validation module when a ValidationModule is present on the classpath and none is already configured.
+// ---
+
 package io.crnk.spring.setup.boot.validation;
 
 import io.crnk.spring.setup.boot.core.CrnkCoreAutoConfiguration;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TaskRepository
+// summary: An in-memory task repository providing save, find, delete and query operations for task entities.
+// ---
+
 package io.crnk.internal.boot.cdi.model;
 
 import io.crnk.core.exception.ResourceNotFoundException;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestConfiguration for Crnk Spring integration tests
+// summary: Spring test configuration that wires up CrnkBoot, service discovery, query spec mapping, paging behavior, and a servlet module for integration tests.
+// ---
+
 package io.crnk.spring.app;
 
 import io.crnk.core.boot.CrnkBoot;

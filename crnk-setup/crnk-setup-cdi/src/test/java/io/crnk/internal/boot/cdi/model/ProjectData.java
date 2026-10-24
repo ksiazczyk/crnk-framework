@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectData
+// summary: A simple data holder class storing a single string value used as project data.
+// ---
+
 package io.crnk.internal.boot.cdi.model;
 
 public class ProjectData {

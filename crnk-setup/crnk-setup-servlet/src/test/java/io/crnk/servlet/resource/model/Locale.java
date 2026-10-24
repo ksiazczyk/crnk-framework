@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Locale resource model
+// summary: JSON:API resource model representing a language locale with a java.util.Locale field.
+// ---
+
 package io.crnk.servlet.resource.model;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

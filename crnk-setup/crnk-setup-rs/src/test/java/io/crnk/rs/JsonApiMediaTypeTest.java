@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JsonApiMediaTypeTest
+// summary: Asserts that JsonApiMediaType has a private constructor.
+// ---
+
 package io.crnk.rs;
 
 import io.crnk.rs.type.JsonApiMediaType;

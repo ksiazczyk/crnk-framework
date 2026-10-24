@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TaskRepository
+// summary: CRNK repository backing tasks with an in-memory map and query spec support.
+// ---
+
 package io.crnk.security.model;
 
 import io.crnk.core.queryspec.QuerySpec;

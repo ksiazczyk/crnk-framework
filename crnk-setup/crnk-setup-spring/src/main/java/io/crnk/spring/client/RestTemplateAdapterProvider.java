@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RestTemplateAdapterProvider
+// summary: Provides RestTemplateAdapter instances and detects whether Spring's RestTemplate class is on the classpath.
+// ---
+
 package io.crnk.spring.client;
 
 import io.crnk.client.http.HttpAdapter;

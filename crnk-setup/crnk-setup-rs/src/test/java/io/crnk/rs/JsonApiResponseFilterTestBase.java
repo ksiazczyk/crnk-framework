@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JsonApiResponseFilterTestBase
+// summary: Base class exercising JSON API response filtering for null and non-null responses over a Jersey test container.
+// ---
+
 package io.crnk.rs;
 
 import io.crnk.core.boot.CrnkProperties;

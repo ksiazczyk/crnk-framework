@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle for the crnk-setup-spring module
+// summary: Gradle build configuration for the crnk-setup-spring module, declaring its plugins and runtime and test dependencies.
+// ---
+
 apply plugin: 'java'
 
 apply plugin: 'io.spring.dependency-management'

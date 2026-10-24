@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkUiProperties
+// summary: Spring Boot configuration properties for crnk-ui exposing an enabled flag.
+// ---
+
 package io.crnk.spring.boot;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

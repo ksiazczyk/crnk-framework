@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkJpaProperties
+// summary: Spring Boot configuration properties for crnk-data-jpa covering query factory type, enabled and expose all settings.
+// ---
+
 package io.crnk.spring.boot;
 
 import io.crnk.data.jpa.query.criteria.JpaCriteriaQueryFactory;

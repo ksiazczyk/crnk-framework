@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Test span reporter
+// summary: A test implementation of Spring Cloud Sleuth's SpanReporter that records spans in a list for assertions.
+// ---
+
 package io.crnk.spring.app;
 
 import org.springframework.cloud.sleuth.Span;

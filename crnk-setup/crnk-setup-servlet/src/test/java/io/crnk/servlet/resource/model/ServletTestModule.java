@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ServletTestModule registration
+// summary: Crnk module registering in-memory repositories for the test model classes.
+// ---
+
 package io.crnk.servlet.resource.model;
 
 import io.crnk.core.module.SimpleModule;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RolePermissionRepository
+// summary: Repository that computes role permissions for each role and resource type using the data room matcher.
+// ---
+
 package io.crnk.security.repository;
 
 import java.util.HashSet;

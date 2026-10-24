@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiMediaType utility class
+// summary: A utility class holding constants for the JSON API media type, both as a string and as a JAX-RS MediaType.
+// ---
+
 package io.crnk.rs.type;
 
 import javax.ws.rs.core.MediaType;

@@ -1,0 +1,4 @@
+# Docerion header of index.jsp.
+type: test
+title: Crnk-Servlet Integration Example Application
+summary: A landing page for the Crnk-Servlet integration example that links to JSON API test endpoints for both SimpleCrnkFilter and SimpleCrnkServlet.

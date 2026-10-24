@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Task
+// summary: A JSON:API resource model representing a task with relations to projects and meta and links information.
+// ---
+
 package io.crnk.internal.boot.cdi.model;
 
 import java.util.List;

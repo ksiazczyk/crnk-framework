@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SpringSecurityModule Crnk module for Spring exception mappers
+// summary: A Crnk module that registers the Spring exception mappers, such as the access-denied mapper, with the Crnk framework.
+// ---
+
 package io.crnk.spring.security;
 
 import io.crnk.core.module.Module;

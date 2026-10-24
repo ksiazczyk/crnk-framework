@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SlowTask
+// summary: JSON:API resource model class used as a test fixture for the reactive servlet tests.
+// ---
+
 package io.crnk.servlet.reactive.model;
 
 import io.crnk.core.resource.annotations.JsonApiId;

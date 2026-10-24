@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkValidationProperties
+// summary: Spring Boot configuration properties for crnk-validation controlling enabled and resource validation options.
+// ---
+
 package io.crnk.spring.boot;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

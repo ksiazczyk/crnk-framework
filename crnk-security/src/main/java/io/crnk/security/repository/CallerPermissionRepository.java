@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CallerPermissionRepository
+// summary: Repository that builds caller permissions for every registered resource type using the caller security provider.
+// ---
+
 package io.crnk.security.repository;
 
 import java.util.Set;

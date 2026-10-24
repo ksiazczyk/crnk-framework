@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkMetaAutoConfiguration for the Meta module
+// summary: Auto-configures the crnk Meta module, building its config, optional configurers and the server module bean.
+// ---
+
 package io.crnk.spring.boot.autoconfigure;
 
 import io.crnk.meta.MetaModule;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Project
+// summary: A JSON:API resource model representing a project with an id, name, description, data and relations to tasks.
+// ---
+
 package io.crnk.internal.boot.cdi.model;
 
 import java.util.ArrayList;

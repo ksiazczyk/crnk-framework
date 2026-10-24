@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AsyncCrnkServlet for Crnk integration
+// summary: Async servlet that integrates Crnk with a servlet container, bootstrapping Crnk and streaming reactive HTTP responses with a configurable timeout.
+// ---
+
 package io.crnk.servlet;
 
 import io.crnk.core.boot.CrnkBoot;

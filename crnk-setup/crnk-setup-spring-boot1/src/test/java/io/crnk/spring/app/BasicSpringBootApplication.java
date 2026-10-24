@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Basic Spring Boot test application
+// summary: A Spring Boot application used as a test fixture that wires CRnK auto-configuration and module beans and exposes a sample API endpoint.
+// ---
+
 package io.crnk.spring.app;
 
 import io.crnk.spring.boot.autoconfigure.CrnkJpaAutoConfiguration;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkErrorControllerAutoConfiguration
+// summary: Spring Boot auto-configuration that registers the Crnk JSON API error controller before the default one.
+// ---
+
 package io.crnk.spring.setup.boot.mvc;
 
 import org.springframework.beans.factory.ObjectProvider;

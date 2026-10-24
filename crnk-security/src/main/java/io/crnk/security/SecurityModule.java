@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SecurityModule
+// summary: Crnk module that wires up security rules, data room filters and permission repositories to enforce access control.
+// ---
+
 package io.crnk.security;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SleuthModuleTest
+// summary: Abstract JUnit test class that verifies Sleuth span propagation and binary annotations across Crnk client and server calls.
+// ---
+
 package io.crnk.spring.cloud.sleuth;
 
 import io.crnk.client.CrnkClient;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Task model entity
+// summary: CRNK JSON:API model entity for a task with a name, a project relation and meta and links information.
+// ---
+
 package io.crnk.security.model;
 
 import java.util.List;

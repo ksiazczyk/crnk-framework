@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SecurityModule test
+// summary: Unit test verifying SecurityModule role and caller permission repositories within a booted CrnkBoot context.
+// ---
+
 package io.crnk.security;
 
 import io.crnk.core.boot.CrnkBoot;

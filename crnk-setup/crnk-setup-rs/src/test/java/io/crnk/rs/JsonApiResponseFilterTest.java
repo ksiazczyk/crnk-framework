@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JsonApiResponseFilterTest
+// summary: Runs the JSON API response filter test with null response wrapping disabled.
+// ---
+
 package io.crnk.rs;
 
 import javax.ws.rs.core.Application;

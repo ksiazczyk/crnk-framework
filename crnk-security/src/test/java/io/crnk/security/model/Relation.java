@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Relation helper class
+// summary: Generic comparable relation linking a source to a target id via a field name, used in security tests.
+// ---
+
 package io.crnk.security.model;
 
 import java.io.Serializable;

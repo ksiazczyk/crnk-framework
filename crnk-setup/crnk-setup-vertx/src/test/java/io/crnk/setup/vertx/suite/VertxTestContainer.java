@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: VertxTestContainer
+// summary: Vert.x test container that boots a CrnkVerticle and exposes repositories and test data for the CRNK test suite.
+// ---
+
 package io.crnk.setup.vertx.suite;
 
 import io.crnk.client.CrnkClient;

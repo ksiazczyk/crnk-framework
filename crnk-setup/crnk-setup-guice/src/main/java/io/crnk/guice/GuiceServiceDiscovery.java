@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Guice-based service discovery
+// summary: Implements CRNK's ServiceDiscovery interface to discover services by type and by annotation using a Guice injector.
+// ---
+
 package io.crnk.guice;
 
 import com.google.inject.Injector;

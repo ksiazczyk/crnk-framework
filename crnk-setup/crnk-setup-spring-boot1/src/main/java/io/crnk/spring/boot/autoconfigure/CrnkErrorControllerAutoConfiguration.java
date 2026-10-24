@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkHomeProperties configuration properties
+// summary: Holds the Spring Boot configuration properties bound to the crnk.home prefix, toggling whether the crnk-home module is enabled.
+// ---
+
 package io.crnk.spring.boot.autoconfigure;
 
 import io.crnk.spring.boot.CrnkSpringMvcProperties;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SampleOverlayingController
+// summary: Sample JAX-RS controller returning plain-text responses to test overlaying behavior.
+// ---
+
 package io.crnk.rs.controller;
 
 import javax.ws.rs.Consumes;

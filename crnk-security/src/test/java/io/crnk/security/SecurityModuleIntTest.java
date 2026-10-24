@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SecurityModule integration test
+// summary: Integration test exercising the security module against a Jersey server with authentication and authorization scenarios.
+// ---
+
 package io.crnk.security;
 
 import io.crnk.client.CrnkClient;

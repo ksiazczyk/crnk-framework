@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PersonEntity test fixture for crnk setup
+// summary: A JPA entity class used as a test fixture in the crnk Spring Boot setup, defining a person with id, name and birthYear fields.
+// ---
+
 package io.crnk.spring.app.model;
 
 import io.crnk.data.facet.annotation.Facet;

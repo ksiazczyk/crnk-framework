@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkSpringOpenTracingAutoConfiguration
+// summary: Spring Boot auto-configuration that creates an OpenTracingServerModule bean when open tracing monitoring is enabled.
+// ---
+
 package io.crnk.spring.setup.boot.monitor;
 
 import io.crnk.monitor.opentracing.OpenTracingServerModule;

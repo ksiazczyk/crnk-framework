@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Crnk Error Controller
+// summary: A controller extending Spring's BasicErrorController that formats error responses as JSON API documents.
+// ---
+
 package io.crnk.spring.mvc;
 
 import io.crnk.core.engine.document.Document;

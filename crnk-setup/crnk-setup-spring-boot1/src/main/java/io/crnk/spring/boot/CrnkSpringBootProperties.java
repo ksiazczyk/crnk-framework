@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkSpringBootProperties
+// summary: Central Spring Boot configuration properties for crnk covering domain name, path prefix and page limits.
+// ---
+
 package io.crnk.spring.boot;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

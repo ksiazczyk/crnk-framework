@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JaxrsModuleTest
+// summary: Verifies JaxrsModule registration, module name, and security provider wiring.
+// ---
+
 package io.crnk.rs;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

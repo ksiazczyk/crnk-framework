@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CrnkWebMvcTagsProviderTest
+// summary: JUnit test that verifies CrnkWebMvcTagsProvider produces correct metric tags for both CRNK resource and fallback request URLs.
+// ---
+
 package io.crnk.spring.metrics;
 
 import static org.junit.Assert.assertEquals;

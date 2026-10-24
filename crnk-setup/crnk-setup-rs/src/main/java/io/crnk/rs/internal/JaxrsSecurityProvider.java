@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JAX-RS security provider delegating to SecurityContext
+// summary: Delegates CRnK role and authentication checks to a JAX-RS SecurityContext.
+// ---
+
 package io.crnk.rs.internal;
 
 import io.crnk.core.engine.security.SecurityProvider;

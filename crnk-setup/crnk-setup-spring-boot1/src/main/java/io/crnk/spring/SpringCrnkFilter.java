@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SpringCrnkFilter
+// summary: A deprecated servlet filter that routes Crnk requests through the CrnkBoot dispatcher when the request path matches the configured web path prefix.
+// ---
+
 package io.crnk.spring;
 
 import io.crnk.core.boot.CrnkBoot;

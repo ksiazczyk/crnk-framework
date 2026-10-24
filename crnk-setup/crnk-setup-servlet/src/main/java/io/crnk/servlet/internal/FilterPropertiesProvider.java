@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FilterPropertiesProvider servlet filter config
+// summary: Provides crnk properties by delegating to the init parameters of a servlet FilterConfig.
+// ---
+
 package io.crnk.servlet.internal;
 
 import io.crnk.core.engine.properties.PropertiesProvider;

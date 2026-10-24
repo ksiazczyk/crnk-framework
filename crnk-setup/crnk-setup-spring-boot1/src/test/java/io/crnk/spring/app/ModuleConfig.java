@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Test module configuration
+// summary: A Spring configuration class that declares test beans and mocked module configurers for the test application context.
+// ---
+
 package io.crnk.spring.app;
 
 import io.crnk.spring.boot.JpaModuleConfigurer;

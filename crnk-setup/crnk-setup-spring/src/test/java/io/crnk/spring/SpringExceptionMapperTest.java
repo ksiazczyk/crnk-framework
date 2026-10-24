@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SpringExceptionMapperTest
+// summary: JUnit test that verifies the BeanExceptionMapper unwraps Spring's BeanCreationException and maps it to a 400 Bad Request response.
+// ---
+
 package io.crnk.spring;
 
 import io.crnk.core.boot.CrnkBoot;

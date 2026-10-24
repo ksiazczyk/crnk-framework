@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkHomeProperties
+// summary: Spring Boot configuration properties class binding the crnk.home prefix to an enabled flag.
+// ---
+
 package io.crnk.spring.boot;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

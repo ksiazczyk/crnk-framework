@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkFacetProperties
+// summary: Configuration properties bound to the crnk.facet prefix that control whether the crnk facet feature is enabled.
+// ---
+
 package io.crnk.spring.setup.boot.data.facet;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

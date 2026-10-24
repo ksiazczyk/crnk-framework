@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourcePermission test
+// summary: JUnit test covering ResourcePermission set operations, hashing, equality and string representation.
+// ---
+
 package io.crnk.security;
 
 import io.crnk.core.engine.document.ResourceIdentifier;

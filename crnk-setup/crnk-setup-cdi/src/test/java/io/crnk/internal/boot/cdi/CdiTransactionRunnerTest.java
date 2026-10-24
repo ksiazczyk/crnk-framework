@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CdiTransactionRunnerTest
+// summary: JUnit test covering CdiTransactionRunner transaction execution, exception unwrapping, and constructor availability.
+// ---
+
 package io.crnk.internal.boot.cdi;
 
 import io.crnk.cdi.internal.CdiTransactionRunner;

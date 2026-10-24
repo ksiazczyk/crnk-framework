@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CDI transaction runner
+// summary: Wraps transaction execution within a CDI/JEE container and unwraps transactional exceptions.
+// ---
+
 package io.crnk.cdi.internal;
 
 import io.crnk.core.engine.transaction.TransactionRunner;

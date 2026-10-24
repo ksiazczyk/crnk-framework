@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SpringMvcHomeModuleExtensionFactory
+// summary: A factory that builds a HomeModuleExtension by scanning Spring MVC request mappings and registering their URL patterns, applying a path prefix and skipping error or wildcard routes.
+// ---
+
 package io.crnk.spring.setup.boot.mvc.internal;
 
 import io.crnk.home.HomeModuleExtension;

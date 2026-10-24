@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkFacetAutoConfiguration
+// summary: Spring Boot auto-configuration that creates the crnk FacetModule bean and applies any FacetModuleConfigurer beans found in the context.
+// ---
+
 package io.crnk.spring.setup.boot.data.facet;
 
 import io.crnk.data.facet.FacetModule;

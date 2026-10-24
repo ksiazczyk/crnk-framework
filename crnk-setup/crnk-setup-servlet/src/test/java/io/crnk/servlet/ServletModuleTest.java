@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ServletModuleTest
+// summary: A JUnit test that checks the servlet module name and its installed security provider role checks.
+// ---
+
 package io.crnk.servlet;
 
 import javax.servlet.ServletContext;

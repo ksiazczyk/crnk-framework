@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkUiProperties
+// summary: Configuration properties binding the crnk.ui prefix to toggles for enabling the UI module and its browser.
+// ---
+
 package io.crnk.spring.setup.boot.ui;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

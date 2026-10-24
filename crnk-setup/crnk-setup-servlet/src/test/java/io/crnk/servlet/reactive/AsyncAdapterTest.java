@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AsyncAdapterTest
+// summary: JUnit test that verifies AsyncAdapter lifecycle callbacks accept null arguments without throwing.
+// ---
+
 package io.crnk.servlet.reactive;
 
 import io.crnk.servlet.internal.AsyncAdapter;

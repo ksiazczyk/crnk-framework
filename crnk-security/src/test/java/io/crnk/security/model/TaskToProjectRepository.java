@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TaskToProjectRepository
+// summary: CRNK relationship repository wiring the many-to-one relation between tasks and projects.
+// ---
+
 package io.crnk.security.model;
 
 import io.crnk.core.repository.RelationshipRepositoryBase;

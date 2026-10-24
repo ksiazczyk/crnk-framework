@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkOperationsAutoConfiguration for the Operations module
+// summary: Auto-configures the crnk Operations module, creating the OperationsModule bean when the module is on the classpath.
+// ---
+
 package io.crnk.spring.boot.autoconfigure;
 
 import io.crnk.operations.server.OperationsModule;

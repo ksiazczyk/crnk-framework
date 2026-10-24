@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SecurityConfig test
+// summary: JUnit test verifying SecurityConfig builder rules, roles and resource targeting across single and chained configurations.
+// ---
+
 package io.crnk.security;
 
 import java.util.List;

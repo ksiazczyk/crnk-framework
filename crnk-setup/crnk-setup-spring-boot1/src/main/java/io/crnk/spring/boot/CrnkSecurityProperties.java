@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkSecurityProperties
+// summary: Spring Boot configuration properties for crnk-security exposing an enabled flag.
+// ---
+
 package io.crnk.spring.boot;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

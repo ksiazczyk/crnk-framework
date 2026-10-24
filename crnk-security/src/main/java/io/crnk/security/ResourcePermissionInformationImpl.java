@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcePermissionInformationImpl
+// summary: Default implementation of ResourcePermissionInformation that stores a single resource permission.
+// ---
+
 package io.crnk.security;
 
 /**

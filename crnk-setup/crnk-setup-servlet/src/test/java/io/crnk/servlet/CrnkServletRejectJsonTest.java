@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CrnkServletRejectJsonTest
+// summary: JUnit test verifying that the CrnkServlet rejects plain JSON GET requests when the REJECT_PLAIN_JSON option is enabled.
+// ---
+
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with

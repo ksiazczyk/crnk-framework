@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SecurityConfig
+// summary: Holds the security rules and data room filter that determine how access control is performed, with a builder to configure them.
+// ---
+
 package io.crnk.security;
 
 import java.util.ArrayList;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkCoreProperties
+// summary: Spring Boot configuration properties bound to the crnk prefix, holding JSON API and paging settings.
+// ---
+
 package io.crnk.spring.setup.boot.core;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

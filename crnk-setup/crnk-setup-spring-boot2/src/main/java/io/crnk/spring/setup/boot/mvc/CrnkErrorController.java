@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkErrorController converts errors to JSON API
+// summary: A Spring BasicErrorController subclass that maps error attributes into a JSON API Document response.
+// ---
+
 package io.crnk.spring.setup.boot.mvc;
 
 import io.crnk.core.engine.document.Document;

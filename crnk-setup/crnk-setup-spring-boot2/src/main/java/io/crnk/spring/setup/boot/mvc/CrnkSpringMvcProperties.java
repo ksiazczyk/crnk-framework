@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkSpringMvcProperties
+// summary: Configuration properties binding the crnk.spring.mvc prefix to enabled and errorController flags.
+// ---
+
 package io.crnk.spring.setup.boot.mvc;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

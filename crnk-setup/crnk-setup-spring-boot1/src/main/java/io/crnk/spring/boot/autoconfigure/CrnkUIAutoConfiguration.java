@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkUIAutoConfiguration for the UI module
+// summary: Auto-configures the crnk UI module, creating a UIModule bean with a default UIModuleConfig.
+// ---
+
 package io.crnk.spring.boot.autoconfigure;
 
 import io.crnk.spring.boot.CrnkUiProperties;

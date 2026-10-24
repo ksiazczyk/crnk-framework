@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SecurityRule
+// summary: Specifies a security rule linking a resource, role and permission to be applied by the security module.
+// ---
+
 package io.crnk.security;
 
 /**

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DataRoomRelationshipFilter
+// summary: Wraps one and many relationship repositories to apply data room matching on relation operations.
+// ---
+
 package io.crnk.security.internal;
 
 import io.crnk.core.engine.http.HttpMethod;

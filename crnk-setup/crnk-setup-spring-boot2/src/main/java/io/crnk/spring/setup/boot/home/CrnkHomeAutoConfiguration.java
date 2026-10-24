@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Crnk Home auto-configuration
+// summary: Spring Boot auto-configuration that registers a Crnk HomeModule bean when the HomeModule class is on the classpath and no other instance exists.
+// ---
+
 package io.crnk.spring.setup.boot.home;
 
 import io.crnk.home.HomeModule;

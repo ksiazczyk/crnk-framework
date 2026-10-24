@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReactiveServletTestApplication
+// summary: Spring Boot application that configures the CRNK async servlet, reactive module, and test container for reactive servlet tests.
+// ---
+
 package io.crnk.servlet.resource;
 
 import io.crnk.client.CrnkClient;

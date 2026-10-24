@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PlainJsonFormatProperties
+// summary: Configuration properties bound to the crnk.format.plain prefix that expose an enabled flag for the plain-json format.
+// ---
+
 package io.crnk.spring.setup.boot.format;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

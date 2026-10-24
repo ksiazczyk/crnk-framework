@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkFilter servlet filter
+// summary: Servlet filter that routes Crnk requests matching the configured path prefix through the Crnk request dispatcher and forwards other requests down the chain.
+// ---
+
 package io.crnk.servlet;
 
 import io.crnk.core.boot.CrnkBoot;
