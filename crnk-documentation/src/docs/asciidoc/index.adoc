@@ -1,3 +1,9 @@
+// ---docerion
+// type: guide
+// title: module_development
+// summary: AsciiDoc chapter explaining how to develop Crnk modules.
+// ---
+
 :sectnums:
 
 # Crnk Documentation

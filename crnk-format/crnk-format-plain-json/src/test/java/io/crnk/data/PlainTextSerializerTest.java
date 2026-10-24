@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PlainTextSerializerTest
+// summary: Unit test that round-trips a PlainJsonDocument through Jackson to verify serialization of meta, links, errors and resources.
+// ---
+
 package io.crnk.data;
 
 import java.io.IOException;

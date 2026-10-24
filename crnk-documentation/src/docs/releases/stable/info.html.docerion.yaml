@@ -1,0 +1,4 @@
+# Docerion header of info.html.
+type: changelog
+title: Crnk stable release notes
+summary: Release notes listing new features and behavior changes in the crnk stable version, including JSON include options, HTTP method support, JPA sorting updates, and TypeScript generation improvements.

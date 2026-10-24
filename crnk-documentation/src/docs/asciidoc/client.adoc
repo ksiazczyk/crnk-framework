@@ -1,3 +1,9 @@
+// ---docerion
+// type: reference
+// title: dataaccess
+// summary: AsciiDoc chapter documenting the data access support provided by Crnk.
+// ---
+
 :basedir: ../../../..
 :clientdir: {basedir}/crnk-client
 

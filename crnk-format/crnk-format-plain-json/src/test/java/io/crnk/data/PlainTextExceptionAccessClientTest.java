@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PlainJsonDocumentSerializer
+// summary: Jackson serializer that converts a PlainJsonDocument into its JSON representation.
+// ---
+
 package io.crnk.data;
 
 import io.crnk.test.suite.ExceptionAccessTestBase;

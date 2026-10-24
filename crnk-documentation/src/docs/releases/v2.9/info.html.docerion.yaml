@@ -1,0 +1,4 @@
+# Docerion header of info.html.
+type: changelog
+title: v2.9 release notes
+summary: Release notes for crnk v2.9 summarizing incremental improvements, architecture cleanups, faceted search support, and a new UrlMapper default configuration.

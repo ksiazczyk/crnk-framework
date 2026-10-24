@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PlainJsonRequestProcessor
+// summary: HTTP request processor that detects plain JSON requests and converts request and response documents to and from PlainJsonDocument.
+// ---
+
 package io.crnk.format.plainjson.internal;
 
 import java.io.IOException;

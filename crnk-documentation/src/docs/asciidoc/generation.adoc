@@ -1,3 +1,11 @@
+// ---docerion
+// type: reference
+// title: index
+// summary: AsciiDoc index introducing Crnk and including the other documentation chapters.
+// relations:
+//   - references /crnk-gen/crnk-gen-java/src/test/resources/TypedQuerySpecTest.java
+// ---
+
 anchor:generation[]
 
 # Generation

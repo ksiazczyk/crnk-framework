@@ -1,0 +1,4 @@
+# Docerion header of info.html.
+type: note
+title: v2.10 release information
+summary: Documents v2.10 release features, including the PlainJsonFormatModule for flexible document formats and improved default settings.

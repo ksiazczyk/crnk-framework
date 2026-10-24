@@ -1,0 +1,4 @@
+# Docerion header of info.html.
+type: note
+title: v3.1 release information
+summary: Release documentation describing the new features and improvements in Crnk v3.1, including experimental OpenAPI support, bulk repositories, and the TestKit.

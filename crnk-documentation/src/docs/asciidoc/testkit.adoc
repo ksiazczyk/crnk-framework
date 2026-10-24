@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NestedResourceRepositoryOperation
+// summary: Repository-level operation for a nested relationship of a resource.
+// ---
+
 anchor:testkit[]
 
 # TestKit

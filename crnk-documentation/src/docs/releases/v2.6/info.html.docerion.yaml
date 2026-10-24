@@ -1,0 +1,4 @@
+# Docerion header of info.html.
+type: reference
+title: v2.6 release information
+summary: Release documentation page describing v2.6 features such as experimental reactive/async programming support, the AsyncCrnkServlet, Vert.x integration, and QuerySpec refinements.

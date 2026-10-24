@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PlainTextFormatIntTest
+// summary: A JUnit integration test that exercises the plain JSON format module through a Jersey test server, verifying GET, JSON API access, and CRUD operations on tasks and projects.
+// ---
+
 package io.crnk.data;
 
 import java.io.Serializable;

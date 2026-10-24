@@ -1,3 +1,9 @@
+// ---docerion
+// type: guide
+// title: examples
+// summary: AsciiDoc chapter listing the example applications that demonstrate Crnk integration into various frameworks.
+// ---
+
 anchor:dataaccess[]
 
 

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PlainJsonDocumentDeserializer
+// summary: Jackson deserializer that converts a plain JSON request body into a PlainJsonDocument, parsing resources, relationships and errors.
+// ---
+
 package io.crnk.format.plainjson.internal;
 
 import java.io.IOException;

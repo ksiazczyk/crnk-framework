@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PlainJsonDocumentDeserializer
+// summary: Jackson deserializer that parses a JSON document tree into a PlainJsonDocument, resolving resources, relationships and errors.
+// ---
+
 package io.crnk.data;
 
 import io.crnk.client.CrnkClient;

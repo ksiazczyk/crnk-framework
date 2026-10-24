@@ -1,0 +1,4 @@
+# Docerion header of info.html.
+type: changelog
+title: Crnk v2.11 release notes
+summary: Release notes page describing new features in Crnk v2.11, including nested JSON filters, a simplified JPA repository setup, and relationship enhancements.

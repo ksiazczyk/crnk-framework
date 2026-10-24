@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PlainJsonFormatModule
+// summary: A CRNK module that registers a simplified JSON format serializer and deserializer along with a request processor.
+// ---
+
 package io.crnk.format.plainjson;
 
 import com.fasterxml.jackson.core.Version;

@@ -1,0 +1,4 @@
+# Docerion header of info.html.
+type: reference
+title: v3.2 release information
+summary: Release documentation page describing the incremental improvements in v3.2, including experimental versioning support and object-based links.

@@ -1,0 +1,4 @@
+# Docerion header of info.html.
+type: changelog
+title: Release v2.8
+summary: Release notes for Crnk v2.8 describing new features such as inheritance support, a microservice example, comma-separated filter parameters, and nested resources.

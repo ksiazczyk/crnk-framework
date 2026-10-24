@@ -1,3 +1,9 @@
+// ---docerion
+// type: reference
+// title: faq
+// summary: AsciiDoc FAQ answering common questions about Cors, Swagger support and Java 8 date serialization.
+// ---
+
 :basedir: ../../../..
 
 anchor:examples[]

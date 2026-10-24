@@ -1,3 +1,11 @@
+// ---docerion
+// type: source
+// title: CdiRunner
+// summary: Boots a Weld CDI container and CrnkBoot to run code generation against the MetaModule lookup.
+// relations:
+//   - references /crnk-documentation/src/docs/asciidoc/images/tracing.png
+// ---
+
 anchor:monitoring[]
 
 # Monitoring
