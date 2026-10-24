@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SpringServiceDiscovery
+// summary: Discovers CRNK services from the Spring application context by bean type or annotation.
+// ---
+
 package io.crnk.spring.internal;
 
 import io.crnk.core.module.discovery.ServiceDiscovery;

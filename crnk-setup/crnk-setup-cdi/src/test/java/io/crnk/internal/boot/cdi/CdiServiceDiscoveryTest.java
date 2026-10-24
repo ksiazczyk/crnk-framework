@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CdiServiceDiscoveryTest
+// summary: JUnit test that verifies CdiServiceDiscovery bean management, factory instance creation, and exception mapper registration.
+// ---
+
 package io.crnk.internal.boot.cdi;
 
 import io.crnk.cdi.internal.CdiServiceDiscovery;

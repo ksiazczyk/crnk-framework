@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkJpaProperties configuration properties
+// summary: Binds crnk.jpa configuration properties including the JPA query factory type, enable flag and whether all entities are exposed.
+// ---
+
 package io.crnk.spring.boot.autoconfigure;
 
 import io.crnk.home.HomeModule;

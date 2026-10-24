@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkSpringMvcAutoConfiguration for the Spring MVC module
+// summary: Auto-configures the crnk Spring MVC module, creating a SpringMvcModule bean for web applications.
+// ---
+
 package io.crnk.spring.boot.autoconfigure;
 
 import io.crnk.spring.boot.CrnkSpringMvcProperties;

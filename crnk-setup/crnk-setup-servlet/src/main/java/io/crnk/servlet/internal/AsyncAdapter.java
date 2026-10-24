@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AsyncAdapter servlet async listener
+// summary: Empty implementation of the servlet AsyncListener interface with no-op callback methods for async request lifecycle events.
+// ---
+
 package io.crnk.servlet.internal;
 
 import javax.servlet.AsyncEvent;

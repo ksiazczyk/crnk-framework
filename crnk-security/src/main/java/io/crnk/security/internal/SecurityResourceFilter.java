@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SecurityResourceFilter
+// summary: Filters resource access by checking required permissions and authentication status for an HTTP method.
+// ---
+
 package io.crnk.security.internal;
 
 import io.crnk.core.engine.filter.FilterBehavior;

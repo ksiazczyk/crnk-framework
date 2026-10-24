@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkMetaAutoConfiguration
+// summary: Spring Boot auto-configuration that registers the Crnk MetaModule bean when MetaModule is on the classpath and no other MetaModule exists.
+// ---
+
 package io.crnk.spring.setup.boot.meta;
 
 import io.crnk.meta.MetaModule;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkSpringMvcAutoConfiguration
+// summary: Auto-configuration that activates the Crnk Spring MVC module when SpringMvcModule is on the classpath.
+// ---
+
 package io.crnk.spring.setup.boot.mvc;
 
 import io.crnk.spring.setup.boot.core.CrnkCoreAutoConfiguration;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiMediaType constants
+// summary: Holds constants for the JSON API media type, exposed both as a string and as a JAX-RS MediaType.
+// ---
+
 package io.crnk.rs;
 
 import io.crnk.core.boot.CrnkBoot;

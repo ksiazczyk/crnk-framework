@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RestTemplateClientTest
+// summary: JUnit test that exercises the CrnkClient over a Spring Boot web server, verifying HTTP adapter listeners and repository interactions.
+// ---
+
 package io.crnk.spring.client;
 
 import io.crnk.client.CrnkClient;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ExceptionReactiveTest
+// summary: Spring Boot test that verifies exception access behavior for the reactive servlet by extending ExceptionAccessTestBase.
+// ---
+
 package io.crnk.servlet.reactive.suite;
 
 import io.crnk.servlet.resource.ReactiveServletTestApplication;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration for the crnk CDI setup module, declaring Java dependencies and configuring source sets and jar packaging.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

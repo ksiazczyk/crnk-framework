@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CdiTestExceptionMapper
+// summary: A CDI application-scoped exception mapper that converts IllegalStateException into JSON:API error responses during tests.
+// ---
+
 package io.crnk.internal.boot.cdi.model;
 
 import io.crnk.core.engine.error.ErrorResponse;

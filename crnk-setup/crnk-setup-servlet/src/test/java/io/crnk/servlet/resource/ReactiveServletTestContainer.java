@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReactiveServletTestContainer
+// summary: Test container implementation that wires the reactive test module, client, and boot for reactive servlet tests.
+// ---
+
 package io.crnk.servlet.resource;
 
 import io.crnk.client.CrnkClient;

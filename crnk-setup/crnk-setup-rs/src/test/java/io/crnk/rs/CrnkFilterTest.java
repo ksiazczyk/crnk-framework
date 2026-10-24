@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JaxrsSecurityProvider adapter
+// summary: Adapts a JAX-RS SecurityContext to the CRNK SecurityProvider interface for authentication and role checks.
+// ---
+
 package io.crnk.rs;
 
 import org.junit.Assert;

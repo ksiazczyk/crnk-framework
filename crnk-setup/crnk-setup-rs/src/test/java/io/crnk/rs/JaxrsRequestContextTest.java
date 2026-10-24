@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JaxrsRequestContextTest
+// summary: Checks JaxrsRequestContext behavior for response headers, request body reuse, and base URL computation.
+// ---
+
 package io.crnk.rs;
 
 import java.io.ByteArrayInputStream;

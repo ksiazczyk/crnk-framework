@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SpringEnforceIdNameEnabledTest
+// summary: JUnit test that verifies with crnk.enforceIdName enabled the id field JSON name is forced to 'id' for the renamed id resource.
+// ---
+
 package io.crnk.spring.setup.core;
 
 import io.crnk.core.engine.information.resource.ResourceField;

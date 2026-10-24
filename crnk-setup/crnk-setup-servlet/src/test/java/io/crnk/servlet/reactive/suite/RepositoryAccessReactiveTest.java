@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RepositoryAccessReactiveTest
+// summary: Spring Boot test that verifies basic repository access behavior for the reactive servlet by extending BasicRepositoryAccessTestBase.
+// ---
+
 package io.crnk.servlet.reactive.suite;
 
 import io.crnk.servlet.resource.ReactiveServletTestApplication;

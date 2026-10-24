@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RoleRepository
+// summary: Repository that lists the distinct roles defined in the security module configuration rules.
+// ---
+
 package io.crnk.security.repository;
 
 import java.util.Set;

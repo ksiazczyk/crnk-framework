@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkMetaProperties
+// summary: Configuration properties bound to the crnk.meta prefix, controlling whether the Meta module is enabled and whether resources are listed.
+// ---
+
 package io.crnk.spring.setup.boot.meta;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

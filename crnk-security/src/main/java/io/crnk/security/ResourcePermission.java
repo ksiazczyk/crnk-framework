@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcePermission
+// summary: Represents the HTTP method permissions granted for a resource and offers operations to merge and compare permissions.
+// ---
+
 package io.crnk.security;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;

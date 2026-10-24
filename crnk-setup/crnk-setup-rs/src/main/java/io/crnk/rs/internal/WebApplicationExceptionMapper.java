@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Mapper for JAX-RS WebApplicationException to JSON API errors
+// summary: Maps JAX-RS WebApplicationException subclasses to JSON API error responses.
+// ---
+
 package io.crnk.rs.internal;
 
 import io.crnk.core.engine.error.ErrorResponse;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: InheritanceVertxTest
+// summary: Vertx test class for inheritance access that is ignored because the task subtype repository is not properly set up.
+// ---
+
 package io.crnk.setup.vertx.suite;
 
 import io.crnk.test.suite.InheritanceAccessTestBase;

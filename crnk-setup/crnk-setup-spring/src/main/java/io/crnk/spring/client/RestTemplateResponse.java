@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RestTemplateResponse
+// summary: Wraps a Spring ResponseEntity as a CRNK HttpAdapterResponse exposing status, body and headers.
+// ---
+
 package io.crnk.spring.client;
 
 import io.crnk.client.http.HttpAdapterResponse;

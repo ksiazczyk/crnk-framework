@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: crnk-security build.gradle
+// summary: Gradle build configuration for the crnk-security module that applies the Java plugin and declares project dependencies.
+// ---
+
 package io.crnk.security;
 
 import io.crnk.core.boot.CrnkBoot;

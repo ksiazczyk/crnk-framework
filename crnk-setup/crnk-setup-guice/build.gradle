@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Configures the Gradle build for the crnk-setup-guice module, applying the Java plugin and declaring compile and test dependencies.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

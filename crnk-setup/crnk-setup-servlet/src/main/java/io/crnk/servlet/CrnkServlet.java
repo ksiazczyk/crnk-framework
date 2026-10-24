@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkServlet abstract base servlet
+// summary: Abstract base servlet that integrates Crnk-core, bootstrapping the boot instance and distinguishing JSON API requests from other requests.
+// ---
+
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with

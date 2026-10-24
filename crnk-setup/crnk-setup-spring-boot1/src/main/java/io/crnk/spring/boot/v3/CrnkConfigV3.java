@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkConfigV3
+// summary: A Spring Boot configuration class that wires up crnk with JSON API compliance, QuerySpec and module support.
+// ---
+
 package io.crnk.spring.boot.v3;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

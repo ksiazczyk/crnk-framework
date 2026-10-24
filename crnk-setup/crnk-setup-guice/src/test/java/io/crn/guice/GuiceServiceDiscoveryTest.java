@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: GuiceServiceDiscoveryTest
+// summary: A JUnit test verifying that GuiceServiceDiscovery discovers repositories and exception mappers registered in a Guice injector.
+// ---
+
 package io.crn.guice;
 
 import com.google.inject.AbstractModule;

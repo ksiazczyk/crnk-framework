@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CRnK V3 configuration test
+// summary: A JUnit test that verifies CRnK V3 configuration properties, URL mapping, and boot behavior using mocked Spring context.
+// ---
+
 package io.crnk.spring.app;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

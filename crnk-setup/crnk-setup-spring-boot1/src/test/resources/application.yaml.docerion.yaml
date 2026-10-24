@@ -1,0 +1,4 @@
+# Docerion header of application.yaml.
+type: config
+title: CRNK test application configuration
+summary: Test configuration for the CRNK framework in a Spring Boot application, enabling JPA, UI, meta, validation and home features while disabling security.

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkSpringSecurityAutoConfiguration
+// summary: Spring Boot auto-configuration that creates a SpringSecurityModule when Spring Security classes are on the classpath and none is configured.
+// ---
+
 package io.crnk.spring.setup.boot.security;
 
 import io.crnk.spring.security.SpringSecurityModule;

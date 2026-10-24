@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkRequestInterceptor
+// summary: Interface for intercepting CRnK requests in a Vert.x handler to transform the request context before dispatch.
+// ---
+
 package io.crnk.setup.vertx;
 
 import io.crnk.core.engine.http.HttpRequestContext;

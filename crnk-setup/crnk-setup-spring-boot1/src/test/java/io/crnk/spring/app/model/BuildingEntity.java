@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BuildingEntity JPA model
+// summary: A JPA entity class defining a Building model with an id and name field for use in the Crnk Spring Boot test application.
+// ---
+
 package io.crnk.spring.app.model;
 
 import javax.persistence.Entity;

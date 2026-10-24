@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SpringSecurityExceptionMapperTest
+// summary: JUnit test that verifies the AccessDeniedExceptionMapper produces a 403 error response and round-trips exceptions correctly.
+// ---
+
 package io.crnk.spring.security;
 
 import io.crnk.core.engine.document.ErrorData;

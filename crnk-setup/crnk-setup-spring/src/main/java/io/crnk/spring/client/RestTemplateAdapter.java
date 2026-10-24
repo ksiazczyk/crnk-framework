@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RestTemplateAdapter
+// summary: Implements the CRNK HttpAdapter interface by delegating HTTP operations to Spring's RestTemplate, managing listeners and network timeouts.
+// ---
+
 package io.crnk.spring.client;
 
 import io.crnk.client.http.HttpAdapter;

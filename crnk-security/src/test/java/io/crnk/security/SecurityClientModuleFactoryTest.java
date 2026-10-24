@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SecurityClientModuleFactory test
+// summary: JUnit test verifying that the SecurityModule is discovered and created through the ServiceLoader-based ClientModuleFactory.
+// ---
+
 package io.crnk.security;
 
 import io.crnk.client.module.ClientModuleFactory;

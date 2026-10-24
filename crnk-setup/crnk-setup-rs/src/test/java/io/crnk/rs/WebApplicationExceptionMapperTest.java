@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: WebApplicationExceptionMapperTest
+// summary: Tests the WebApplicationExceptionMapper by converting a WebApplicationException into an error response and back, asserting status, code and message.
+// ---
+
 package io.crnk.rs;
 
 import io.crnk.core.engine.document.ErrorData;

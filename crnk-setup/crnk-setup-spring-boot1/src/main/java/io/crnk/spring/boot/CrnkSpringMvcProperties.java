@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkSpringMvcProperties
+// summary: Spring Boot configuration properties for crnk-spring-mvc controlling enabled and JSON error controller options.
+// ---
+
 package io.crnk.spring.boot;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

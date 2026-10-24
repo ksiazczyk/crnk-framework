@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BeanExceptionMapper unwraps Spring bean creation exceptions
+// summary: Maps Spring BeanCreationException to an error response by unwrapping nested causes and delegating to the matching exception mapper in the registry.
+// ---
+
 package io.crnk.spring.exception;
 
 import java.util.Optional;

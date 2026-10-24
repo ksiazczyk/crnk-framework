@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourcePermissionInformation
+// summary: Interface that lets MetaInformation classes expose the resource permission filled in by the security module.
+// ---
+
 package io.crnk.security;
 
 import io.crnk.core.resource.meta.MetaInformation;

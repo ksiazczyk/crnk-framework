@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: BasicSpringBoot2Test
+// summary: Integration test that boots a Spring Boot 2 application with CRNK and verifies configuration properties, query spec mapping, and REST endpoints.
+// ---
+
 package io.crnk.spring.boot;
 
 import static net.javacrumbs.jsonunit.fluent.JsonFluentAssert.assertThatJson;

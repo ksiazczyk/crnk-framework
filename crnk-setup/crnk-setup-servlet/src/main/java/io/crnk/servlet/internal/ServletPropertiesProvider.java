@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ServletPropertiesProvider servlet config
+// summary: Provides crnk properties by delegating to the init parameters of a servlet ServletConfig.
+// ---
+
 package io.crnk.servlet.internal;
 
 import io.crnk.core.engine.properties.PropertiesProvider;

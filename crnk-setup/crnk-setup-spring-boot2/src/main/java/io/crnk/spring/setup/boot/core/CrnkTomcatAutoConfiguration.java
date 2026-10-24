@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkTomcatAutoConfiguration
+// summary: Spring Boot auto-configuration that relaxes the Tomcat connector to accept bracket characters in query parameters.
+// ---
+
 package io.crnk.spring.setup.boot.core;
 
 import io.crnk.core.engine.internal.utils.PropertyUtils;

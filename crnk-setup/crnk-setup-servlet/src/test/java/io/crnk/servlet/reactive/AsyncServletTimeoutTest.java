@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AsyncServletTimeoutTest
+// summary: Spring Boot test verifying that slow resource requests either complete or time out based on the servlet timeout setting.
+// ---
+
 package io.crnk.servlet.reactive;
 
 

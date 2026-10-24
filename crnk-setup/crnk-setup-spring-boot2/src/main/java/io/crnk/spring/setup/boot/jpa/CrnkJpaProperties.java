@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkJpaProperties
+// summary: Configuration properties bound to the crnk.jpa prefix controlling the query factory, enabled flag, and exposing all entities.
+// ---
+
 package io.crnk.spring.setup.boot.jpa;
 
 import io.crnk.data.jpa.query.criteria.JpaCriteriaQueryFactory;

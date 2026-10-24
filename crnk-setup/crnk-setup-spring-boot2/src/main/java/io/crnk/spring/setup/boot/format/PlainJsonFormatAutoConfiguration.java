@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PlainJsonFormatAutoConfiguration
+// summary: Spring Boot auto-configuration that registers a PlainJsonFormatModule bean when the plain-json format module is on the classpath and none is already configured.
+// ---
+
 package io.crnk.spring.setup.boot.format;
 
 import io.crnk.format.plainjson.PlainJsonFormatModule;

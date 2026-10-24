@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: InMemoryIdentityManager
+// summary: A simple in-memory IdentityManager implementation for testing that maps users to passwords and configures a Jetty security handler.
+// ---
+
 package io.crnk.security;
 
 import org.eclipse.jetty.security.ConstraintMapping;

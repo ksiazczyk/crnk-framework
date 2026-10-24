@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ControllerWithPrefixTest
+// summary: Tests controller behavior when a web path prefix is configured, including requests made without the prefix.
+// ---
+
 package io.crnk.rs.controller;
 
 import io.crnk.core.boot.CrnkProperties;

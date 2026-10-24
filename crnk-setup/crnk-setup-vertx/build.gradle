@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration that declares the Java dependencies and plugins for the crnk-setup-vertx module.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

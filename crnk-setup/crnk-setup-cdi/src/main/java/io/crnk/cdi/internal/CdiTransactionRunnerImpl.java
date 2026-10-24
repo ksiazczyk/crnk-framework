@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CDI transaction runner implementation
+// summary: Performs the actual transactional execution of a callable using container-managed transactions.
+// ---
+
 package io.crnk.cdi.internal;
 
 import javax.enterprise.context.ApplicationScoped;

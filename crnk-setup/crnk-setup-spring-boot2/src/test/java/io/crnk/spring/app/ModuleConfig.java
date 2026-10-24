@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Test module configuration
+// summary: Spring configuration providing test beans including a test module and mocked module configurers for the Crnk boot setup.
+// ---
+
 package io.crnk.spring.app;
 
 import io.crnk.spring.setup.boot.core.CrnkBootConfigurer;

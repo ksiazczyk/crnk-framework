@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Role
+// summary: Minimal JsonApiResource model representing a role identified by its id.
+// ---
+
 package io.crnk.security.repository;
 
 import io.crnk.core.resource.annotations.JsonApiId;

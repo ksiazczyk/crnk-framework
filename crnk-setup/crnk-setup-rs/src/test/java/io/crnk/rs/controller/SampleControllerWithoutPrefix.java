@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SampleControllerWithoutPrefix
+// summary: Sample JAX-RS controller without a path prefix used as a fixture in controller tests.
+// ---
+
 package io.crnk.rs.controller;
 
 import io.crnk.rs.type.JsonApiMediaType;

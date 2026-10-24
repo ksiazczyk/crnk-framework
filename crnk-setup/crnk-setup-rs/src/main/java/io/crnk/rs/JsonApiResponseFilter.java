@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiResponseFilter
+// summary: JAX-RS response filter that turns Crnk resources returned by custom actions into JSON API documents.
+// ---
+
 package io.crnk.rs;
 
 import java.io.InputStream;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CDI-based service discovery implementation
+// summary: Implements CDI-based service discovery by using a BeanManager to resolve beans by type or annotation.
+// ---
+
 package io.crnk.cdi.internal;
 
 import io.crnk.core.engine.error.ExceptionMapper;

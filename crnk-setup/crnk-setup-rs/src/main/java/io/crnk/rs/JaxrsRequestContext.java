@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JaxrsRequestContext
+// summary: Adapts a JAX-RS container request context into a Crnk HTTP request context for URL, header and body access.
+// ---
+
 package io.crnk.rs;
 
 import java.io.ByteArrayInputStream;

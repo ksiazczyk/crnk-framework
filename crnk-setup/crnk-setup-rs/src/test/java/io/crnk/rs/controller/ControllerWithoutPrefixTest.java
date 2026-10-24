@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ControllerWithoutPrefixTest
+// summary: Tests controller behavior without a web path prefix, including ignoring non-JSON-API calls.
+// ---
+
 package io.crnk.rs.controller;
 
 import io.crnk.core.boot.CrnkProperties;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Basic Spring Boot 2 test application
+// summary: Minimal Spring Boot application used as a test fixture that imports Crnk core and JPA auto-configurations and exposes a custom API endpoint.
+// ---
+
 package io.crnk.spring.app;
 
 import io.crnk.spring.setup.boot.core.CrnkCoreAutoConfiguration;

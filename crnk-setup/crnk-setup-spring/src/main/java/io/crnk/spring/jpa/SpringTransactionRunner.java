@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SpringTransactionRunner
+// summary: Implements a Spring-based TransactionRunner that executes a callable within a required transaction and handles rollback-only exceptions that TransactionTemplate does not manage correctly.
+// ---
+
 package io.crnk.spring.jpa;
 
 import io.crnk.core.engine.transaction.TransactionRunner;

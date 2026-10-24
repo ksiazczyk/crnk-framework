@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonapiExceptionMapperBridge
+// summary: Maps JAX-RS exceptions to JSON API error responses using the Crnk exception mapper registry.
+// ---
+
 package io.crnk.rs;
 
 import java.util.ArrayList;

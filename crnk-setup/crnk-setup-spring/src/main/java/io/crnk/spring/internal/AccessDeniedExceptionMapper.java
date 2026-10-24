@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AccessDeniedExceptionMapper
+// summary: Maps Spring's AccessDeniedException to a 403 forbidden error response within the CRNK error handling framework.
+// ---
+
 package io.crnk.spring.internal;
 
 import io.crnk.core.engine.error.ErrorResponse;

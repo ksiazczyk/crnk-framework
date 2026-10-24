@@ -1,0 +1,4 @@
+# Docerion header of application.properties.
+type: config
+title: application.properties
+summary: Test configuration file providing crnk framework settings such as resource packages, domain name, and JPA and security toggles for the Spring test suite.

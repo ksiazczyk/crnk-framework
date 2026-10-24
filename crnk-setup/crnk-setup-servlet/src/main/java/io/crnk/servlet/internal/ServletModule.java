@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ServletModule crnk module registration
+// summary: Registers the ServletSecurityProvider during crnk module setup and reports the servlet module name.
+// ---
+
 package io.crnk.servlet.internal;
 
 import io.crnk.core.engine.http.HttpRequestContextProvider;

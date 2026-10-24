@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DataRoomBulkResourceFilter
+// summary: Wraps a bulk resource repository to enforce data room access checks on save, create and delete operations.
+// ---
+
 package io.crnk.security.internal;
 
 import io.crnk.core.engine.http.HttpMethod;

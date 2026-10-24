@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkValidationAutoConfiguration for the Validation module
+// summary: Auto-configures the crnk Validation module, defining a validator factory bean and the ValidationModule bean.
+// ---
+
 package io.crnk.spring.boot.autoconfigure;
 
 import io.crnk.spring.boot.CrnkValidationProperties;

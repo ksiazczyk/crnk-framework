@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NestedRelatedResource
+// summary: A JSON API model class annotated with @JsonApiResource that represents a nested related resource holding a string id.
+// ---
+
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with

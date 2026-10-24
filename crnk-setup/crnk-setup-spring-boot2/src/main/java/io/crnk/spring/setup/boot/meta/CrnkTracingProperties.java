@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkTracingProperties
+// summary: Configuration properties bound to the crnk.monitor.tracing prefix, controlling tracing enablement and simple transaction names.
+// ---
+
 package io.crnk.spring.setup.boot.meta;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkJpaAutoConfiguration
+// summary: Spring Boot auto-configuration class that activates Crnk's JPA module when JPA classes are present on the classpath and configures the entity manager, transaction runner and query factory.
+// ---
+
 package io.crnk.spring.boot.autoconfigure;
 
 import io.crnk.data.jpa.JpaModule;

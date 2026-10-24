@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkVertxHandler
+// summary: Vert.x HTTP handler that boots CRnK, runs configured request interceptors, and dispatches incoming requests.
+// ---
+
 package io.crnk.setup.vertx;
 
 import io.crnk.core.boot.CrnkBoot;

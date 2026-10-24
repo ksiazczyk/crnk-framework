@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SpringEnforceIdNameDisabledTest
+// summary: JUnit test that verifies with crnk.enforceIdName disabled the renamed id resource keeps its custom JSON name 'notId' rather than being forced to 'id'.
+// ---
+
 package io.crnk.spring.setup.core;
 
 import io.crnk.core.engine.information.resource.ResourceField;

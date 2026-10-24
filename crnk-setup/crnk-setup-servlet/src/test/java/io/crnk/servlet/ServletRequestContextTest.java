@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ServletRequestContextTest
+// summary: A JUnit test that covers ServletRequestContext getters, response headers, and URL construction.
+// ---
+
 package io.crnk.servlet;
 
 import java.io.IOException;

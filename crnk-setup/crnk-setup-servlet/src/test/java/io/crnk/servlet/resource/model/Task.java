@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Task resource model
+// summary: JSON:API resource model for a task linked to a project.
+// ---
+
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkSpringCloudSleuthProperties
+// summary: Spring Boot configuration properties for crnk-spring-cloud-sleuth exposing an enabled flag.
+// ---
+
 package io.crnk.spring.boot;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

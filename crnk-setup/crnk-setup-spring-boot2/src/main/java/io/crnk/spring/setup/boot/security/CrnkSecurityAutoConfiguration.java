@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkSecurityAutoConfiguration
+// summary: Spring Boot auto-configuration that creates a Crnk SecurityModule when an OperationsModule is present and no other SecurityModule is configured.
+// ---
+
 package io.crnk.spring.setup.boot.security;
 
 import java.util.List;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration declaring compile and test dependencies for the Crnk JAX-RS module.
+// ---
+
 package io.crnk.rs;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

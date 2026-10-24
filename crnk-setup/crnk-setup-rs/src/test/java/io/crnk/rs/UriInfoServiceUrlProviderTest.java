@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: UriInfoServiceUrlProviderTest
+// summary: Verifies that generated self and related links use the correct service URL from the request UriInfo.
+// ---
+
 package io.crnk.rs;
 
 import static io.crnk.rs.type.JsonApiMediaType.APPLICATION_JSON_API_TYPE;

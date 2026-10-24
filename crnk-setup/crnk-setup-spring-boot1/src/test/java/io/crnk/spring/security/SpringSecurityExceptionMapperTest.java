@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SpringSecurityExceptionMapperTest
+// summary: Tests the AccessDeniedExceptionMapper by verifying it converts an AccessDeniedException into a 403 error response and back.
+// ---
+
 package io.crnk.spring.security;
 
 import io.crnk.core.engine.document.ErrorData;

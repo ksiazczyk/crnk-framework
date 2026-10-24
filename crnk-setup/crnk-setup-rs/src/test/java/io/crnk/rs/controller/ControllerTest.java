@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Abstract ControllerTest base class
+// summary: Abstract JUnit test base class that sets up a task repository and verifies controller collection and resource responses.
+// ---
+
 package io.crnk.rs.controller;
 
 import io.crnk.core.engine.internal.dispatcher.path.PathBuilder;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkSpringActuatorMetricsAutoConfiguration
+// summary: Spring Boot auto-configuration that registers a CrnkWebMvcTagsProvider bean when actuator metrics monitoring is enabled.
+// ---
+
 package io.crnk.spring.setup.boot.monitor;
 
 import io.crnk.core.boot.CrnkBoot;

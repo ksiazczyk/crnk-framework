@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: WithoutCdiContextText
+// summary: JUnit test asserting that CdiServiceDiscovery returns no repositories when no CDI context is present.
+// ---
+
 package io.crnk.internal.boot.cdi;
 
 import io.crnk.cdi.internal.CdiServiceDiscovery;

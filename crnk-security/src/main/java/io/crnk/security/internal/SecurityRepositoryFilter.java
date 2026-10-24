@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SecurityRepositoryFilter
+// summary: Filters repository meta information to attach resource permission data from the security module.
+// ---
+
 package io.crnk.security.internal;
 
 import io.crnk.core.engine.filter.RepositoryFilterBase;

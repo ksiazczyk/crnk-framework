@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: InformationReactiveTest
+// summary: Spring Boot test that verifies information access behavior for the reactive servlet by extending InformationAccessTestBase.
+// ---
+
 package io.crnk.servlet.reactive.suite;
 
 import io.crnk.servlet.resource.ReactiveServletTestApplication;

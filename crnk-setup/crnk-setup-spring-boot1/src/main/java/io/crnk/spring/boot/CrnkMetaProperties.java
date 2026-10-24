@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkMetaProperties
+// summary: Spring Boot configuration properties for crnk-meta controlling the enabled and list resources options.
+// ---
+
 package io.crnk.spring.boot;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

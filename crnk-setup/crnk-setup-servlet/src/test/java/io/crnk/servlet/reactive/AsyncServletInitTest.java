@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AsyncServletInitTest
+// summary: JUnit test asserting that AsyncCrnkServlet throws when initialized without an async ResultFactory.
+// ---
+
 package io.crnk.servlet.reactive;
 
 import io.crnk.servlet.AsyncCrnkServlet;

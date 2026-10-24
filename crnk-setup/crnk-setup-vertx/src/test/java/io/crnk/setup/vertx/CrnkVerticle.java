@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CrnkVerticle
+// summary: A Vert.x verticle that starts an HTTP server and boots Crnk with test modules for integration testing.
+// ---
+
 package io.crnk.setup.vertx;
 
 import io.crnk.core.boot.CrnkBoot;

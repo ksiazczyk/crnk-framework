@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RestTemplateRequest
+// summary: Builds and executes HTTP requests through Spring's RestTemplate, invoking listeners and returning a RestTemplateResponse.
+// ---
+
 package io.crnk.spring.client;
 
 import io.crnk.client.http.HttpAdapterListener;

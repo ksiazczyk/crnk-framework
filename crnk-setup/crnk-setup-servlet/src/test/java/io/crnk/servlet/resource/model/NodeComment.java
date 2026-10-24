@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: NodeComment resource model
+// summary: JSON:API resource model for node comments with parent and locale relations.
+// ---
+
 package io.crnk.servlet.resource.model;
 
 import io.crnk.core.resource.annotations.JsonApiRelation;

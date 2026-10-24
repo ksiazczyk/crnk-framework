@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CallerPermission
+// summary: JsonApiResource model representing a caller's permission for a resource type, including a data room filter.
+// ---
+
 package io.crnk.security.repository;
 
 import io.crnk.core.queryspec.FilterSpec;

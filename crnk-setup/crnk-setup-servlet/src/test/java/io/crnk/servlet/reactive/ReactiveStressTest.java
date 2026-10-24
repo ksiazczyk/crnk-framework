@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReactiveStressTest
+// summary: Ignored Spring Boot stress test exercising concurrent resource and relationship access under a thread pool.
+// ---
+
 package io.crnk.servlet.reactive;
 
 

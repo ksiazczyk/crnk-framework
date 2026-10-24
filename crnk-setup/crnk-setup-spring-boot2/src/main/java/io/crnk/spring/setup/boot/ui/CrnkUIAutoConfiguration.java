@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkUIAutoConfiguration
+// summary: Spring Boot auto-configuration that registers a Crnk UIModule when one is on the classpath and none is already configured.
+// ---
+
 package io.crnk.spring.setup.boot.ui;
 
 import io.crnk.spring.setup.boot.core.CrnkCoreAutoConfiguration;

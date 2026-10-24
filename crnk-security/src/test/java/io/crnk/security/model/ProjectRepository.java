@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectRepository
+// summary: CRNK repository backing projects with an in-memory map, query spec support and permission metadata.
+// ---
+
 package io.crnk.security.model;
 
 import io.crnk.core.queryspec.QuerySpec;

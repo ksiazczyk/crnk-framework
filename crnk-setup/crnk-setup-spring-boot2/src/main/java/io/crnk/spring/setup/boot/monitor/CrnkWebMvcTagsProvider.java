@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkWebMvcTagsProvider
+// summary: WebMvcTagsProvider that overrides uri tag recognition to produce proper uri values for crnk resources.
+// ---
+
 package io.crnk.spring.setup.boot.monitor;
 
 import java.net.MalformedURLException;

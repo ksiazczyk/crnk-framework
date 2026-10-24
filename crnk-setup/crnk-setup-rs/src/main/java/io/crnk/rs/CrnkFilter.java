@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkFilter
+// summary: Pre-matching JAX-RS container request filter that dispatches JSON API requests through the Crnk engine.
+// ---
+
 package io.crnk.rs;
 
 import io.crnk.core.engine.dispatcher.RequestDispatcher;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: InheritanceReactiveTest
+// summary: Spring Boot test for inheritance access that is currently ignored because the task subtype repository is not properly set up.
+// ---
+
 package io.crnk.servlet.reactive.suite;
 
 import io.crnk.servlet.resource.ReactiveServletTestApplication;

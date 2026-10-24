@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SpringMvcModule registers exception mappers
+// summary: Crnk module that registers Spring exception mappers and optionally a home module extension.
+// ---
+
 package io.crnk.spring.setup.boot.mvc;
 
 import io.crnk.core.engine.internal.utils.ClassUtils;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ServletRequestContext crnk HTTP request wrapper
+// summary: Wraps a servlet request and response into a crnk HTTP request context, computing request paths and base URLs.
+// ---
+
 package io.crnk.servlet.internal;
 
 import java.io.IOException;

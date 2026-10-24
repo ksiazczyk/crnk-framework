@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SampleCrnkServlet
+// summary: A sample servlet extending CrnkServlet that overrides initCrnk for user configuration.
+// ---
+
 package io.crnk.servlet;
 
 import io.crnk.core.boot.CrnkBoot;

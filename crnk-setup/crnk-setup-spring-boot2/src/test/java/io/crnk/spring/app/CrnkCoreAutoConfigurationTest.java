@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CrnkCoreAutoConfiguration test
+// summary: JUnit test that boots CrnkCoreAutoConfiguration and asserts on the resolved properties, URL mapper, service URL provider, and security provider.
+// ---
+
 package io.crnk.spring.app;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

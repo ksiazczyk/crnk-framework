@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SlowResourceRepository
+// summary: Test repository that returns SlowTask resources after a configurable delay to exercise reactive request-context handling.
+// ---
+
 package io.crnk.servlet.reactive.model;
 
 import io.crnk.core.engine.http.HttpRequestContextAware;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RolePermission
+// summary: JsonApiResource model linking a role to a resource type, its permission and a data room filter.
+// ---
+
 package io.crnk.security.repository;
 
 import io.crnk.core.queryspec.FilterSpec;

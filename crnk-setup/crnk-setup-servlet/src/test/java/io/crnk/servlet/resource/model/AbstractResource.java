@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AbstractResource base class
+// summary: Base class providing an ID field and equality semantics for JSON:API resource models used in tests.
+// ---
+
 package io.crnk.servlet.resource.model;
 
 import io.crnk.core.resource.annotations.JsonApiId;
