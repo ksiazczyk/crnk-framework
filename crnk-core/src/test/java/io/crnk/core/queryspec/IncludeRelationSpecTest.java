@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: IncludeRelationSpecTest
+// summary: JUnit test covering IncludeRelationSpec construction, string representation, equality and cloning.
+// ---
+
 package io.crnk.core.queryspec;
 
 import java.util.Arrays;

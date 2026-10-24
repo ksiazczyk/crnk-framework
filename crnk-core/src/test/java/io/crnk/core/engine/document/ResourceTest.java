@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceTest for the Resource class
+// summary: Verifies the equals contract of the Resource class using EqualsVerifier.
+// ---
+
 package io.crnk.core.engine.document;
 
 import nl.jqno.equalsverifier.EqualsVerifier;

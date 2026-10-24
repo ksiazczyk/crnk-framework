@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Relation
+// summary: Generic relation class used in tests to model a source-to-target relationship identified by a field name.
+// ---
+
 package io.crnk.core.mock.repository.util;
 
 import java.io.Serializable;

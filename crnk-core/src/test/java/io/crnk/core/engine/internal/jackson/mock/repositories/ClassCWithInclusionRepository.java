@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClassCWithInclusionRepository mock repository
+// summary: A mock in-memory repository for the ClassCWithInclusion test model used in Jackson inclusion tests.
+// ---
+
 package io.crnk.core.engine.internal.jackson.mock.repositories;
 
 import io.crnk.core.engine.internal.jackson.mock.models.ClassCWithInclusion;

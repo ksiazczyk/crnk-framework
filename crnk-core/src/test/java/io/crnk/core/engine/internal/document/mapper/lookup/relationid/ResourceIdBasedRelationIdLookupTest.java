@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceIdBasedRelationIdLookupTest for resource id lookup
+// summary: Test covering lookup of relation ids based on resource id references in only-id and entity-set configurations.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup.relationid;
 
 import io.crnk.core.engine.document.Document;

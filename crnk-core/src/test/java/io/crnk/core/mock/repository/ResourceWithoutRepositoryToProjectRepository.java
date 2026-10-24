@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceWithoutRepositoryToProjectRepository
+// summary: A relationship repository linking resources without their own repository to projects.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.Project;

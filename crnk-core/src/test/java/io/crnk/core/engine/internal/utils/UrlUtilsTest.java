@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: UrlUtils test
+// summary: Tests URL leading and trailing slash removal and verifies the private constructor of UrlUtils.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import org.junit.Assert;

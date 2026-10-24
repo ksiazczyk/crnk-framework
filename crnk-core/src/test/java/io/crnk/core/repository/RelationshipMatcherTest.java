@@ -1,3 +1,8 @@
+// ---docerion
+// type: test
+// title: RelationshipMatcherTest.java
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.engine.information.resource.ResourceField;

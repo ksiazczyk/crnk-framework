@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: InheritanceWithoutSubtypeRepositoryTest
+// summary: Tests repository behavior for resources that use inheritance without a dedicated subtype repository.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import org.junit.Test;

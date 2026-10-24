@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MethodCacheTest
+// summary: Tests MethodCache lookup behavior and the equality of its cache key.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import nl.jqno.equalsverifier.EqualsVerifier;

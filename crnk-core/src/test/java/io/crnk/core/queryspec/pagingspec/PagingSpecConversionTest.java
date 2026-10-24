@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PagingSpecConversionTest
+// summary: A JUnit test verifying conversion between offset-limit and number-size paging specs.
+// ---
+
 package io.crnk.core.queryspec.pagingspec;
 
 import io.crnk.core.exception.BadRequestException;

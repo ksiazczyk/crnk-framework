@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: EnforceIdNameTest
+// summary: Checks whether the enforced id name property controls the JSON name of an id field.
+// ---
+
 package io.crnk.core.engine.internal.information;
 
 import io.crnk.core.boot.CrnkBoot;

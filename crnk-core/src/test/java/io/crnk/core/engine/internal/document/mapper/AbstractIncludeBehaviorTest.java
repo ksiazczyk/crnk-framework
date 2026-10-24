@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FieldRelationshipGetControllerTest
+// summary: JUnit test that verifies FieldRelationshipGetController handles field relationship GET requests correctly.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import io.crnk.core.boot.CrnkProperties;

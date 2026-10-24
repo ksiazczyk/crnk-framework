@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Eager-loaded project resource with task relations
+// summary: Project resource with eagerly looked-up single and list task relations.
+// ---
+
 package io.crnk.core.mock.models;
 
 import java.util.ArrayList;

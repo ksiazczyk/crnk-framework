@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Complex Pojo repository
+// summary: In-memory repository for ComplexPojo that seeds a contained pojo and assigns generated ids on save.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.ComplexPojo;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RepositoryAdapterUtilsTest
+// summary: JUnit test using Mockito to exercise RepositoryAdapterUtils.enrichLinksInformation with mocked request and query components.
+// ---
+
 package io.crnk.core.engine.internal.repository;
 
 import io.crnk.core.CoreTestModule;

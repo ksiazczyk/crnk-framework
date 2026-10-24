@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestRepository
+// summary: Stub resource repository used in tests with no-op persistence operations.
+// ---
+
 package io.crnk.core.module;
 
 import io.crnk.core.queryspec.QuerySpec;

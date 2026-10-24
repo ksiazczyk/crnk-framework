@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: DocumentTest for the Document class
+// summary: Tests the Document class equals contract, collection data handling, and JSON serialization of the jsonapi server info field.
+// ---
+
 package io.crnk.core.engine.document;
 
 import com.fasterxml.jackson.core.JsonProcessingException;

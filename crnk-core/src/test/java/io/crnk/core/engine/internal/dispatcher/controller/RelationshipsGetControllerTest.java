@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationshipsGetControllerTest
+// summary: JUnit test for the RelationshipsResourceGetController covering accept/deny decisions and link resource retrieval.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import com.jayway.jsonpath.ReadContext;

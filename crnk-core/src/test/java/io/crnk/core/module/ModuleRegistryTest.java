@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectToProjectEagerRepository
+// summary: Mock eager relationship repository linking Project to ProjectEager resources.
+// ---
+
 package io.crnk.core.module;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiId annotation for resource identifier field
+// summary: Annotation defining a field used as the identifier of a resource, requiring Serializable and a parseable value.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup.relationid;
 
 import io.crnk.core.engine.document.Document;

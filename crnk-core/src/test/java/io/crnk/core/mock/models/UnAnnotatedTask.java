@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UnAnnotatedTask plain model
+// summary: Plain model without JsonApi annotations used to test unannotated handling.
+// ---
+
 package io.crnk.core.mock.models;
 
 public class UnAnnotatedTask {

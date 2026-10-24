@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: DefaultPagedMetaInformationTest
+// summary: JUnit test verifying that DefaultPagedMetaInformation serializes null values to an empty JSON object and non-null values to JSON containing totalResourceCount.
+// ---
+
 package io.crnk.core.resource.meta;
 
 

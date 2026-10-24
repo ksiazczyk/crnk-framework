@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiExposed annotation for repository exposure
+// summary: Annotation deciding whether a repository is exposed on the JSON API endpoint, enabled by default but configurable.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup.relationid;
 
 import io.crnk.core.engine.document.Document;

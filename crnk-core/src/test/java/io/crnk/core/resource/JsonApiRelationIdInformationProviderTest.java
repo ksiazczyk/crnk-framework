@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JSON API relation id information provider test
+// summary: Tests auto-detection of JSON API relation id fields with default and custom names, including failure cases.
+// ---
+
 package io.crnk.core.resource;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

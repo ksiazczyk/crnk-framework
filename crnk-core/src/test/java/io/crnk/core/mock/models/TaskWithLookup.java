@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskWithLookup model with lookup include behaviors
+// summary: JsonApiResource model demonstrating lookup include behaviors on project relations.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiId;

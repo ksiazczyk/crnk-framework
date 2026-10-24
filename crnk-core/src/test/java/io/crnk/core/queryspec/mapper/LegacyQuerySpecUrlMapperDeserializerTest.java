@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JsonFilterSpecMapperTest
+// summary: Checks that JSON filter bodies deserialize and serialize back into equivalent filter specs.
+// ---
+
 package io.crnk.core.queryspec.mapper;
 
 import org.junit.Before;

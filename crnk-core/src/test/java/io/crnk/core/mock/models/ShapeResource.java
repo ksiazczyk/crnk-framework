@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ShapeResource mock model
+// summary: A mock JSON:API resource model representing shapes, used as test data for the crnk framework.
+// ---
+
 package io.crnk.core.mock.models;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;

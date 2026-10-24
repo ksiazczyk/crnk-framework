@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationshipBehaviorTestRepository
+// summary: A mock repository for relationship behavior test resources with a clear method.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.RelationshipBehaviorTestResource;

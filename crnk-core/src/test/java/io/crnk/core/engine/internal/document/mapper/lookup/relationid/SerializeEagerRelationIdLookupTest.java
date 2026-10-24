@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SerializeEagerRelationIdLookupTest for eager serialization
+// summary: Test covering eager serialization of relation ids without requiring an include query.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup.relationid;
 
 import io.crnk.core.engine.document.Document;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FieldGetControllerTest
+// summary: JUnit test that verifies FieldResourceGetController accepts valid field requests and denies relationship or non-relation requests.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import com.fasterxml.jackson.databind.JsonNode;

@@ -1,3 +1,11 @@
+// ---docerion
+// type: test
+// title: TestResourceInformationProvider
+// summary: Resource information provider for the TestResource fixture used in tests.
+// relations:
+//   - references /crnk-core/src/test/java/io/crnk/core/module/TestResource.java
+// ---
+
 package io.crnk.core.module;
 
 import io.crnk.core.engine.information.resource.ResourceField;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CompareUtilsTest
+// summary: Tests CompareUtils.isEquals for null and non-null string comparisons.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import org.junit.Assert;

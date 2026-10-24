@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceFilterDirectoryImplTest
+// summary: A JUnit test class that verifies the behavior of ResourceFilterDirectoryImpl for applying resource filters.
+// ---
+
 package io.crnk.core.queryspec.pagingspec;
 
 import io.crnk.core.engine.query.QueryAdapter;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectPolymorphicRepository
+// summary: Mock in-memory repository for the ProjectPolymorphic resource, used by crnk-core tests.
+// ---
+
 package io.crnk.core.queryspec;
 
 import io.crnk.core.CoreTestContainer;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClassUtilsTest
+// summary: Tests ClassUtils methods for resolving raw types, class fields, getters and inheritance.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;

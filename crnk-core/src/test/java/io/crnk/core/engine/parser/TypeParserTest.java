@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TypeParserTest
+// summary: JUnit tests that verify TypeParser parsing and string conversion for dates, booleans, characters, UUIDs, and null values.
+// ---
+
 package io.crnk.core.engine.parser;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

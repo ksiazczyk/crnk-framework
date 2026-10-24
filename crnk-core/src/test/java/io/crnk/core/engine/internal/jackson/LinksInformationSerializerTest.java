@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: LinksInformationSerializerTest
+// summary: JUnit test verifying serialization of self, paged, custom and string-based links information objects into JSON via the Jackson module.
+// ---
+
 package io.crnk.core.engine.internal.jackson;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

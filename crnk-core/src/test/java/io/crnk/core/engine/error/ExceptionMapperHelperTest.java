@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ExceptionMapperHelperTest
+// summary: Tests ExceptionMapperHelper's conversion of exceptions to error responses plus its accepts and createErrorMessage methods.
+// ---
+
 package io.crnk.core.engine.error;
 
 import io.crnk.core.engine.document.ErrorData;

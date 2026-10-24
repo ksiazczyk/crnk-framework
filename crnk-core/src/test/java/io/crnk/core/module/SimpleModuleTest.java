@@ -1,3 +1,11 @@
+// ---docerion
+// type: test
+// title: SimpleModuleTest
+// summary: A JUnit test that verifies SimpleModule behavior for module names, resource information providers, naming strategies, and repository information builders.
+// relations:
+//   - references /crnk-core/src/test/java/io/crnk/core/module/TestResourceInformationProvider.java
+// ---
+
 package io.crnk.core.module;
 
 import com.fasterxml.jackson.databind.Module;

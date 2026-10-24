@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Task JsonApiResource model with relations and fields
+// summary: Comprehensive JsonApiResource model exercising many annotations, relations and field behaviors.
+// ---
+
 package io.crnk.core.mock.models;
 
 import java.util.ArrayList;

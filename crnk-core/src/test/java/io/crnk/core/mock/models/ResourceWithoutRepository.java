@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AbstractResource base class for test resources
+// summary: Abstract base class delegating id and delegate access to support JsonApi test resources.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiId;

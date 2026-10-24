@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FieldResourceGetController
+// summary: Implementation of the controller that dispatches GET requests for a single field of a resource.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import java.net.URI;

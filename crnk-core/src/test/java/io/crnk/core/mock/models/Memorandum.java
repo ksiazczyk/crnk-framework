@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Memorandum document subclass
+// summary: JSON API document subclass adding a body property to the abstract Document model.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

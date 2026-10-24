@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ExceptionMapperTypeTest
+// summary: Verifies the equals and hashCode contract and the toString output of the ExceptionMapperType class.
+// ---
+
 package io.crnk.core.engine.internal.exception;
 
 import io.crnk.core.engine.error.ExceptionMapper;

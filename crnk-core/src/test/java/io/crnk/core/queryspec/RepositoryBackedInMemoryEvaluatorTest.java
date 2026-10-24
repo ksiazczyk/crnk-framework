@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RepositoryBackedInMemoryEvaluatorTest
+// summary: JUnit test that verifies InMemoryEvaluator filtering on relation identifiers using a repository-backed CrnkBoot instance.
+// ---
+
 package io.crnk.core.queryspec;
 
 import io.crnk.core.CoreTestModule;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiField annotation for field feature configuration
+// summary: Annotation configuring supported features of a field such as sorting, filtering, posting, patching, reading and deleting.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup.relationid;
 
 import io.crnk.core.engine.document.Document;

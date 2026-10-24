@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: NestedRelationIdLookupTest
+// summary: JUnit test verifying serialization of nested relation ids and related entities in a document mapper.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup.relationid;
 
 import io.crnk.core.engine.document.Document;

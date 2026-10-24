@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: HttpRequestContextBaseAdapterTest
+// summary: Tests HttpRequestContextBaseAdapter header parsing, request version detection, and accept logic.
+// ---
+
 package io.crnk.core.engine.http;
 
 import java.io.IOException;

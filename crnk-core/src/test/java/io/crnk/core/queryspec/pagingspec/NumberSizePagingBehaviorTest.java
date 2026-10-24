@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: NumberSizePagingBehaviorTest
+// summary: A JUnit test verifying serialization and deserialization of the number-size paging behavior.
+// ---
+
 package io.crnk.core.queryspec.pagingspec;
 
 import com.google.common.collect.ImmutableMap;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskLinks links information implementation
+// summary: LinksInformation implementation providing self links for task resources.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.resource.links.DefaultLink;

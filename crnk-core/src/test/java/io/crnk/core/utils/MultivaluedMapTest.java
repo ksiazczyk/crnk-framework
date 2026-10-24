@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MultivaluedMapTest
+// summary: Tests the MultivaluedMap.fromCollection method by building a map from a list of resources and asserting the unique values keyed by id.
+// ---
+
 package io.crnk.core.utils;
 
 import io.crnk.core.engine.internal.utils.MultivaluedMap;

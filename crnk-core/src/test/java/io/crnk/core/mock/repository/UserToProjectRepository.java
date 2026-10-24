@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: UserToProjectRepository mock relationship repository
+// summary: A mock relationship repository that stores User-to-Project relations in an in-memory map to support CRnK testing.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.Project;

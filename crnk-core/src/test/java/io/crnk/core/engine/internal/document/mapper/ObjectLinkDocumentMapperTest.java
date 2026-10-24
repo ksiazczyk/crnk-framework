@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FieldResourceRelationshipGetControllerTest
+// summary: JUnit test covering the behavior of the FieldResourceRelationshipGetController implementation.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import com.fasterxml.jackson.databind.JsonNode;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CoreClassTestUtils
+// summary: Provides test helpers asserting that utility classes expose private or protected constructors.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import org.junit.Assert;

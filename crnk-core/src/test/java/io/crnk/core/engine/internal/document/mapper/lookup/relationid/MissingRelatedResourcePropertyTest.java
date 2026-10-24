@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MissingRelatedResourcePropertyTest
+// summary: JUnit test that reuses MissingRelatedResourceTest with a properties provider disabling the exception-on-missing-related-resource behavior.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup.relationid;
 
 import io.crnk.core.boot.CrnkProperties;

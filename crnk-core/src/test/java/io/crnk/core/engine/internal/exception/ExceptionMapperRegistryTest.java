@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ExceptionMapperRegistryTest
+// summary: Tests the ExceptionMapperRegistry, covering exception distance calculations and mapper resolution for direct and descendant exception types.
+// ---
+
 package io.crnk.core.engine.internal.exception;
 
 import io.crnk.core.engine.document.ErrorData;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceFilterTest
+// summary: Tests ResourceFilter behavior, including forbidden and unauthorized resource responses via the request dispatcher.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

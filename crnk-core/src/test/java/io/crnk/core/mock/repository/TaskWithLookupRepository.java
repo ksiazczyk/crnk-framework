@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TaskWithLookupRepository mock resource repository
+// summary: A mock resource repository for TaskWithLookup resources returning a fixed resource.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.Project;

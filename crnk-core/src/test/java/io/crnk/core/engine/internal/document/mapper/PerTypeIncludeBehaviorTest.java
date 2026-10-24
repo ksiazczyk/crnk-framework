@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FieldResourceRelationshipGetControllerTestBaseTest
+// summary: JUnit test that validates the shared test base class used by field relationship GET controller tests.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import io.crnk.core.boot.CrnkProperties;

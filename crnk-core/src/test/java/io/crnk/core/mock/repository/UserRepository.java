@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: UserRepository mock resource repository
+// summary: A mock repository for User resources backed by a concurrent hash map.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.exception.ResourceNotFoundException;

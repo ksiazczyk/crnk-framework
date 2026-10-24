@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Abstract Thing JsonApiResource base model
+// summary: Abstract JsonApiResource base model holding a long id.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiId;

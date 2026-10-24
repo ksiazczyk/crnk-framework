@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceFieldTest
+// summary: Tests ResourceFieldImpl including its equals contract, resource field type resolution, and lazy field behavior.
+// ---
+
 package io.crnk.core.resource.field;
 
 import static org.assertj.core.api.Assertions.assertThat;

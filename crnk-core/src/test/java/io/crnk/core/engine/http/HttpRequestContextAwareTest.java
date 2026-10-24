@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: HttpRequestContextProviderTest
+// summary: Tests the HttpRequestContextProvider lifecycle for starting and finishing requests and tracking the thread request context.
+// ---
+
 package io.crnk.core.engine.http;
 
 import io.crnk.core.CoreTestModule;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: NoAnnotationExceptionMapper test fixture
+// summary: Test fixture exception mapper that always rejects responses and never maps its exception to an error response.
+// ---
+
 package io.crnk.core.engine.error.handlers;
 
 import io.crnk.core.engine.error.ErrorResponse;

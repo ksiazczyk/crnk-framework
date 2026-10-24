@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ControllerRegistryTest
+// summary: JUnit test that verifies ControllerRegistry behavior, including throwing a BadRequestException for unsupported request types.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.registry;
 
 import io.crnk.core.CoreTestContainer;

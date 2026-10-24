@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TaskWithPagingBehavior mock JSON:API resource model
+// summary: A mock JSON:API resource model configured with custom paging behavior.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;

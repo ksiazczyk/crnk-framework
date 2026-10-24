@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FieldResourceGetControllerTest
+// summary: JUnit test covering the behavior of the FieldResourceGetController implementation.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import org.junit.Assert;

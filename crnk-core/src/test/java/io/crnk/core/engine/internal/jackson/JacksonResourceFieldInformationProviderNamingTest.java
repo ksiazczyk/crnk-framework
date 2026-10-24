@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JacksonResourceFieldInformationProviderNamingTest
+// summary: JUnit test verifying how the Jackson resource field information provider resolves JSON names for fields and methods under different naming strategies.
+// ---
+
 package io.crnk.core.engine.internal.jackson;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

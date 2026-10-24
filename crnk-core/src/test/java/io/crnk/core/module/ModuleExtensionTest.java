@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectRepository
+// summary: Mock repository for Project resources used by the test suite.
+// ---
+
 package io.crnk.core.module;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

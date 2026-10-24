@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceRegistryTest
+// summary: JUnit tests for the resource registry covering entry registration, change event firing, and service URL resolution for registered resource types.
+// ---
+
 package io.crnk.core.resource.registry;
 
 import static org.assertj.core.api.Assertions.assertThat;

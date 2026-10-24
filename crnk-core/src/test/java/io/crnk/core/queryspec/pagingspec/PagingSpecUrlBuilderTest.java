@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PagingSpecUrlBuilderTest
+// summary: A JUnit test verifying URL building for paging spec self and related links.
+// ---
+
 package io.crnk.core.queryspec.pagingspec;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

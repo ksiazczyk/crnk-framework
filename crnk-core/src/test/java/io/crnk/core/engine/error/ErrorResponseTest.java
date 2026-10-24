@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ErrorResponseTest
+// summary: Checks that ErrorResponse fulfills the equals and hashCode contract.
+// ---
+
 package io.crnk.core.engine.error;
 
 import nl.jqno.equalsverifier.EqualsVerifier;

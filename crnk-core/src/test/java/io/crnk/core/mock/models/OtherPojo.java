@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Abstract base class for mock test resources
+// summary: Abstract base class providing delegate access and a JSON API id for mock test resources.
+// ---
+
 package io.crnk.core.mock.models;
 
 import java.util.Objects;

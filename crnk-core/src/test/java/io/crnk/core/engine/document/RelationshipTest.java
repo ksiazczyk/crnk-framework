@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationshipTest for the Relationship class
+// summary: Tests the Relationship class equals contract and serialization of array, single, and null data values.
+// ---
+
 package io.crnk.core.engine.document;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ScheduleRepository
+// summary: An interface defining a schedule repository with custom list, links and meta classes.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.Schedule;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CrnkExceptionMapper test
+// summary: JUnit test verifying that CrnkExceptionMapper maps various exceptions to correct HTTP status codes and error responses.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.document.ErrorData;

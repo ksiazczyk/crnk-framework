@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClassBWithInclusion test model with inclusion behavior
+// summary: A JsonApiResource model declaring ClassCWithInclusion relations with automatic inclusion when null.
+// ---
+
 package io.crnk.core.engine.internal.jackson.mock.models;
 
 import java.util.Collections;

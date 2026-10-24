@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: StringUtils test
+// summary: Tests string joining, blank detection and decapitalize helper methods in StringUtils.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import org.junit.Assert;

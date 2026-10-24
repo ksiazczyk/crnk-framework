@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ImmediateResultFactory test
+// summary: JUnit test verifying ImmediateResultFactory behavior, including non-async operation, thread context handling, and unsupported subscribe and error-resume operations.
+// ---
+
 package io.crnk.core.engine.result;
 
 import org.junit.Assert;

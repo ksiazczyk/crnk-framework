@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FieldGetControllerTest for field resource get handling
+// summary: Tests the FieldResourceGetController for accepting and handling field-level get requests.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import io.crnk.core.engine.dispatcher.Response;

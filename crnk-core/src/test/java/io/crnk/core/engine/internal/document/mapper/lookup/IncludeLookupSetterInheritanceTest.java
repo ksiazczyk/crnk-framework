@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: IncludeLookupSetterInheritanceTest
+// summary: Test verifying polymorphic relationship inclusion for inherited project types, currently disabled with an Ignore annotation.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup;
 
 import io.crnk.core.engine.document.Document;

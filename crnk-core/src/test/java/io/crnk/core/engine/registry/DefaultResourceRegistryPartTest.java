@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: DefaultResourceRegistryPartTest
+// summary: A JUnit test using Mockito to verify listener events, listener add and remove behavior, and latest version computation for DefaultResourceRegistryPart.
+// ---
+
 package io.crnk.core.engine.registry;
 
 import io.crnk.core.engine.information.resource.ResourceInformation;

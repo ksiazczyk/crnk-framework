@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Inheritance Without Subtype Repository Test
+// summary: JUnit test verifying resource registry behavior when inheritance is used without a dedicated subtype repository.
+// ---
+
 package io.crnk.core.engine.internal.resource;
 
 import io.crnk.core.boot.CrnkBoot;

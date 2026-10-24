@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: HasNextBasedPagedLinksInformationTest
+// summary: JUnit test verifying paging links and has-more meta information produced by the HasNext-based paging implementation.
+// ---
+
 package io.crnk.core.resource.paging.next;
 
 import io.crnk.core.CoreTestContainer;

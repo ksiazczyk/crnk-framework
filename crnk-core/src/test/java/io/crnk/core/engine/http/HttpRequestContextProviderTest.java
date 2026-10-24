@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: HttpRequestDispatcherImplTest
+// summary: Tests the HttpRequestDispatcherImpl routing of requests through controllers and JSON API request processing.
+// ---
+
 package io.crnk.core.engine.http;
 
 

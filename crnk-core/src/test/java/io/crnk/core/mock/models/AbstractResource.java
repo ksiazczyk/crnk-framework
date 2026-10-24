@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: AbstractResource base class for mock resources
+// summary: Abstract base class delegating identity and JSON API ID to a wrapped Identifiable delegate for mock resources.
+// ---
+
 package io.crnk.core.mock.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;

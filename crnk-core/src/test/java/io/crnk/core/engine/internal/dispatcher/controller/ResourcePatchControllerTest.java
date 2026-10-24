@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourcePatchControllerTest for PATCH handling
+// summary: Tests the ResourcePatchController for request acceptance, handling, and error conditions.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import static org.assertj.core.api.Assertions.assertThat;

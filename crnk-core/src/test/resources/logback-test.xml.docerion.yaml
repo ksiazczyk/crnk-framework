@@ -1,0 +1,4 @@
+# Docerion header of logback-test.xml.
+type: config
+title: Logback test logging configuration
+summary: Configures Logback logging for test runs, routing io.crnk output to the console at DEBUG level while keeping the root logger at WARN.

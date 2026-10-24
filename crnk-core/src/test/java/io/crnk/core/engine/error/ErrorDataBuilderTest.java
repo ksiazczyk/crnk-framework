@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ErrorDataBuilderTest
+// summary: Tests that ErrorData.builder() correctly sets detail, code, about link, id, status, title, source pointer, source parameter, and meta fields.
+// ---
+
 package io.crnk.core.engine.error;
 
 import io.crnk.core.engine.document.ErrorData;

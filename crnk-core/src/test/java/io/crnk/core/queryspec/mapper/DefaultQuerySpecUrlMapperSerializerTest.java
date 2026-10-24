@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectToProjectEagerRepository
+// summary: Eager one-to-one relationship repository mapping Project instances to ProjectEager targets for tests.
+// ---
+
 package io.crnk.core.queryspec.mapper;
 
 import io.crnk.core.CoreTestContainer;

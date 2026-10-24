@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: UserToTaskRepository mock bulk relationship repository
+// summary: A mock bulk relationship repository that stores User-to-Task relations in an in-memory map to support CRnK testing.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.engine.internal.utils.MultivaluedMap;

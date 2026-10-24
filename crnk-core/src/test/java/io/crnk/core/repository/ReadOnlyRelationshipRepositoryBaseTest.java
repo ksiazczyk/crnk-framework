@@ -1,3 +1,8 @@
+// ---docerion
+// type: test
+// title: ReadOnlyRelationshipRepositoryBaseTest.java
+// ---
+
 package io.crnk.core.repository;
 
 import org.junit.Test;

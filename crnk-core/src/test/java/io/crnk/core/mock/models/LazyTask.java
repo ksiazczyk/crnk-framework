@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: LazyTask with varied project relations
+// summary: JSON API task model combining list, only-id and lazy project relations.
+// ---
+
 package io.crnk.core.mock.models;
 
 import java.util.List;

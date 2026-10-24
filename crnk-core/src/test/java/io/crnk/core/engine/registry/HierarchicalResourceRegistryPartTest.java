@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: HierarchicalResourceRegistryPartTest
+// summary: A JUnit test using Mockito to verify hierarchical registry part behavior such as duplicate part rejection, root part, and child part registration.
+// ---
+
 package io.crnk.core.engine.registry;
 
 

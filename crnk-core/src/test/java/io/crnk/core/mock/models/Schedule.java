@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ComplexPojo JsonApiResource model
+// summary: JsonApiResource model exposing a contained relation and an updateable property.
+// ---
+
 package io.crnk.core.mock.models;
 
 import java.time.OffsetDateTime;

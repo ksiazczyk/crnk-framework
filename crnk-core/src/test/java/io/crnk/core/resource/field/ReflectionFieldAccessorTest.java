@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReflectionFieldAccessorTest
+// summary: Tests ReflectionFieldAccessor for correct value retrieval and exception handling on invalid inputs.
+// ---
+
 package io.crnk.core.resource.field;
 
 import io.crnk.core.engine.internal.information.resource.ReflectionFieldAccessor;

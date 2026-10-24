@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceIdControllerTest for the dispatcher controller
+// summary: Tests the ResourceIdController's acceptance and handling of resource identifier requests.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import io.crnk.core.engine.dispatcher.Response;

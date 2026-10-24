@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Abstract relation ship repository
+// summary: Abstract base class providing helper methods to add, remove and manage relations between mock resources in a concurrent map.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.engine.internal.utils.PropertyUtils;

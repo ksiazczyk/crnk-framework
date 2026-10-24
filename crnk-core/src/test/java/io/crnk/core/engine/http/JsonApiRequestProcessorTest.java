@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JsonApiRequestProcessorTest
+// summary: A JUnit test class that verifies how JsonApiRequestProcessor decides whether a request is a JSON:API request based on content type and Accept headers.
+// ---
+
 package io.crnk.core.engine.http;
 
 import com.fasterxml.jackson.core.JsonProcessingException;

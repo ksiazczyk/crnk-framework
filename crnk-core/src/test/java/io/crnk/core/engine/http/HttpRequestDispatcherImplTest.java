@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: HttpResponseTest
+// summary: Tests HttpResponse header access and UTF-8 body encoding.
+// ---
+
 package io.crnk.core.engine.http;
 
 import io.crnk.core.CoreTestContainer;

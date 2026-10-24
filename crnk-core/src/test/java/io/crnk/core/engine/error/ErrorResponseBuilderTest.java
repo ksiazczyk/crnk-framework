@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ErrorResponseBuilderTest
+// summary: Tests that ErrorResponse.builder() sets the HTTP status and holds a single or collection of ErrorData.
+// ---
+
 package io.crnk.core.engine.error;
 
 import io.crnk.core.engine.document.ErrorData;

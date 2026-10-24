@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RepositoryFilterTest
+// summary: Tests RepositoryFilter behavior against mock repositories, query specs, and relationship adapters.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import io.crnk.core.CoreTestContainer;

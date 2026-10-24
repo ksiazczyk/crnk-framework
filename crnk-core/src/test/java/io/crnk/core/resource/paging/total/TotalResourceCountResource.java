@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TotalResourceCountResource
+// summary: JSON:API resource model used as a test fixture for total-based paging tests.
+// ---
+
 package io.crnk.core.resource.paging.total;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
