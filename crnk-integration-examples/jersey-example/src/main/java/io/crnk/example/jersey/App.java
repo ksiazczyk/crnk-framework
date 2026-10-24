@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: App main entry point for the Jersey example
+// summary: Main entry point that boots a Grizzly HTTP server hosting the Crnk Jersey example application.
+// ---
+
 package io.crnk.example.jersey;
 
 import org.glassfish.grizzly.http.server.HttpServer;

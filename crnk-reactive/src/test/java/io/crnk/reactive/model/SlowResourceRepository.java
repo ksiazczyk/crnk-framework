@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SlowResourceRepository
+// summary: A test resource repository that adds a delay in findAll to simulate slow, thread-context-aware requests.
+// ---
+
 package io.crnk.reactive.model;
 
 import io.crnk.core.engine.http.HttpRequestContextAware;

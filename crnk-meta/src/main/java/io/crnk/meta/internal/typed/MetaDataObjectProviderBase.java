@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaDataObjectProviderBase
+// summary: Abstract base for meta data object providers that scans bean attributes and builds MetaAttribute entries.
+// ---
+
 package io.crnk.meta.internal.typed;
 
 import java.lang.reflect.Field;

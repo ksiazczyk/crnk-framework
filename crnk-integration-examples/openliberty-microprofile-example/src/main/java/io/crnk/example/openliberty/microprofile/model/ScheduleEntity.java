@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ScheduleEntity JPA entity
+// summary: A JPA entity class representing a schedule with an identifier and a name, using javax.persistence annotations.
+// ---
+
 package io.crnk.example.openliberty.microprofile.model;
 
 import javax.persistence.Entity;

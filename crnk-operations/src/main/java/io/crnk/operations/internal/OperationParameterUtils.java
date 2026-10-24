@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Utility for parsing request paths and query parameters
+// summary: Parses request URLs into a path and a map of decoded query parameters, wrapping failures in a common exception handler.
+// ---
+
 package io.crnk.operations.internal;
 
 import io.crnk.core.engine.internal.utils.ExceptionUtil;

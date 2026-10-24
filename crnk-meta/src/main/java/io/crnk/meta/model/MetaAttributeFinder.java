@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TypedMetaElementFactory
+// summary: Interface for factories that create meta elements for a given Java type within a factory context.
+// ---
+
 package io.crnk.meta.model;
 
 /**

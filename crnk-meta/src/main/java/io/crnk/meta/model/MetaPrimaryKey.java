@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaPrimaryKey primary key meta model
+// summary: Declares the MetaPrimaryKey meta model class extending MetaKey with a generated flag.
+// ---
+
 package io.crnk.meta.model;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

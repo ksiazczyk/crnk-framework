@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReactiveRepositoryBaseTest
+// summary: JUnit test verifying the default behavior of ReactiveResourceRepositoryBase for find, create, save and delete operations.
+// ---
+
 package io.crnk.reactive;
 
 import io.crnk.core.boot.CrnkBoot;

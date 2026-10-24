@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaResource meta resource
+// summary: A JSON:API meta resource describing a resource with its type, path, repository and version range.
+// ---
+
 package io.crnk.meta.model.resource;
 
 import io.crnk.core.engine.information.resource.VersionRange;

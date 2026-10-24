@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaLookup interface
+// summary: Java interface declaring methods to look up meta elements by type, id, or implementation class.
+// ---
+
 package io.crnk.meta;
 
 import io.crnk.meta.model.MetaElement;

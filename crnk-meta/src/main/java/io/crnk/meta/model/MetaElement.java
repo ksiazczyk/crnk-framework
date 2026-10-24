@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaElement
+// summary: Root of the meta model, providing identity, name, parent and child relationships for all meta elements.
+// ---
+
 package io.crnk.meta.model;
 
 import java.util.*;

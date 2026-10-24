@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaProviderBase class
+// summary: Default base implementation of the MetaProvider interface returning empty collections.
+// ---
+
 package io.crnk.meta.provider;
 
 import io.crnk.meta.model.MetaElement;

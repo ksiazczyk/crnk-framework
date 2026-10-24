@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TypedMetaPartitionBase
+// summary: Abstract base for meta partitions that registers typed element factories and dispatches element allocation.
+// ---
+
 package io.crnk.meta.internal.typed;
 
 import io.crnk.core.engine.internal.utils.PreconditionUtil;

@@ -1,0 +1,4 @@
+# Docerion header of logback-test.xml.
+type: config
+title: logback-test.xml
+summary: A logback configuration that sets up console logging and debug-level logging for the crnk and reactor packages during tests.

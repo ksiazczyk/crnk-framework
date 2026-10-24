@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OperationFilterContext
+// summary: Interface providing context such as ordered operations, service discovery, and query context to operation filters.
+// ---
+
 package io.crnk.operations.server;
 
 import io.crnk.core.engine.query.QueryContext;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaUtilsTest
+// summary: Tests the MetaUtils helper methods for private constructor access and first-to-lower string conversion.
+// ---
+
 package io.crnk.meta;
 
 import java.util.ArrayList;

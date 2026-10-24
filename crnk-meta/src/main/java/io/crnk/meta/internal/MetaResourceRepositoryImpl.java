@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaResourceRepositoryImpl
+// summary: Read-only resource repository that resolves and filters CRNK meta elements by type.
+// ---
+
 package io.crnk.meta.internal;
 
 import io.crnk.core.engine.http.HttpRequestContext;

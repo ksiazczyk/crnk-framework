@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Display operation response on success test
+// summary: Checks whether operation responses are included on success and how to deactivate that behavior.
+// ---
+
 package io.crnk.operations;
 
 import static org.junit.Assert.assertFalse;

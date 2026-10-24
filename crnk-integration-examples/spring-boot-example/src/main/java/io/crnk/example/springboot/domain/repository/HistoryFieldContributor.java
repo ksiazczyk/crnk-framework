@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HistoryFieldContributor dynamically adds a history relationship field
+// summary: A Spring component implementing ResourceFieldContributor that dynamically attaches a history relationship field to resources without modifying them.
+// ---
+
 package io.crnk.example.springboot.domain.repository;
 
 import java.util.Arrays;

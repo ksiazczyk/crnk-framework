@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CrnkVerticle Vert.x HTTP verticle
+// summary: Vert.x verticle that sets up the CRNK HTTP handler, registers the security interceptor and starts listening on the configured port.
+// ---
+
 package io.crnk.example.vertx;
 
 import io.crnk.core.module.Module;

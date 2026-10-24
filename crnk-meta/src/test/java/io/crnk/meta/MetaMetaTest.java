@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TypedMetaElementFactoryContext
+// summary: Interface providing context to allocate meta elements and access the module context during factory initialization.
+// ---
+
 package io.crnk.meta;
 
 import io.crnk.core.boot.CrnkBoot;

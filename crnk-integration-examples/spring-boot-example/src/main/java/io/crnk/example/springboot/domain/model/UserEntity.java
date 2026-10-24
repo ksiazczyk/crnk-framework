@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UserEntity domain model class
+// summary: A JPA and CRNK domain model class for a user with an address and created schedules.
+// ---
+
 package io.crnk.example.springboot.domain.model;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

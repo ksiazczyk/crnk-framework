@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MovieEntity JPA entity
+// summary: A JPA entity representing a movie, extending MovieInfo with a UUID id and a many-to-many relationship to directors.
+// ---
+
 package io.crnk.operations.model;
 
 import javax.persistence.Entity;

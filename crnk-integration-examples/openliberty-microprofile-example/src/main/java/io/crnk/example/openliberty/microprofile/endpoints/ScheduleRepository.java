@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ScheduleRepository
+// summary: CRNK repository that manages ScheduleEntity records backed by a JPA data access object and seeds a few schedule entries on initialization.
+// ---
+
 package io.crnk.example.openliberty.microprofile.endpoints;
 
 import io.crnk.core.queryspec.QuerySpec;

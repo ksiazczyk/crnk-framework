@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaDataObjectProvider
+// summary: Abstract class that creates MetaDataObject elements from Java types and wires up attribute types during initialization.
+// ---
+
 package io.crnk.meta.internal.typed;
 
 import java.lang.reflect.Type;

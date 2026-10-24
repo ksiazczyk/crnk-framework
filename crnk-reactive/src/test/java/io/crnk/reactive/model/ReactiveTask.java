@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReactiveTask
+// summary: A JSON:API resource model representing a reactive task with an id, name, meta, links and a project relationship.
+// ---
+
 package io.crnk.reactive.model;
 
 import io.crnk.core.resource.annotations.JsonApiId;

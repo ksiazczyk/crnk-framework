@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaKey
+// summary: Meta element describing a unique or primary key composed of one or more attributes.
+// ---
+
 package io.crnk.meta.model;
 
 import java.util.List;

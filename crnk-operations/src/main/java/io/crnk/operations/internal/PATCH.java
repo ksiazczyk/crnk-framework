@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PATCH HTTP method annotation for JAX-RS
+// summary: Declares a PATCH HTTP method annotation bound to JAX-RS methods and types for partial update operations.
+// ---
+
 package io.crnk.operations.internal;
 
 import javax.ws.rs.HttpMethod;

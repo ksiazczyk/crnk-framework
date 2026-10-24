@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HttpClientBraveIntegration
+// summary: Integrates Brave HTTP tracing into the Apache HttpClient adapter by providing a tracing HTTP client builder.
+// ---
+
 package io.crnk.monitor.brave.internal;
 
 import brave.http.HttpTracing;

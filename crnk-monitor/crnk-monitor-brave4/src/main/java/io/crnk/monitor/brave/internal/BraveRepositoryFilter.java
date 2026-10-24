@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BraveRepositoryFilter
+// summary: Repository filter that creates a Brave span for each repository call, tagging it with status, query, and result count.
+// ---
+
 package io.crnk.monitor.brave.internal;
 
 import brave.Span;

@@ -1,3 +1,9 @@
+---
+type: readme
+title: crnk-integration-examples
+summary: Overview of example applications demonstrating crnk integration across different frameworks.
+---
+
 # crnk-integration-examples
 
 Various example applications showcasing the integration of crnk into different frameworks.

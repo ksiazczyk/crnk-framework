@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AbstractMetaJerseyTest base class for integration tests
+// summary: Abstract base class that configures a Crnk client and Jersey application to provide shared setup for meta integration tests.
+// ---
+
 package io.crnk.meta.model;
 
 import org.junit.Assert;

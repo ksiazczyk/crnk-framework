@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ReactiveResourceRepositoryAdapter adapts a reactive resource repository
+// summary: A ResourceRepositoryAdapter that delegates find, save and delete operations to a reactive resource repository.
+// ---
+
 package io.crnk.reactive.internal.adapter;
 
 import java.io.Serializable;

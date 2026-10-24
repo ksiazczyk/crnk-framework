@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MicroServiceApplicationTest
+// summary: A JUnit test that starts the project and task microservices and verifies remote resource inclusion, link exposure, and random-walk link checking.
+// ---
+
 package io.crnk.example.springboot.simple;
 
 import java.io.Serializable;

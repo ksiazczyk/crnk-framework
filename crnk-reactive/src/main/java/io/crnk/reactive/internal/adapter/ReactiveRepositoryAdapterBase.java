@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ReactiveRepositoryAdapterBase is the base for reactive adapters
+// summary: A base class for reactive repository adapters that provides response handling shared by the resource and relationship adapters.
+// ---
+
 package io.crnk.reactive.internal.adapter;
 
 import io.crnk.core.engine.dispatcher.RepositoryRequestSpec;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OperationFilter
+// summary: Interface defining a filter that transforms a list of operation responses within the operations filter chain.
+// ---
+
 package io.crnk.operations.server;
 
 import io.crnk.operations.OperationResponse;

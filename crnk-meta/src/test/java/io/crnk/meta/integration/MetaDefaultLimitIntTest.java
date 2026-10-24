@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaDefaultLimitIntTest
+// summary: Integration test verifying that the default page limit applies to results but not to included relationships.
+// ---
+
 package io.crnk.meta.integration;
 
 import io.crnk.core.queryspec.Direction;

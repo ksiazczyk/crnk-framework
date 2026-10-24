@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceMetaProvider
+// summary: Java class that provides resource metadata, wiring together partitioning, filtering and ID mapping for CRNK meta resources.
+// ---
+
 package io.crnk.meta.provider.resource;
 
 import io.crnk.meta.internal.MetaIdProvider;

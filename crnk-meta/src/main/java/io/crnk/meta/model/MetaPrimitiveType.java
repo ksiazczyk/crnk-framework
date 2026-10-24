@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaPrimitiveType primitive type meta model
+// summary: Declares the MetaPrimitiveType meta model class with constants for base primitive type identifiers.
+// ---
+
 package io.crnk.meta.model;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

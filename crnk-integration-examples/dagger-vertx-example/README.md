@@ -1,3 +1,9 @@
+---
+type: readme
+title: dagger-vertx-example
+summary: README for the dagger-vertx-example, explaining how to run the crnk integration example with Vert.x, Docker and ProGuard.
+---
+
 # dagger-vertx-example
 
 This example showcases a very light-weight flavor of setting up crnk with:

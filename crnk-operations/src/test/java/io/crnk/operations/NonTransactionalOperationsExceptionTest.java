@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Non-transactions exception test
+// summary: Verifies that non-transactions resume or fail correctly when a validation error occurs mid-batch.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.core.engine.http.HttpMethod;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TypedMetaElementFactory
+// summary: Interface declaring factory methods to accept and create meta elements for a given reflective type.
+// ---
+
 package io.crnk.meta;
 
 import java.util.Date;

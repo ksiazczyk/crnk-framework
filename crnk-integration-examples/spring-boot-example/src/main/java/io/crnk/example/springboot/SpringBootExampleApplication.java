@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SpringBootExampleApplication main entry point
+// summary: Main Spring Boot application entry point that imports the CORS and test data configuration classes.
+// ---
+
 package io.crnk.example.springboot;
 
 import org.springframework.boot.SpringApplication;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaNature typed value maps
+// summary: Holds typed maps of strings, integers, doubles and booleans, including their array variants, as meta nature data.
+// ---
+
 package io.crnk.meta.model;
 
 import java.util.HashMap;

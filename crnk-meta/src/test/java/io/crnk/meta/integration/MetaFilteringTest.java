@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaFilteringTest
+// summary: Integration test checking how resource filters affect the visibility of meta resources across HTTP methods.
+// ---
+
 package io.crnk.meta.integration;
 
 import io.crnk.core.engine.filter.FilterBehavior;

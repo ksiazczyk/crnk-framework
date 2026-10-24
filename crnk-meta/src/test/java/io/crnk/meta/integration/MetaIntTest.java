@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaIntTest
+// summary: Integration test validating meta element discovery, id prefixes, attributes, and nested type loading.
+// ---
+
 package io.crnk.meta.integration;
 
 import io.crnk.client.internal.proxy.ObjectProxy;

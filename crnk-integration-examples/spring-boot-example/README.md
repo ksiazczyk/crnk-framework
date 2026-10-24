@@ -1,3 +1,9 @@
+---
+type: readme
+title: spring-boot-example
+summary: Introduces the Spring Boot example and explains how to run it with Gradle and where the service is reachable.
+---
+
 # spring-boot-example
 
 Showcases a medium-sized Spring Boot setup. Have a look at 

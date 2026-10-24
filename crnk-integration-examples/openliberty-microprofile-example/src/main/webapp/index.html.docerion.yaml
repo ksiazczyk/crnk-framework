@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Eclipse MicroProfile demo
+summary: Landing page for the Eclipse MicroProfile demo that links to the Crnk API endpoints.

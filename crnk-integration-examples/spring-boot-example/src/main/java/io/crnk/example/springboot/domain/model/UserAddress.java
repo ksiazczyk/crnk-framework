@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UserAddress embeddable value type
+// summary: A JPA embeddable value type holding a street and city for a user address.
+// ---
+
 package io.crnk.example.springboot.domain.model;
 
 import javax.persistence.Embeddable;

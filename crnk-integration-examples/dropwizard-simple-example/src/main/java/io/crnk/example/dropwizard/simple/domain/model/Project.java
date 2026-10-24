@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Project domain model for CRNK JSON:API
+// summary: A Java domain model class annotated for CRNK JSON:API, representing a project with an id and a name.
+// ---
+
 package io.crnk.example.dropwizard.simple.domain.model;
 
 import io.crnk.core.resource.annotations.JsonApiId;

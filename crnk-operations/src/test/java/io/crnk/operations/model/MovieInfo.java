@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MovieInfo mapped superclass
+// summary: A JPA mapped superclass holding movie metadata such as title, year, rating, and IMDb scores.
+// ---
+
 package io.crnk.operations.model;
 
 import javax.persistence.Column;

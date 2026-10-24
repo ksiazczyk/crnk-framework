@@ -1,3 +1,9 @@
+---
+type: readme
+title: spring-boot-minimal-example
+summary: Showcases a minimal Spring Boot setup and explains how to run the example with Gradle and where the service becomes available.
+---
+
 # spring-boot-minimal-example
 
 Showcases a minimal Spring Boot setup. Have a look at 

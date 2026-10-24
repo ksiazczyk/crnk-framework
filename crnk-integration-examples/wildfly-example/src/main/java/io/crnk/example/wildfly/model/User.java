@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: User JSON:API resource model
+// summary: A JSON:API resource model describing a user with profile fields, interests, and identity-based equality.
+// ---
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates

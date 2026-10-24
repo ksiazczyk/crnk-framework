@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OkHttpBraveIntegration
+// summary: Adds a Brave tracing network interceptor and dispatcher to the OkHttp client builder for HTTP tracing.
+// ---
+
 package io.crnk.monitor.brave.internal;
 
 import brave.http.HttpTracing;

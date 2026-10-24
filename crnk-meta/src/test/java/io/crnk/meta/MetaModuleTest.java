@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TypedMetaPartitionBase
+// summary: Abstract base class that manages typed meta element factories and allocates meta elements by delegating to them.
+// ---
+
 package io.crnk.meta;
 
 import io.crnk.core.boot.CrnkBoot;

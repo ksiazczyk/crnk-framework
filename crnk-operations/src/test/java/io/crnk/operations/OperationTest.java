@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Operation equals and hash code test
+// summary: Checks that Operation equals and hashCode behave according to EqualsVerifier expectations.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.core.engine.document.Resource;

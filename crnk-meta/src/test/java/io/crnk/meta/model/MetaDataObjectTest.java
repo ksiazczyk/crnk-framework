@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaDataObjectTest
+// summary: A JUnit test class that verifies path resolution and attribute lookup behavior for meta data objects and resources.
+// ---
+
 package io.crnk.meta.model;
 
 import io.crnk.meta.AbstractMetaTest;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OpenTracingServerModule
+// summary: A CRNK module that registers an OpenTracing filter to instrument HTTP requests using a provided tracer.
+// ---
+
 package io.crnk.monitor.opentracing;
 
 import io.crnk.core.engine.http.HttpRequestContextProvider;

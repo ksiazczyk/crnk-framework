@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OpenTracingFilter sets span names for requests
+// summary: A DocumentFilter that sets the operation name of an active OpenTracing span based on the HTTP request method and JSON path.
+// ---
+
 package io.crnk.monitor.opentracing.internal;
 
 import java.net.MalformedURLException;

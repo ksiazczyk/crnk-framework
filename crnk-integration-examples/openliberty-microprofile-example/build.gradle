@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Configures the Gradle build with the Open Liberty plugin, dependency versions, server ports, and runnable packaging for the example.
+// ---
+
 apply plugin: 'war'
 apply plugin: 'liberty'
 

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Task JSON:API test model
+// summary: A JSON:API test model class representing a task with an id, a name, and a relation back to its owning project.
+// ---
+
 package io.crnk.monitor.brave.mock.models;
 
 import javax.validation.constraints.NotNull;

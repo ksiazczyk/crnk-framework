@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ScheduleDao
+// summary: A request-scoped JPA data access object that persists ScheduleEntity records to the database.
+// ---
+
 package io.crnk.example.openliberty.microprofile.dao;
 
 import io.crnk.example.openliberty.microprofile.model.ScheduleEntity;

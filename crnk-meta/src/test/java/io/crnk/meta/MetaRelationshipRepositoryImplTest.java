@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaModuleTest
+// summary: Tests the meta module for provider dependency registration, request local caching and registry update behavior.
+// ---
+
 package io.crnk.meta;
 
 

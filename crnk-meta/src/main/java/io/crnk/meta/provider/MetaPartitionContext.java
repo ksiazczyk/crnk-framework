@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaPartitionContext interface
+// summary: Interface providing context for a meta partition, including element registration and discovery execution.
+// ---
+
 package io.crnk.meta.provider;
 
 import io.crnk.core.module.Module;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Project JSON:API domain model
+// summary: A Java domain model class annotated for JSON:API that represents a project with an id and a name.
+// ---
+
 package io.crnk.example.jersey.domain.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

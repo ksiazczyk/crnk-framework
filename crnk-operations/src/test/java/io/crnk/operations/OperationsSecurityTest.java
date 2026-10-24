@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Tests security filtering of operations
+// summary: Tests that resource filters can forbid or allow operations.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.core.engine.filter.FilterBehavior;

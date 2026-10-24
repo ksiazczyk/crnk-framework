@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Task JSON:API resource model
+// summary: Java model class for a task resource annotated with JSON:API annotations that link it to a project.
+// ---
+
 package io.crnk.example.springboot.microservice.task;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: configuration.yml
+# summary: Dropwizard configuration file defining the crnk search package, server connector port and logging.
+# ---
+
 crnk:
   searchPackage: io.crnkple.dropwizard.simple.domain
 

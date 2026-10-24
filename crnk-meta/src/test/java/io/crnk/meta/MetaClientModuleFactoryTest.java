@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaDataObjectProviderBase
+// summary: Abstract base class that builds meta attributes from bean information and wires them to getter and setter methods.
+// ---
+
 package io.crnk.meta;
 
 import io.crnk.client.module.ClientModuleFactory;

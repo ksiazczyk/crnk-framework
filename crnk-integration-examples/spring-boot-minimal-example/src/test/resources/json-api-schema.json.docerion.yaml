@@ -1,0 +1,4 @@
+# Docerion header of json-api-schema.json.
+type: test
+title: JSON API response schema
+summary: A JSON schema defining the structure of JSON API responses, used to validate test responses in the Spring Boot minimal example.

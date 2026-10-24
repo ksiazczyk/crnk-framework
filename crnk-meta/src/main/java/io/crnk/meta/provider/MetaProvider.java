@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaProvider interface
+// summary: Interface for a meta provider exposing dependencies, partitions, filters and meta types.
+// ---
+
 package io.crnk.meta.provider;
 
 import io.crnk.meta.model.MetaElement;

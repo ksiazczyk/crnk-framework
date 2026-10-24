@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Task mock repository
+// summary: In-memory mock repository that stores Task resources and assigns incrementing IDs for CRNK API tests.
+// ---
+
 package io.crnk.monitor.brave.mock.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

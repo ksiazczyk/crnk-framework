@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MicroServiceApplication entry point
+// summary: Launches the task and project microservices within the same JVM for demonstration, each on its own server port.
+// ---
+
 package io.crnk.example.springboot.microservice;
 
 import io.crnk.example.springboot.microservice.project.ProjectApplication;

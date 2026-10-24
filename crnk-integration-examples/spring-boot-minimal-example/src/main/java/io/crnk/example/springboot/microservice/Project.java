@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Project JSON:API resource model
+// summary: Data model for a Project resource with an id and name, annotated for JSON:API serialization.
+// ---
+
 package io.crnk.example.springboot.microservice;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

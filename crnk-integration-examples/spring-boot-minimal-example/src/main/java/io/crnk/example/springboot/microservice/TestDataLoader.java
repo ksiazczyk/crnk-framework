@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Test data loader
+// summary: Loads a few sample Project records into the repository when the application starts.
+// ---
+
 package io.crnk.example.springboot.microservice;
 
 import org.springframework.beans.factory.annotation.Autowired;

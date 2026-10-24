@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: WorkerRepositoryAdapterTest
+// summary: JUnit test that verifies WorkerResourceRepositoryAdapter and WorkerRelationshipRepositoryAdapter delegate operations to the underlying adapters on an immediate scheduler.
+// ---
+
 package io.crnk.reactive;
 
 import io.crnk.core.engine.http.HttpRequestContext;

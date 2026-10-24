@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: config
+title: Logback logging configuration
+summary: Configures the Logback logging framework with a console appender, a formatted logging pattern, and DEBUG-level logging for the io.crnk package.
+-->
 
 <configuration>
 	<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">

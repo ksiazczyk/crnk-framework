@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceMetaFilter
+// summary: Filter that adjusts resource and field metadata for a request, hiding elements without permissions and cloning fields whose access rights change.
+// ---
+
 package io.crnk.meta.internal.resource;
 
 import java.lang.reflect.Type;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TransactionOperationFilter
+// summary: Operation filter that wraps filter execution in a transaction using the transaction runner.
+// ---
+
 package io.crnk.operations.server;
 
 import io.crnk.core.engine.internal.utils.PreconditionUtil;

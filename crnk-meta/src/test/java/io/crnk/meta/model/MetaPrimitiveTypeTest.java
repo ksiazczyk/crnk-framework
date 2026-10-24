@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaPrimitiveTypeTest for primitive type metadata
+// summary: Test covering MetaPrimitiveType for JSON nodes and primitive Java types such as String, Integer and UUID.
+// ---
+
 package io.crnk.meta.model;
 
 import java.io.Serializable;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BraveServerModule traces repository accesses with a brave filter
+// summary: A crnk module that traces repository accesses by registering a brave repository filter during module setup.
+// ---
+
 package io.crnk.monitor.brave;
 
 import brave.Tracing;

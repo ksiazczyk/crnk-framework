@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ImmediateRepository annotation
+// summary: Java annotation marking a non-reactive repository as immediate so calls are not moved to worker threads.
+// ---
+
 package io.crnk.reactive.repository;
 
 import java.lang.annotation.Documented;

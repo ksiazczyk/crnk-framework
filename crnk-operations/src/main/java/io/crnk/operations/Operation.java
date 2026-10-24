@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Operation model class
+// summary: Java model class holding a CRnK operation with an op name, a path, and a resource value, plus equals and hashCode implementations.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.core.engine.document.Resource;

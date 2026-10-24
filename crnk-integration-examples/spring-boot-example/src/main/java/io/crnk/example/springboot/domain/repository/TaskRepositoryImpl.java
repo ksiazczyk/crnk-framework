@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TaskRepositoryImpl manages tasks in memory
+// summary: An in-memory implementation of TaskRepository that manages tasks with an atomic id generator and query spec support.
+// ---
+
 package io.crnk.example.springboot.domain.repository;
 
 import io.crnk.core.exception.BadRequestException;

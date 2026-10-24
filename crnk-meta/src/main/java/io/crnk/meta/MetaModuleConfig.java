@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: MetaModuleConfig class
+// summary: Java configuration class holding meta providers and applying them to a MetaLookupImpl.
+// ---
+
 package io.crnk.meta;
 
 import io.crnk.core.engine.internal.utils.PreconditionUtil;

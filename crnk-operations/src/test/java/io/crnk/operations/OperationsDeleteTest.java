@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Delete operations test
+// summary: Verifies deleting entities directly and by path removes them and their relationships.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.core.engine.http.HttpMethod;

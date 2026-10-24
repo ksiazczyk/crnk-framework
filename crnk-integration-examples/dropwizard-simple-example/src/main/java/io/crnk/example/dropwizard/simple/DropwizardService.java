@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DropwizardService
+// summary: The main Dropwizard application entry point that registers a Crnk module with a ProjectRepository and exposes it through Jersey.
+// ---
+
 package io.crnk.example.dropwizard.simple;
 
 import io.crnk.core.module.SimpleModule;

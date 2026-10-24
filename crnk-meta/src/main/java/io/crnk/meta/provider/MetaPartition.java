@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaPartition interface
+// summary: Interface for a meta partition responsible for discovering and allocating meta elements for Java types.
+// ---
+
 package io.crnk.meta.provider;
 
 import io.crnk.meta.model.MetaElement;

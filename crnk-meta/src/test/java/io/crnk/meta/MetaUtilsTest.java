@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaResourceRepositoryTest
+// summary: Tests the resource repository implementation for throwing exceptions on not found lookups.
+// ---
+
 package io.crnk.meta;
 
 import io.crnk.meta.internal.MetaUtils;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ReactiveManyRelationshipRepository interface
+// summary: Interface for reactive repositories managing many-valued relationships, including adding, setting and removing relations.
+// ---
+
 package io.crnk.reactive.repository;
 
 import io.crnk.core.engine.information.resource.ResourceField;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaDataObjectProvider abstract class
+// summary: Abstract class providing metadata object access for CRNK meta resources while implementing the MetaFilter interface.
+// ---
+
 package io.crnk.meta.internal;
 
 import java.lang.reflect.Type;

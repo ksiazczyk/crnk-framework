@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaResourceBase base class
+// summary: Base class for resource classes that share the structure of resources but are not resources themselves.
+// ---
+
 package io.crnk.meta.model.resource;
 
 import java.util.List;

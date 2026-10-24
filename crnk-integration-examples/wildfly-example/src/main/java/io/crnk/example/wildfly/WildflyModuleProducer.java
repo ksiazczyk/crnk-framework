@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WildflyModuleProducer CDI producer
+// summary: A CDI producer that creates Crnk modules, repositories, and supplies the persistence EntityManager.
+// ---
+
 package io.crnk.example.wildfly;
 
 import io.crnk.core.engine.transaction.TransactionRunner;

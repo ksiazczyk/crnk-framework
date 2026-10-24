@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BraveUtil
+// summary: Utility class that serializes repository queries into URL strings and builds span names for Brave tracing.
+// ---
+
 package io.crnk.monitor.brave.internal;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

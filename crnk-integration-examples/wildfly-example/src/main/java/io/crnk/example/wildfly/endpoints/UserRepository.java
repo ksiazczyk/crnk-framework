@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UserRepository
+// summary: A CRnK in-memory resource repository for User that handles CRUD operations and seeds sample users on construction.
+// ---
+
 package io.crnk.example.wildfly.endpoints;
 
 import io.crnk.core.queryspec.QuerySpec;

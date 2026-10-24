@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaKeyTest for key string generation
+// summary: Test for MetaKey covering key string parsing, non-unique primary key errors and null handling.
+// ---
+
 package io.crnk.meta.model;
 
 import io.crnk.meta.AbstractMetaTest;

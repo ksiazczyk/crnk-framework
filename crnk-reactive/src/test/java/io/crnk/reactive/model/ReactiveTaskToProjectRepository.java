@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ReactiveTaskToProjectRepository
+// summary: A test repository managing the one-to-many relationship between reactive tasks and their project.
+// ---
+
 package io.crnk.reactive.model;
 
 import io.crnk.core.engine.information.resource.ResourceField;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaFilterBase class
+// summary: Default no-op implementation of the MetaFilter interface.
+// ---
+
 package io.crnk.meta.provider;
 
 import io.crnk.core.engine.query.QueryContext;

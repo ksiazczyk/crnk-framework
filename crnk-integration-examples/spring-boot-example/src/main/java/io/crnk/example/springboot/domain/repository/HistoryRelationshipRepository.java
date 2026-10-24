@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HistoryRelationshipRepository provides a generic history relationship
+// summary: A generic relationship repository that introduces a history relationship for project and task resources without touching those resources.
+// ---
+
 package io.crnk.example.springboot.domain.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

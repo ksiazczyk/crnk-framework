@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ReactiveResourceRepositoryBase abstract class
+// summary: Abstract base class implementing most ReactiveResourceRepository methods, read-only by default and forwarding to findAll.
+// ---
+
 package io.crnk.reactive;
 
 import io.crnk.core.engine.registry.RegistryEntry;

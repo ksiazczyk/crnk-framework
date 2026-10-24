@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Configures the Gradle build for the Wildfly example WAR and declares the project dependencies used at compile time.
+// ---
+
 apply plugin: 'war'
 
 war {

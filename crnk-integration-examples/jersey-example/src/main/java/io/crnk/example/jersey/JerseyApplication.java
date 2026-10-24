@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JerseyApplication Crnk JAX-RS configuration
+// summary: Jersey ResourceConfig that registers the Crnk feature and application modules for the example.
+// ---
+
 package io.crnk.example.jersey;
 
 import io.crnk.core.boot.CrnkProperties;

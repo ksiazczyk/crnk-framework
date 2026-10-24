@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Spring Boot task service entry point
+// summary: Spring Boot application entry point that starts the task microservice and prints its local URL.
+// ---
+
 package io.crnk.example.springboot.microservice.task;
 
 import org.springframework.boot.SpringApplication;

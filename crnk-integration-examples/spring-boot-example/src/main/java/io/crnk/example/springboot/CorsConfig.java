@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CorsConfig CORS filter configuration
+// summary: Configures a permissive CORS filter for the Spring Boot example, allowing all origins, headers and methods.
+// ---
+
 package io.crnk.example.springboot;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: BraveResponseFilterTest
+// summary: Tests the BraveRepositoryFilter status code annotation behavior, currently ignored due to Brave final class changes.
+// ---
+
 package io.crnk.monitor.brave;
 
 import brave.Span;

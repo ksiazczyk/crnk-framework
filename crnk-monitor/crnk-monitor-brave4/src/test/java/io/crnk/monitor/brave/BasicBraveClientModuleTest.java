@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: BasicBraveClientModuleTest
+// summary: Tests BraveClientModule construction, naming, adapter validation and tracing wiring.
+// ---
+
 package io.crnk.monitor.brave;
 
 import brave.Tracing;

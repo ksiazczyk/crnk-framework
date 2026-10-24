@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: Spring test configuration
+// summary: Provides Spring beans, data source and transaction configuration for the operations tests.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.operations.model.MovieEntity;

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore configuration
+# summary: Git configuration listing build artifacts, IDE files, and Java package files to ignore in the repository.
+# ---
+
 # Created by .ignore support plugin (hsz.mobi)
 ### Maven template
 target/

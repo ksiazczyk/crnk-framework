@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: config
+title: logback.xml
+summary: Logback logging configuration that defines console output and sets log levels for the example and crnk packages.
+-->
 
 <configuration>
 	<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">

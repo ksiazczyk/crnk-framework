@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration that sets the main class and dependencies for the Dropwizard example.
+// ---
+
 apply plugin: 'java'
 
 apply plugin: 'application'

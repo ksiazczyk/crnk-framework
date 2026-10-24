@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TestDataLoader sample data initialization
+// summary: Populates the database with sample projects, tasks, users and schedules on application startup.
+// ---
+
 package io.crnk.example.springboot;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

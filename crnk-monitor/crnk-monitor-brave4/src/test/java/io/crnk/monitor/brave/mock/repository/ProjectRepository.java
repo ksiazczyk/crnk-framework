@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Project mock repository
+// summary: In-memory mock repository that stores Project resources and assigns incrementing IDs for CRNK API tests.
+// ---
+
 package io.crnk.monitor.brave.mock.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

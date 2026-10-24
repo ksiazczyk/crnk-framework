@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MonoResult wraps a Reactor Mono as a Result
+// summary: A Result implementation that wraps a Reactor Mono, delegating mapping, error handling and subscription operations to the underlying reactive stream.
+// ---
+
 package io.crnk.reactive.internal.adapter;
 
 import io.crnk.core.engine.dispatcher.RepositoryRequestSpec;

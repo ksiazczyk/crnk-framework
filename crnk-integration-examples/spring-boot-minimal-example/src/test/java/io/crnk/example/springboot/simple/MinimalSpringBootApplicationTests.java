@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MinimalSpringBootApplicationTests test cases
+// summary: Test class extending BaseTest that demonstrates both RestAssured and CrnkClient based test cases for the minimal Spring Boot example.
+// ---
+
 package io.crnk.example.springboot.simple;
 
 import com.jayway.restassured.RestAssured;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaDataObject
+// summary: Abstract meta model element describing a data object with attributes, keys, interfaces and subtype relationships.
+// ---
+
 package io.crnk.meta.model;
 
 import java.lang.reflect.Modifier;

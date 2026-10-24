@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Spring Boot application entry point
+// summary: The main Spring Boot entry point that starts the project microservice and prints the local URL.
+// ---
+
 package io.crnk.example.springboot.microservice.project;
 
 import org.springframework.boot.SpringApplication;

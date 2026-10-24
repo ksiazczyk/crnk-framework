@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonObjectMetaFactory
+// summary: Factory that produces MetaJsonObject instances for classes annotated with @JsonApiResource and accepts any type with the lowest priority.
+// ---
+
 package io.crnk.meta.internal.resource;
 
 import java.lang.reflect.Type;

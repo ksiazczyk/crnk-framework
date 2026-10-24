@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PersonEntity JPA entity
+// summary: A JPA entity representing a person, with a name and a many-to-many relationship back to directed movies.
+// ---
+
 package io.crnk.operations.model;
 
 import javax.persistence.Entity;

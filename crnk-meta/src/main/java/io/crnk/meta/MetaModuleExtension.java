@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaModuleExtension class
+// summary: Java module extension class that collects meta providers for the MetaModule.
+// ---
+
 package io.crnk.meta;
 
 import io.crnk.core.module.Module;

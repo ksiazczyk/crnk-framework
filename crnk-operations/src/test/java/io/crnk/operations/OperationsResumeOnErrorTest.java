@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Tests resume on error behavior
+// summary: Tests whether operations roll back or resume when a validation error occurs.
+// ---
+
 package io.crnk.operations;
 
 import io.crnk.core.engine.http.HttpMethod;

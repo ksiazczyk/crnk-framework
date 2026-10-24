@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: config
+title: Logback logging configuration
+summary: Configures Logback logging with a console appender and sets INFO level for the trace reporter and Crnk logger while keeping the root logger at WARN.
+-->
 
 <configuration>
 	<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
