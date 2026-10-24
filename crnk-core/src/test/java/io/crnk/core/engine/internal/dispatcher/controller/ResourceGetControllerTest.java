@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResponseTest for Response equality and hashing
+// summary: Tests hashCode and equals behavior of the Response class used by the dispatcher.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import io.crnk.core.engine.dispatcher.Response;

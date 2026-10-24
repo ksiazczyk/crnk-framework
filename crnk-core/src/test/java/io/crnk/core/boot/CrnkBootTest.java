@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CrnkBootTest integration test
+// summary: JUnit test covering CrnkBoot lifecycle, including booting once, rejecting double boot, and configuring service discovery, URL provider, and properties provider.
+// ---
+
 package io.crnk.core.boot;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

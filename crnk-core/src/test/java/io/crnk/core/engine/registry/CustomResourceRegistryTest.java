@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CustomResourceRegistryTest
+// summary: A JUnit test that boots a test container with a custom registry module and verifies that querying the custom resource repository returns the expected single resource.
+// ---
+
 package io.crnk.core.engine.registry;
 
 import io.crnk.core.CoreTestContainer;

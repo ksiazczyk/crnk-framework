@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CoreTestModule registering mock repositories
+// summary: Test module that registers the mock repositories exercised by the core test suite.
+// ---
+
 package io.crnk.core;
 
 import io.crnk.core.mock.repository.ComplexPojoRepository;

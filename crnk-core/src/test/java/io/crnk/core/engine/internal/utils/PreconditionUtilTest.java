@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PreconditionUtilTest
+// summary: Tests PreconditionUtil assertions for satisfied and unsatisfied precondition messages.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import org.junit.Assert;

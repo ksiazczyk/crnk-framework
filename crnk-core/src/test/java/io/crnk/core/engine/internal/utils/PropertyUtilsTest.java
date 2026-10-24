@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PropertyUtils test
+// summary: Tests property retrieval, class resolution and generic type resolution for beans and methods in PropertyUtils.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import org.junit.Assert;

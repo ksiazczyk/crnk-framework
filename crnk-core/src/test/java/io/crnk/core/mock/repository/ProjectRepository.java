@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectRepository
+// summary: A mock project repository backed by thread-local storage that simulates special create behaviors.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.Project;

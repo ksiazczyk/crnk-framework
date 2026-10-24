@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SomeExceptionMapper test fixture
+// summary: Test fixture exception mapper that maps a custom runtime exception to a 500 error response with a title.
+// ---
+
 package io.crnk.core.engine.error.handlers;
 
 import io.crnk.core.engine.document.ErrorData;

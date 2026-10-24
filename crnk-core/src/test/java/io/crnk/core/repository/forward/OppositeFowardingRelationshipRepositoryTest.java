@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OppositeFowardingRelationshipRepositoryTest
+// summary: Tests the opposite forwarding relationship repository, verifying target lookups by resource id and relation id.
+// ---
+
 package io.crnk.core.repository.forward;
 
 import io.crnk.core.CoreTestContainer;

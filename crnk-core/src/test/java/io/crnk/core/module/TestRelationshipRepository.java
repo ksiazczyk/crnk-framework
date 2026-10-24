@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestRelationshipRepository
+// summary: Stub relationship repository used in tests with no-op relation operations.
+// ---
+
 package io.crnk.core.module;
 
 import io.crnk.core.queryspec.QuerySpec;

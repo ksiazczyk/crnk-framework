@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Project patch strategy repository
+// summary: In-memory repository for ProjectPatchStrategy that assigns generated ids on save.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.ProjectPatchStrategy;

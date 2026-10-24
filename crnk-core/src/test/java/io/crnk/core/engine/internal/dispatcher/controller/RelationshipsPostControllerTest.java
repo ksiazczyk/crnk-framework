@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationshipsPostControllerTest
+// summary: JUnit test for the RelationshipsPostController covering accept/deny decisions and missing body handling.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

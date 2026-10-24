@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: DefaultInformationBuilderTest
+// summary: Tests the DefaultInformationBuilder for building resource information, fields, relationships, and access settings.
+// ---
+
 package io.crnk.core.engine.internal.information;
 
 import io.crnk.core.engine.information.InformationBuilder;

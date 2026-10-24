@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TaskWithPagingBehaviorRepository mock resource repository
+// summary: A mock repository for TaskWithPagingBehavior resources backed by a map.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

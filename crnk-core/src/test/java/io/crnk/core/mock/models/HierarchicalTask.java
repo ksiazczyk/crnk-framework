@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HierarchicalTask with parent and children relations
+// summary: JSON API task model with parent, another-parent and children relations using varied lookup behaviors.
+// ---
+
 package io.crnk.core.mock.models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

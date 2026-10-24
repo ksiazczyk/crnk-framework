@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestServiceDiscovery
+// summary: Test implementation of the ServiceDiscovery interface that always returns empty instance lists.
+// ---
+
 package io.crnk.core.module.discovery;
 
 import java.lang.annotation.Annotation;

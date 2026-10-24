@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectData test model
+// summary: A test model class annotated as a JSON API embeddable, holding project data such as priorities, status, keywords and a due date.
+// ---
+
 package io.crnk.core.mock.models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

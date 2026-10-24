@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClassARepository mock repository
+// summary: A mock in-memory repository for the ClassA test model, extending InMemoryResourceRepository to supply test data.
+// ---
+
 package io.crnk.core.engine.internal.jackson.mock.repositories;
 
 import io.crnk.core.engine.internal.jackson.mock.models.ClassA;

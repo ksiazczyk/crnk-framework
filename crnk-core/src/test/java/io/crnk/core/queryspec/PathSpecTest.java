@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PathSpecTest
+// summary: JUnit test verifying PathSpec serialization and deserialization with a Jackson ObjectMapper.
+// ---
+
 package io.crnk.core.queryspec;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

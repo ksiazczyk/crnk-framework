@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceFilterDirectoryImpl test
+// summary: JUnit test that verifies how ResourceFilterDirectoryImpl merges and evaluates resource filters across HTTP methods and filter behaviors.
+// ---
+
 package io.crnk.core.module.internal;
 
 import java.util.ArrayList;

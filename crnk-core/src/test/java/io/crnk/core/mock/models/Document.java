@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Abstract Document model
+// summary: Abstract JSON API document model extending Thing with a title property.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

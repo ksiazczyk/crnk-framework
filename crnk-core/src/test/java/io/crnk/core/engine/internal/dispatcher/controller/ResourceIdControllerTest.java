@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceIdControllerTest for @JsonApiRelationId
+// summary: Tests usage of @JsonApiRelationId by exercising POST and PATCH operations on relation identifiers.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import io.crnk.core.engine.dispatcher.Response;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectPolymorphicRepository
+// summary: A mock in-memory repository for polymorphic project resources used in tests.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.ProjectPolymorphic;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FieldPostControllerTest for field resource post handling
+// summary: Tests the FieldResourcePost controller for accepting and handling field-level post requests.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import io.crnk.core.engine.dispatcher.Response;

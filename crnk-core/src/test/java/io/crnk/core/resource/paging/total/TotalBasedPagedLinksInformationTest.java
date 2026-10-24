@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TotalBasedPagedLinksInformationTest
+// summary: JUnit test verifying that pagination link information (first, last, prev, next) is generated correctly for a resource with a total count.
+// ---
+
 package io.crnk.core.resource.paging.total;
 
 import io.crnk.core.CoreTestContainer;

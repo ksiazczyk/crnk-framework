@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ErrorDataMother
+// summary: Provides constants and builder helpers that produce fully populated ErrorData instances for use in tests.
+// ---
+
 package io.crnk.core.engine.error;
 
 import io.crnk.core.engine.document.ErrorData;

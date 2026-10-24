@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SubclassExceptionMapper test fixture
+// summary: Test fixture exception mapper extending the base class to map IllegalArgumentExceptions to a 500 error response.
+// ---
+
 package io.crnk.core.engine.error.handlers;
 
 import io.crnk.core.engine.document.ErrorData;

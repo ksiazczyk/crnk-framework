@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: IncludeFieldSpecTest
+// summary: JUnit test covering IncludeFieldSpec construction, string representation, equality and cloning.
+// ---
+
 package io.crnk.core.queryspec;
 
 import java.util.Arrays;

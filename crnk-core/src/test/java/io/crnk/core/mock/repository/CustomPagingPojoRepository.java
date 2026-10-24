@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Custom paging Pojo repository
+// summary: In-memory repository for CustomPagingPojo used to exercise custom paging behavior.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.CustomPagingPojo;

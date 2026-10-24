@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MultivaluedMapTest
+// summary: Tests MultivaluedMap add, set, list and unique retrieval behavior.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import org.junit.Assert;

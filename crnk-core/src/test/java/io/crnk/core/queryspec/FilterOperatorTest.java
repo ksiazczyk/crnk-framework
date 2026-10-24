@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectRepository
+// summary: Mock repository for Project backed by a concurrent map, with special save behaviors for testing.
+// ---
+
 package io.crnk.core.queryspec;
 
 import java.io.IOException;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Nested Resource Test
+// summary: JUnit test covering nested, one-to-many and grandchild resource relationships within the crnk engine.
+// ---
+
 package io.crnk.core.engine.internal.resource;
 
 import java.io.Serializable;

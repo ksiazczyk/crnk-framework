@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClassC test model with ClassA relation
+// summary: A JsonApiResource model with a relation back to ClassA, used as a simple test fixture.
+// ---
+
 package io.crnk.core.engine.internal.jackson.mock.models;
 
 import java.util.List;

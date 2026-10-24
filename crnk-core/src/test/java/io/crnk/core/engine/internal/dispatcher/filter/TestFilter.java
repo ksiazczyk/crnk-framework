@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestFilter delegates to the document filter chain
+// summary: Minimal DocumentFilter implementation that delegates to the chain, used as a mockable filter in tests.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.filter;
 
 import io.crnk.core.engine.dispatcher.Response;

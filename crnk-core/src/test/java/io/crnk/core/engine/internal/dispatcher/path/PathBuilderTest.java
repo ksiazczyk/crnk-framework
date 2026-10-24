@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PathBuilderTest
+// summary: A JUnit test that verifies PathBuilder produces correct JSON paths for empty, flat, and nested resource paths.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.path;
 
 import io.crnk.core.CoreTestContainer;

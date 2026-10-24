@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationshipRepositoryBaseTest
+// summary: Tests the deprecated RelationshipRepositoryBase constructors and accessors.
+// ---
+
 package io.crnk.core.repository.forward;
 
 import io.crnk.core.engine.internal.utils.CoreClassTestUtils;

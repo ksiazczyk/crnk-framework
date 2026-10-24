@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: HttpStatusTest
+// summary: Verifies that the HttpStatus class exposes only a private constructor.
+// ---
+
 package io.crnk.core.engine.http;
 
 

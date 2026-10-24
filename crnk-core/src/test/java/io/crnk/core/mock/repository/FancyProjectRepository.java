@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Fancy project repository
+// summary: Repository for FancyProject backed by a hash map that applies query specs and supports save and delete.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.FancyProject;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceFieldAccessTest
+// summary: Tests the equals contract and the and operation of the ResourceFieldAccess class using EqualsVerifier and JUnit assertions.
+// ---
+
 package io.crnk.core.engine;
 
 import io.crnk.core.engine.information.resource.ResourceFieldAccess;

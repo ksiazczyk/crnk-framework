@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationshipsPatchControllerTest
+// summary: JUnit test for the RelationshipsPatchController covering accept/deny decisions and adding to-one relationships.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import io.crnk.core.engine.dispatcher.Response;

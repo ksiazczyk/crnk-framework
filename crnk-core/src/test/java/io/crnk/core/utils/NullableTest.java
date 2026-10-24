@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: NullableTest
+// summary: Tests the Nullable utility class, covering the exception thrown when an empty value is accessed and the behavior of ofNullable.
+// ---
+
 package io.crnk.core.utils;
 
 import org.junit.Assert;

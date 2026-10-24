@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Resource exercising relation ID and lookup behaviors
+// summary: Resource covering relation IDs, lookups and serialization behaviors.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.engine.document.ResourceIdentifier;

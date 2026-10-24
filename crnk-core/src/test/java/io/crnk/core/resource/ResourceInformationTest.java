@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Resource information test
+// summary: Tests resource information field lookup, id string conversion and resource identifier creation.
+// ---
+
 package io.crnk.core.resource;
 
 import com.fasterxml.jackson.annotation.JsonAnyGetter;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceDeleteControllerTest
+// summary: JUnit test for the ResourceDeleteController covering accept/deny decisions and resource deletion handling.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import io.crnk.core.engine.dispatcher.Response;

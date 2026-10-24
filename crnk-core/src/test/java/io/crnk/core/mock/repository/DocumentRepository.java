@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Document repository
+// summary: In-memory repository for the Document mock resource.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.Document;

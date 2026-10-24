@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: IncludeLookupSetterBaseTest
+// summary: Base test class exercising the include lookup setter logic against task, project and hierarchical task repositories using mocked properties and query adapters.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup;
 
 import io.crnk.core.boot.CrnkProperties;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FilterTest verifies filter invocation during request dispatch
+// summary: JUnit test that verifies a registered DocumentFilter receives the request context when the request dispatcher processes a collection GET.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.filter;
 
 import io.crnk.core.CoreTestContainer;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ErrorDataTest
+// summary: Verifies the ErrorData equals and hashCode contract, JSON serialization round-trip, and toString output.
+// ---
+
 package io.crnk.core.engine.error;
 
 import java.io.IOException;

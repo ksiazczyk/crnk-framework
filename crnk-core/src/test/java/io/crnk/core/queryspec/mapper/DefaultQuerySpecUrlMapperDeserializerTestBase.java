@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Project
+// summary: Mock Project data model used across the test suite to exercise repository and query behavior.
+// ---
+
 package io.crnk.core.queryspec.mapper;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

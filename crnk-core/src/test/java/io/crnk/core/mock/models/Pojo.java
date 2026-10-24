@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Complex test POJO with a contained relation
+// summary: Test POJO exposing an id, a contained relation and an updateable property.
+// ---
+
 package io.crnk.core.mock.models;
 
 import java.util.List;

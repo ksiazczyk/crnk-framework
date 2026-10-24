@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: DefaultResourceRepositoryInformationProviderTest
+// summary: Verifies method access flags for readonly, deletable, patchable, and postable resource repositories.
+// ---
+
 package io.crnk.core.engine.internal.information;
 
 import io.crnk.core.boot.CrnkBoot;

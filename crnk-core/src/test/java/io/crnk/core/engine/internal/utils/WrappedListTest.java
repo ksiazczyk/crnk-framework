@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: WrappedList test
+// summary: Tests WrappedList collection operations against its wrapped raw list.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import org.junit.Assert;

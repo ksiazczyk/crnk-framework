@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FieldOrderedComparatorTest
+// summary: Tests that FieldOrderedComparator sorts resource fields according to an explicit order, insertion order, and alphabetic order.
+// ---
+
 package io.crnk.core.resource.field;
 
 import io.crnk.core.engine.information.resource.ResourceField;

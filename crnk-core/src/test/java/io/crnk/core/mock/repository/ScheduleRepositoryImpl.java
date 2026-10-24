@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ScheduleRepositoryImpl
+// summary: An in-memory implementation of the schedule repository interface.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.Schedule;

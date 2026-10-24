@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TaskWithPagingBehaviorToProjectRepository mock relationship repository
+// summary: A mock relationship repository for TaskWithPagingBehavior to Project relationships.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.Project;

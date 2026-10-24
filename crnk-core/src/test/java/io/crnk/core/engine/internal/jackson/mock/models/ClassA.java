@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClassA test model with ClassB relation
+// summary: A JsonApiResource model class with an eager relation to ClassB, serving as a test fixture for Jackson serialization.
+// ---
+
 package io.crnk.core.engine.internal.jackson.mock.models;
 
 import java.util.Collections;

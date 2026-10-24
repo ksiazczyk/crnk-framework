@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: DefaultServiceDiscoveryFactoryTest
+// summary: JUnit test verifying that DefaultServiceDiscoveryFactory returns an instance of TestServiceDiscovery.
+// ---
+
 package io.crnk.core.module.discovery;
 
 import org.junit.Assert;

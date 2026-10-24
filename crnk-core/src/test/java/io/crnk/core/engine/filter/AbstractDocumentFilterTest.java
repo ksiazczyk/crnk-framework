@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AbstractDocumentFilterTest
+// summary: Verifies that AbstractDocumentFilter delegates filtering to the chain by mocking the filter context and chain.
+// ---
+
 package io.crnk.core.engine.filter;
 
 import org.junit.Test;

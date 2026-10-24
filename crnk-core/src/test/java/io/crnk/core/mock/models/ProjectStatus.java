@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Deeply nested embeddable project status
+// summary: Nested embeddable describing quality and timeline status below ProjectData.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiEmbeddable;

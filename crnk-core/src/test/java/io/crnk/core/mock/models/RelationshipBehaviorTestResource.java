@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Resource testing relationship repository behaviors
+// summary: Resource covering relation IDs and relationship repository behaviors.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiId;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Hierarchical task repository
+// summary: Repository for HierarchicalTask backed by a hash map with query spec, save and delete support.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.HierarchicalTask;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResponseTest
+// summary: JUnit test that verifies hashCode and equals behavior of Response as well as its document and HTTP status getters and setters.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher;
 
 import io.crnk.core.engine.dispatcher.Response;

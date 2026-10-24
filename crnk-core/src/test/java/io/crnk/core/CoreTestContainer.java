@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CoreTestContainer test harness
+// summary: Test container that boots the Crnk framework and exposes the request, query, and registry contexts used by core unit tests.
+// ---
+
 package io.crnk.core;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

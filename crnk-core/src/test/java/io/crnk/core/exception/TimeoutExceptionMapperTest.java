@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TimeoutExceptionMapper test
+// summary: JUnit test verifying that TimeoutExceptionMapper maps a timeout exception to a 504 gateway timeout response.
+// ---
+
 package io.crnk.core.exception;
 
 import io.crnk.core.engine.error.ErrorResponse;

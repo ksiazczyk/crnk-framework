@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerySpecVisitor interface for traversing a QuerySpec
+// summary: Interface that allows traversing a QuerySpec, with start and end methods for nested objects like filtering and sorting.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup.relationid;
 
 import io.crnk.core.engine.document.Document;

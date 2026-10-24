@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Polymorphic project resource with object relations
+// summary: Project resource with polymorphic object and list relations.
+// ---
+
 package io.crnk.core.mock.models;
 
 import java.util.List;

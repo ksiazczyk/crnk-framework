@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ContainedPojo with updateable properties
+// summary: Simple POJO with two updateable string properties used as a contained relation target.
+// ---
+
 package io.crnk.core.mock.models;
 
 public class ContainedPojo {

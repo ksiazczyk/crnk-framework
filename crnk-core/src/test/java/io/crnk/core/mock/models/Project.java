@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: POJO holding two updateable properties
+// summary: Simple POJO with two updateable string properties used as a contained value.
+// ---
+
 package io.crnk.core.mock.models;
 
 import java.util.ArrayList;

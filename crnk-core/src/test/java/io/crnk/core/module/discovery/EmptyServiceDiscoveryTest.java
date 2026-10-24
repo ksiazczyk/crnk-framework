@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: EmptyServiceDiscoveryTest
+// summary: JUnit test asserting that EmptyServiceDiscovery reports no instances by type or annotation.
+// ---
+
 package io.crnk.core.module.discovery;
 
 import org.junit.Assert;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RegistryEntryFacadeTest
+// summary: JUnit tests exercising CRUD operations on the resource registry facade, including find, save, delete, create and filtered queries against a mock repository.
+// ---
+
 package io.crnk.core.resource.registry;
 
 import io.crnk.core.CoreTestContainer;

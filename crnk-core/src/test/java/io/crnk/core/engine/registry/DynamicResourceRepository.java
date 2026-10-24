@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: DynamicResourceRepository
+// summary: A test helper resource repository that returns a single dynamic resource, used by the registry tests.
+// ---
+
 package io.crnk.core.engine.registry;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

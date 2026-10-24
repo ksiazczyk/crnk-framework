@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Lazy task repository
+// summary: Repository for LazyTask backed by a hash map with query spec, save and delete support.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.LazyTask;

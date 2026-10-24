@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceFieldContributor test
+// summary: JUnit test that verifies the ResourceFieldContributor adds contributed fields to resource information and supports inclusion on request.
+// ---
+
 package io.crnk.core.engine.information.contributor;
 
 import com.google.common.collect.Sets;

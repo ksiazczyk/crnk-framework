@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClassB test model with ClassC and ClassA relations
+// summary: A JsonApiResource model exposing relations to ClassC and ClassA for exercising include lookups.
+// ---
+
 package io.crnk.core.engine.internal.jackson.mock.models;
 
 import java.util.Collections;

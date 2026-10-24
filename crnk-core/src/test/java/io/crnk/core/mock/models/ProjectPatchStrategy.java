@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Project resource using a set patch strategy
+// summary: Project resource whose data field uses a set patch strategy.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiField;

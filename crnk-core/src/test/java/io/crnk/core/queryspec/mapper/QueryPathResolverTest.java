@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: LegacyQuerySpecUrlMapperDeserializerTest
+// summary: Exercises the legacy deserializer with dot path separator enforcement disabled.
+// ---
+
 package io.crnk.core.queryspec.mapper;
 
 import io.crnk.core.CoreTestContainer;

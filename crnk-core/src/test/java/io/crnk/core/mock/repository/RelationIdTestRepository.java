@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationIdTestRepository
+// summary: A mock repository for relation-id test resources backed by a hash map.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.RelationIdTestResource;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: HasNextPageTestRepository
+// summary: In-memory test repository backing the HasNextPageResource for paging tests.
+// ---
+
 package io.crnk.core.resource.paging.next;
 
 import io.crnk.core.queryspec.QuerySpec;

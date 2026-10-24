@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceFieldImplTest
+// summary: JUnit test that verifies the toString output of ResourceFieldImpl using Mockito-mocked ResourceInformation.
+// ---
+
 package io.crnk.core.engine.internal.information.resource;
 
 import io.crnk.core.engine.document.Resource;

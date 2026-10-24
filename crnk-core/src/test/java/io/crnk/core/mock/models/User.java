@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: User JsonApiResource model with relations and meta
+// summary: JsonApiResource model with eager project and task relations plus meta and links information.
+// ---
+
 package io.crnk.core.mock.models;
 
 import java.util.Collections;

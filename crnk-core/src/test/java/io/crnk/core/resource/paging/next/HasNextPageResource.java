@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: HasNextPageResource
+// summary: Test resource model annotated as a JSON API tasks resource used by the HasNext paging tests.
+// ---
+
 package io.crnk.core.resource.paging.next;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;

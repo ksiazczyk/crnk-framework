@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourcePostControllerTest for POST handling
+// summary: Tests the ResourcePostController for request acceptance, handling, and error conditions.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import static org.assertj.core.api.Assertions.assertThat;

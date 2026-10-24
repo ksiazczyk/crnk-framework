@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OwnerFowardingRelationshipRepositoryTest
+// summary: Tests the owner forwarding relationship repository using task, project and schedule resources.
+// ---
+
 package io.crnk.core.repository.forward;
 
 import java.util.ArrayList;

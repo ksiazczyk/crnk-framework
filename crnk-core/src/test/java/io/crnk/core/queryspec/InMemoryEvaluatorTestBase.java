@@ -1,3 +1,8 @@
+// ---docerion
+// type: test
+// title: InMemoryEvaluatorTestBase.java
+// ---
+
 package io.crnk.core.queryspec;
 
 import java.util.ArrayList;

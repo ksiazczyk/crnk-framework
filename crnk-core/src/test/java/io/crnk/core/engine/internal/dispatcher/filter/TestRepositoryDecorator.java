@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestRepositoryDecorator wraps Schedule repositories
+// summary: RepositoryDecoratorFactory that wraps Schedule repositories with a decorated repository for testing.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.filter;
 
 import io.crnk.core.mock.models.Schedule;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ClassCWithInclusion test model with self relation
+// summary: A JsonApiResource model with a self-referencing ClassCWithInclusion relation and automatic inclusion.
+// ---
+
 package io.crnk.core.engine.internal.jackson.mock.models;
 
 import java.util.Collections;

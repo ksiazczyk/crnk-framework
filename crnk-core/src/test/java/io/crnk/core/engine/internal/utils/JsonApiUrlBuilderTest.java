@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JsonApiUrlBuilderTest
+// summary: Tests JsonApiUrlBuilder for building URLs, query strings and relationship paths.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import io.crnk.core.CoreTestModule;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: DefaultQuerySpecUrlMapperSerializerTest
+// summary: Verifies that query specs serialize into correctly formed resource URLs with expected query parameters.
+// ---
+
 package io.crnk.core.queryspec.mapper;
 
 import com.fasterxml.jackson.core.JsonProcessingException;

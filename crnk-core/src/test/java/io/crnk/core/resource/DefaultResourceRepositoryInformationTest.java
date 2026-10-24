@@ -1,3 +1,12 @@
+// ---docerion
+// type: test
+// title: Default resource repository information test
+// summary: Tests the default resource repository information provider for exposed, default and not exposed repositories.
+// relations:
+//   - references /crnk-core/src/main/java/io/crnk/core/engine/information/repository/ResourceRepositoryInformation.java
+//   - references /crnk-core/src/main/java/io/crnk/core/engine/information/repository/RepositoryInformationProviderContext.java
+// ---
+
 package io.crnk.core.resource;
 
 import io.crnk.core.engine.information.repository.RepositoryInformationProviderContext;

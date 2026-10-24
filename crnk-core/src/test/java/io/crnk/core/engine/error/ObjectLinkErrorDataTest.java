@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ObjectLinkErrorDataTest
+// summary: Tests ErrorData serialization when links are serialized as objects rather than link strings.
+// ---
+
 package io.crnk.core.engine.error;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

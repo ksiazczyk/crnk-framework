@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ExceptionUtilsTest
+// summary: Tests ExceptionUtil.wrapCatchedExceptions for success, runtime and checked exceptions.
+// ---
+
 package io.crnk.core.engine.internal.utils;
 
 import org.junit.Assert;

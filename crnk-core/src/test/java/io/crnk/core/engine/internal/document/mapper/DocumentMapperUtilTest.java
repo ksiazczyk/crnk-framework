@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FieldResourceGetControllerInterface
+// summary: Interface declaring the contract implemented by field resource GET controllers.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import io.crnk.core.engine.document.ResourceIdentifier;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ControllerTestBase abstract test setup
+// summary: Abstract base class that sets up the Crnk test container, boot, and shared test fixtures used by the controller test suite.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import java.util.Arrays;

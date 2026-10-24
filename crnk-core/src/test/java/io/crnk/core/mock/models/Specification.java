@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Specification JsonApiResource extending Document
+// summary: JsonApiResource model extending Document with a design outline and a task relation.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

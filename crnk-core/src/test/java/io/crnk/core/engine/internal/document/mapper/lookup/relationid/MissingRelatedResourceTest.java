@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MissingRelatedResourceTest
+// summary: JUnit test verifying that serializing a relation to a missing related resource raises a ResourceNotFoundException.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup.relationid;
 
 import io.crnk.core.engine.document.ResourceIdentifier;

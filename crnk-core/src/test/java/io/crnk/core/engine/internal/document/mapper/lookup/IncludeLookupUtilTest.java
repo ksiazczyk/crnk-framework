@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: IncludeLookupUtilTest
+// summary: Test covering the default and configured global lookup include behavior of the IncludeLookupUtil helper.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup;
 
 import io.crnk.core.boot.CrnkProperties;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FieldResourceRelationshipGetController
+// summary: Implementation of the controller that dispatches GET requests for the relationships of a single field.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

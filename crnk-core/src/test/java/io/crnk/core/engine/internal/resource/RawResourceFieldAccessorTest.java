@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Raw Resource Field Accessor Test
+// summary: JUnit test exercising the RawResourceFieldAccessor for attributes, ids, relationships, meta and links.
+// ---
+
 package io.crnk.core.engine.internal.resource;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

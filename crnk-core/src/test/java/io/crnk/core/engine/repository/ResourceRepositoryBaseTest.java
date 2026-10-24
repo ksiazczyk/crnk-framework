@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceRepositoryBase test
+// summary: JUnit test that verifies ResourceRepositoryBase behavior, including throwing exceptions when a resource is not found and when save, create, or delete operations are not supported.
+// ---
+
 package io.crnk.core.engine.repository;
 
 import io.crnk.core.CoreTestContainer;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: QuerySpecAdapterTest
+// summary: JUnit test verifying QuerySpecAdapter self-link detection based on the request path.
+// ---
+
 package io.crnk.core.queryspec;
 
 import io.crnk.core.engine.internal.registry.ResourceRegistryImpl;

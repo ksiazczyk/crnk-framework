@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationshipsDeleteControllerTest for relationship deletion
+// summary: Tests the RelationshipsDeleteController for accepting and deleting to-one relationship requests.
+// ---
+
 package io.crnk.core.engine.internal.dispatcher.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

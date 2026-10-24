@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectToProjectEagerRepository
+// summary: Relationship repository mapping Project to ProjectEager for eager relationship tests.
+// ---
+
 package io.crnk.core.queryspec;
 
 import org.junit.Assert;

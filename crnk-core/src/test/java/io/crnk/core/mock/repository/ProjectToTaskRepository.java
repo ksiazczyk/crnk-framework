@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectToTaskRepository
+// summary: A relationship repository linking projects to tasks for testing.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.Project;

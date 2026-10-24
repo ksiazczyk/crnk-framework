@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CustomPagingPojo with custom paging spec
+// summary: JSON API resource configured with a custom paging spec and a lazily serialized task relation.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.queryspec.pagingspec.NumberSizePagingSpec;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Resource list test
+// summary: Tests resource list constructors, meta and links handling, and casting between information interfaces.
+// ---
+
 package io.crnk.core.resource;
 
 import io.crnk.core.engine.internal.utils.CastableInformation;

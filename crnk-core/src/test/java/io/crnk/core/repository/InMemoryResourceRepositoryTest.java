@@ -1,3 +1,8 @@
+// ---docerion
+// type: test
+// title: InMemoryResourceRepositoryTest.java
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.mock.models.Task;

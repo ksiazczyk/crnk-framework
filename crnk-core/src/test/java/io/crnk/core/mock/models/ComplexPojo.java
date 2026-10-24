@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ComplexPojo JSON API resource model
+// summary: JSON API resource model exposing an id, a contained relation and an updateable property.
+// ---
+
 package io.crnk.core.mock.models;
 
 import io.crnk.core.resource.annotations.JsonApiId;

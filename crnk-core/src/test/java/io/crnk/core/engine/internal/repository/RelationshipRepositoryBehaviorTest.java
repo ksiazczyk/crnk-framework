@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: RelationshipRepositoryBehaviorTest
+// summary: JUnit test verifying that relationship lookups trigger implicit forwarding owner repositories for various relation identifiers.
+// ---
+
 package io.crnk.core.engine.internal.repository;
 
 import io.crnk.core.CoreTestContainer;

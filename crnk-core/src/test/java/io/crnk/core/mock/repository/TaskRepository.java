@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TaskRepository mock resource repository
+// summary: A mock repository for Task resources that implements meta and links repositories.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.exception.BadRequestException;

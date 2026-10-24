@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Pojo repository
+// summary: In-memory repository for the Pojo mock resource.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.mock.models.Pojo;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MultiValuedRelationIdLookupTest
+// summary: JUnit test checking how multi-valued relation ids are serialized when only ids or full related entities are set.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup.relationid;
 
 import io.crnk.core.engine.document.Document;

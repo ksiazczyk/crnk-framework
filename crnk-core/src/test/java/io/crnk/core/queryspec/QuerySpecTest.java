@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: QuerySpecTest
+// summary: JUnit test covering QuerySpec creation, equality contract and string representation.
+// ---
+
 package io.crnk.core.queryspec;
 
 import io.crnk.core.engine.document.Resource;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SortSpecTest
+// summary: JUnit test covering SortSpec construction, direction, equality, cloning and string representation behavior.
+// ---
+
 package io.crnk.core.queryspec;
 
 import java.util.Arrays;

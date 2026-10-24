@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SerializeOnlyIdRelationIdLookupTest
+// summary: A JUnit test verifying how the document mapper serializes a relation when only the related resource ID is set, exercising the SerializeOnlyId relation id lookup.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper.lookup.relationid;
 
 import io.crnk.core.engine.document.Document;

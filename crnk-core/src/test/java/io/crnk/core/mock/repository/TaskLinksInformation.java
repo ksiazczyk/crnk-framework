@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TaskLinksInformation
+// summary: A links information class providing a default link for task tests.
+// ---
+
 package io.crnk.core.mock.repository;
 
 import io.crnk.core.resource.links.DefaultLink;

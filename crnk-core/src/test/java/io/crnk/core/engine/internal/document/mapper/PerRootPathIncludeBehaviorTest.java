@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FieldResourceRelationshipGetControllerTestBase
+// summary: Abstract base class providing shared setup and assertions for field relationship GET controller tests.
+// ---
+
 package io.crnk.core.engine.internal.document.mapper;
 
 import io.crnk.core.boot.CrnkProperties;

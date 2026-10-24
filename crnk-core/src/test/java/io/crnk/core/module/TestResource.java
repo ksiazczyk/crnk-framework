@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestResource
+// summary: Minimal JSON:API resource model used as a fixture in tests.
+// ---
+
 package io.crnk.core.module;
 
 import io.crnk.core.resource.annotations.JsonApiId;

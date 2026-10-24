@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Default relation behavior test
+// summary: Tests default relationship behavior, verifying mappedBy configuration and relation id handling for resource fields.
+// ---
+
 package io.crnk.core.resource;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
