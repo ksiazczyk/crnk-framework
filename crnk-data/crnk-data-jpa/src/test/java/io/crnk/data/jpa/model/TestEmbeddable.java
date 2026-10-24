@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TestEmbeddable embeddable with nested attributes
+// summary: Embeddable holding string, nested, and any-type attributes with column overrides.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.AttributeOverride;

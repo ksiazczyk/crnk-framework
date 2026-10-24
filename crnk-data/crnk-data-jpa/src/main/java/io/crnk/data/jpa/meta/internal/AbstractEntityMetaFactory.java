@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaMetaProvider
+// summary: JPA meta provider that builds a meta partition from JPA types and exposes filters, partitions, and meta element types for the CRNK meta framework.
+// ---
+
 package io.crnk.data.jpa.meta.internal;
 
 import java.lang.annotation.Annotation;

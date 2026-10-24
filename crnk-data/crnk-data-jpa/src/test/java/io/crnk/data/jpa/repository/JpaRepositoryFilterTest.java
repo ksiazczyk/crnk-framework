@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaRepositoryFilterTest for repository filter hooks
+// summary: Confirms that a repository filter is invoked for query spec, results, executor, tuples and query filtering.
+// ---
+
 package io.crnk.data.jpa.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

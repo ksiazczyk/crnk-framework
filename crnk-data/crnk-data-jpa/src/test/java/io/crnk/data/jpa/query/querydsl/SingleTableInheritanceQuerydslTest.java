@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SingleTableInheritanceQuerydslTest for single table inheritance
+// summary: Test that exercises single table inheritance queries through the Querydsl query factory.
+// ---
+
 package io.crnk.data.jpa.query.querydsl;
 
 import io.crnk.data.jpa.query.JpaQueryFactory;

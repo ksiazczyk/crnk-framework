@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BasicFacetInformation
+// summary: BasicFacetInformation extends FacetInformation to associate a facet with a query PathSpec.
+// ---
+
 package io.crnk.data.facet.config;
 
 import io.crnk.core.queryspec.PathSpec;

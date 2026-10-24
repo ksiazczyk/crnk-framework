@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: OneToOneCrudTest
+// summary: CRUD test exercising persistence of one-to-one relationships.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import java.util.List;

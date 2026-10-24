@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: EmbeddedIdJpaTest for entities with embedded identifiers
+// summary: Tests CRUD operations, sorting and non-existent lookups for JPA entities that use an embedded composite identifier.
+// ---
+
 package io.crnk.data.jpa.repository;
 
 import io.crnk.client.CrnkClient;

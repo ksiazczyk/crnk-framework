@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ApprovalMapper converts entities to approval values
+// summary: Maps Schedule entities to and from ApprovalValues for use in approval process instances.
+// ---
+
 package io.crnk.data.activiti.example.approval;
 
 import io.crnk.data.activiti.example.model.ScheduleApprovalValues;

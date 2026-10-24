@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestIdEmbeddable
+// summary: Embeddable class holding composite identifier attributes with equals and hashCode for JPA tests.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;

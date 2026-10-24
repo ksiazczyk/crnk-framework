@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaRequestContext
+// summary: Holds the repository and query spec associated with a single JPA request context.
+// ---
+
 package io.crnk.data.jpa.internal.query;
 
 import java.util.HashMap;

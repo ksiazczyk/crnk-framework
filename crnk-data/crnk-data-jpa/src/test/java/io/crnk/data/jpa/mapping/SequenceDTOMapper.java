@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Sequence DTO mapper
+// summary: Maps the SequenceEntity to and from the SequenceDTO as a helper for DTO mapping tests.
+// ---
+
 package io.crnk.data.jpa.mapping;
 
 import io.crnk.data.jpa.model.SequenceEntity;

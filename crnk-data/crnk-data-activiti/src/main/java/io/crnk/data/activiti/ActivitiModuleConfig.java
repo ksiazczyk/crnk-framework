@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ActivitiModuleConfig
+// summary: Configuration holder for the Activiti module that stores the date-time mapper and maps process instances and task repositories.
+// ---
+
 package io.crnk.data.activiti;
 
 import io.crnk.data.activiti.mapper.DateTimeMapper;

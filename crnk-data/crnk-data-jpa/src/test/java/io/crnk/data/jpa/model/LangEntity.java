@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: LangEntity test entity
+// summary: A JPA test entity with read-only columns that are neither insertable nor updatable.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Entity with overridden JSON API ID
+// summary: A JPA test entity that overrides the JSON API ID with a separate primary key field.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import io.crnk.core.resource.annotations.JsonApiId;

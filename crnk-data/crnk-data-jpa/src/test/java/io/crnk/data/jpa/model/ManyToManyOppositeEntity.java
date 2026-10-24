@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ManyToManyOppositeEntity test entity
+// summary: The opposite side of a many-to-many relationship used in JPA relation tests.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Entity;

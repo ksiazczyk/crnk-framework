@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JPA exception mapper tests
+// summary: Tests the JPA exception mappers that translate persistence exceptions into JSON:API error responses.
+// ---
+
 package io.crnk.data.jpa;
 
 import io.crnk.core.boot.CrnkBoot;

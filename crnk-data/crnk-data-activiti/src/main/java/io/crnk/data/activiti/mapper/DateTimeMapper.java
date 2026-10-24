@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DateTimeMapper
+// summary: Interface converting legacy java.util.Date values to the java.time OffsetDateTime API.
+// ---
+
 package io.crnk.data.activiti.mapper;
 
 import java.time.OffsetDateTime;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: WriteOnlyAttributeTestEntity JPA test model
+// summary: A JPA entity exposing a write-only attribute, used as a test model for the CRNK JPA module.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

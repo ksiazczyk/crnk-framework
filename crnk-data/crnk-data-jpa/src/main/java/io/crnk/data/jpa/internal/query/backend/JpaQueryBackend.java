@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaQueryBackend interface
+// summary: Java interface defining the abstraction contract for a JPA query backend that translates query specs into JPA criteria operations.
+// ---
+
 package io.crnk.data.jpa.internal.query.backend;
 
 import java.util.List;

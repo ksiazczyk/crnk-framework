@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MethodAnnotatedEntityTest
+// summary: Tests that JPA annotations on methods are supported for meta information and repository operations.
+// ---
+
 package io.crnk.data.jpa;
 
 import io.crnk.core.queryspec.QuerySpec;

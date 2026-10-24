@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Joined table inheritance query test base
+// summary: Abstract base class testing joined table inheritance queries.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import io.crnk.data.jpa.model.JoinedTableBaseEntity;

@@ -1,3 +1,12 @@
+// ---docerion
+// type: source
+// title: HistoricApproveTask model class
+// summary: Historic version of the approval task model used for querying completed tasks.
+// relations:
+//   - references /crnk-data/crnk-data-activiti/src/test/resources/approval.bpmn20.xml
+//   - references /crnk-data/crnk-data-activiti/src/test/java/io/crnk/data/activiti/example/model/ApproveTask.java
+// ---
+
 package io.crnk.data.activiti.repository;
 
 import io.crnk.data.activiti.example.ApprovalTestApplication;

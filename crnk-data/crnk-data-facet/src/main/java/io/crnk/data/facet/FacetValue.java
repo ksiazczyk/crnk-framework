@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FacetValue
+// summary: Embeddable facet value holding a label, value, filter spec and count, sortable by count.
+// ---
+
 package io.crnk.data.facet;
 
 import io.crnk.core.queryspec.FilterSpec;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerydslQuery interface
+// summary: Interface extending JpaQuery that returns a QuerydslExecutor from its buildExecutor method.
+// ---
+
 package io.crnk.data.jpa.integration;
 
 import io.crnk.core.resource.meta.JsonLinksInformation;

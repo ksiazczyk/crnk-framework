@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: EntityMetaProvider
+// summary: Accepts JPA Entity types and produces MetaEntity instances for the CRNK meta model.
+// ---
+
 package io.crnk.data.jpa.meta.internal;
 
 import io.crnk.core.engine.internal.utils.ClassUtils;

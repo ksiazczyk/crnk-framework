@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaMetaEnricher
+// summary: Enriches JPA data object meta with generated keys, LOB, version, nullability and cascade flags from the underlying JPA meta.
+// ---
+
 package io.crnk.data.jpa.meta.internal;
 
 import io.crnk.data.jpa.meta.JpaMetaProvider;

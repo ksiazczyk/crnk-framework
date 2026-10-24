@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerydslExpressionFactory interface
+// summary: Interface that produces a QueryDSL Expression from a parent and a JPAQuery for computed attribute handling.
+// ---
+
 package io.crnk.data.jpa.integration;
 
 import io.crnk.core.queryspec.FilterOperator;

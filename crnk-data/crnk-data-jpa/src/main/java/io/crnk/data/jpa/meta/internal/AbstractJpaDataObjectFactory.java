@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaEmbeddable
+// summary: Meta model element representing a JPA embeddable type, exposed as a JSON API resource of type meta/embeddable.
+// ---
+
 package io.crnk.data.jpa.meta.internal;
 
 import io.crnk.core.engine.information.bean.BeanAttributeInformation;

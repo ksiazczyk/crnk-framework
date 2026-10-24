@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ApprovalProcessInstance abstract approval resource
+// summary: Abstract resource representing an approval process instance with resource identifiers and values.
+// ---
+
 package io.crnk.data.activiti.example.approval;
 
 import io.crnk.data.activiti.resource.ProcessInstanceResource;

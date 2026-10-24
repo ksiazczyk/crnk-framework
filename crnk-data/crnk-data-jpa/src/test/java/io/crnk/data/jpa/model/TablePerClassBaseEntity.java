@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TablePerClassBaseEntity inheritance test entity
+// summary: Base entity configured for table-per-class inheritance strategy.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import io.crnk.core.resource.annotations.JsonApiId;

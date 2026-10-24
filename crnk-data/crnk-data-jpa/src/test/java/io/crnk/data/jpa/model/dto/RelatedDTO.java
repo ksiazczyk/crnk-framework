@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelatedDTO JSON:API resource
+// summary: A JSON:API resource DTO defining a related data model with an id and a string value, used as a fixture in the JPA test suite.
+// ---
+
 package io.crnk.data.jpa.model.dto;
 
 import io.crnk.core.resource.annotations.JsonApiId;

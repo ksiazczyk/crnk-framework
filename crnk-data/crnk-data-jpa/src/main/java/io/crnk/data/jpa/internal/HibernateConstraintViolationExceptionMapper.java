@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaModuleTest
+// summary: Test verifying that a JpaModule registers correctly and lists resources.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import io.crnk.core.engine.document.ErrorData;

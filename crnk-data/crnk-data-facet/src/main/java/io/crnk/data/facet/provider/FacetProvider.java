@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FacetProvider interface for computing facet values
+// summary: Defines the contract for providers that compute facet values from resources, including initialization and entry acceptance.
+// ---
+
 package io.crnk.data.facet.provider;
 
 import io.crnk.core.engine.registry.RegistryEntry;

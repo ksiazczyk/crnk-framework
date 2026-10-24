@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TaskHistoryResourceRepositoryTest
+// summary: JUnit test verifying historic task repository filtering, completed task visibility, and assignee matching for Activiti tasks.
+// ---
+
 package io.crnk.data.activiti.repository;
 
 import io.crnk.data.activiti.ActivitiModule;

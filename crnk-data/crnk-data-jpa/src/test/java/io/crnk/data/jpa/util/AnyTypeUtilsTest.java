@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AnyTypeUtilsTest for AnyUtils behavior
+// summary: JUnit test verifying that AnyUtils has a private constructor and that its setValue method stores string and integer values on a TestAnyType instance.
+// ---
+
 package io.crnk.data.jpa.util;
 
 import io.crnk.data.jpa.internal.query.AnyUtils;

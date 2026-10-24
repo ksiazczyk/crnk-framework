@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ManyToOneCrudTest
+// summary: CRUD test exercising persistence of many-to-one relationships.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import io.crnk.data.jpa.internal.query.ComputedAttributeRegistryImpl;

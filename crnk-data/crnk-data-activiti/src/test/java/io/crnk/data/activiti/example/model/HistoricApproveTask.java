@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JSON:API model class for approval task history
+// summary: Model class annotated as a JSON:API resource representing the history of an approval task.
+// ---
+
 package io.crnk.data.activiti.example.model;
 
 import io.crnk.data.activiti.resource.HistoricTaskResource;

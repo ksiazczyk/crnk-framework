@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Object array tuple implementation test
+// summary: Test covering the QueryDSL object array tuple implementation.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import com.querydsl.core.types.Expression;

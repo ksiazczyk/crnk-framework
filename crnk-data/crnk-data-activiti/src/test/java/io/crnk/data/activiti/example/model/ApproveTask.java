@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JSON:API model class for an approval task
+// summary: Model class annotated as a JSON:API resource representing an approval task with relations to a form and process instance.
+// ---
+
 package io.crnk.data.activiti.example.model;
 
 import io.crnk.data.activiti.resource.TaskResource;

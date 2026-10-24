@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MethodAnnotatedEntity JPA test entity
+// summary: A JPA entity that uses method-level annotations for its id generation and string attribute.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Entity;

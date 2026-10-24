@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ApprovalTestApplication test setup for the approval example
+// summary: Test application that wires up the CRNK and Activiti modules, deploys the approval BPMN process, and configures the approval module for the example tests.
+// ---
+
 package io.crnk.data.activiti.example;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

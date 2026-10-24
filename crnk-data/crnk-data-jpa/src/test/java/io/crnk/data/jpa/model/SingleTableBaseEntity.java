@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SingleTableBaseEntity inheritance test entity
+// summary: Base entity configured for single-table inheritance, exposing an id and string value.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import io.crnk.core.resource.annotations.JsonApiId;

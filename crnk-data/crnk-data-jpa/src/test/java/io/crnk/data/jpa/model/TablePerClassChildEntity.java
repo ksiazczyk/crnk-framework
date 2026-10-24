@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TablePerClassChildEntity inheritance test entity
+// summary: Child entity extending the table-per-class base entity with an integer attribute.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestMappedSupersuperclassWithGenerics
+// summary: Generic mapped superclass with generic fields and element collections for inheritance tests.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

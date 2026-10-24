@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerydslQueryFactory class
+// summary: Factory implementing JpaQueryFactory that builds QuerydslQuery instances and supports translation interceptors and computed attributes.
+// ---
+
 package io.crnk.data.jpa.query.querydsl;
 
 import io.crnk.data.jpa.internal.JpaQueryFactoryBase;

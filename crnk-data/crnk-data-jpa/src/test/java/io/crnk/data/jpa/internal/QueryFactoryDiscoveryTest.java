@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: QueryFactoryDiscoveryTest
+// summary: JUnit test checking that QueryFactoryDiscovery resolves QueryDSL and Criteria API factories and integrates with JpaModuleConfig.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import io.crnk.data.jpa.JpaModuleConfig;

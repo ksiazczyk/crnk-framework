@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FacetedProject
+// summary: JSON:API resource model for a faceted project carrying name and priority facet attributes.
+// ---
+
 package io.crnk.data.facet.setup;
 
 import io.crnk.core.resource.annotations.JsonApiId;

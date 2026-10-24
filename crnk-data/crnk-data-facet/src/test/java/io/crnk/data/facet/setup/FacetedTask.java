@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FacetedTask
+// summary: JSON:API resource model for a faceted task with a name facet.
+// ---
+
 package io.crnk.data.facet.setup;
 
 import io.crnk.core.resource.annotations.JsonApiId;

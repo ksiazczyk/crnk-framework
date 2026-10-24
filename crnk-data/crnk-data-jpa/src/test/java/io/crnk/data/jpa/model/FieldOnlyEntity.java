@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: FieldOnlyEntity test entity
+// summary: A JPA test entity exposing attributes through public fields annotated with JPA annotations.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

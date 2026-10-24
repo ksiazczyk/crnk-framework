@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JoinedTableBaseEntity test entity
+// summary: A base JPA entity using the JOINED inheritance strategy for testing entity inheritance.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import io.crnk.core.resource.annotations.JsonApiId;

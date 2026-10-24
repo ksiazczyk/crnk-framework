@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SingleTableChildEntity inheritance test entity
+// summary: Child entity extending the single-table base entity with an additional integer attribute.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

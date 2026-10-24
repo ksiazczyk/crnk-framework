@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaCriteriaQueryFactory
+// summary: Factory that creates JPA criteria query instances and registers computed attribute expression factories.
+// ---
+
 package io.crnk.data.jpa.query.criteria;
 
 import io.crnk.data.jpa.internal.JpaQueryFactoryBase;

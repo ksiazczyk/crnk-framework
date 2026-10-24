@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaClientModuleFactoryTest
+// summary: JUnit test that loads ClientModuleFactory services via ServiceLoader and asserts the JpaModule and MetaModule factories are discovered.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import io.crnk.client.module.ClientModuleFactory;

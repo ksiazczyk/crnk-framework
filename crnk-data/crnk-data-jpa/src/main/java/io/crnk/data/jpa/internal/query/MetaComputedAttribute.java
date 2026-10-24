@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaResourceFieldInformationProvider
+// summary: Derives resource field information such as sortability, filterability and type from JPA annotations on entity attributes.
+// ---
+
 package io.crnk.data.jpa.internal.query;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

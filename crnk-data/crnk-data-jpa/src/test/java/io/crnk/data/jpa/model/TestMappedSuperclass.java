@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestMappedSuperclass
+// summary: Mapped superclass providing a shared string value and a related entity for subclass testing.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FacetRepositoryImpl
+// summary: CRNK repository implementation that computes and returns facet resources by applying query filters, grouping and ordering to configured facet information.
+// ---
+
 package io.crnk.data.facet.internal;
 
 import io.crnk.core.engine.filter.FilterBehavior;

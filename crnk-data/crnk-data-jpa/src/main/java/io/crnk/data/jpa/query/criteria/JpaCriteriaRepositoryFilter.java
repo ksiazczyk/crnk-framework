@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaCriteriaRepositoryFilter interface
+// summary: Interface allowing hooks to modify the translation of a query spec into a criteria query.
+// ---
+
 package io.crnk.data.jpa.query.criteria;
 
 import io.crnk.core.queryspec.QuerySpec;

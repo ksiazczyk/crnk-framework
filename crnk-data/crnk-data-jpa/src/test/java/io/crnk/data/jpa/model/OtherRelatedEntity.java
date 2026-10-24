@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Many-to-one related test entity
+// summary: A JPA test entity holding a lazy many-to-one relationship to itself.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

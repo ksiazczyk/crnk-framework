@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaEntityAttribute meta attribute
+// summary: Meta attribute describing an attribute of a JPA entity type.
+// ---
+
 package io.crnk.data.jpa.meta;
 
 import io.crnk.core.resource.annotations.JsonApiResource;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaFacetProvider
+// summary: Implements the facet provider that computes grouped facet values for JPA entity repositories using JPA criteria queries.
+// ---
+
 package io.crnk.data.jpa.internal.facet;
 
 import java.util.Collections;

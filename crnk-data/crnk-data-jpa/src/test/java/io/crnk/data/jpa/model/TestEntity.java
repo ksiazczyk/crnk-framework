@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TestEntity comprehensive test entity
+// summary: Comprehensive test entity combining relations, collections, embeddables, and facets.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import io.crnk.core.resource.annotations.JsonApiRelationId;

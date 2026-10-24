@@ -1,3 +1,13 @@
+// ---docerion
+// type: source
+// title: JpaModule
+// summary: CRNK module that initializes the JPA integration and manages entity repositories.
+// relations:
+//   - references /crnk-data/crnk-data-jpa/src/main/java/io/crnk/data/jpa/JpaRepositoryConfig.java
+//   - references /crnk-data/crnk-data-jpa/src/main/java/io/crnk/data/jpa/JpaRepositoryFactory.java
+//   - references /crnk-data/crnk-data-jpa/src/main/java/io/crnk/data/jpa/JpaRepositoryFilter.java
+// ---
+
 package io.crnk.data.jpa;
 
 import io.crnk.core.engine.information.resource.ResourceInformationProvider;

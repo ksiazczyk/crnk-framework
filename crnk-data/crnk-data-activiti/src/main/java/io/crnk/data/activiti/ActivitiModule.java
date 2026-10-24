@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ActivitiModule
+// summary: Module that wires up the Activiti process engine services and registers resource repositories for tasks, forms, and process instances.
+// ---
+
 package io.crnk.data.activiti;
 
 import io.crnk.data.activiti.internal.repository.FormRelationshipRepository;

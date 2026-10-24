@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaRepositoryFilter
+// summary: Interface registered with the module to customize queries, executors and results.
+// ---
+
 package io.crnk.data.jpa;
 
 import io.crnk.core.queryspec.QuerySpec;

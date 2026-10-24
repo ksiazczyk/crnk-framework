@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: CollectionAttributesTestEntity
+// summary: JPA entity using element collections of long and string lists to test collection attribute mapping.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.ElementCollection;

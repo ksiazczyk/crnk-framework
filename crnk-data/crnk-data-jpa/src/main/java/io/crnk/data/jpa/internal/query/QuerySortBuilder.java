@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerySortBuilder
+// summary: Builds JPA query sort orders from sort specs, ensuring a total order and handling any-type and embeddable attribute values.
+// ---
+
 package io.crnk.data.jpa.internal.query;
 
 import java.util.ArrayList;

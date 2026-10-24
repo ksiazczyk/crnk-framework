@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: StandaloneQueryFactoryTest
+// summary: JUnit test that exercises the JpaCriteriaQueryFactory to build and execute a query with a filter, descending sort, and relation inclusion.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import java.util.List;

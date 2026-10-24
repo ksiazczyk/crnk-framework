@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectPolymorphicRepository
+// summary: A mock in-memory repository for the ProjectPolymorphic resource, used to exercise polymorphic resource handling in tests.
+// ---
+
 package io.crnk.data.activiti.internal.repository;
 
 

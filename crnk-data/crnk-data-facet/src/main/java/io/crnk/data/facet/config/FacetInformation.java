@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FacetInformation
+// summary: FacetInformation is the base class holding a facet name and its owning resource.
+// ---
+
 package io.crnk.data.facet.config;
 
 import io.crnk.core.engine.internal.utils.PreconditionUtil;

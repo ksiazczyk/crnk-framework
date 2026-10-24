@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JPA entity repository test base class
+// summary: Abstract base class providing tests for JPA entity repository operations such as find, filter and sort.
+// ---
+
 package io.crnk.data.jpa;
 
 import java.io.Serializable;

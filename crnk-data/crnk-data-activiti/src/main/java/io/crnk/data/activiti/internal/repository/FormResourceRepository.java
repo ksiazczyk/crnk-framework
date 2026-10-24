@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectToProjectEagerRepository
+// summary: A mock relationship repository implementing eager one-to-one relationships between Project resources.
+// ---
+
 package io.crnk.data.activiti.internal.repository;
 
 

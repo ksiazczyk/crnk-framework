@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ProcessInstanceResource JSON:API model
+// summary: Extends ExecutionResource with business key, process definition key, and start time for process instance resources.
+// ---
+
 package io.crnk.data.activiti.resource;
 
 import java.time.OffsetDateTime;

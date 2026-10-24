@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Computed attribute query test base
+// summary: Abstract base class testing computed and virtual attribute queries.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import io.crnk.core.queryspec.Direction;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaModule
+// summary: CRNK module that registers JPA repositories, providers, and configuration.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import io.crnk.data.jpa.JpaRepositoryConfig;

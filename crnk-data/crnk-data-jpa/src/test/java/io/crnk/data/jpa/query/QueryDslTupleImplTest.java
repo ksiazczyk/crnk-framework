@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: QueryDSL tuple implementation test
+// summary: Test covering the QueryDSL tuple implementation with Mockito mocks.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import com.querydsl.core.Tuple;

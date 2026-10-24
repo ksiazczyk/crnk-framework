@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AnnotationMappedSuperclassEntity
+// summary: JPA mapped superclass with id, lob and annotated column fields, used as a test fixture for annotation handling.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import io.crnk.core.resource.annotations.JsonApiField;

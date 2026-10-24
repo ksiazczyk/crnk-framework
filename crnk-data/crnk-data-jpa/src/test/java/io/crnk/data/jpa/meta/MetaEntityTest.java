@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaEntityTest
+// summary: JUnit test covering primary keys, generated keys and generics handling on mapped superclasses and subclasses.
+// ---
+
 package io.crnk.data.jpa.meta;
 
 import io.crnk.data.jpa.model.SequenceEntity;

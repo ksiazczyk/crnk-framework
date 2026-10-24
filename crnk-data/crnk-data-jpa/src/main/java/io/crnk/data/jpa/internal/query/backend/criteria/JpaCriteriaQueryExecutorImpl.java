@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaCriteriaQueryExecutorImpl query executor
+// summary: Executes JPA criteria queries, computing total row counts and converting results into tuples.
+// ---
+
 package io.crnk.data.jpa.internal.query.backend.criteria;
 
 import io.crnk.data.jpa.internal.query.AbstractQueryExecutorImpl;

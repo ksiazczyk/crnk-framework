@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: EmbeddableMetaFactory
+// summary: Creates the meta model for a JPA Embeddable type, wiring up its attributes and super type relationships.
+// ---
+
 package io.crnk.data.jpa.meta.internal;
 
 import io.crnk.core.engine.information.bean.BeanAttributeInformation;

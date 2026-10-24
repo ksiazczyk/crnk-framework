@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerydslRepositoryFilterBase class
+// summary: Base implementation of QuerydslRepositoryFilter with an empty filterQueryTranslation hook.
+// ---
+
 package io.crnk.data.jpa.integration;
 
 import io.crnk.core.exception.ResourceNotFoundException;

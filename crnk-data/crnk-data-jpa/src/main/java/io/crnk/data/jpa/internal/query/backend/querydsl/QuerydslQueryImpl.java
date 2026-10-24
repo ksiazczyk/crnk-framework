@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerydslQueryImpl querydsl query implementation
+// summary: Creates Querydsl query instances and wires up translation interceptors and backends.
+// ---
+
 package io.crnk.data.jpa.internal.query.backend.querydsl;
 
 import com.querydsl.jpa.impl.JPAQueryFactory;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TestEmbeddableBase embeddable superclass
+// summary: Embeddable and mapped superclass providing a shared integer attribute.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.Column;

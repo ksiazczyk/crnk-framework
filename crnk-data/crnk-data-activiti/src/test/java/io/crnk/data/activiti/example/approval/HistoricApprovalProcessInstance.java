@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HistoricApprovalProcessInstance abstract historic resource
+// summary: Abstract resource representing a historic approval process instance with resource identifiers and values.
+// ---
+
 package io.crnk.data.activiti.example.approval;
 
 import io.crnk.data.activiti.resource.HistoricProcessInstanceResource;

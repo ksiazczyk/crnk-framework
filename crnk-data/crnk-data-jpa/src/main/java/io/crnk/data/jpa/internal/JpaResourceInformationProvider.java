@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaRequestContext
+// summary: Holds the repository and query spec associated with a request.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import java.util.Arrays;

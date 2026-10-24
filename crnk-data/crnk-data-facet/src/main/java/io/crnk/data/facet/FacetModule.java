@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: FacetModule
+// summary: Main module class that sets up the facet repository, collects resource information, and initializes facet providers during module setup.
+// ---
+
 package io.crnk.data.facet;
 
 import java.lang.reflect.Field;

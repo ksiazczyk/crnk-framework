@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaRepositoryBase
+// summary: Base class for resource repositories backed by a JPA entity.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import io.crnk.core.engine.internal.utils.PreconditionUtil;

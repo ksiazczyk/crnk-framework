@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaEmbeddableTest
+// summary: JUnit test verifying discovery of embeddable meta elements and their base classes through the JPA meta provider.
+// ---
+
 package io.crnk.data.jpa.meta;
 
 import io.crnk.data.jpa.model.TestEmbeddableBase;

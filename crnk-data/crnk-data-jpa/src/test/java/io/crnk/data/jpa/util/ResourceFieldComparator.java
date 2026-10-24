@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ResourceFieldComparator for test ordering
+// summary: Comparator that orders ResourceField instances by their JSON name for use in test assertions.
+// ---
+
 package io.crnk.data.jpa.util;
 
 import io.crnk.core.engine.information.resource.ResourceField;

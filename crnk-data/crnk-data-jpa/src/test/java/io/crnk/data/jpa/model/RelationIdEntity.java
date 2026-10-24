@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Entity using JSON API relation ID
+// summary: A JPA test entity exposing a relation ID via JsonApiRelationId alongside a many-to-one link.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.CascadeType;

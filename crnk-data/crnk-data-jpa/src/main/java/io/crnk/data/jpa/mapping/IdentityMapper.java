@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: IdentityMapper
+// summary: Identity mapper that maps a JPA tuple to a DTO and back without any transformation.
+// ---
+
 package io.crnk.data.jpa.mapping;
 
 import io.crnk.data.jpa.query.Tuple;

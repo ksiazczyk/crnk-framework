@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OptimisticLockExceptionMapper
+// summary: Maps a JPA OptimisticLockException to a 409 conflict error response and reconstructs the exception from such a response.
+// ---
+
 package io.crnk.data.jpa.internal;
 
 import io.crnk.core.engine.document.ErrorData;

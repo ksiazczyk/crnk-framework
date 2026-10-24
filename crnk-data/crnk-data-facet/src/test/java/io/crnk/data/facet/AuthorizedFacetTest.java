@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: AuthorizedFacetTest
+// summary: JUnit test verifying that a resource filter can authorize or forbid facet results based on the configured FilterBehavior.
+// ---
+
 package io.crnk.data.facet;
 
 import io.crnk.core.engine.filter.FilterBehavior;

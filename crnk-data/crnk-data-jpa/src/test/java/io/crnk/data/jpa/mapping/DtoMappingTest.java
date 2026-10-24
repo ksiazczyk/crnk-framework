@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: DTO mapping test
+// summary: A JUnit test showing how to configure DTO mapping and computed attributes for the JPA repository module.
+// ---
+
 package io.crnk.data.jpa.mapping;
 
 import com.querydsl.jpa.JPAExpressions;

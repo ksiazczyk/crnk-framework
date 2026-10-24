@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerydslObjectArrayTupleImpl querydsl tuple
+// summary: Wraps an object array result as a QuerydslTuple for the querydsl query backend.
+// ---
+
 package io.crnk.data.jpa.internal.query.backend.querydsl;
 
 import com.querydsl.core.types.Expression;

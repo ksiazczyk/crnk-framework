@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: MetaMappedSuperWithGenericsTypeTest
+// summary: JUnit test verifying discovery of mapped superclasses that use generics.
+// ---
+
 package io.crnk.data.jpa.meta;
 
 import io.crnk.data.jpa.model.TestMappedSuperclassWithGenerics;

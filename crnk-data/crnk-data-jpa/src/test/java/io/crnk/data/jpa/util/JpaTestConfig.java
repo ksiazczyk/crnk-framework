@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: JpaTestConfig Spring test configuration
+// summary: Spring configuration providing an in-memory H2 data source, entity manager factory, and transaction manager for JPA tests.
+// ---
+
 package io.crnk.data.jpa.util;
 
 import io.crnk.data.jpa.model.TestEntity;

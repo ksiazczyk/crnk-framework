@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Query utility test
+// summary: Test verifying that the QueryUtil constructor is private.
+// ---
+
 package io.crnk.data.jpa.query;
 
 import io.crnk.core.engine.internal.utils.PreconditionUtil;

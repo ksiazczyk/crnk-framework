@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ProcessInstanceResourceRepository
+// summary: A repository managing Activiti runtime process instances, supporting creation, querying and updating via runtime and history services.
+// ---
+
 package io.crnk.data.activiti.internal.repository;
 
 

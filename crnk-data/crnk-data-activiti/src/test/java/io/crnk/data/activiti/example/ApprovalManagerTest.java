@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ApprovalManagerTest unit test for approval manager
+// summary: Unit test that verifies ApprovalManager decides when approval is needed and starts the Activiti process with the expected variables using Mockito mocks.
+// ---
+
 package io.crnk.data.activiti.example;
 
 import java.util.HashMap;

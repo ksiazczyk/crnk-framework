@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CriteriaTupleImpl criteria query tuple
+// summary: Implements the Tuple interface for the JPA criteria query backend, exposing selected columns by alias or index.
+// ---
+
 package io.crnk.data.jpa.internal.query.backend.querydsl;
 
 import io.crnk.data.jpa.query.criteria.JpaCriteriaTuple;

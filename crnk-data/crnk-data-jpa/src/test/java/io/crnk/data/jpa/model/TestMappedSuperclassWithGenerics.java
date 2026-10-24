@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TestMappedSuperclassWithGenerics
+// summary: Generic mapped superclass extending another generic superclass to exercise generic handling.
+// ---
+
 package io.crnk.data.jpa.model;
 
 import javax.persistence.ElementCollection;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ProjectRepository
+// summary: A mock repository for Project entities that stores data in thread-local storage and defines special IDs to simulate create edge cases.
+// ---
+
 package io.crnk.data.activiti.internal.repository;
 
 

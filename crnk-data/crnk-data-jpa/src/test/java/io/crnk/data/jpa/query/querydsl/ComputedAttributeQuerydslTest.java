@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ComputedAttributeQuerydslTest registers a computed attribute
+// summary: Test that registers a computed attribute expression on TestEntity and runs it through the Querydsl query factory.
+// ---
+
 package io.crnk.data.jpa.query.querydsl;
 
 import com.querydsl.core.types.Expression;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SpringTransactionRunner test helper
+// summary: Test TransactionRunner implementation that delegates transaction execution to a Spring PlatformTransactionManager.
+// ---
+
 package io.crnk.data.jpa.util;
 
 import io.crnk.core.engine.transaction.TransactionRunner;

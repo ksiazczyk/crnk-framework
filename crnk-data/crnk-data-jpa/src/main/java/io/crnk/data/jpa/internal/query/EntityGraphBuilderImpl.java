@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaRepositoryUtils
+// summary: Utility methods for JPA repositories covering primary keys, query preparation, filtering and configuration defaults.
+// ---
+
 package io.crnk.data.jpa.internal.query;
 
 import java.util.Set;

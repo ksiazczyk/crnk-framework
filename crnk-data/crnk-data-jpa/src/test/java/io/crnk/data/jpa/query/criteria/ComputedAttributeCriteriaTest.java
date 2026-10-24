@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: ComputedAttributeCriteriaTest for computed attribute queries
+// summary: Tests computed attribute support by registering a virtual upper-cased string attribute on TestEntity.
+// ---
+
 package io.crnk.data.jpa.query.criteria;
 
 import io.crnk.data.jpa.model.TestEntity;

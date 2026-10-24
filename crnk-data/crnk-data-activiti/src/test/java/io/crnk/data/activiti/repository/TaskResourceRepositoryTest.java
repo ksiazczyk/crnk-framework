@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: TaskResourceRepositoryTest
+// summary: JUnit test for the task repository resource mapping, filtering and update behavior.
+// ---
+
 package io.crnk.data.activiti.repository;
 
 import com.google.common.collect.Sets;

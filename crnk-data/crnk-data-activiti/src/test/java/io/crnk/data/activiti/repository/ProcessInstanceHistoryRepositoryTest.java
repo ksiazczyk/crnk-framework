@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HistoricScheduleApprovalProcessInstance model class
+// summary: Historic process instance model tracking new and previous schedule approval values.
+// ---
+
 package io.crnk.data.activiti.repository;
 
 import io.crnk.data.activiti.ActivitiModule;

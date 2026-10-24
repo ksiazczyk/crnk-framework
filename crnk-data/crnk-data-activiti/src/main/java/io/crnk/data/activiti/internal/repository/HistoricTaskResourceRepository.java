@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HistoricTaskResourceRepository
+// summary: A repository exposing historic task instances from Activiti's history service in a read-only manner.
+// ---
+
 package io.crnk.data.activiti.internal.repository;
 
 

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaModule configuration test
+// summary: Checks JpaModule configuration rules such as duplicate registration and invalid entity configuration.
+// ---
+
 package io.crnk.data.jpa;
 
 import io.crnk.core.boot.CrnkBoot;

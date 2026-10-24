@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerydslTranslationContext interface
+// summary: Interface holding the state of a QueryDSL translation, exposing the query factory, paths, joins, predicates and selections.
+// ---
+
 package io.crnk.data.jpa.integration;
 
 import java.io.Serializable;

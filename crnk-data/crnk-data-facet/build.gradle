@@ -1,3 +1,9 @@
+// ---docerion
+// type: config
+// title: build.gradle
+// summary: Gradle build configuration for the crnk-data-facet module, applying the Java plugin and declaring dependencies on crnk-core, crnk-client and crnk-test.
+// ---
+
 apply plugin: 'java'
 
 dependencies {

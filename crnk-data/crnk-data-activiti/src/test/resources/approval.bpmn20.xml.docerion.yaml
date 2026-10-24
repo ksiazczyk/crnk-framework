@@ -1,0 +1,4 @@
+# Docerion header of approval.bpmn20.xml.
+type: data
+title: Approval BPMN process definition
+summary: BPMN 2.0 process definition describing an approval workflow and a direct termination flow used as test data.

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: JpaPartialEntityExposureTest
+// summary: Tests partial entity exposure by removing a related repository and verifying CRUD and resource field behavior.
+// ---
+
 package io.crnk.data.jpa;
 
 import io.crnk.core.engine.information.resource.ResourceField;

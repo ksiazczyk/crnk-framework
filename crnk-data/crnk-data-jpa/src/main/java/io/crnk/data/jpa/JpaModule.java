@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaModule
+// summary: Crnk module that adds support to expose JPA entities as repositories with sorting, filtering, paging and DTO mapping.
+// ---
+
 package io.crnk.data.jpa;
 
 import io.crnk.core.engine.dispatcher.Response;

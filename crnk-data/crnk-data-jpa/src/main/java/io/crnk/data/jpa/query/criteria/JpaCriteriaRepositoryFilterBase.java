@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JpaCriteriaRepositoryFilterBase
+// summary: Base implementation of the criteria repository filter with no-op filtering behavior.
+// ---
+
 package io.crnk.data.jpa.query.criteria;
 
 import io.crnk.core.queryspec.QuerySpec;

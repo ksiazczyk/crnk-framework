@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: HistoricProcessInstanceResource JSON:API model
+// summary: Defines a JSON:API resource model for completed Activiti process instances with timing and business key details.
+// ---
+
 package io.crnk.data.activiti.resource;
 
 import java.time.OffsetDateTime;
