@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiVersion
+// summary: Java annotation that defines the version range a type or field applies to, returning only resources matching the request version.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 import java.lang.annotation.Documented;

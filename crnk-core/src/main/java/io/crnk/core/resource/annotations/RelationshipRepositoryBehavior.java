@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelationshipRepositoryBehavior enum
+// summary: A Java enum providing strategies for handling relationships, including custom, forwarding owner, and forwarding opposite implementations.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 import io.crnk.core.repository.ResourceRepository;

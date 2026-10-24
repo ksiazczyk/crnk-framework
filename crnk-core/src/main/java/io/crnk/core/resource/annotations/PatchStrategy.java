@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PatchStrategy enum
+// summary: A Java enum defining patch strategies that decide whether content is merged or overridden during updates.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 public enum PatchStrategy {

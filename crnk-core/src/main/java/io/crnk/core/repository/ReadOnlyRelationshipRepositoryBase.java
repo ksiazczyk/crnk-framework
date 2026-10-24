@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: QuerySpecVisitor
+// summary: Interface that allows traversing a QuerySpec and its nested filtering, sorting, field, relation and paging structures.
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.exception.MethodNotAllowedException;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceListBase helper class
+// summary: Abstract base class for custom ResourceList implementations that adds typed meta and links parameters.
+// ---
+
 package io.crnk.core.resource.list;
 
 import io.crnk.core.resource.links.LinksInformation;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelationshipRepository
+// summary: Deprecated unified interface for managing To-One and To-Many relationships between resources.
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.engine.information.resource.ResourceField;

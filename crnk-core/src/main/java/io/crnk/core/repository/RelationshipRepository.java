@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelationshipRepositoryBase
+// summary: Deprecated base class implementing all relationship repository methods using QuerySpec and ResourceList.
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ForwardingSetStrategy
+// summary: Interface declaring set, add and remove relation operations for forwarding strategies in the CRNK repository layer.
+// ---
+
 package io.crnk.core.repository.foward.strategy;
 
 import io.crnk.core.engine.query.QueryContext;

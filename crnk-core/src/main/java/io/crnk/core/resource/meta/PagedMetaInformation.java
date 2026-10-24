@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: PagedMetaInformation interface
+// summary: Interface providing the total resource count so Crnk can compute pagination links, with a note on the cheaper HasMoreResources alternative.
+// ---
+
 package io.crnk.core.resource.meta;
 
 import io.crnk.core.resource.list.ResourceList;

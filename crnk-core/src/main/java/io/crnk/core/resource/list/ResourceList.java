@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ResourceList interface
+// summary: Interface holding links and meta information next to a resource list, returned by repository findAll and findRelations operations.
+// ---
+
 package io.crnk.core.resource.list;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonMetaInformation backed by JsonNode
+// summary: Generic MetaInformation backed by a JsonNode that can be cast into a concrete meta information type via a dynamic proxy.
+// ---
+
 package io.crnk.core.resource.meta;
 
 import com.fasterxml.jackson.databind.JsonNode;

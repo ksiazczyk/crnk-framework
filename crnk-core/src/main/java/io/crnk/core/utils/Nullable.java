@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Nullable value wrapper
+// summary: A generic class wrapping a value that may be null, providing presence checks, value retrieval, and equals/hashCode semantics.
+// ---
+
 package io.crnk.core.utils;
 
 

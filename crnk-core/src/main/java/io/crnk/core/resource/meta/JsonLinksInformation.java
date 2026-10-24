@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonLinksInformation backed by JsonNode
+// summary: Generic LinksInformation backed by a JsonNode that can be cast into a concrete links information type.
+// ---
+
 package io.crnk.core.resource.meta;
 
 import java.io.IOException;

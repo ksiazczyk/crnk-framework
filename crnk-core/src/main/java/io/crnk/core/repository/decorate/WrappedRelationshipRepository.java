@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WrappedRelationshipRepository decorator
+// summary: Deprecated decorator wrapping a RelationshipRepository, superseded by the one and many relationship wrappers.
+// ---
+
 package io.crnk.core.repository.decorate;
 
 import io.crnk.core.queryspec.QuerySpec;

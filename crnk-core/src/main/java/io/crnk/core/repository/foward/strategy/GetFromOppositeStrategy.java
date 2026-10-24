@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: GetFromOppositeStrategy
+// summary: Strategy that fetches related resources by querying the opposite resource repository with a filter on the opposite relationship.
+// ---
+
 package io.crnk.core.repository.foward.strategy;
 
 import io.crnk.core.engine.information.resource.ResourceField;

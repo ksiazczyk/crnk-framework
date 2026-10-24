@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Priority interface for registered objects
+// summary: An interface defining priority for registered objects like filters and request processors, with a static method that sorts them by priority.
+// ---
+
 package io.crnk.core.utils;
 
 import java.util.ArrayList;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UntypedRelationshipRepository
+// summary: Deprecated interface replaced by RelationshipRepository.getMatcher() for relationship matching.
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.engine.internal.utils.PreconditionUtil;

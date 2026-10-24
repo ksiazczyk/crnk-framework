@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WrappedResourceRepository decorator
+// summary: Wraps another resource repository so the wrapper remains a repository and is treated as such by the framework.
+// ---
+
 package io.crnk.core.repository.decorate;
 
 import io.crnk.core.queryspec.QuerySpec;

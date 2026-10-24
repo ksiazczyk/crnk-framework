@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Default implementation of PagedMetaInformation
+// summary: Default implementation of PagedMetaInformation that stores the total resource count for pagination link computation.
+// ---
+
 package io.crnk.core.resource.meta;
 
 import com.fasterxml.jackson.annotation.JsonInclude;

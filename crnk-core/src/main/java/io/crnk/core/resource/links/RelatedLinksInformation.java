@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: RelatedLinksInformation interface
+// summary: Interface for links information exposing a related link, with a convenience string setter.
+// ---
+
 package io.crnk.core.resource.links;
 
 public interface RelatedLinksInformation extends LinksInformation {

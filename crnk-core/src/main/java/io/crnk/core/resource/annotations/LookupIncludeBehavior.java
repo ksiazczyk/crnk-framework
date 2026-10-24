@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: LookupIncludeBehavior enum
+// summary: A Java enum defining the relationship inclusion lookup strategy, from default fallback to always fetching from relationship repositories.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 /**

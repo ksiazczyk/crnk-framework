@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiRelationId
+// summary: Java annotation that marks a field holding a single or collection of ids of a relationship for efficient serialization and updates.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 import java.lang.annotation.Documented;

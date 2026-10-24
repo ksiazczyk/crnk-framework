@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: UntypedRelationshipRepository
+// summary: Deprecated interface for untyped relationship repositories that exposes source and target resource types.
+// ---
+
 package io.crnk.core.repository;
 
 /**

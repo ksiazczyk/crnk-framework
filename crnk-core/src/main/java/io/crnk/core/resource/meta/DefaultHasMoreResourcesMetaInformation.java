@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Default implementation of HasMoreResourcesMetaInformation
+// summary: Default implementation of HasMoreResourcesMetaInformation that tracks whether another page exists without serializing the flag to the client.
+// ---
+
 package io.crnk.core.resource.meta;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;

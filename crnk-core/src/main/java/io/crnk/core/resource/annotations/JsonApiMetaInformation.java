@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiMetaInformation
+// summary: Java annotation that marks a field to provide meta information about a resource in the JSON API document.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 import java.lang.annotation.Documented;

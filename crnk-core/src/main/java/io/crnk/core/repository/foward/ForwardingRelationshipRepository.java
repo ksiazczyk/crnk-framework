@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ForwardingRelationshipRepository
+// summary: Implements a RelationshipRepository that delegates to one or both adjacent resource repositories using get and set strategies.
+// ---
+
 package io.crnk.core.repository.foward;
 
 import java.util.Collection;

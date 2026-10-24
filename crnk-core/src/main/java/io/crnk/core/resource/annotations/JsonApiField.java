@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiField
+// summary: Java annotation that configures the supported features of a field, such as sorting, filtering, and read, write, or delete operations.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 import java.lang.annotation.Documented;

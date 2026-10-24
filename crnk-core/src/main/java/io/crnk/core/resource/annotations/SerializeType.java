@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SerializeType enum
+// summary: A Java enum defining serialization strategies for relationship fields, controlling whether ids and inclusions are serialized.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 /**

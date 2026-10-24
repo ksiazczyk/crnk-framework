@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JsonApiLinksInformation annotation
+// summary: Java annotation that designates a field or method to provide links information about a resource in JSON:API format.
+// ---
+
 package io.crnk.core.resource.annotations;
 
 import java.lang.annotation.Documented;

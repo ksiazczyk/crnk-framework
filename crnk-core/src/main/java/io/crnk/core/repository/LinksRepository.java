@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: LinksRepository interface
+// summary: Optional interface providing links information about returned resources.
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

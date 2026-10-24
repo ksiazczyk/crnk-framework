@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: MetaRepository interface
+// summary: Optional interface providing meta information about returned resources.
+// ---
+
 package io.crnk.core.repository;
 
 import io.crnk.core.queryspec.QuerySpec;

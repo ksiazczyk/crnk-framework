@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: GetFromOwnerStrategy
+// summary: Forwarding strategy that looks up related resources by querying the owner resource repository and applying the field accessor.
+// ---
+
 package io.crnk.core.repository.foward.strategy;
 
 import java.util.Collection;

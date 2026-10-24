@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SetOwnerStrategy
+// summary: Forwarding strategy that sets owner relations by updating the source resource through its repository adapter.
+// ---
+
 package io.crnk.core.repository.foward.strategy;
 
 import io.crnk.core.engine.information.resource.ResourceField;

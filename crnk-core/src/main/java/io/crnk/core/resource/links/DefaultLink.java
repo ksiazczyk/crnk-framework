@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: DefaultLink link implementation
+// summary: Default implementation of the Link interface, holding href, rel, anchor, params, describedby and meta fields for a single link.
+// ---
+
 package io.crnk.core.resource.links;
 
 import com.fasterxml.jackson.annotation.JsonInclude;

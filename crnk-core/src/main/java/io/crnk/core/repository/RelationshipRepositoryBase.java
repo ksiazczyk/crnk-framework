@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Repository
+// summary: Marker interface that all repositories extend.
+// ---
+
 package io.crnk.core.repository;
 
 import java.util.ArrayList;

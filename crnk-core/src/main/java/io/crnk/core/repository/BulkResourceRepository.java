@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: BulkResourceRepository interface
+// summary: Java interface extending ResourceRepository to modify multiple resources simultaneously, supporting bulk save, create and delete operations for performance with bulk imports.
+// ---
+
 package io.crnk.core.repository;
 
 import java.util.Arrays;

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ForwardingStrategyContext
+// summary: Context holding the resource registry and source type information used by forwarding strategies to build and run queries.
+// ---
+
 package io.crnk.core.repository.foward.strategy;
 
 import io.crnk.core.engine.information.resource.ResourceField;
